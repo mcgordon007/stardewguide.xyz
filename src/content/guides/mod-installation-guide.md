@@ -45,9 +45,9 @@ SMAPI (Stardew Modding API) is the mod loader for Stardew Valley. It is required
 ### Stardew Valley Expanded (SVE)
 
 The largest content mod for Stardew Valley:
-- 26+ new NPCs with unique stories
+- 28+ new NPCs with unique stories
 - 58 new locations to explore
-- 230+ new events and cutscenes
+- 278+ new events and cutscenes
 - Created by FlashShifter
 
 ### UI Info Suite 2
