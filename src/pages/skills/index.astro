@@ -1,0 +1,234 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const skillGuides = (await getCollection('guides')).filter(g => g.data.category === 'skills');
+---
+
+<BaseLayout title="Skills Guide" description="Complete skills guide for Stardew Valley - Farming, Fishing, Mining, Foraging, and Combat skills with profession choices.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Skills</span>
+    </div>
+
+    <div class="hub-header">
+      <h1>Skills Guide</h1>
+      <p class="hub-desc">
+        Stardew Valley features five main skills: Farming, Fishing, Mining, Foraging, and Combat.
+        Each skill has 10 levels, with profession choices at levels 5 and 10 that shape your
+        playstyle. Reaching maximum level in all five skills unlocks the Mastery system,
+        granting powerful bonuses.
+      </p>
+    </div>
+
+    <!-- Five Skills Overview -->
+    <section class="section">
+      <h2 class="section-title">The Five Skills</h2>
+      <div class="skills-grid">
+        <div class="card skill-card" style="border-left: 4px solid #53d8a8;">
+          <span class="skill-icon">🌾</span>
+          <h3>Farming</h3>
+          <p>Level up by harvesting crops, petting animals, and producing artisan goods. Professions focus on crop quality, animal products, or artisan profitability.</p>
+          <div class="skill-levels">
+            <strong>Level 5:</strong> Rancher or Tiller<br/>
+            <strong>Level 10:</strong> Coopmaster / Shepherd or Artisan / Agriculturist
+          </div>
+        </div>
+
+        <div class="card skill-card" style="border-left: 4px solid #6ec6ff;">
+          <span class="skill-icon">🎣</span>
+          <h3>Fishing</h3>
+          <p>Level up by catching fish. Professions focus on fish value, bait efficiency, crab pot production, or reduced difficulty.</p>
+          <div class="skill-levels">
+            <strong>Level 5:</strong> Fisher or Trapper<br/>
+            <strong>Level 10:</strong> Angler / Pirate or Luremaster / Mariner
+          </div>
+        </div>
+
+        <div class="card skill-card" style="border-left: 4px solid #f5c542;">
+          <span class="skill-icon">⛏️</span>
+          <h3>Mining</h3>
+          <p>Level up by breaking rocks. Professions focus on ore yields, geode finds, or sell prices.</p>
+          <div class="skill-levels">
+            <strong>Level 5:</strong> Miner or Geologist<br/>
+            <strong>Level 10:</strong> Blacksmith / Prospector or Excavator / Gemologist
+          </div>
+        </div>
+
+        <div class="card skill-card" style="border-left: 4px solid #e94560;">
+          <span class="skill-icon">🍄</span>
+          <h3>Foraging</h3>
+          <p>Level up by picking forageables and chopping trees. Professions focus on forage quality, tree tapping, or gathering speed.</p>
+          <div class="skill-levels">
+            <strong>Level 5:</strong> Forester or Gatherer<br/>
+            <strong>Level 10:</strong> Tapper / Lumberjack or Botanist / Tracker
+          </div>
+        </div>
+
+        <div class="card skill-card" style="border-left: 4px solid #a855f7;">
+          <span class="skill-icon">⚔️</span>
+          <h3>Combat</h3>
+          <p>Level up by defeating monsters. Professions focus on critical hits, defense, or HP recovery.</p>
+          <div class="skill-levels">
+            <strong>Level 5:</strong> Fighter or Scout<br/>
+            <strong>Level 10:</strong> Brute / Defender or Acrobat / Desperado
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skill Level Table -->
+    <section class="section">
+      <h2 class="section-title">Skill Level Progression</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Level</th>
+            <th>XP Required</th>
+            <th>Total XP</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td>100</td><td>100</td><td>Starting level (new skills begin at 0)</td></tr>
+          <tr><td>2</td><td>150</td><td>250</td><td>Basic recipe/craft unlock</td></tr>
+          <tr><td>3</td><td>250</td><td>500</td><td>Recipe/craft unlock</td></tr>
+          <tr><td>4</td><td>400</td><td>900</td><td>Recipe/craft unlock</td></tr>
+          <tr><td>5</td><td>600</td><td>1,500</td><td>First profession choice</td></tr>
+          <tr><td>6</td><td>800</td><td>2,300</td><td>Recipe/craft unlock</td></tr>
+          <tr><td>7</td><td>1,000</td><td>3,300</td><td>Recipe/craft unlock</td></tr>
+          <tr><td>8</td><td>1,200</td><td>4,500</td><td>Recipe/craft unlock</td></tr>
+          <tr><td>9</td><td>1,500</td><td>6,000</td><td>Recipe/craft unlock</td></tr>
+          <tr><td>10</td><td>2,000</td><td>8,000</td><td>Second profession choice</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Mastery System -->
+    <section class="section">
+      <h2 class="section-title">Mastery System</h2>
+      <div class="card mastery-card">
+        <p>
+          Once you reach level 10 in all five skills, the Mastery system unlocks. You earn
+          Mastery points by completing activities related to each skill. Accumulating points
+          unlocks five Mastery tokens that can be spent on powerful bonuses:
+        </p>
+        <ul class="mastery-list">
+          <li><strong>Farming Mastery:</strong> Chance to auto-harvest crops</li>
+          <li><strong>Fishing Mastery:</strong> Fish always have iridium quality</li>
+          <li><strong>Mining Mastery:</strong> Double ore from rocks</li>
+          <li><strong>Foraging Mastery:</strong> Double forage from trees</li>
+          <li><strong>Combat Mastery:</strong> +25 HP per kill</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Skill Guides -->
+    <section class="section">
+      <h2 class="section-title">Skill Guides</h2>
+      <div class="grid-3">
+        {skillGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .hub-header h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .skill-card {
+    padding: 1.5rem;
+  }
+
+  .skill-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .skill-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .skill-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.8rem;
+  }
+
+  .skill-levels {
+    font-size: 0.85rem;
+    color: var(--color-secondary);
+    line-height: 1.6;
+  }
+
+  .mastery-card {
+    max-width: 800px;
+  }
+
+  .mastery-card p {
+    margin-bottom: 1rem;
+    color: var(--color-text-muted);
+  }
+
+  .mastery-list {
+    list-style: none;
+  }
+
+  .mastery-list li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 0.95rem;
+  }
+
+  .mastery-list li:last-child {
+    border-bottom: none;
+  }
+
+  .mastery-list strong {
+    color: var(--color-accent);
+  }
+
+  @media (max-width: 768px) {
+    .skills-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

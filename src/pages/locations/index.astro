@@ -1,0 +1,182 @@
+﻿---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const locationGuides = (await getCollection('guides')).filter(g => 
+  g.data.category === 'locations' || 
+  g.id.includes('pelican-town') ||
+  g.id.includes('beach') ||
+  g.id.includes('desert') ||
+  g.id.includes('ginger-island') ||
+  g.id.includes('secret-woods') ||
+  g.id.includes('railroad') ||
+  g.id.includes('wizard-tower')
+);
+---
+
+<BaseLayout title="Locations Guide" description="Explore every area in Stardew Valley and beyond - Pelican Town, Ginger Island, Desert, and more.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Locations</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/location-pelican-town.jpg" alt="Locations Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Locations Guide</h1>
+        <p class="hub-desc">
+          Explore every area in Stardew Valley and beyond. From the familiar streets
+          of Pelican Town to the tropical paradise of Ginger Island, discover hidden
+          secrets, valuable resources, and unique challenges in every location.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Explore Locations</h2>
+      <div class="grid-3">
+        <a href="/guides/pelican-town-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3E0;</span>
+          <h3>Pelican Town</h3>
+          <p>The heart of Stardew Valley - shops, NPCs, festivals, and the Community Center.</p>
+        </a>
+        <a href="/guides/beach-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3D6;&#xFE0F;</span>
+          <h3>Beach</h3>
+          <p>Ocean fishing, tide pools, and Elliott's cabin by the sea.</p>
+        </a>
+        <a href="/guides/desert-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3DC;&#xFE0F;</span>
+          <h3>Desert</h3>
+          <p>Calico Desert, Skull Cavern, Oasis shop, and the Casino.</p>
+        </a>
+        <a href="/guides/ginger-island-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3DD;&#xFE0F;</span>
+          <h3>Ginger Island</h3>
+          <p>Tropical paradise with year-round farming and the Volcano Dungeon.</p>
+        </a>
+        <a href="/guides/secret-woods-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F332;</span>
+          <h3>Secret Woods</h3>
+          <p>Hidden forest area with daily hardwood and unique forageables.</p>
+        </a>
+        <a href="/guides/railroad-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F682;</span>
+          <h3>Railroad</h3>
+          <p>Train tracks, spa, and the path to the Summit.</p>
+        </a>
+        <a href="/guides/wizard-tower-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3DB;&#xFE0F;</span>
+          <h3>Wizard's Tower</h3>
+          <p>Home of the Wizard, shrines for changing appearance and more.</p>
+        </a>
+        <a href="/guides/volcano-dungeon-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F30B;</span>
+          <h3>Volcano Dungeon</h3>
+          <p>10-level dungeon on Ginger Island with the Forge at the top.</p>
+        </a>
+        <a href="/guides/adventurers-guild-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3F0;</span>
+          <h3>Adventurer's Guild</h3>
+          <p>Weapons, boots, rings, and monster slaying rewards.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Location Guides -->
+    <section class="section">
+      <h2 class="section-title">All Location Guides</h2>
+      <div class="grid-3">
+        {locationGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+</style>

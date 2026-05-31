@@ -1,0 +1,255 @@
+﻿---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const questGuides = (await getCollection('guides')).filter(g => g.data.category === 'quests' || g.data.category === 'basics');
+
+const featuredGuides = [
+  'perfection-guide',
+  'qi-challenges-guide',
+  'secret-notes-guide',
+  'golden-walnuts-guide'
+];
+
+const featuredQuestGuides = featuredGuides
+  .map(slug => questGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Quests Guide" description="Complete quests guide for Stardew Valley - story quests, Help Wanted board, Special Orders, Perfection, and more.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Quests</span>
+    </div>
+
+    <div class="hub-header">
+      <h1>Quests Guide</h1>
+      <p class="hub-desc">
+        Quests in Stardew Valley provide structure and goals throughout your gameplay.
+        From the initial story quests that introduce game mechanics to recurring Help Wanted
+        requests and Special Orders, completing quests rewards you with money, items, and
+        relationships with the community.
+      </p>
+    </div>
+
+    <!-- Quest Types -->
+    <section class="section">
+      <h2 class="section-title">Quest Types</h2>
+      <div class="grid-3">
+        <div class="card quest-type-card">
+          <span class="quest-icon">&#x1F4D6;</span>
+          <h3>Story Quests</h3>
+          <p>Main story progression quests given by the game. These introduce key mechanics and characters. Includes the Community Center restoration or Joja Mart development path.</p>
+        </div>
+
+        <div class="card quest-type-card">
+          <span class="quest-icon">&#x1F4CB;</span>
+          <h3>Help Wanted</h3>
+          <p>Recurring quests posted on the bulletin board outside Pierre's General Store. Deliver specific items to villagers for gold and friendship rewards. New quests appear daily.</p>
+        </div>
+
+        <div class="card quest-type-card">
+          <span class="quest-icon">&#x2B50;</span>
+          <h3>Special Orders</h3>
+          <p>Multi-day quest boards unlocked after completing Community Center or buying Joja membership. Offer challenging tasks with unique rewards like Qi Gems.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Quest Guides</h2>
+      <div class="grid-3">
+        {featuredQuestGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- Major Story Quests -->
+    <section class="section">
+      <h2 class="section-title">Major Story Quests</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Quest</th>
+            <th>Trigger</th>
+            <th>Objective</th>
+            <th>Reward</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Getting Started</td>
+            <td>Day 1</td>
+            <td>Clear the farm, introduce yourself to villagers</td>
+            <td>500g</td>
+          </tr>
+          <tr>
+            <td>To the Beach</td>
+            <td>Spring 2 or later</td>
+            <td>Fix the beach bridge (300 wood)</td>
+            <td>Access to tide pools</td>
+          </tr>
+          <tr>
+            <td>Introduction</td>
+            <td>Spring 5</td>
+            <td>Meet all villagers (give items to the Lost and Found box)</td>
+            <td>Friendship with all villagers</td>
+          </tr>
+          <tr>
+            <td>Community Center</td>
+            <td>Summer 5, enter town from east</td>
+            <td>Enter the Community Center, meet Junimos</td>
+            <td>Access to bundles</td>
+          </tr>
+          <tr>
+            <td>Raise Animals</td>
+            <td>Buy first animal</td>
+            <td>Build a coop or barn</td>
+            <td>Varies</td>
+          </tr>
+          <tr>
+            <td>Mine Completion</td>
+            <td>Reach level 120</td>
+            <td>Defeat the boss, receive Skull Key</td>
+            <td>Skull Key (opens Skull Cavern)</td>
+          </tr>
+          <tr>
+            <td>Grandpa's Shrine</td>
+            <td>Year 2+</td>
+            <td>Evaluate your farm with 4 candles</td>
+            <td>Statue of Perfection (daily iridium ore)</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Help Wanted -->
+    <section class="section">
+      <h2 class="section-title">Help Wanted Quests</h2>
+      <div class="card">
+        <p>
+          Help Wanted quests are posted daily on the bulletin board outside Pierre's General Store.
+          Each quest asks you to deliver a specific item to a villager. The reward is typically
+          gold equal to the item's sell price multiplied by a factor, plus 150 friendship points
+          with the requesting villager.
+        </p>
+        <ul class="quest-details">
+          <li><strong>Frequency:</strong> One new quest per day (max 1 active at a time)</li>
+          <li><strong>Deadline:</strong> Quests expire after a certain number of days (usually 2-3)</li>
+          <li><strong>Reward:</strong> Gold (typically 2-3x item value) + 150 friendship points</li>
+          <li><strong>Tip:</strong> Check the board every morning and keep common items in stock</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Special Orders -->
+    <section class="section">
+      <h2 class="section-title">Special Orders</h2>
+      <div class="card">
+        <p>
+          Special Orders are unlocked after completing the Community Center or purchasing a Joja
+          membership. They appear on the Special Order board in town and offer challenging,
+          multi-day objectives with unique rewards.
+        </p>
+        <ul class="quest-details">
+          <li><strong>Duration:</strong> Varies from a few days to an entire season</li>
+          <li><strong>Rewards:</strong> Gold, Qi Gems, unique items</li>
+          <li><strong>Qi Gems:</strong> Used at Mr. Qi's Walnut Room on Ginger Island</li>
+          <li><strong>Tip:</strong> Plan ahead for orders that require large quantities of items</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Quest Guides -->
+    <section class="section">
+      <h2 class="section-title">All Quest Guides</h2>
+      <div class="grid-3">
+        {questGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .hub-header h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .quest-type-card {
+    text-align: center;
+    padding: 1.5rem;
+  }
+
+  .quest-icon {
+    font-size: 2.5rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .quest-type-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .quest-type-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+
+  .quest-details {
+    list-style: none;
+    margin-top: 1rem;
+  }
+
+  .quest-details li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+  }
+
+  .quest-details li:last-child {
+    border-bottom: none;
+  }
+
+  .quest-details strong {
+    color: var(--color-accent);
+  }
+</style>

@@ -1,0 +1,249 @@
+﻿---
+import { getCollection } from 'astro:content';
+import GuideCard from './GuideCard.astro';
+
+interface Props {
+  currentSlug: string;
+  category: string;
+  tags?: string[];
+  limit?: number;
+}
+
+const { currentSlug, category, tags = [], limit = 6 } = Astro.props;
+
+// Get all guides
+const allGuides = await getCollection('guides');
+
+// Filter and score guides for relevance
+const scoredGuides = allGuides
+  .filter(guide => guide.id.replace('.md', '') !== currentSlug)
+  .map(guide => {
+    let score = 0;
+    
+    // Same category gets highest priority
+    if (guide.data.category === category) {
+      score += 10;
+    }
+    
+    // Shared tags add to score
+    const sharedTags = guide.data.tags.filter(tag => tags.includes(tag));
+    score += sharedTags.length * 3;
+    
+    // Featured guides get slight boost
+    if (guide.data.featured) {
+      score += 2;
+    }
+    
+    return {
+      guide,
+      score,
+      sharedTags
+    };
+  })
+  .sort((a, b) => b.score - a.score)
+  .slice(0, limit);
+
+// If we don't have enough related guides, add some featured/popular ones
+const relatedGuides = scoredGuides.map(item => item.guide);
+
+// Category icons for display
+const categoryIcons: Record<string, string> = {
+  basics: '🚀',
+  farming: '🌾',
+  fishing: '🎣',
+  mining: '⛏️',
+  foraging: '🍄',
+  combat: '⚔️',
+  social: '💕',
+  seasons: '📅',
+  skills: '⭐',
+  quests: '📋',
+  items: '🎒',
+  locations: '🗺️',
+};
+
+const categoryLabels: Record<string, string> = {
+  basics: 'Basics',
+  farming: 'Farming',
+  fishing: 'Fishing',
+  mining: 'Mining',
+  foraging: 'Foraging',
+  combat: 'Combat',
+  social: 'Social',
+  seasons: 'Seasons',
+  skills: 'Skills',
+  quests: 'Quests',
+  items: 'Items',
+  locations: 'Locations',
+};
+---
+
+{relatedGuides.length > 0 && (
+  <section class="related-guides">
+    <div class="related-header">
+      <div class="header-icon">📖</div>
+      <h2>Related Guides</h2>
+      <p class="related-subtitle">
+        Explore more guides in <a href={`/categories/${category}`} class="category-link">
+          <span class="category-icon">{categoryIcons[category] || '📖'}</span>
+          {categoryLabels[category] || category}
+        </a>
+      </p>
+    </div>
+    
+    <div class="related-grid">
+      {relatedGuides.map(guide => (
+        <GuideCard
+          title={guide.data.title}
+          description={guide.data.description}
+          slug={guide.id.replace('.md', '')}
+          category={guide.data.category}
+          season={guide.data.season}
+          difficulty={guide.data.difficulty}
+          featured={guide.data.featured}
+        />
+      ))}
+    </div>
+    
+    <div class="related-footer">
+      <a href="/guides/" class="view-all-link">
+        <span class="view-all-icon">📚</span>
+        <span>View All Guides</span>
+        <span class="view-all-arrow">→</span>
+      </a>
+    </div>
+  </section>
+)}
+
+<style>
+  .related-guides {
+    margin-top: var(--space-8);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .related-header {
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .header-icon {
+    font-size: 2.5rem;
+    margin-bottom: var(--space-2);
+  }
+
+  .related-header h2 {
+    font-family: var(--font-family);
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    color: var(--color-primary);
+    margin-bottom: var(--space-2);
+    letter-spacing: normal;
+  }
+
+  .related-subtitle {
+    font-family: var(--font-family);
+    font-size: var(--text-base);
+    color: var(--color-text-muted);
+    margin-bottom: 0;
+  }
+
+  .category-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-1);
+    color: var(--color-primary-light);
+    text-decoration: none;
+    padding: var(--space-1) var(--space-2);
+    border: 1px solid var(--color-primary-light);
+    border-radius: var(--radius-sm);
+    background: var(--color-surface);
+    transition: all var(--transition-fast);
+  }
+
+  .category-link:hover {
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+  }
+
+  .category-icon {
+    font-size: 1rem;
+  }
+
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-4);
+    margin-bottom: var(--space-6);
+  }
+
+  .related-footer {
+    text-align: center;
+    padding-top: var(--space-4);
+  }
+
+  .view-all-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    font-weight: 500;
+    color: var(--color-primary);
+    text-decoration: none;
+    padding: var(--space-3) var(--space-6);
+    border: 1px solid var(--color-primary);
+    border-radius: var(--radius-md);
+    background: var(--color-card);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-fast);
+  }
+
+  .view-all-link:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    background: var(--color-primary);
+    color: var(--color-text-light);
+  }
+
+  .view-all-icon {
+    font-size: 1.5rem;
+  }
+
+  .view-all-arrow {
+    font-size: 1.25rem;
+    transition: transform var(--transition-fast);
+  }
+
+  .view-all-link:hover .view-all-arrow {
+    transform: translateX(4px);
+  }
+
+  /* Responsive */
+  @media (max-width: 900px) {
+    .related-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .related-guides {
+      margin-top: var(--space-6);
+      padding-top: var(--space-4);
+    }
+
+    .related-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-3);
+    }
+
+    .related-header h2 {
+      font-size: var(--text-xl);
+    }
+
+    .view-all-link {
+      font-size: var(--text-base);
+      padding: var(--space-2) var(--space-4);
+    }
+  }
+</style>

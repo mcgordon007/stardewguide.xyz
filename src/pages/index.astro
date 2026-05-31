@@ -1,0 +1,774 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import GuideCard from '../components/GuideCard.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import { getCollection } from 'astro:content';
+
+const allGuides = await getCollection('guides');
+const featuredGuides = allGuides.filter(g => g.data.featured).slice(0, 6);
+
+const categories = [
+  {
+    href: '/farming/',
+    title: 'Farming',
+    description: 'Crops, Animals, Artisan',
+    icon: '🌾',
+    image: '/images/farming-banner.jpg',
+    color: '#5A7D5A',
+    guideCount: allGuides.filter(g => g.data.category === 'farming').length,
+  },
+  {
+    href: '/fishing/',
+    title: 'Fishing',
+    description: 'Fish, Mechanics, Crab Pots',
+    icon: '🎣',
+    image: '/images/fishing-banner.jpg',
+    color: '#6B9AC4',
+    guideCount: allGuides.filter(g => g.data.category === 'fishing').length,
+  },
+  {
+    href: '/mining/',
+    title: 'Mining',
+    description: 'Mines, Skull Cavern, Geodes',
+    icon: '⛏️',
+    image: '/images/mining-banner.jpg',
+    color: '#8B7355',
+    guideCount: allGuides.filter(g => g.data.category === 'mining').length,
+  },
+  {
+    href: '/guides/foraging-guide',
+    title: 'Foraging',
+    description: 'Wild Items, Trees, Seasonal',
+    icon: '🍄',
+    image: '/images/foraging-banner.jpg',
+    color: '#7CB342',
+    guideCount: allGuides.filter(g => g.data.category === 'foraging').length,
+  },
+  {
+    href: '/guides/combat-guide',
+    title: 'Combat',
+    description: 'Monsters, Weapons, Armor',
+    icon: '⚔️',
+    image: '/images/combat-banner.jpg',
+    color: '#C97B7B',
+    guideCount: allGuides.filter(g => g.data.category === 'combat').length,
+  },
+  {
+    href: '/social/',
+    title: 'Social',
+    description: 'NPCs, Marriage, Festivals',
+    icon: '💕',
+    image: '/images/social-banner.jpg',
+    color: '#D4845E',
+    guideCount: allGuides.filter(g => g.data.category === 'social').length,
+  },
+];
+
+const seasonTips = [
+  {
+    season: 'spring',
+    title: 'Spring',
+    color: '#5A7D5A',
+    icon: '🌸',
+    description: 'Plant parsnips on day 1. Forage for wild leeks. Start fishing for income. Visit Egg Festival on Spring 13.',
+    link: '/guides/spring-crops',
+  },
+  {
+    season: 'summer',
+    title: 'Summer',
+    color: '#E8C547',
+    icon: '☀️',
+    description: 'Blueberries and melons are profitable. Catch rare fish like octopus. Attend Luau and Moonlight Jellies.',
+    link: '/guides/summer-crops',
+  },
+  {
+    season: 'fall',
+    title: 'Fall',
+    color: '#D4845E',
+    icon: '🍂',
+    description: 'Cranberries provide excellent returns. Pumpkins sell high. Win prizes at Stardew Valley Fair.',
+    link: '/guides/fall-crops',
+  },
+  {
+    season: 'winter',
+    title: 'Winter',
+    color: '#6B9AC4',
+    icon: '❄️',
+    description: 'Upgrade tools and clear farm. Fish for rare winter catches. Dive deep in Skull Cavern.',
+    link: '/guides/winter-guide',
+  },
+];
+
+const stats = [
+  { value: '100+', label: 'Guides', icon: '📖' },
+  { value: '12', label: 'Categories', icon: '📂' },
+  { value: '50+', label: 'NPCs', icon: '👥' },
+  { value: '∞', label: 'Fun', icon: '🎮' },
+];
+
+// Expanded FAQ items for SEO
+const faqItems = [
+  {
+    question: "What is the best crop in Stardew Valley?",
+    answer: "Starfruit is the most profitable crop when turned into wine, producing 3,150g per bottle with the Artisan profession. Ancient Fruit is the best year-round crop for the greenhouse, providing continuous harvests every 7 days. For beginners, Strawberries (Spring), Blueberries (Summer), and Cranberries (Fall) offer excellent multi-harvest returns."
+  },
+  {
+    question: "How do you make money fast in Stardew Valley?",
+    answer: "The fastest money-making methods include: Ancient Fruit Wine (3,150g/bottle with Artisan), Starfruit Wine (3,150g/bottle), Pig Truffle Oil (1,065g with Artisan), Cranberry Preserves (238g with Artisan), and fishing early game. Mining iridium ore in Skull Cavern and selling iridium bars (1,000g each) is also highly profitable."
+  },
+  {
+    question: "What should I do in Year 1 of Stardew Valley?",
+    answer: "Focus on: planting parsnips on Day 1, foraging for extra income, fishing whenever possible, buying Strawberry seeds at the Egg Festival (Spring 13), clearing the farm gradually, upgrading tools at Clint's, building a coop for chickens, and starting the Community Center bundles. Save money for Summer Blueberries and Fall Cranberries for maximum profit."
+  },
+  {
+    question: "How do I complete the Community Center?",
+    answer: "The Community Center requires completing 6 bundles: Pantry (crops and artisan goods), Boiler Room (mining items), Fish Tank (all fish types), Bulletin Board (foraging and animal products), Vault (money donations), and Crafts Room (foraging items). Alternatively, you can buy a Joja Membership for 5,000g and pay to complete each area. Each bundle unlocks new areas and features."
+  },
+  {
+    question: "Who are the best marriage candidates in Stardew Valley?",
+    answer: "All 12 marriage candidates have unique personalities and benefits. Popular choices include: Sebastian (loves frogs, works programmer job), Leah (artist, loves salads), Emily (works at saloon, loves gems), and Shane (complex story arc, loves beer). Each spouse has unique room decorations, helps with farm chores, and can have children. Choose based on personality match rather than practical benefits."
+  },
+  {
+    question: "What are the best fishing tips for beginners?",
+    answer: "Key fishing tips: Cast near logs or rocks for better catches, wait for the '!' sound before clicking, keep the fish in the green bar by holding/clicking, upgrade your rod at Willy's shop (fiberglass rod at level 2, iridium rod at level 6), use bait and tackles on better rods, fish in rain for rare catches, and check the Traveling Cart for legendary fish bait. Practice at the mountain lake for easier catches."
+  },
+  {
+    question: "How do I navigate the Mines and Skull Cavern?",
+    answer: "For the regular Mines (120 levels): bring food for energy, upgrade your pickaxe, fight monsters strategically, and break all rocks to find the ladder down. For Skull Cavern: bring high-quality food (Spicy Eel, Lucky Lunch), use bombs for quick excavation, wear good boots and rings, aim for iridium ore on deeper levels, and use the minecart for fast travel. Staircases can skip difficult levels."
+  },
+  {
+    question: "What new content is in Stardew Valley 1.6?",
+    answer: "Stardew Valley 1.6 adds: Mastery System (unlock powerful perks after level 10 skills), new festivals (Desert Festival, Trout Derby, SquidFest), new items (books, power books, new weapons), Ginger Island improvements, new farm type (Meadow Farm), new NPCs (Leo, Birdie), new quests and special orders, skill rework with mastery points, and many quality-of-life improvements."
+  },
+  {
+    question: "How do I unlock and explore Ginger Island?",
+    answer: "Ginger Island unlocks after completing Willy's boat repair quest (requires 200 hardwood, 5 iridium bars, 5 battery packs). The island features: a farm area for year-round planting, volcano dungeon with rare items, pirate cove with casino, Leo's hut (new NPC), Qi's challenges, rare tropical fish, and the obelisk for fast travel. Complete island puzzles to unlock the walnut room and Qi's special orders."
+  },
+  {
+    question: "What is the Mastery System in Stardew Valley?",
+    answer: "The Mastery System unlocks after reaching level 10 in all 5 skills. You earn Mastery Points from XP gained after level 10. Spend points at the Mastery Cave (near the waterfall) to unlock powerful perks: Farming Mastery (Golden Animal Cracker, double animal produce), Fishing Mastery (Tackle preservation), Foraging Mastery (Golden Parrot reveals hidden items), Mining Mastery (Hardrock Mine access), Combat Mastery (Special weapons). Each mastery unlocks unique items and abilities."
+  },
+  {
+    question: "How do I achieve Perfection in Stardew Valley?",
+    answer: "Perfection requires: catching all 145 fish, shipping every crop and item, cooking all recipes, crafting all items, finding all 130 Golden Walnuts, completing all monster eradication goals, reaching max friendship with all NPCs, completing the Community Center or Joja route, having all 5 skills at level 10, and unlocking all Mastery perks. Check your progress in Qi's Walnut Room. Perfection unlocks the Summit area and special rewards."
+  },
+  {
+    question: "What are the best spring crops for beginners?",
+    answer: "Best Spring crops: Parsnips (cheapest, 35g seed, 140g sell - good for Day 1), Potatoes (good profit, 50g seed, 240g sell), Cauliflower (highest single profit, 150g seed, 525g sell), Strawberries (best multi-harvest, 100g seed at Egg Festival, sells 240g each, produces multiple times). Buy Strawberry seeds at Egg Festival (Spring 13) for Year 2 planting or save for greenhouse."
+  }
+];
+---
+
+<BaseLayout 
+  title="Stardew Valley Guide - Tips, Fish, Crops, Gifts & More" 
+  description="The ultimate Stardew Valley guide with tips for farming, fishing, mining, combat, and social. Complete crop lists, fish guides, gift preferences, and money-making strategies."
+>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+    
+    <div class="container">
+      <div class="hero-content">
+        <div class="hero-badge">
+          <span class="badge-icon">⭐</span>
+          <span class="badge-text">Complete Guide for Stardew Valley 1.6</span>
+        </div>
+        
+        <h1 class="hero-title">
+          Master Your
+          <span class="title-accent">Farm Life</span>
+        </h1>
+        
+        <p class="hero-desc">
+          Your companion for Pelican Town! From your first day on the farm to mastering every skill, we cover everything you need to thrive in Stardew Valley.
+        </p>
+        
+        <div class="hero-actions">
+          <a href="/guides/" class="btn btn-primary btn-lg">
+            <span class="btn-icon">📚</span>
+            <span>Browse All Guides</span>
+          </a>
+          <a href="/guides/getting-started" class="btn btn-secondary btn-lg">
+            <span class="btn-icon">🚀</span>
+            <span>Getting Started</span>
+          </a>
+        </div>
+        
+        <div class="hero-stats">
+          {stats.map((stat, index) => (
+            <div class="stat-box" style={`animation-delay: ${index * 0.1}s`}>
+              <span class="stat-icon">{stat.icon}</span>
+              <span class="stat-value">{stat.value}</span>
+              <span class="stat-label">{stat.label}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories Section -->
+  <section class="section categories-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Explore by Category</h2>
+        <p class="section-subtitle">Choose your path to mastery in Stardew Valley</p>
+      </div>
+      
+      <div class="categories-grid">
+        {categories.map((category, index) => (
+          <div class="category-wrap" style={`animation-delay: ${index * 0.1}s`}>
+            <CategoryCard {...category} />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Guides Section -->
+  <section class="section featured-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Popular Guides</h2>
+        <p class="section-subtitle">Hand-picked guides to help you on your journey</p>
+      </div>
+      
+      <div class="guides-grid">
+        {featuredGuides.map((guide, index) => (
+          <div class="guide-wrap" style={`animation-delay: ${index * 0.1}s`}>
+            <GuideCard
+              title={guide.data.title}
+              description={guide.data.description}
+              slug={guide.id.replace(/\.md$/, '')}
+              category={guide.data.category}
+              season={guide.data.season}
+              difficulty={guide.data.difficulty}
+              featured={guide.data.featured}
+              image={guide.data.image}
+            />
+          </div>
+        ))}
+      </div>
+      
+      <div class="section-footer">
+        <a href="/guides/" class="btn btn-outline btn-lg">
+          <span class="btn-icon">📖</span>
+          <span>View All Guides</span>
+          <span class="btn-arrow">→</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Seasonal Tips Section -->
+  <section class="section seasons-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Seasonal Tips</h2>
+        <p class="section-subtitle">Make the most of every season in Stardew Valley</p>
+      </div>
+      
+      <div class="seasons-grid">
+        {seasonTips.map((tip, index) => (
+          <div class="season-box" style={`--season-color: ${tip.color}; animation-delay: ${index * 0.1}s`}>
+            <div class="season-header">
+              <div class="season-icon-wrap" style={`background: ${tip.color}`}>
+                <span class="season-icon">{tip.icon}</span>
+              </div>
+              <h3 class="season-title">{tip.title}</h3>
+            </div>
+            <p class="season-desc">{tip.description}</p>
+            <a href={tip.link} class="season-link">
+              <span class="link-icon">📖</span>
+              <span class="link-text">View Guide</span>
+              <span class="link-arrow">→</span>
+            </a>
+            <div class="season-border" style={`background: ${tip.color}`}></div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="section cta-section">
+    <div class="container">
+      <div class="cta-box">
+        <div class="cta-content">
+          <h2 class="cta-title">Ready to Start Your Adventure?</h2>
+          <p class="cta-desc">
+            Whether you're a new farmer or a seasoned veteran, our guides will help you make the most of your time in Stardew Valley.
+          </p>
+          <div class="cta-actions">
+            <a href="/guides/getting-started" class="btn btn-accent btn-lg">
+              <span class="btn-icon">🌟</span>
+              <span>New Player Guide</span>
+            </a>
+            <a href="/guides/" class="btn btn-primary btn-lg">
+              <span class="btn-icon">📖</span>
+              <span>Browse Guides</span>
+            </a>
+          </div>
+        </div>
+        <div class="cta-decoration">
+          <span class="cta-emoji">🚜</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- JSON-LD FAQPage Schema (Expanded) -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer
+      }
+    }))
+  })} />
+
+</BaseLayout>
+
+<style>
+  /* Hero Section */
+  .hero {
+    position: relative;
+    min-height: calc(100vh - var(--header-height));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-16) 0;
+    overflow: hidden;
+    background: linear-gradient(180deg, var(--color-bg) 0%, var(--color-bg-warm) 100%);
+  }
+
+  .hero-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    background-image: 
+      radial-gradient(circle at 20% 30%, rgba(90, 125, 90, 0.08) 0%, transparent 40%),
+      radial-gradient(circle at 80% 70%, rgba(232, 168, 124, 0.08) 0%, transparent 40%);
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    background: rgba(90, 125, 90, 0.1);
+    border: 1px solid rgba(90, 125, 90, 0.2);
+    padding: var(--space-2) var(--space-4);
+    color: var(--color-primary);
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    border-radius: var(--radius-full);
+    margin-bottom: var(--space-6);
+    animation: fadeIn 0.5s ease forwards;
+  }
+
+  .badge-icon {
+    font-size: 1rem;
+  }
+
+  .hero-title {
+    font-family: var(--font-family);
+    font-size: var(--text-5xl);
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: var(--space-4);
+    line-height: 1.2;
+    animation: fadeIn 0.5s ease 0.1s forwards;
+    opacity: 0;
+  }
+
+  .title-accent {
+    color: var(--color-primary);
+    display: block;
+  }
+
+  .hero-desc {
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    color: var(--color-text-secondary);
+    line-height: 1.7;
+    margin-bottom: var(--space-8);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: fadeIn 0.5s ease 0.2s forwards;
+    opacity: 0;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+    justify-content: center;
+    margin-bottom: var(--space-12);
+    animation: fadeIn 0.5s ease 0.3s forwards;
+    opacity: 0;
+  }
+
+  .btn-icon {
+    font-size: 1.25rem;
+  }
+
+  .btn-arrow {
+    opacity: 0;
+    transform: translateX(-4px);
+    transition: all var(--transition-fast);
+  }
+
+  .btn:hover .btn-arrow {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  .hero-stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-6);
+    animation: fadeIn 0.5s ease 0.4s forwards;
+    opacity: 0;
+  }
+
+  .stat-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-1);
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    padding: var(--space-4) var(--space-6);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    animation: fadeIn 0.5s ease forwards;
+    min-width: 100px;
+  }
+
+  .stat-icon {
+    font-size: 1.5rem;
+  }
+
+  .stat-value {
+    font-family: var(--font-family);
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+  .stat-label {
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    color: var(--color-text-secondary);
+  }
+
+  /* Categories Section */
+  .categories-section {
+    background: var(--color-bg-warm);
+  }
+
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-6);
+  }
+
+  .category-wrap {
+    animation: fadeIn 0.5s ease forwards;
+    opacity: 0;
+  }
+
+  /* Featured Section */
+  .featured-section {
+    background: var(--color-bg);
+  }
+
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-6);
+  }
+
+  .guide-wrap {
+    animation: fadeIn 0.5s ease forwards;
+    opacity: 0;
+  }
+
+  .section-footer {
+    text-align: center;
+    margin-top: var(--space-12);
+  }
+
+  /* Seasons Section */
+  .seasons-section {
+    background: var(--color-bg-warm);
+  }
+
+  .seasons-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-6);
+  }
+
+  .season-box {
+    position: relative;
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-6);
+    box-shadow: var(--shadow-md);
+    transition: all var(--transition-base);
+    animation: fadeIn 0.5s ease forwards;
+    opacity: 0;
+    --season-color: var(--color-primary);
+    overflow: hidden;
+  }
+
+  .season-box:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .season-border {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+  }
+
+  .season-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+
+  .season-icon-wrap {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .season-icon {
+    font-size: 1.5rem;
+  }
+
+  .season-title {
+    font-family: var(--font-family);
+    font-size: var(--text-xl);
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0;
+  }
+
+  .season-desc {
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    color: var(--color-text-secondary);
+    line-height: 1.7;
+    margin-bottom: var(--space-4);
+  }
+
+  .season-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    color: var(--season-color);
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-fast);
+  }
+
+  .season-link:hover {
+    background: rgba(90, 125, 90, 0.1);
+    transform: translateX(4px);
+  }
+
+  .link-icon {
+    font-size: 1rem;
+  }
+
+  .link-arrow {
+    opacity: 0;
+    transform: translateX(-4px);
+    transition: all var(--transition-fast);
+  }
+
+  .season-link:hover .link-arrow {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  /* CTA Section */
+  .cta-section {
+    background: var(--color-bg);
+    padding-bottom: var(--space-20);
+  }
+
+  .cta-box {
+    position: relative;
+    background: var(--color-primary);
+    border-radius: var(--radius-xl);
+    padding: var(--space-12);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-8);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+  }
+
+  .cta-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, transparent 50%);
+    pointer-events: none;
+  }
+
+  .cta-content {
+    position: relative;
+    z-index: 1;
+    flex: 1;
+  }
+
+  .cta-title {
+    font-family: var(--font-family);
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    color: var(--color-text-light);
+    margin-bottom: var(--space-3);
+  }
+
+  .cta-desc {
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: var(--space-6);
+    max-width: 500px;
+  }
+
+  .cta-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+  }
+
+  .cta-actions .btn-accent {
+    background: var(--color-accent);
+    color: var(--color-text);
+  }
+
+  .cta-actions .btn-accent:hover {
+    background: var(--color-accent-light);
+  }
+
+  .cta-decoration {
+    position: relative;
+    z-index: 1;
+  }
+
+  .cta-emoji {
+    font-size: 6rem;
+    animation: float 3s ease-in-out infinite;
+  }
+
+  /* Responsive */
+  @media (max-width: 1024px) {
+    .categories-grid,
+    .guides-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .seasons-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero {
+      min-height: auto;
+      padding: var(--space-12) 0;
+    }
+
+    .hero-title {
+      font-size: var(--text-3xl);
+    }
+
+    .hero-desc {
+      font-size: var(--text-base);
+    }
+
+    .hero-stats {
+      gap: var(--space-4);
+    }
+
+    .stat-box {
+      padding: var(--space-3) var(--space-4);
+      min-width: 80px;
+    }
+
+    .stat-value {
+      font-size: var(--text-xl);
+    }
+
+    .categories-grid,
+    .guides-grid,
+    .seasons-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cta-box {
+      flex-direction: column;
+      text-align: center;
+      padding: var(--space-8);
+    }
+
+    .cta-desc {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .cta-actions {
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .cta-actions .btn {
+      width: 100%;
+    }
+
+    .cta-emoji {
+      font-size: 4rem;
+    }
+  }
+</style>

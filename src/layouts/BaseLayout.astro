@@ -1,0 +1,146 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  canonicalURL?: string;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description = 'The Ultimate Stardew Valley Guide - Farming, Fishing, Mining, and More',
+  image = '/images/farming-banner.jpg',
+  canonicalURL,
+  noindex = false
+} = Astro.props;
+
+const siteTitle = `${title} | Stardew Guide`;
+const siteURL = 'https://stardewguide.xyz';
+const imageURL = new URL(image, siteURL).toString();
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- JSON-LD WebSite Schema -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Stardew Valley Guide",
+  "url": "https://stardewguide.xyz",
+  "description": "The Ultimate Stardew Valley Guide - Comprehensive guides for farming, fishing, mining, combat, social, and more.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://stardewguide.xyz/guides/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+  <!-- JSON-LD Organization Schema -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stardew Valley Guide",
+  "url": "https://stardewguide.xyz",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://stardewguide.xyz/favicon.svg",
+    "width": 512,
+    "height": 512
+  },
+  "description": "Comprehensive Stardew Valley guides covering farming, fishing, mining, combat, and social interactions. Your ultimate resource for mastering Pelican Town.",
+  "sameAs": [],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": ["English"]
+  },
+  "areaServed": "Worldwide",
+  "knowsAbout": [
+    "Stardew Valley",
+    "Farming Simulation Games",
+    "Video Game Guides",
+    "Indie Games"
+  ]
+}
+</script>
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <meta name="generator" content={Astro.generator} />
+  <meta name="keywords" content="stardew valley guide, stardew valley tips, stardew valley fish, stardew valley fishing, stardew valley gifts, stardew valley crops, stardew valley coop, stardew valley barn, stardew valley expanded, stardew valley 1.6, stardew valley skull cavern, stardew valley money, stardew valley marriage, stardew valley mods, stardew wiki, stardew valley wiki" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={siteTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={imageURL} />
+  <meta property="og:site_name" content="Stardew Valley Guide" />
+  <meta property="og:url" content={`https://stardewguide.xyz${Astro.url.pathname}`} />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={siteTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={imageURL} />
+  <meta name="twitter:site" content="@stardewguide" />
+
+  <link rel="canonical" href={`https://stardewguide.xyz${Astro.url.pathname}`} />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1" />
+  <link rel="alternate" hreflang="en" href={`https://stardewguide.xyz${Astro.url.pathname}`} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+  <title>{siteTitle}</title>
+
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2485720330662082"
+     crossorigin="anonymous"></script>
+
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      background: var(--color-bg);
+      color: var(--color-text);
+      line-height: 1.7;
+      margin: 0;
+      padding: 0;
+    }
+
+    main {
+      min-height: 60vh;
+      position: relative;
+      z-index: 1;
+      padding-top: var(--header-height);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+  <Header />
+
+  <main>
+    <slot />
+  </main>
+
+  <Footer />
+</body>
+</html>

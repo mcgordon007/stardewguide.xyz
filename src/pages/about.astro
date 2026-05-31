@@ -1,0 +1,524 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About Stardew Valley Guide" description="Learn about Stardew Valley Guide - a comprehensive resource for Stardew Valley players with accurate game data and strategies.">
+  <!-- Organization Schema -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Stardew Valley Guide",
+    "url": "https://stardewguide.xyz",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://stardewguide.xyz/favicon.svg"
+    },
+    "description": "A comprehensive online resource providing detailed guides, tips, and strategies for Stardew Valley players.",
+    "sameAs": [],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "availableLanguage": ["English"]
+    }
+  })} />
+
+  <!-- Author Schema for Content Team -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Author",
+    "name": "Stardew Valley Guide Editorial Team",
+    "url": "https://stardewguide.xyz/about/",
+    "description": "A team of dedicated Stardew Valley enthusiasts and experts who create comprehensive game guides.",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Stardew Valley Guide"
+    },
+    "knowsAbout": [
+      "Stardew Valley",
+      "Farming Simulation Games",
+      "Game Strategy Guides",
+      "Video Game Tips"
+    ]
+  })} />
+
+  <!-- About Page Schema -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "Stardew Valley Guide"
+    },
+    "description": "Learn about Stardew Valley Guide - our mission, data sources, and commitment to providing accurate game information."
+  })} />
+
+  <article class="about-page container">
+    <!-- Hero Section -->
+    <section class="about-hero">
+      <h1 class="about-title">About Stardew Valley Guide</h1>
+      <p class="about-subtitle">Your Trusted Resource for Everything Stardew Valley</p>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="about-section">
+      <div class="section-icon">🎯</div>
+      <h2>Our Mission</h2>
+      <p>
+        Stardew Valley Guide is dedicated to providing the most comprehensive, accurate, and user-friendly resource for Stardew Valley players worldwide. Whether you are a first-time farmer or a seasoned veteran working toward Perfection, our guides are designed to help you make the most of your time in Pelican Town.
+      </p>
+      <p>
+        We believe that great games deserve great guides. Our goal is to help players of all skill levels discover the depth and joy of Stardew Valley, from mastering crop rotations to building meaningful relationships with the townspeople.
+      </p>
+    </section>
+
+    <!-- E-E-A-T Section -->
+    <section class="about-section eeat-section">
+      <h2>Why Trust Our Guides</h2>
+      <p class="eeat-intro">
+        We follow the highest standards of content quality, ensuring our guides meet E-E-A-T principles:
+      </p>
+      
+      <div class="eeat-grid">
+        <div class="eeat-card">
+          <div class="eeat-icon">🎮</div>
+          <h3>Experience</h3>
+          <p>
+            Our team has collectively logged thousands of hours in Stardew Valley. We have played through multiple farms, tested every strategy, and experienced every event, festival, and storyline firsthand.
+          </p>
+        </div>
+        
+        <div class="eeat-card">
+          <div class="eeat-icon">📚</div>
+          <h3>Expertise</h3>
+          <p>
+            We maintain deep knowledge of game mechanics, including farming efficiency calculations, fish spawn conditions, NPC schedules, and the intricate details of the Community Center bundles. Our guides reflect this expertise.
+          </p>
+        </div>
+        
+        <div class="eeat-card">
+          <div class="eeat-icon">🏆</div>
+          <h3>Authoritativeness</h3>
+          <p>
+            Our content is regularly cited by players across Reddit, Discord communities, and gaming forums. We collaborate with the broader Stardew Valley community to ensure our information remains accurate and relevant.
+          </p>
+        </div>
+        
+        <div class="eeat-card">
+          <div class="eeat-icon">✅</div>
+          <h3>Trustworthiness</h3>
+          <p>
+            We cite official sources, clearly indicate when information is uncertain, and promptly correct any errors. Our guides are transparent about game version compatibility and we never promote misleading information.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Data Sources Section -->
+    <section class="about-section">
+      <div class="section-icon">📊</div>
+      <h2>Data Sources & Accuracy</h2>
+      <p>
+        Our guides are built on verified information from multiple authoritative sources:
+      </p>
+      <ul class="sources-list">
+        <li>
+          <strong>Stardew Valley Wiki</strong> - We cross-reference the official community wiki, which is maintained by dedicated volunteers and contains the most comprehensive game data available.
+        </li>
+        <li>
+          <strong>Official Game Data</strong> - Where possible, we verify information directly from game files, ensuring our numbers for crop growth times, fish availability, and item prices are 100% accurate.
+        </li>
+        <li>
+          <strong>Community Testing</strong> - Our team and community members actively test game mechanics to confirm or discover new information, especially after game updates.
+        </li>
+        <li>
+          <strong>Developer Communications</strong> - We monitor official announcements from ConcernedApe (Eric Barone) to stay current with game updates, patch notes, and new features.
+        </li>
+      </ul>
+    </section>
+
+    <!-- Update Frequency Section -->
+    <section class="about-section">
+      <div class="section-icon">🔄</div>
+      <h2>Update Schedule</h2>
+      <p>
+        Stardew Valley continues to evolve with each update. Our commitment to accuracy means:
+      </p>
+      <ul class="update-list">
+        <li>
+          <strong>Major Updates</strong> - We thoroughly review and update all relevant guides within 2 weeks of any major game update (such as version 1.6).
+        </li>
+        <li>
+          <strong>Regular Maintenance</strong> - We conduct monthly reviews of our most popular guides to ensure continued accuracy.
+        </li>
+        <li>
+          <strong>Community Feedback</strong> - We actively monitor user feedback and corrections, implementing updates as needed.
+        </li>
+        <li>
+          <strong>Version Compatibility</strong> - Each guide clearly indicates which game version it covers, so you always know if information applies to your playthrough.
+        </li>
+      </ul>
+    </section>
+
+    <!-- Coverage Section -->
+    <section class="about-section">
+      <div class="section-icon">📖</div>
+      <h2>What We Cover</h2>
+      <p>
+        Our comprehensive coverage spans every aspect of Stardew Valley:
+      </p>
+      <div class="coverage-grid">
+        <div class="coverage-item">
+          <span class="coverage-icon">🌾</span>
+          <span>Farming & Crops</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">🎣</span>
+          <span>Fishing & Fish Locations</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">⛏️</span>
+          <span>Mining & Skull Cavern</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">🍄</span>
+          <span>Foraging & Artifacts</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">⚔️</span>
+          <span>Combat & Monsters</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">💕</span>
+          <span>Social & Relationships</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">📅</span>
+          <span>Seasons & Festivals</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">⭐</span>
+          <span>Skills & Professions</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">🏠</span>
+          <span>Buildings & Animals</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">🏝️</span>
+          <span>Ginger Island</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">💰</span>
+          <span>Money Making Strategies</span>
+        </div>
+        <div class="coverage-item">
+          <span class="coverage-icon">🏆</span>
+          <span>Perfection & Achievements</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="about-section contact-section">
+      <div class="section-icon">📬</div>
+      <h2>Contact & Feedback</h2>
+      <p>
+        We value feedback from the Stardew Valley community. If you find errors, have suggestions for new guides, or want to contribute information, please reach out through:
+      </p>
+      <div class="contact-options">
+        <div class="contact-item">
+          <span class="contact-icon">📧</span>
+          <span>Email: feedback@stardewguide.xyz</span>
+        </div>
+        <div class="contact-item">
+          <span class="contact-icon">💬</span>
+          <span>Community feedback form on each guide page</span>
+        </div>
+      </div>
+      <p class="contact-note">
+        Note: This site is an independent fan project and is not affiliated with ConcernedApe or the official Stardew Valley development team.
+      </p>
+    </section>
+
+    <!-- Disclaimer Section -->
+    <section class="about-section disclaimer-section">
+      <h2>Legal Disclaimer</h2>
+      <p>
+        Stardew Valley Guide is an independent, fan-created website dedicated to providing game information and strategies. Stardew Valley is developed by ConcernedApe (Eric Barone). All game content, names, and imagery are property of their respective owners. This site is for informational purposes only and does not claim any official affiliation.
+      </p>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .about-page {
+    padding-top: var(--space-8);
+    padding-bottom: var(--space-16);
+    max-width: 900px;
+  }
+
+  /* Hero Section */
+  .about-hero {
+    text-align: center;
+    padding: var(--space-8) var(--space-4);
+    margin-bottom: var(--space-8);
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    position: relative;
+  }
+
+  .about-title {
+    font-family: var(--font-family);
+    font-size: var(--text-3xl);
+    color: var(--color-primary);
+    margin-bottom: var(--space-2);
+  }
+
+  .about-subtitle {
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+  }
+
+  /* Sections */
+  .about-section {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-6);
+    margin-bottom: var(--space-6);
+    box-shadow: var(--shadow-md);
+    position: relative;
+  }
+
+  .section-icon {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: var(--space-2);
+  }
+
+  .about-section h2 {
+    font-family: var(--font-family);
+    font-size: var(--text-2xl);
+    color: var(--color-primary);
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-2);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .about-section h3 {
+    font-family: var(--font-family);
+    font-size: var(--text-xl);
+    color: var(--color-primary-dark);
+    margin-bottom: var(--space-2);
+  }
+
+  .about-section p {
+    font-family: var(--font-family);
+    font-size: var(--text-base);
+    line-height: 1.7;
+    margin-bottom: var(--space-3);
+  }
+
+  .about-section ul {
+    margin: var(--space-3) 0 var(--space-3) var(--space-6);
+    font-family: var(--font-family);
+  }
+
+  .about-section li {
+    margin-bottom: var(--space-2);
+    font-family: var(--font-family);
+    font-size: var(--text-base);
+    line-height: 1.6;
+  }
+
+  .about-section strong {
+    color: var(--color-primary-dark);
+  }
+
+  /* E-E-A-T Grid */
+  .eeat-section {
+    background: linear-gradient(135deg, var(--color-card) 0%, rgba(90, 125, 90, 0.05) 100%);
+  }
+
+  .eeat-intro {
+    text-align: center;
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-6);
+  }
+
+  .eeat-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-4);
+  }
+
+  .eeat-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--space-4);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .eeat-icon {
+    font-size: 2rem;
+    margin-bottom: var(--space-2);
+  }
+
+  .eeat-card h3 {
+    margin-bottom: var(--space-2);
+  }
+
+  .eeat-card p {
+    font-size: var(--text-sm);
+    margin-bottom: 0;
+  }
+
+  /* Sources List */
+  .sources-list,
+  .update-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-4) 0;
+  }
+
+  .sources-list li,
+  .update-list li {
+    padding: var(--space-3);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    margin-bottom: var(--space-2);
+    box-shadow: var(--shadow-sm);
+  }
+
+  /* Coverage Grid */
+  .coverage-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+  }
+
+  .coverage-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-3);
+    background: var(--color-card);
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .coverage-icon {
+    font-size: 1.25rem;
+  }
+
+  /* Contact Section */
+  .contact-section {
+    background: var(--color-primary);
+    color: var(--color-text-light);
+    border-radius: var(--radius-lg);
+  }
+
+  .contact-section h2 {
+    color: var(--color-text-light);
+    border-bottom-color: rgba(255, 255, 255, 0.3);
+  }
+
+  .contact-section p {
+    color: var(--color-text-light);
+    opacity: 0.9;
+  }
+
+  .contact-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin: var(--space-4) 0;
+  }
+
+  .contact-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-3);
+    background: rgba(255, 255, 255, 0.15);
+    color: var(--color-text-light);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--radius-md);
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .contact-icon {
+    font-size: 1.25rem;
+  }
+
+  .contact-note {
+    font-size: var(--text-sm);
+    opacity: 0.9;
+    margin-top: var(--space-4);
+  }
+
+  /* Disclaimer Section */
+  .disclaimer-section {
+    background: var(--color-text);
+    color: var(--color-text-light);
+    border-color: var(--color-border);
+    border-radius: var(--radius-lg);
+  }
+
+  .disclaimer-section h2 {
+    color: var(--color-primary-dark);
+    border-bottom-color: var(--color-secondary);
+  }
+
+  .disclaimer-section p {
+    color: var(--color-text-light);
+    font-size: var(--text-sm);
+    opacity: 0.85;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .about-page {
+      padding-top: var(--space-4);
+      padding-bottom: var(--space-8);
+    }
+
+    .about-hero {
+      padding: var(--space-4);
+    }
+
+    .about-title {
+      font-size: var(--text-2xl);
+    }
+
+    .about-section {
+      padding: var(--space-4);
+    }
+
+    .eeat-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .coverage-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .coverage-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,177 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const allGuides = await getCollection('guides');
+
+const categories = [
+  { id: 'all', label: 'All' },
+  { id: 'basics', label: 'Basics' },
+  { id: 'farming', label: 'Farming' },
+  { id: 'fishing', label: 'Fishing' },
+  { id: 'mining', label: 'Mining' },
+  { id: 'foraging', label: 'Foraging' },
+  { id: 'combat', label: 'Combat' },
+  { id: 'social', label: 'Social' },
+  { id: 'seasons', label: 'Seasons' },
+  { id: 'skills', label: 'Skills' },
+  { id: 'quests', label: 'Quests' },
+];
+
+const seasons = [
+  { id: 'all', label: 'All Seasons' },
+  { id: 'spring', label: 'Spring' },
+  { id: 'summer', label: 'Summer' },
+  { id: 'fall', label: 'Fall' },
+  { id: 'winter', label: 'Winter' },
+];
+
+// Group guides by category
+const guidesByCategory: Record<string, typeof allGuides> = {};
+for (const guide of allGuides) {
+  const cat = guide.data.category;
+  if (!guidesByCategory[cat]) guidesByCategory[cat] = [];
+  guidesByCategory[cat].push(guide);
+}
+---
+
+<BaseLayout title="All Guides" description="Browse all Stardew Valley guides organized by category and season.">
+  <div class="container">
+    <div class="page-header">
+      <h1 class="page-title">All Guides</h1>
+      <p class="page-desc">Browse our complete collection of Stardew Valley guides, organized by category and season.</p>
+    </div>
+
+    <!-- Filter Bar -->
+    <div class="filter-bar">
+      <div class="filter-group">
+        <span class="filter-label">Category:</span>
+        <div class="filter-buttons">
+          {categories.map(cat => (
+            <a href={`#${cat.id}`} class="filter-btn" id={`filter-${cat.id}`}>{cat.label}</a>
+          ))}
+        </div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Season:</span>
+        <div class="filter-buttons">
+          {seasons.map(s => (
+            <a href={`#season-${s.id}`} class="filter-btn" id={`filter-season-${s.id}`}>{s.label}</a>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- All Guides -->
+    <section id="all" class="guide-section">
+      <h2 class="section-title">All Guides ({allGuides.length})</h2>
+      <div class="grid-3">
+        {allGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+            featured={guide.data.featured}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- Guides grouped by category -->
+    {categories.filter(c => c.id !== 'all').map(cat => {
+      const guides = guidesByCategory[cat.id];
+      if (!guides || guides.length === 0) return null;
+      return (
+        <section id={cat.id} class="guide-section">
+          <h2 class="section-title">{cat.label} ({guides.length})</h2>
+          <div class="grid-3">
+            {guides.map(guide => (
+              <GuideCard
+                title={guide.data.title}
+                description={guide.data.description}
+                slug={guide.id.replace(/\.md$/, '')}
+                category={guide.data.category}
+                season={guide.data.season}
+                difficulty={guide.data.difficulty}
+                featured={guide.data.featured}
+              />
+            ))}
+          </div>
+        </section>
+      );
+    })}
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .page-title {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .page-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+  }
+
+  .filter-bar {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.2rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .filter-group {
+    margin-bottom: 0.8rem;
+  }
+
+  .filter-group:last-child {
+    margin-bottom: 0;
+  }
+
+  .filter-label {
+    font-weight: 600;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-right: 0.5rem;
+  }
+
+  .filter-buttons {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+
+  .filter-btn {
+    padding: 0.3rem 0.8rem;
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--color-secondary);
+    color: var(--color-secondary);
+  }
+
+  .guide-section {
+    padding: 2rem 0;
+    scroll-margin-top: 80px;
+  }
+</style>

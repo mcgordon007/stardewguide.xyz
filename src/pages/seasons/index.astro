@@ -1,0 +1,286 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const seasonGuides = (await getCollection('guides')).filter(g => g.data.category === 'seasons' || ['spring-crops', 'summer-crops', 'fall-crops', 'winter-guide'].includes(g.id));
+---
+
+<BaseLayout title="Seasons Guide" description="Complete seasons guide for Stardew Valley - seasonal crops, activities, transitions, and planning tips for each season.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Seasons</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/seasons-banner.jpg" alt="Seasons Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Seasons Guide</h1>
+        <p class="hub-desc">
+          Each season in Stardew Valley lasts 28 days and brings unique crops, fish, forageables,
+        and events. Planning ahead for seasonal transitions is key to maximizing your farm's
+        productivity. Here you will find everything you need to know about each season.
+        </p>
+      </div>
+    </div>
+
+    <!-- Four Season Cards -->
+    <section class="section">
+      <h2 class="section-title">The Four Seasons</h2>
+      <div class="seasons-grid">
+        <div class="season-card card" style="border-top: 4px solid #53d8a8;">
+          <div class="season-header">
+            <span class="season-emoji">🌸</span>
+            <h3>Spring</h3>
+            <span class="season-dates">Days 1-28</span>
+          </div>
+          <ul class="season-list">
+            <li><strong>Forage:</strong> Daffodil, Leek, Dandelion, Wild Horseradish</li>
+            <li><strong>Crops:</strong> Parsnip, Potato, Cauliflower, Green Bean, Kale, Strawberry, Rhubarb</li>
+            <li><strong>Fish:</strong> Eel, Flounder, Halibut, Shad, Catfish, Walleye</li>
+            <li><strong>Festivals:</strong> Egg Festival (Day 13), Flower Dance (Day 24)</li>
+            <li><strong>Key Activity:</strong> Plant strawberries from Egg Festival, start clearing farm</li>
+          </ul>
+          <a href="/guides/spring-crops" class="season-link">Spring Crops Guide &rarr;</a>
+        </div>
+
+        <div class="season-card card" style="border-top: 4px solid #f5c542;">
+          <div class="season-header">
+            <span class="season-emoji">☀️</span>
+            <h3>Summer</h3>
+            <span class="season-dates">Days 1-28</span>
+          </div>
+          <ul class="season-list">
+            <li><strong>Forage:</strong> Grape, Spice Berry, Sweet Pea</li>
+            <li><strong>Crops:</strong> Melon, Blueberry, Tomato, Hot Pepper, Starfruit, Corn, Hops, Red Cabbage</li>
+            <li><strong>Fish:</strong> Octopus, Red Snapper, Tuna, Pufferfish, Tilapia</li>
+            <li><strong>Festivals:</strong> Luau (Day 11), Dance of the Moonlight Jellies (Day 28)</li>
+            <li><strong>Key Activity:</strong> Plant blueberries and melons, catch rare fish</li>
+          </ul>
+          <a href="/guides/summer-crops" class="season-link">Summer Crops Guide &rarr;</a>
+        </div>
+
+        <div class="season-card card" style="border-top: 4px solid #e94560;">
+          <div class="season-header">
+            <span class="season-emoji">🍂</span>
+            <h3>Fall</h3>
+            <span class="season-dates">Days 1-28</span>
+          </div>
+          <ul class="season-list">
+            <li><strong>Forage:</strong> Common Mushroom, Wild Plum, Hazelnut, Blackberry</li>
+            <li><strong>Crops:</strong> Pumpkin, Cranberry, Eggplant, Artichoke, Grape, Yam, Fairy Rose</li>
+            <li><strong>Fish:</strong> Salmon, Walleye, Albacore, Tiger Trout</li>
+            <li><strong>Festivals:</strong> Stardew Valley Fair (Day 16), Spirit's Eve (Day 27)</li>
+            <li><strong>Key Activity:</strong> Plant cranberries and pumpkins, prepare preserves</li>
+          </ul>
+          <a href="/guides/fall-crops" class="season-link">Fall Crops Guide &rarr;</a>
+        </div>
+
+        <div class="season-card card" style="border-top: 4px solid #6ec6ff;">
+          <div class="season-header">
+            <span class="season-emoji">❄️</span>
+            <h3>Winter</h3>
+            <span class="season-dates">Days 1-28</span>
+          </div>
+          <ul class="season-list">
+            <li><strong>Forage:</strong> Snow Yam, Winter Root, Crocus, Holly</li>
+            <li><strong>Crops:</strong> Fiber Seeds (only crop that grows in winter)</li>
+            <li><strong>Fish:</strong> Squid, Perch, Lingcod, Midnight Carp, Sea Cucumber</li>
+            <li><strong>Festivals:</strong> Feast of the Winter Star (Day 25)</li>
+            <li><strong>Key Activity:</strong> Upgrade tools, mine, fish, plan for spring</li>
+          </ul>
+          <a href="/guides/winter-guide" class="season-link">Winter Guide &rarr;</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Seasonal Transitions -->
+    <section class="section">
+      <h2 class="section-title">Seasonal Transitions</h2>
+      <div class="transition-info">
+        <div class="card">
+          <h3>Important Rules</h3>
+          <ul>
+            <li>Crops that are out of season will die when the new season begins (overnight between Day 28 and Day 1).</li>
+            <li>Indoor growing areas (Greenhouse, Garden Pots) allow any-season planting.</li>
+            <li>Fiber Seeds and Winter Seeds can grow outdoors during winter.</li>
+            <li>Forage items respawn each day in their respective season.</li>
+            <li>Fish availability changes with the season; some fish are only available in specific seasons.</li>
+            <li>Grass will not grow during winter unless you use the indoor barn/coop.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Season Guides -->
+    <section class="section">
+      <h2 class="section-title">Season Guides</h2>
+      <div class="grid-3">
+        {seasonGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .hub-header h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .seasons-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .season-card {
+    padding: 1.5rem;
+  }
+
+  .season-header {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .season-emoji {
+    font-size: 2.5rem;
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+
+  .season-header h3 {
+    font-family: var(--font-pixel);
+    font-size: 1.4rem;
+    color: var(--color-accent);
+  }
+
+  .season-dates {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+
+  .season-list {
+    list-style: none;
+    margin-bottom: 1rem;
+  }
+
+  .season-list li {
+    padding: 0.3rem 0;
+    font-size: 0.9rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .season-list li:last-child {
+    border-bottom: none;
+  }
+
+  .season-list strong {
+    color: var(--color-secondary);
+  }
+
+  .season-link {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  .transition-info {
+    max-width: 800px;
+  }
+
+  .transition-info h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.8rem;
+  }
+
+  .transition-info ul {
+    list-style: none;
+  }
+
+  .transition-info li {
+    padding: 0.4rem 0;
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .transition-info li:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: 768px) {
+    .seasons-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+</style>

@@ -1,0 +1,226 @@
+﻿---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const itemsGuides = (await getCollection('guides')).filter(g => g.data.category === 'items' || g.data.category === 'combat');
+
+const featuredGuides = [
+  'tools-upgrade-guide',
+  'weapons-armor-guide',
+  'rings-collection-guide'
+];
+
+const featuredItemsGuides = featuredGuides
+  .map(slug => itemsGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Items Guide" description="Tools, weapons, rings, armor, and collectibles guide for Stardew Valley.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Items</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/tools-upgrades.jpg" alt="Items Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Items Guide</h1>
+        <p class="hub-desc">
+          Tools, weapons, rings, armor, and collectibles - everything you need to
+          equip yourself for success in Stardew Valley. Master your tools, dominate
+          combat, and discover powerful item combinations.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Sub-Categories</h2>
+      <div class="grid-3">
+        <a href="/guides/tools-upgrade-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F527;</span>
+          <h3>Tools</h3>
+          <p>Hoe, Pickaxe, Axe, Watering Can, Scythe upgrades and enchantments.</p>
+        </a>
+        <a href="/guides/weapons-armor-guide" class="card sub-card">
+          <span class="sub-icon">&#x2694;&#xFE0F;</span>
+          <h3>Weapons</h3>
+          <p>Swords, daggers, clubs, slingshots - from Rusty Sword to Infinity Blade.</p>
+        </a>
+        <a href="/guides/weapons-armor-guide#armor-and-boots" class="card sub-card">
+          <span class="sub-icon">&#x1F6E1;&#xFE0F;</span>
+          <h3>Armor</h3>
+          <p>Boots, shirts, pants - defense, immunity, and special effects.</p>
+        </a>
+        <a href="/guides/rings-collection-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F48D;</span>
+          <h3>Rings</h3>
+          <p>All 30+ rings, their effects, and best combinations for forging.</p>
+        </a>
+        <a href="/guides/adventurers-guild-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3A9;</span>
+          <h3>Hats</h3>
+          <p>Over 40 cosmetic hats to collect from various achievements.</p>
+        </a>
+        <a href="/guides/rings-collection-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F462;</span>
+          <h3>Boots</h3>
+          <p>Defense and immunity bonuses - from Sneakers to Space Boots.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Tool Upgrade Table -->
+    <section class="section">
+      <h2 class="section-title">Tool Upgrade Costs</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Upgrade Level</th>
+            <th>Material Cost</th>
+            <th>Gold Cost</th>
+            <th>Days to Upgrade</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Copper</td>
+            <td>5 Copper Bars</td>
+            <td>2,000g</td>
+            <td>2 days</td>
+          </tr>
+          <tr>
+            <td>Steel</td>
+            <td>5 Iron Bars</td>
+            <td>5,000g</td>
+            <td>2 days</td>
+          </tr>
+          <tr>
+            <td>Gold</td>
+            <td>5 Gold Bars</td>
+            <td>10,000g</td>
+            <td>3 days</td>
+          </tr>
+          <tr>
+            <td>Iridium</td>
+            <td>5 Iridium Bars</td>
+            <td>25,000g</td>
+            <td>4 days</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Items Guides</h2>
+      <div class="grid-3">
+        {featuredItemsGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- All Items Guides -->
+    <section class="section">
+      <h2 class="section-title">All Items Guides</h2>
+      <div class="grid-3">
+        {itemsGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+</style>

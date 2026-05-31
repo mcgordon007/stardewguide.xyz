@@ -1,0 +1,221 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const fishingGuides = (await getCollection('guides')).filter(g => g.data.category === 'fishing');
+---
+
+<BaseLayout title="Fishing Guide" description="Complete fishing guide for Stardew Valley - fish species, fishing mechanics, poles, bait, tackle, and seasonal availability.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Fishing</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/fishing-banner.jpg" alt="Fishing Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Fishing Guide</h1>
+        <p class="hub-desc">
+          Fishing is both a relaxing pastime and a lucrative activity in Stardew Valley.
+        Cast your line into rivers, lakes, the ocean, and even the mines. With the right
+        skill and equipment, you can catch over 80 different fish species, including five
+        legendary fish.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Sub-Categories</h2>
+      <div class="grid-4">
+        <a href="/guides/fishing-guide" class="card sub-card">
+          <span class="sub-icon">🐟</span>
+          <h3>Fish List</h3>
+          <p>Complete fish catalog with locations and seasons.</p>
+        </a>
+        <a href="/guides/fishing-guide#fishing-poles" class="card sub-card">
+          <span class="sub-icon">🎣</span>
+          <h3>Fishing Poles</h3>
+          <p>Bamboo, Fiberglass, and Iridium pole progression.</p>
+        </a>
+        <a href="/guides/fishing-guide#bait-and-tackle" class="card sub-card">
+          <span class="sub-icon">🪱</span>
+          <h3>Bait & Tackle</h3>
+          <p>Bait types, tackle options, and their effects.</p>
+        </a>
+        <a href="/guides/fishing-guide#crab-pots" class="card sub-card">
+          <span class="sub-icon">🦀</span>
+          <h3>Crab Pots</h3>
+          <p>Passive fishing with crab pots and bait.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Seasonal Fish Availability -->
+    <section class="section">
+      <h2 class="section-title">Seasonal Fish Availability</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Season</th>
+            <th>River</th>
+            <th>Lake</th>
+            <th>Ocean</th>
+            <th>Special</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong style="color:#53d8a8">Spring</strong></td>
+            <td>Catfish, Eel, Shad, Tiger Trout</td>
+            <td>Largemouth Bass, Walleye</td>
+            <td>Sardine, Tuna, Red Snapper, Herring</td>
+            <td>Flounder (night), Legend (Spring 5)</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#f5c542">Summer</strong></td>
+            <td>Catfish, Eel, Shad, Tiger Trout</td>
+            <td>Largemouth Bass, Walleye</td>
+            <td>Tuna, Red Snapper, Tilapia, Octopus</td>
+            <td>Pufferfish (AM), Midnight Carp (night)</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#e94560">Fall</strong></td>
+            <td>Salmon, Walleye, Tiger Trout</td>
+            <td>Largemouth Bass</td>
+            <td>Sardine, Tuna, Red Snapper, Albacore</td>
+            <td>Salmon (river, 6AM-6PM)</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#6ec6ff">Winter</strong></td>
+            <td>Squid, Perch, Lingcod</td>
+            <td>Largemouth Bass</td>
+            <td>Sea Cucumber, Squid, Midnight Carp</td>
+            <td>Flounder (AM), Walleye (night)</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="table-note">All-season fish like Carp, Bullhead, and Sunfish can be caught year-round in various locations.</p>
+    </section>
+
+    <!-- Fishing Guides -->
+    <section class="section">
+      <h2 class="section-title">Fishing Guides</h2>
+      <div class="grid-3">
+        {fishingGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .hub-header h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+
+  .table-note {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    font-style: italic;
+  }
+
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+</style>

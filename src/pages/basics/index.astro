@@ -1,0 +1,176 @@
+﻿---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const basicsGuides = (await getCollection('guides')).filter(g => g.data.category === 'basics');
+
+const featuredGuides = [
+  'getting-started',
+  'year-one-guide',
+  'money-making-guide',
+  'perfection-guide',
+  'achievements-guide',
+  'tv-channels-guide',
+  'luck-system-guide'
+];
+
+const featuredBasicsGuides = featuredGuides
+  .map(slug => basicsGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Basics Guide" description="Getting Started, Year One, Money Making, Perfection, Achievements, TV Channels, Luck System and more basics for Stardew Valley.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Basics</span>
+    </div>
+
+    <div class="hub-header">
+      <h1>Basics Guide</h1>
+      <p class="hub-desc">
+        Essential guides for new and experienced players alike. Learn the fundamentals of
+        Stardew Valley, from your first day on the farm to achieving 100% Perfection.
+        Master money-making strategies, understand game mechanics, and unlock every achievement.
+      </p>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Essential Topics</h2>
+      <div class="grid-3">
+        <a href="/guides/getting-started" class="card sub-card">
+          <span class="sub-icon">&#x1F3E0;</span>
+          <h3>Getting Started</h3>
+          <p>Your first steps in Stardew Valley - basic controls, tools, and early game tips.</p>
+        </a>
+        <a href="/guides/year-one-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F4C5;</span>
+          <h3>Year One</h3>
+          <p>Complete walkthrough for your first year - what to do each season.</p>
+        </a>
+        <a href="/guides/money-making-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F4B0;</span>
+          <h3>Money Making</h3>
+          <p>Best strategies for earning gold - crops, artisan goods, and more.</p>
+        </a>
+        <a href="/guides/perfection-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3C6;</span>
+          <h3>Perfection</h3>
+          <p>Achieve 100% completion - all requirements and rewards explained.</p>
+        </a>
+        <a href="/guides/achievements-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3AF;</span>
+          <h3>Achievements</h3>
+          <p>All Steam achievements and how to unlock them.</p>
+        </a>
+        <a href="/guides/tv-channels-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F4FA;</span>
+          <h3>TV Channels</h3>
+          <p>Living Off The Land, Queen of Sauce, and fortune teller.</p>
+        </a>
+        <a href="/guides/luck-system-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F340;</span>
+          <h3>Luck System</h3>
+          <p>Understanding daily luck and how it affects gameplay.</p>
+        </a>
+        <a href="/guides/museum-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3DB;&#xFE0F;</span>
+          <h3>Museum</h3>
+          <p>All 95 artifacts and minerals - locations and rewards.</p>
+        </a>
+        <a href="/guides/secret-notes-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F4DD;</span>
+          <h3>Secret Notes</h3>
+          <p>All 25 secret notes explained with solutions.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Basics Guides</h2>
+      <div class="grid-3">
+        {featuredBasicsGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- All Basics Guides -->
+    <section class="section">
+      <h2 class="section-title">All Basics Guides</h2>
+      <div class="grid-3">
+        {basicsGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .hub-header h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+</style>

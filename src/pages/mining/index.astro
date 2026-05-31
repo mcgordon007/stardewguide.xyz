@@ -1,0 +1,238 @@
+﻿---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const miningGuides = (await getCollection('guides')).filter(g => g.data.category === 'mining');
+
+const featuredGuides = [
+  'volcano-dungeon-guide',
+  'weapons-armor-guide',
+  'mining-guide'
+];
+
+const featuredMiningGuides = featuredGuides
+  .map(slug => miningGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Mining Guide" description="Complete mining guide for Stardew Valley - The Mines, Skull Cavern, Volcano Dungeon, geodes, ores, and mining strategy.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Mining</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/mining-banner.jpg" alt="Mining Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Mining Guide</h1>
+        <p class="hub-desc">
+          Delve deep underground to uncover precious ores, gems, and artifacts. The Mines offer
+        120 levels of increasingly challenging exploration, while the Skull Cavern provides
+        endless danger and reward. Master the mining skill to unlock powerful professions
+        and discover rare minerals.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Sub-Categories</h2>
+      <div class="grid-4">
+        <a href="/guides/mining-guide#the-mines" class="card sub-card">
+          <span class="sub-icon">&#x26CF;&#xFE0F;</span>
+          <h3>The Mines</h3>
+          <p>120 levels of ore, monsters, and treasure.</p>
+        </a>
+        <a href="/guides/mining-guide#skull-cavern" class="card sub-card">
+          <span class="sub-icon">&#x1F480;</span>
+          <h3>Skull Cavern</h3>
+          <p>Endless danger with iridium ore and prismatic shards.</p>
+        </a>
+        <a href="/guides/volcano-dungeon-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F30B;</span>
+          <h3>Volcano Dungeon</h3>
+          <p>Ginger Island's fiery dungeon with Dragon Tooth items.</p>
+        </a>
+        <a href="/guides/mining-guide#geodes" class="card sub-card">
+          <span class="sub-icon">&#x1F48E;</span>
+          <h3>Geodes</h3>
+          <p>Breaking open geodes for minerals and artifacts.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Mining Skill Overview -->
+    <section class="section">
+      <h2 class="section-title">Mining Skill Overview</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Level</th>
+            <th>Unlock</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Level 1</td><td>Pickaxe ability (unlocked at start)</td></tr>
+          <tr><td>Level 2</td><td>+1 ore per vein</td></tr>
+          <tr><td>Level 3</td><td>Coal can be found in rocks</td></tr>
+          <tr><td>Level 4</td><td>Double chance to find geodes</td></tr>
+          <tr><td>Level 5</td><td>Choose profession: Miner (+1 ore per vein) or Geologist (chance for gems)</td></tr>
+          <tr><td>Level 10</td><td>Miner: Blacksmith (ore sells 50% more) or Prospector (double coal chance). Geologist: Excavator (double geode finds) or Gemologist (gems worth 30% more)</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Mine Levels Overview -->
+    <section class="section">
+      <h2 class="section-title">Mine Levels Overview</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Levels</th>
+            <th>Ores Available</th>
+            <th>Monsters</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1-39</td>
+            <td>Copper</td>
+            <td>Green Slimes, Bugs, Grubs, Cave Flies</td>
+            <td>Easy levels, good for beginners</td>
+          </tr>
+          <tr>
+            <td>40-79</td>
+            <td>Iron, Copper</td>
+            <td>Dust Sprites, Serpents, Shadow Brutes</td>
+            <td>Elevator unlocks at level 40</td>
+          </tr>
+          <tr>
+            <td>80-119</td>
+            <td>Gold, Iron, Copper</td>
+            <td>Shadow Shamans, Mummies, Serpents</td>
+            <td>Most dangerous mine levels</td>
+          </tr>
+          <tr>
+            <td>120</td>
+            <td>Gold, Iridium</td>
+            <td>None (boss room)</td>
+            <td>Skull Key unlocks Skull Cavern</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Mining Guides</h2>
+      <div class="grid-3">
+        {featuredMiningGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- Mining Guides -->
+    <section class="section">
+      <h2 class="section-title">All Mining Guides</h2>
+      <div class="grid-3">
+        {miningGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+</style>

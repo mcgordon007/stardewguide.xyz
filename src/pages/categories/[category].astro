@@ -1,0 +1,141 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allGuides = await getCollection('guides');
+  const categories = [...new Set(allGuides.map(g => g.data.category))];
+  return categories.map(category => ({
+    params: { category },
+    props: { category, guides: allGuides.filter(g => g.data.category === category) },
+  }));
+}
+
+const { category, guides } = Astro.props;
+
+const categoryInfo: Record<string, { label: string; icon: string; description: string }> = {
+  basics: {
+    label: 'Basics',
+    icon: '📖',
+    description: 'Getting started guides, walkthroughs, and essential tips for new players.',
+  },
+  farming: {
+    label: 'Farming',
+    icon: '🌾',
+    description: 'Everything about crops, animals, fruit trees, artisan goods, and greenhouse management.',
+  },
+  fishing: {
+    label: 'Fishing',
+    icon: '🎣',
+    description: 'Fish species, fishing mechanics, poles, bait, tackle, and crab pots.',
+  },
+  mining: {
+    label: 'Mining',
+    icon: '⛏️',
+    description: 'The Mines, Skull Cavern, Volcano Dungeon, geodes, ores, and mining strategy.',
+  },
+  foraging: {
+    label: 'Foraging',
+    icon: '🍄',
+    description: 'Wild items, seasonal foraging, trees, tapper products, and foraging skill.',
+  },
+  combat: {
+    label: 'Combat',
+    icon: '⚔️',
+    description: 'Weapons, armor, rings, monster types, combat skill, and dungeon strategy.',
+  },
+  social: {
+    label: 'Social',
+    icon: '💕',
+    description: 'Villagers, friendship, marriage, festivals, children, and community events.',
+  },
+  seasons: {
+    label: 'Seasons',
+    icon: '📅',
+    description: 'Seasonal guides, transition tips, and season-specific activities.',
+  },
+  skills: {
+    label: 'Skills',
+    icon: '⭐',
+    description: 'All five skills, profession choices, level progression, and mastery system.',
+  },
+  quests: {
+    label: 'Quests',
+    icon: '📋',
+    description: 'Story quests, Help Wanted board, Special Orders, and the Community Center.',
+  },
+};
+
+const info = categoryInfo[category] || { label: category, icon: '📖', description: '' };
+---
+
+<BaseLayout title={`${info.label} Guides`} description={info.description}>
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <a href="/guides/">Guides</a>
+      <span>/</span>
+      <span>{info.label}</span>
+    </div>
+
+    <div class="category-header">
+      <span class="category-icon">{info.icon}</span>
+      <h1 class="category-title">{info.label} Guides</h1>
+      <p class="category-desc">{info.description}</p>
+    </div>
+
+    <div class="grid-3">
+      {guides.map(guide => (
+        <GuideCard
+          title={guide.data.title}
+          description={guide.data.description}
+          slug={guide.id.replace(/\.md$/, '')}
+          category={guide.data.category}
+          season={guide.data.season}
+          difficulty={guide.data.difficulty}
+          featured={guide.data.featured}
+        />
+      ))}
+    </div>
+
+    {guides.length === 0 && (
+      <p class="empty-state">No guides found in this category yet. Check back soon!</p>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .category-header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .category-icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .category-title {
+    font-family: var(--font-pixel);
+    font-size: 2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .category-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .empty-state {
+    text-align: center;
+    color: var(--color-text-muted);
+    padding: 3rem;
+    font-size: 1.1rem;
+  }
+</style>

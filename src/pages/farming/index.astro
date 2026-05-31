@@ -1,0 +1,249 @@
+﻿---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const farmingGuides = (await getCollection('guides')).filter(g => g.data.category === 'farming');
+
+const featuredGuides = [
+  'animals-guide',
+  'fruit-trees-guide',
+  'crops-guide',
+  'artisan-goods',
+  'greenhouse-guide'
+];
+
+const featuredFarmingGuides = featuredGuides
+  .map(slug => farmingGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Farming Guide" description="Complete farming guide for Stardew Valley - crops, animals, fruit trees, artisan goods, and greenhouse management.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Farming</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/farming-banner.jpg" alt="Farming Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Farming Guide</h1>
+        <p class="hub-desc">
+          Farming is one of the core activities in Stardew Valley. Plant crops, raise animals,
+        process artisan goods, and build a thriving agricultural empire. This section covers
+        everything you need to know about making the most of your farm.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Sub-Categories</h2>
+      <div class="grid-3">
+        <a href="/guides/crops-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F331;</span>
+          <h3>Crops</h3>
+          <p>Complete crop guide for all seasons with profit calculations and growth times.</p>
+        </a>
+        <a href="/guides/animals-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F404;</span>
+          <h3>Animals</h3>
+          <p>Chickens, cows, pigs, and more - housing, products, and happiness.</p>
+        </a>
+        <a href="/guides/fruit-trees-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F333;</span>
+          <h3>Fruit Trees</h3>
+          <p>All fruit trees, growth stages, tapper products, and wine profitability.</p>
+        </a>
+        <a href="/guides/spring-crops" class="card sub-card">
+          <span class="sub-icon">&#x1F338;</span>
+          <h3>Spring Crops</h3>
+          <p>Parsnip, potato, cauliflower, kale, strawberry, and more.</p>
+        </a>
+        <a href="/guides/summer-crops" class="card sub-card">
+          <span class="sub-icon">&#x2600;&#xFE0F;</span>
+          <h3>Summer Crops</h3>
+          <p>Melon, blueberry, tomato, starfruit, hops, and more.</p>
+        </a>
+        <a href="/guides/fall-crops" class="card sub-card">
+          <span class="sub-icon">&#x1F342;</span>
+          <h3>Fall Crops</h3>
+          <p>Pumpkin, cranberry, eggplant, artichoke, grape, and more.</p>
+        </a>
+        <a href="/guides/artisan-goods" class="card sub-card">
+          <span class="sub-icon">&#x1F9C0;</span>
+          <h3>Artisan Goods</h3>
+          <p>Kegs, preserves jars, cheese presses, and processing profitability.</p>
+        </a>
+        <a href="/guides/greenhouse-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3E1;</span>
+          <h3>Greenhouse</h3>
+          <p>Unlocking and optimizing the greenhouse for year-round farming.</p>
+        </a>
+        <a href="/guides/ginger-island-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3DD;&#xFE0F;</span>
+          <h3>Ginger Island</h3>
+          <p>Year-round tropical farming on Ginger Island.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Quick Stats -->
+    <section class="section">
+      <h2 class="section-title">Farming Quick Stats</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Season</th>
+            <th>Crop Count</th>
+            <th>Most Profitable Crop</th>
+            <th>Best Gold/Day</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Spring</td>
+            <td>13 crops</td>
+            <td>Strawberry (Wine)</td>
+            <td>~150g/day (raw)</td>
+          </tr>
+          <tr>
+            <td>Summer</td>
+            <td>16 crops</td>
+            <td>Starfruit (Wine)</td>
+            <td>~375g/day (raw)</td>
+          </tr>
+          <tr>
+            <td>Fall</td>
+            <td>14 crops</td>
+            <td>Cranberry (Preserves)</td>
+            <td>~165g/day (raw)</td>
+          </tr>
+          <tr>
+            <td>Winter</td>
+            <td>1 crop (Fiber Seeds)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+          </tr>
+          <tr>
+            <td>Greenhouse</td>
+            <td>All seasons</td>
+            <td>Ancient Fruit (Wine)</td>
+            <td>~550g/day</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Farming Guides</h2>
+      <div class="grid-3">
+        {featuredFarmingGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- All Farming Guides -->
+    <section class="section">
+      <h2 class="section-title">All Farming Guides</h2>
+      <div class="grid-3">
+        {farmingGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+</style>

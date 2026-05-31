@@ -1,0 +1,305 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const socialGuides = (await getCollection('guides')).filter(g => g.data.category === 'social');
+
+const featuredSlugs = [
+  'pelican-town-guide',
+  'wizard-tower-guide',
+  'npc-friendship',
+  'marriage-candidates'
+];
+
+const featuredGuides = featuredSlugs
+  .map(slug => socialGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+
+const marriageCandidates = [
+  { name: 'Abigail', gender: 'Female', icon: '💜', description: 'Adventurous and loves the supernatural. Lives at the general store.', loved: 'Amethyst, Chocolate, Pumpkin Pie, Spicy Eel' },
+  { name: 'Alex', gender: 'Male', icon: '⚽', description: 'Athletic and dreams of becoming a professional gridball player.', loved: 'Complete Breakfast, Salmon Dinner, Goat Cheese' },
+  { name: 'Elliott', gender: 'Male', icon: '📝', description: 'A poetic writer living alone on the beach.', loved: 'Duck Feather, Lobster, Pomegranate, Crab Cakes' },
+  { name: 'Emily', gender: 'Female', icon: '💃', description: 'Creative, spiritual, and works at the saloon.', loved: 'Aquamarine, Cloth, Emerald, Ruby, Topaz, Wool' },
+  { name: 'Haley', gender: 'Female', icon: '📷', description: 'Fashion-conscious and loves photography.', loved: 'Coconut, Fruit Salad, Pink Cake, Sunflower' },
+  { name: 'Harvey', gender: 'Male', icon: '🏥', description: 'The town doctor. Calm and caring.', loved: 'Coffee, Pickled Herring, Truffle, Truffle Oil' },
+  { name: 'Leah', gender: 'Female', icon: '🎨', description: 'An artist who loves nature and sculpture.', loved: 'Goat Cheese, Salad, Truffle, Wine, Poppyseed Muffin' },
+  { name: 'Maru', gender: 'Female', icon: '🔬', description: 'Scientific-minded and works as an inventor.', loved: 'Cauliflower, Cheese, Coffee, Miners Treat' },
+  { name: 'Sam', gender: 'Male', icon: '🎸', description: 'A musician who plays guitar and loves skateboarding.', loved: 'Cactus Fruit, Pizza, Tiger Slime' },
+  { name: 'Sebastian', gender: 'Male', icon: '💻', description: 'Introverted programmer who works from home.', loved: 'Frozen Tear, Obsidian, Pumpkin Soup, Sashimi, Void Egg' },
+  { name: 'Shane', gender: 'Male', icon: '🍺', description: 'Works at Joja Mart. Loves chickens.', loved: 'Beer, Hot Pepper, Pizza, Pepper Poppers' },
+];
+---
+
+<BaseLayout title="Social Guide" description="Build friendships, find love, and participate in festivals in Stardew Valley.">
+  <!-- Hero -->
+  <section class="category-hero" style={`background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('/images/social-banner.jpg');`}>
+    <div class="container">
+      <div class="hero-content">
+        <span class="hero-badge">
+          <span class="badge-icon">💕</span>
+          <span class="badge-text">Social</span>
+        </span>
+        <h1 class="hero-title">Social Guide</h1>
+        <p class="hero-desc">Build meaningful relationships with Pelican Town's residents. From friendship to marriage, festivals to heart events.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="container">
+    <!-- Marriage Candidates Section -->
+    <section class="content-section">
+      <div class="section-header">
+        <h2 class="section-title">Marriage Candidates</h2>
+        <p class="section-subtitle">12 eligible candidates - 6 men and 6 women. Each has unique heart events and loved gifts.</p>
+      </div>
+
+      <div class="candidates-grid">
+        {marriageCandidates.map(candidate => (
+          <div class="candidate-card">
+            <div class="candidate-header">
+              <span class="candidate-icon">{candidate.icon}</span>
+              <div class="candidate-info">
+                <h3 class="candidate-name">{candidate.name}</h3>
+                <span class="candidate-gender">{candidate.gender}</span>
+              </div>
+            </div>
+            <p class="candidate-desc">{candidate.description}</p>
+            <div class="candidate-loved">
+              <span class="loved-label">Loves:</span>
+              <span class="loved-items">{candidate.loved}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Social Guides Section -->
+    <section class="content-section">
+      <div class="section-header">
+        <h2 class="section-title">Social Guides</h2>
+        <p class="section-subtitle">Learn more about NPCs, friendship, and events</p>
+      </div>
+
+      <div class="guides-grid">
+        {featuredGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  /* Category Hero */
+  .category-hero {
+    position: relative;
+    padding: var(--space-16) 0;
+    background-size: cover;
+    background-position: center;
+    margin-top: var(--header-height);
+  }
+
+  .hero-content {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    background: rgba(212, 132, 94, 0.9);
+    padding: var(--space-2) var(--space-4);
+    color: var(--color-text-light);
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    border-radius: var(--radius-full);
+    margin-bottom: var(--space-4);
+  }
+
+  .badge-icon {
+    font-size: 1rem;
+  }
+
+  .hero-title {
+    font-family: var(--font-family);
+    font-size: var(--text-4xl);
+    font-weight: 700;
+    color: var(--color-text-light);
+    margin-bottom: var(--space-3);
+  }
+
+  .hero-desc {
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.7;
+    margin: 0;
+  }
+
+  /* Content Section */
+  .content-section {
+    padding: var(--space-16) 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .content-section:last-child {
+    border-bottom: none;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: var(--space-10);
+  }
+
+  .section-title {
+    font-family: var(--font-family);
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: var(--space-2);
+  }
+
+  .section-subtitle {
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  /* Candidates Grid */
+  .candidates-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+
+  .candidate-card {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-6);
+    box-shadow: var(--shadow-md);
+    transition: all var(--transition-base);
+  }
+
+  .candidate-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--color-primary-light);
+  }
+
+  .candidate-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+
+  .candidate-icon {
+    font-size: 2rem;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-warm);
+    border-radius: var(--radius-md);
+  }
+
+  .candidate-info {
+    flex: 1;
+  }
+
+  .candidate-name {
+    font-family: var(--font-family);
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0 0 var(--space-1) 0;
+  }
+
+  .candidate-gender {
+    font-family: var(--font-family);
+    font-size: var(--text-xs);
+    font-weight: 500;
+    background: var(--color-primary);
+    color: var(--color-text-light);
+    padding: var(--space-1) var(--space-2);
+    border-radius: var(--radius-sm);
+  }
+
+  .candidate-desc {
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    color: var(--color-text-secondary);
+    line-height: 1.7;
+    margin-bottom: var(--space-4);
+  }
+
+  .candidate-loved {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+
+  .loved-label {
+    font-family: var(--font-family);
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--color-accent);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .loved-items {
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    color: var(--color-text);
+    background: var(--color-bg);
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+
+  /* Guides Grid */
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .category-hero {
+      padding: var(--space-12) 0;
+    }
+
+    .hero-title {
+      font-size: var(--text-2xl);
+    }
+
+    .hero-desc {
+      font-size: var(--text-base);
+    }
+
+    .candidates-grid,
+    .guides-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .content-section {
+      padding: var(--space-12) 0;
+    }
+  }
+</style>
