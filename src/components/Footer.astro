@@ -95,6 +95,11 @@ const footerLinks = {
       <p class="disclaimer">
         Stardew Valley by <a href="https://www.stardewvalley.net/" target="_blank" rel="noopener noreferrer">ConcernedApe</a>. Fan-made project.
       </p>
+      <div class="legal-links">
+        <a href="/privacy/" class="legal-link">Privacy Policy</a>
+        <span class="legal-separator">|</span>
+        <a href="/terms/" class="legal-link">Terms of Service</a>
+      </div>
     </div>
   </div>
 
@@ -238,6 +243,31 @@ const footerLinks = {
     color: var(--color-primary-dark);
   }
 
+  /* Legal Links */
+  .legal-links {
+    margin-top: var(--space-3);
+    font-family: var(--font-family);
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+  }
+
+  .legal-link {
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    padding: var(--space-1) var(--space-2);
+    transition: color var(--transition-fast);
+  }
+
+  .legal-link:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .legal-separator {
+    margin: 0 var(--space-1);
+    color: var(--color-border);
+  }
+
   /* Back to Top Button */
   .back-to-top {
     position: fixed;
@@ -354,3 +384,4 @@ const footerLinks = {
     });
   }
 </script>
+
