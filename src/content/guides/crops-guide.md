@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Crop Guide - Seeds, Profit & Growth Times"
 description: "Complete crop guide for Stardew Valley with seed costs, sell prices, growth times, fertilizer comparison, giant crops, and gold per day calculations for all seasons."
 category: farming
@@ -82,7 +82,7 @@ This gives a more accurate picture of crops like strawberries, blueberries, and 
 | Spinach | 20g | 20g | 6 | 0.00g | - | Pierre (Year 2+) |
 | Amaranth | 70g | 70g | 7 | 0.00g | - | Pierre |
 
-**Best Fall Crop:** Cranberry has the highest total profit per seed due to multiple harvests with 2 berries each. With 6 harvests of 2 berries, a single cranberry plant yields 1,560g minus the 240g seed cost for 1,320g net profit. Pumpkin has the best single-harvest gold per day at 16.92g.
+**Best Fall Crop:** Cranberry has the highest total profit per seed due to multiple harvests with 2 berries each. With 6 harvests of 2 berries, a single cranberry plant yields 1,560g minus the 240g seed cost for 1,320g net profit. Pumpkin has the best single-harvest gold per day at 16.92g. Broccoli (1.6) provides multiple harvests with regrowth every 4 days.`n`n## What is the Best Winter Crop?`n`n| Crop | Seed Cost | Sell Price | Growth Days | Gold/Day | Regrowth | Seed Source |`n|------|-----------|------------|-------------|----------|----------|-------------|`n| Powdermelon | 30g | 60g | 7 | 4.29g | - | Dig up Powdermelon Seeds (Winter) |`n`n**Best Winter Crop:** Powdermelon (1.6) is the only outdoor winter crop. It takes 7 days to grow and can become a giant crop when planted in 3x3 patterns. Seeds are found by digging in winter.
 
 ## How Do Fertilizers Affect Crop Quality?
 
