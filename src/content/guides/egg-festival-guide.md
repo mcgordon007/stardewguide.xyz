@@ -95,3 +95,4 @@ One of the most important features of the Egg Festival is Pierre's exclusive sho
 - You can only buy Strawberry Seeds during this festival — they are not available at Pierre's shop at any other time.
 - The Straw Hat reward is a unique cosmetic item that can only be obtained by winning the egg hunt for the first time.
 
+
