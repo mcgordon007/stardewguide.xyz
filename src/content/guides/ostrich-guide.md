@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Ostrich Guide - Eggs, Incubation & Products"
 description: "Complete guide to Ostriches in Stardew Valley. Learn how to find Ostrich Eggs, incubate them, and get valuable Ostrich Eggs and feathers."
 category: farming
@@ -17,7 +17,7 @@ Ostriches are exotic barn animals introduced in Stardew Valley 1.5 as part of th
 
 ### Deluxe Barn
 
-Ostriches require a **Deluxe Barn** to be housed. You cannot keep ostriches in lower-tier barns.
+Ostriches can be housed in any level of Barn (Barn, Big Barn, or Deluxe Barn).
 
 | Barn Level | Capacity | Animals | Cost |
 |------------|----------|---------|------|
@@ -59,8 +59,8 @@ Place an Ostrich Egg in the Ostrich Incubator to begin hatching:
 
 | Condition | Incubation Time |
 |-----------|----------------|
-| Normal | 15 days |
-| With Coopmaster Profession | 7.5 days |
+| Normal | ~9 days 10 hours |
+| With Coopmaster Profession | ~4 days 18 hours |
 
 ### Coopmaster Profession
 
@@ -69,7 +69,7 @@ The **Coopmaster** profession (Farming Level 10, Coop path) halves incubation ti
 ### Hatching Process
 
 1. Place the Ostrich Egg in an Ostrich Incubator
-2. Wait for the incubation period (15 days, or 7.5 days with Coopmaster)
+2. Wait for the incubation period (~9 days 10 hours, or ~4 days 18 hours with Coopmaster)
 3. A baby ostrich will hatch
 4. Baby ostriches take several days to mature into adults
 
