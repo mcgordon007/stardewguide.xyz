@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Luck System Guide - Daily Luck, Special Charm, and Buffs"
 description: "Complete guide to the Luck system in Stardew Valley. Learn about Daily Luck, Special Charm, food buffs, ring bonuses, and how luck affects mining, fishing, foraging, and crops."
-category: "basics"
+category: items
 difficulty: "intermediate"
 season: "all"
 updated: 2026-05-29
@@ -404,6 +404,7 @@ Understanding and optimizing luck is essential for efficient gameplay in Stardew
 Remember, luck is just one factor in success. Skill, preparation, and persistence are equally important. Use this guide to maximize your lucky days, but don't let bad luck stop you from enjoying everything Stardew Valley has to offer!
 
 May the spirits smile upon your farm!
+
 
 
 

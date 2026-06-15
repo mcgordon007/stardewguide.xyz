@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley TV Channels Guide - All 6 Channels Explained"
 description: "Complete guide to all 6 TV channels in Stardew Valley. Weather, Fortune, Livin' Off The Land, Queen of Sauce recipes, F2 Telescope, and the mysterious ??? channel."
-category: "basics"
+category: items
 difficulty: "beginner"
 season: "all"
 updated: 2026-05-29
@@ -433,6 +433,7 @@ The TV is an essential tool for every Stardew Valley player. From planning your 
 Make it a habit to check the Weather and Fortune Teller channels every morning, never miss a Queen of Sauce episode on Sunday, and use Livin' Off The Land to stay informed about seasonal opportunities. While the F2 Telescope and ??? channels are more for flavor, they add depth and mystery to the game world.
 
 Happy viewing, and may the Queen of Sauce guide your culinary adventures!
+
 
 
 

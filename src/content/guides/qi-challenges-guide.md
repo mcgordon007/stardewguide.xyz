@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Mr. Qi Challenges Guide - Qi Gems and Special Orders"
 description: "Complete guide to Mr. Qi's challenges in Stardew Valley. Qi's Walnut Room, Special Orders board, Qi Gems, and best challenges for maximum rewards."
-category: "quests"
+category: items
 difficulty: "advanced"
 season: "all"
 updated: 2026-05-29
@@ -417,6 +417,7 @@ Mr. Qi's challenges represent the pinnacle of Stardew Valley's end-game content.
 Remember, these challenges are designed to be difficult. Don't get discouraged if you can't complete them all immediately. Build up your resources, plan your strategies, and tackle them one at a time. The satisfaction of earning those Qi Gems and purchasing the exclusive rewards is well worth the effort.
 
 Good luck, and may your Qi Gem count grow ever higher!
+
 
 
 

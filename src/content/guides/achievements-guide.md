@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Achievements Guide - All Steam Achievements"
 description: "Complete guide to all Steam achievements in Stardew Valley (45+ as of 1.6). Learn how to unlock each achievement, secret achievements explained, and achievement rewards."
-category: "basics"
+category: items
 difficulty: "intermediate"
 season: "all"
 updated: 2026-05-29
@@ -339,6 +339,7 @@ Complete achievements unlock hats sold by the Hat Mouse in the abandoned house i
 Achieving all 40 Steam achievements in Stardew Valley is a testament to your mastery of the game. While some achievements come naturally through regular play, others require dedicated effort and planning. Use this guide to track your progress and develop strategies for the more challenging achievements. Remember, the journey is part of the fun - don't let achievement hunting ruin your enjoyment of this wonderful game!
 
 Good luck on your path to 100% completion!
+
 
 
 

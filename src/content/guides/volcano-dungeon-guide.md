@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Volcano Dungeon Guide - All 10 Levels and Forge"
 description: "Complete guide to the Volcano Dungeon on Ginger Island. All 10 levels, new monsters, Forge usage, Cinder Shards, and strategies for reaching the top."
-category: "mining"
+category: items
 difficulty: "advanced"
 season: "all"
 updated: 2026-05-29
@@ -520,6 +520,7 @@ The Volcano Dungeon represents some of the most challenging and rewarding conten
 Remember: preparation is key. Bring the right gear, plenty of supplies, and don't be afraid to take your time learning the dungeon's mechanics. The rewards - from Infinity Weapons to combined rings - are well worth the effort.
 
 Happy dungeon crawling!
+
 
 
 

@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Museum Guide - Complete Artifacts and Minerals Collection"
 description: "Complete guide to the Stardew Valley Museum. All 95 donations including artifacts and minerals, rewards, locations, and tips for completing the collection."
-category: "basics"
+category: items
 difficulty: "intermediate"
 season: "all"
 updated: 2026-05-29
@@ -344,6 +344,7 @@ While valuable to donate, Prismatic Shards have other uses:
 Completing the Museum collection is one of Stardew Valley's most rewarding challenges. The 95 donations require patience, exploration, and a bit of luck. With the strategies outlined in this guide, you'll be well on your way to earning that final Stardrop and the prestigious Stardew Hero Trophy. Remember to check those artifact spots daily and process every geode you find!
 
 Happy collecting!
+
 
 
 

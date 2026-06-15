@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Golden Walnuts Guide - All 130 Locations"
 description: "Complete guide to all 130 Golden Walnut locations on Ginger Island in Stardew Valley. Organized by area with puzzle solutions, fishing spots, and monster drops."
-category: "basics"
+category: items
 difficulty: "advanced"
 season: "all"
 updated: 2026-05-29
@@ -411,6 +411,7 @@ Collecting all 130 Golden Walnuts is a significant undertaking that requires exp
 Remember to check the island daily, as many walnut sources respawn. Use the parrot hints when you're stuck, and don't forget about the rainy-day exclusive content. With patience and persistence, you'll collect all 130 Golden Walnuts and unlock everything Ginger Island has to offer!
 
 Happy walnut hunting!
+
 
 
 

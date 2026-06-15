@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Adventurer's Guild Guide - Monster Eradication and Rewards"
 description: "Complete guide to the Adventurer's Guild in Stardew Valley. Learn how to unlock the guild, complete Monster Eradication Goals, and all weapon/armor/ring purchases."
-category: "combat"
+category: items
 difficulty: "intermediate"
 season: "all"
 updated: 2026-05-29
@@ -381,6 +381,7 @@ Completing all Monster Eradication Goals is required for 100% Perfection. This i
 The Adventurer's Guild is essential for any combat-focused player in Stardew Valley. The Monster Eradication Goals provide long-term objectives with valuable rewards, while Marlon's shop offers crucial equipment upgrades. Whether you're working toward Perfection or just want to become the ultimate monster hunter, the Adventurer's Guild has everything you need.
 
 Remember: The journey to completing all eradication goals is long, but the rewards - especially the rings - are well worth the effort. Happy hunting!
+
 
 
 

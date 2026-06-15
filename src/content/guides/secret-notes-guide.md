@@ -2,7 +2,7 @@
 date: 2026-05-29
 title: "Stardew Valley Secret Notes Guide - All 25 Notes Explained"
 description: "Complete guide to all 25 Secret Notes in Stardew Valley. Learn how to obtain them, solve their mysteries, and claim their rewards including the Rarecrow and Junimo Plush."
-category: "basics"
+category: items
 difficulty: "intermediate"
 season: "all"
 updated: 2026-05-29
@@ -420,6 +420,7 @@ Secret Notes add a layer of mystery and discovery to Stardew Valley. While many 
 Remember, patience is key - with 25 notes to collect and random drop chances, it may take time to complete your collection. But the rewards, from the Rarecrow to the Golden Walnuts, make the hunt worthwhile.
 
 Happy note hunting!
+
 
 
 
