@@ -1,62 +1,62 @@
-﻿---
-title: "Stardew Valley 电话指南 - 查询商店信息"
-description: "可查询商店营业时间和库存"
+---
+title: "Stardew Valley Telephone Guide - Shop Information Lookup"
+description: "Check shop business hours and inventory."
 category: items
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["电话", "Telephone", "商店查询", "马龙"]
+tags: ["Telephone", "shop lookup", "Marlon"]
 ---
 
-# Stardew Valley 电话 (Telephone) 指南
+# Stardew Valley Telephone Guide
 
-电话（Telephone）是《星露谷物语》中一种特殊物品，玩家可以通过它查询各个商店的营业时间和库存信息。
+The Telephone is a special item in Stardew Valley that allows the player to check the business hours and inventory information of various shops.
 
-## 基本信息
+## Basic Information
 
-- **来源**: 木匠的商店
-- **购买价格**: 2,000g
-- **售出价格**: 不可出售
+- **Source**: Carpenter's Shop
+- **Purchase Price**: 2,000g
+- **Selling Price**: Cannot be sold
 
-## 购买地点
+## Purchase Location
 
-在罗宾的木匠的商店花费 2,000g 购买。
+Purchase from Robin at the Carpenter's Shop for 2,000g.
 
-## 功能
+## Functions
 
-### 打电话查询商店
+### Calling Shops
 
-玩家可以打电话给以下商店老板：
+Players can call the following shop owners:
 
-| NPC | 可查询内容 |
-|-----|-----------|
-| 罗宾 | 木匠商店营业时间、库存、房屋升级费用、建筑升级费用 |
-| 克林特 | 铁匠铺营业时间、工具升级费用 |
-| 皮埃尔 | 杂货店营业时间、库存 |
-| 玛妮 | 牧场营业时间、牲畜价格 |
-| 格斯 | 星之果实餐吧营业时间、每日特色菜 |
+| NPC | Queryable Content |
+|-----|-------------------|
+| Robin | Carpenter's Shop business hours, inventory, house upgrade costs, building upgrade costs |
+| Clint | Blacksmith business hours, tool upgrade costs |
+| Pierre | General Store business hours, inventory |
+| Marnie | Ranch business hours, livestock prices |
+| Gus | Stardrop Saloon business hours, daily specials |
 
-### 马龙电话
+### Marlon's Telephone
 
-在击杀150个熔岩精灵后，可在吉尔处领取奖励：马龙的电话号码。此后可在农场中拨打马龙电话进行物品找回服务。
+After killing 150 Magma Sprites, you can claim a reward from Gil: Marlon's phone number. After that, you can call Marlon from your farm for item recovery services.
 
-### 接听电话
+### Receiving Calls
 
-电话也会偶尔接到随机来电，包括：
-- 文森特
-- 诈骗电话
-- 皮埃尔
-- 刘易斯
-- 帽子店老鼠
-- 外国人
-- 棕熊
-- 秘密来电
+The Telephone will also occasionally receive random calls, including:
+- Vincent
+- Scam calls
+- Pierre
+- Lewis
+- Hat Mouse
+- Foreigner
+- Brown Bear
+- Secret calls
 
-这些来电对游戏没有实质影响。
+These calls have no substantial effect on the game.
 
-## 小贴士
+## Tips
 
-- 电话是了解商店信息的便捷工具
-- 在计划购物前打电话确认营业时间和库存可以节省时间
-- 马龙的物品找回服务对找回丢失的重要物品非常有用
+- The Telephone is a convenient tool for understanding shop information.
+- Calling to confirm business hours and inventory before planning a shopping trip can save time.
+- Marlon's item recovery service is very useful for recovering lost important items.

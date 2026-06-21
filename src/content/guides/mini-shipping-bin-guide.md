@@ -1,50 +1,50 @@
-﻿---
-title: "Stardew Valley 迷你出货箱指南 - 便携出货"
-description: "可放置在农场内外的迷你出货箱"
+---
+title: "Stardew Valley Mini-Shipping Bin Guide - Portable Shipping"
+description: "A portable shipping bin that can be placed inside or outside the farm"
 category: items
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["迷你出货箱", "Mini-Shipping Bin", "出货", "特别任务"]
+tags: ["mini-shipping-bin", "shipping", "special orders"]
 ---
 
-# Stardew Valley 迷你出货箱 (Mini-Shipping Bin) 指南
+# Stardew Valley Mini-Shipping Bin Guide
 
-迷你出货箱（Mini-Shipping Bin）是《星露谷物语》中一种可被放置的物品，作为迷你版本的出货箱使用。
+The Mini-Shipping Bin is a placeable item in Stardew Valley that serves as a mini version of the shipping bin.
 
-## 基本信息
+## Basic Information
 
-- **来源**: 特别任务、齐先生的核桃房
-- **售出价格**: 不可出售
+- **Source**: Special Orders, Qi's Walnut Room
+- **Sell Price**: Cannot be sold
 
-## 获取方式
+## How to Obtain
 
-1. 完成特别任务中的「农作物订单」或「皮埃尔优选」之后可获得
-2. 从齐先生的核桃房购买，价格为 60 齐钻
+1. Obtain after completing the "Crop Order" or "Pierre's Prime" Special Order
+2. Purchase from Qi's Walnut Room for 60 Qi Gems
 
-## 功能特点
+## Features
 
-- 可以被放置在农场内或农场外
-- 与出货箱相似，迷你出货箱中的物品在一天结束后会被售卖掉
-- 最大拥有九个格子（每个格子都可以被同种物品填满）
-- 被放置其中的物品可以在一天之中的任何时间点取出
+- Can be placed inside or outside the farm
+- Similar to the shipping bin, items in the Mini-Shipping Bin are sold at the end of the day
+- Has a maximum of 9 slots (each slot can be filled with the same item)
+- Items placed inside can be retrieved at any time during the day
 
-## 与普通出货箱的区别
+## Differences from Regular Shipping Bin
 
-| 特性 | 迷你出货箱 | 普通出货箱 |
-|------|------------|------------|
-| 放置位置 | 农场内外均可 | 固定位置 |
-| 格子数 | 9格 | 无限制 |
-| 取出物品 | 可随时取出 | 放入后不可取出 |
+| Feature | Mini-Shipping Bin | Regular Shipping Bin |
+|---------|-------------------|----------------------|
+| Placement | Can be placed inside or outside farm | Fixed position |
+| Slots | 9 slots | Unlimited |
+| Retrieve Items | Can retrieve anytime | Cannot retrieve after placing |
 
-## 历史版本
+## Version History
 
-- **1.5**: 加入游戏。
-- **1.6.4**: 现在可以在齐先生的核桃房购买迷你出货箱。
+- **1.5**: Added to the game.
+- **1.6.4**: Now available for purchase at Qi's Walnut Room.
 
-## 小贴士
+## Tips
 
-- 迷你出货箱非常适合在农场偏远地区或姜岛使用
-- 可以随时取出物品，避免误放珍贵物品
-- 9格容量适合分类存放不同种类的物品
+- The Mini-Shipping Bin is very suitable for remote areas of the farm or Ginger Island
+- Can retrieve items anytime, avoiding accidentally placing valuable items
+- 9-slot capacity is suitable for categorizing different types of items

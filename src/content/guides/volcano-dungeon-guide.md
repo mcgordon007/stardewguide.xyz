@@ -1,148 +1,147 @@
-﻿---
-title: "Stardew Valley 火山地牢攻略"
-description: "火山地牢怪物、锻造台、武器附魔及通关攻略详解"
+---
+title: "Stardew Valley Volcano Dungeon Guide"
+description: "Volcano Dungeon monsters, Forge, weapon enchantments, and通关攻略详解"
 category: combat
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["火山地牢", "锻造", "附魔", "火山晶石", "无限武器"]
+tags: ["Volcano Dungeon", "Forge", "enchanting", "Cinder Shard", "Infinity weapons"]
 ---
 
-# 火山地牢攻略
+# Volcano Dungeon Guide
 
-火山地牢位于姜岛最北部，共10层。这里拥有锻造台系统，可以强化武器、附魔工具，是游戏后期最重要的战斗区域。
+The Volcano Dungeon is located at the northernmost part of Ginger Island and has a total of 10 floors. It features the Forge system, which can strengthen weapons and enchant tools, making it the most important combat area in the late game.
 
-## 基本信息与入口
+## Basic Information and Entrance
 
-- **位置**：姜岛最北部
-- **总层数**：10层（第5层为矮人商店，第10层为锻造台）
-- **入口机制**：使用**喷壶**（钢级以上）向岩浆河浇水创造通路
-- **蓄力浇灌**：直线5格范围
-- **通路每天消失**，需要重新浇筑
-- **02:00昏倒**：损失最多2,500金
+- **Location**: Northernmost part of Ginger Island
+- **Total Floors**: 10 (Floor 5 is the Dwarf Shop, Floor 10 is the Forge)
+- **Entrance Mechanism**: Use a **Watering Can** (Steel level or higher) to pour water on lava rivers to create a path.
+- **Charge Pour**: Covers a straight line of 5 tiles.
+- **Path disappears every day** and needs to be re-poured.
+- **Pass out at 2:00 AM**: Lose up to 2,500g.
 
-### 捷径解锁
+### Shortcut Unlock
 
-- 花费 **5个金色核桃** 建永久桥梁
-- 或用按钮开捷径（需先到达对应层）
+- Spend **5 Golden Walnuts** to build a permanent bridge.
+- Or use buttons to open shortcuts (requires reaching the corresponding floor first).
 
-## 怪物一览
+## Monster List
 
-| 怪物 | HP | 伤害 | 掉落物 | 特殊能力 |
-|------|-----|------|--------|----------|
-| 矮人哨兵 | 300 | 18 | 宝石 | 破箱子生成 |
-| 假熔岩菇 | 290 | 15 | 熔岩菇、火山晶石 | 类似岩石蟹 |
-| 熔岩大头 | 215 | 18 | 太阳精华 | 低血量变炸弹冲向玩家 |
-| 熔岩潜伏怪 | 310 | 15 | 骨头碎片、龙牙 | 发射4个穿墙火球 |
-| 熔岩精灵 | 220 | 15 | 火山晶石 | — |
-| 熔岩火球 | 310 | 15 | — | 施加烧伤减益 |
-| 熔岩掘地虫 | 380 | 16 | 芋头块茎、香蕉树苗、超级炸弹 | 掘地移动 |
-| 老虎史莱姆 | 415 | 23 | 老虎帽、芋头块茎、姜、菠萝种子、芒果树苗 | 最强怪物 |
+| Monster | HP | Damage | Drops | Special Ability |
+|---------|-----|--------|-------|-----------------|
+| Dwarf Sentry | 300 | 18 | Gems | Spawns from broken crates |
+| False Magma Cap | 290 | 15 | Magma Cap, Cinder Shard | Similar to Rock Crab |
+| Hot Head | 215 | 18 | Solar Essence | Turns into a bomb and rushes at the player at low HP |
+| Lava Lurk | 310 | 15 | Bone Fragment, Dragon Tooth | Fires 4 wall-piercing fireballs |
+| Magma Sprite | 220 | 15 | Cinder Shard | — |
+| Magma Sparker | 310 | 15 | — | Applies Burn debuff |
+| Magma Duggy | 380 | 16 | Taro Tuber, Banana Sapling, Mega Bomb | Digs underground |
+| Tiger Slime | 415 | 23 | Tiger Hat, Taro Tuber, Ginger, Pineapple Seed, Mango Sapling | Strongest monster |
 
-> 烧伤减益效果：-2速度、-3防御、-3攻击
+> Burn debuff effect: -2 speed, -3 defense, -3 attack.
 
-## 特殊层数
+## Special Floors
 
-### 栅栏门层
-- 踩按钮开门
-- 红点=未解锁，绿点=已解锁
-- 解锁后可快速通过
+### Gate Floor
+- Step on buttons to open gates.
+- Red dot = locked, green dot = unlocked.
+- Unlocked gates allow quick passage.
 
-### 蘑菇层
-- 大量熔岩菇和假熔岩菇
-- 清理蘑菇壳有 **0.5%概率**获得古代种子
+### Mushroom Floor
+- Large number of Magma Caps and False Magma Caps.
+- Clearing mushroom shells has a **0.5% chance** of yielding an Ancient Seed.
 
-### 湖心岛层
-- 用喷壶浇岩浆到达
-- 可获得宝箱奖励
+### Lake Island Floor
+- Use a Watering Can to pour water on lava to reach.
+- Can obtain chest rewards.
 
-## 第5层矮人商店
+## Floor 5 Dwarf Shop
 
-需要先学习矮人语（捐赠4个矮人卷轴给博物馆）才能交易。
+You need to learn the Dwarvish language (donate 4 Dwarf Scrolls to the Museum) to trade.
 
-| 商品 | 价格 | 说明 |
-|------|------|------|
-| 灰烬小丑鞋 | 100火山晶石 | 防具 |
-| 钻石猎人 | 10钻石 | 饰品 |
-| 传送图腾：姜岛配方 | 10,000金 | 配方 |
-| 姜汁汽水配方 | 1,000金 | 配方 |
-| 炸弹类 | 各种价格 | 楼梯炸弹等 |
+| Item | Price | Notes |
+|------|-------|-------|
+| Ash Zebra Shoes | 100 Cinder Shards | Armor |
+| Diamond Hunter | 10 Diamonds | Trinket |
+| Warp Totem: Island Recipe | 10,000g | Recipe |
+| Ginger Ale Recipe | 1,000g | Recipe |
+| Bombs | Various prices | Staircase bombs, etc. |
 
-## 锻造台（第10层）
+## Forge (Floor 10)
 
-锻造台是火山地牢的核心设施，用于武器强化、附魔和组合戒指。
+The Forge is the core facility of the Volcano Dungeon, used for weapon strengthening, enchanting, and combining rings.
 
-### 武器强化（最多3次）
+### Weapon Strengthening (up to 3 times)
 
-消耗 **1个宝石 + 10/15/20个火山晶石**（钻石只需10个）
+Consumes **1 gem + 10/15/20 Cinder Shards** (Diamonds only require 10).
 
-| 宝石 | 效果 |
-|------|------|
-| 紫水晶 | 击退+1/级 |
-| 海蓝宝石 | 暴击率+4.6%/级 |
-| 绿宝石 | 攻速+2~3/级 |
-| 翡翠 | 暴击伤害+10%/级 |
-| 红宝石 | 伤害+10%/级 |
-| 黄水晶 | 防御+1/级 |
+| Gem | Effect |
+|-----|--------|
+| Amethyst | +1 knockback per level |
+| Aquamarine | +4.6% crit chance per level |
+| Emerald | +2-3 speed per level |
+| Jade | +10% crit damage per level |
+| Ruby | +10% damage per level |
+| Topaz | +1 defense per level |
 
-> 推荐强化顺序：红宝石（伤害）> 翡翠（暴击伤害）> 海蓝宝石（暴击率）
+> Recommended strengthening order: Ruby (damage) > Jade (crit damage) > Aquamarine (crit chance).
 
-### 武器附魔
+### Weapon Enchanting
 
-消耗 **1个五彩碎片 + 20个火山晶石**
+Consumes **1 Prismatic Shard + 20 Cinder Shards**.
 
-| 附魔 | 效果 |
-|------|------|
-| 巧妙（Galaxy） | 攻击速度提升 |
-| 虫子杀手（Bug Killer） | 对虫类怪物伤害翻倍 |
-| 十字军（Crusader） | 对暗影怪物伤害翻倍 |
-| 吸血鬼（Vampiric） | 击杀回血 |
-| 干草（Haymaker） | 击杀史莱姆掉干草 |
+| Enchantment | Effect |
+|-------------|--------|
+| Artful (Galaxy) | Increased attack speed |
+| Bug Killer | Double damage to bug-type monsters |
+| Crusader | Double damage to undead monsters |
+| Vampiric | Restore health when killing monsters |
+| Haymaker | Slimes drop hay when killed |
 
-### 龙牙附魔（1.6新增）
+### Dragon Tooth Enchanting (1.6 New)
 
-- 消耗 **1个龙牙 + 10个火山晶石**
-- 可与武器附魔叠加
+- Consumes **1 Dragon Tooth + 10 Cinder Shards**.
+- Can stack with weapon enchantments.
 
-### 工具附魔
+### Tool Enchanting
 
-消耗 **1个五彩碎片 + 20个火山晶石**
+Consumes **1 Prismatic Shard + 20 Cinder Shards**.
 
-| 工具 | 推荐附魔 | 效果 |
-|------|----------|------|
-| 锄头 | 范围 | 增加耕作范围 |
-| 水壶 | 省力 | 减少蓄力时间 |
-| 斧头 | 丰富 | 增加木材产量 |
-| 镐 | 迅捷 | 增加采矿速度 |
-| 鱼竿 | 自动上钩 | 自动钓鱼 |
+| Tool | Recommended Enchantment | Effect |
+|------|------------------------|--------|
+| Hoe | Reaching | Increased tilling range |
+| Watering Can | Efficient | Reduced charge time |
+| Axe | Shaving | Increased wood yield |
+| Pickaxe | Swift | Increased mining speed |
+| Fishing Rod | Auto-Hook | Automatic fishing |
 
-### 无限武器
+### Infinity Weapons
 
-- **银河武器 + 3个银河之魂 + 60个火山晶石 = 无限武器**
-- 无限之刃、无限匕首、无限锤三种
-- 游戏中最强武器，拥有特殊攻击效果
+- **Galaxy Weapon + 3 Galaxy Souls + 60 Cinder Shards = Infinity Weapon**.
+- Three types: Infinity Blade, Infinity Dagger, Infinity Hammer.
+- The strongest weapons in the game, with special attack effects.
 
-### 组合戒指
+### Ring Combining
 
-- 两枚**不同**戒指合为一体
-- 消耗 **20个火山晶石**
-- 最多组合4个戒指效果（双重组合）
+- Combine two **different** rings into one.
+- Consumes **20 Cinder Shards**.
+- Up to 4 ring effects can be combined (double combination).
 
-## 火山晶石来源
+## Cinder Shard Sources
 
-- 开采火山地牢中的火山晶石矿
-- 击杀怪物掉落
-- 宝箱掉落
-- 火山地牢中最多可获得 **17个金色核桃**
+- Mine Cinder Shard nodes in the Volcano Dungeon.
+- Dropped by monsters.
+- Dropped by chests.
+- Up to **17 Golden Walnuts** can be obtained in the Volcano Dungeon.
 
-## 实用提示
+## Useful Tips
 
-- 带好喷壶（建议铱级）和楼梯
-- 熔岩火球的烧伤效果很烦，优先击杀
-- 老虎史莱姆掉落稀有树苗和种子，值得刷
-- 将古代玩偶扔进岩浆可获得异界晶石
-- 火山口岩浆池可钓鱼（岩浆鳗鱼），需要钓鱼等级7级以上
-- 建议先建桥（5核桃）节省每天浇岩浆的时间
-- 1.6.4新增20个火山地牢布局，每次进入可能不同
-
+- Bring a Watering Can (recommended Iridium level) and staircases.
+- The Burn debuff from Magma Sparkers is very annoying; prioritize killing them.
+- Tiger Slimes drop rare saplings and seeds; worth farming.
+- Throwing an Ancient Doll into lava yields a Prismatic Shard.
+- Can fish in the Volcano Crater lava pool (Lava Eel), requires Fishing Level 7+.
+- It is recommended to build the bridge (5 walnuts) first to save time pouring lava every day.
+- 1.6.4 added 20 new Volcano Dungeon layouts; each entry may be different.

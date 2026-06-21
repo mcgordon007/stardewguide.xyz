@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Moss Guide - New 1.6 Resource"
 description: "Complete guide to Moss in Stardew Valley 1.6, a new foraging resource with various crafting and cooking uses."
 category: foraging
@@ -9,78 +9,78 @@ featured: false
 tags: ["moss", "foraging", "1.6", "resource", "crafting"]
 ---
 
-# Stardew Valley Moss 指南
+# Stardew Valley Moss Guide
 
-## 简介
+## Introduction
 
-**Moss（苔藓）** 是《星露谷物语》1.6 版本新增的一种采集资源。它可以在特定地点找到，并用于多种制作配方和烹饪食谱。
+**Moss** is a foraging resource added in Stardew Valley 1.6. It can be found in specific locations and is used in various crafting recipes and cooking recipes.
 
-## 获取方式
+## How to Obtain
 
-Moss 主要通过以下方式获得：
+Moss is mainly obtained through the following methods:
 
-### 采集来源
-- **树木**：在雨天时，农场和星露谷各地的树木上有概率出现苔藓
-- **特定地点**：某些区域有更高的苔藓生成率
-- **苔藓树（Mossy Trees）**：特殊外观的树木，上面长满苔藓
+### Foraging Sources
+- **Trees**: During rainy weather, moss has a chance to appear on trees around the farm and Stardew Valley
+- **Specific Locations**: Certain areas have higher moss spawn rates
+- **Mossy Trees**: Special-looking trees covered in moss
 
-### 其他获取方式
-- **击杀怪物**：某些怪物有概率掉落苔藓
-- **钓鱼宝箱**：钓鱼时获得的宝箱中有概率包含苔藓
-- **淘金（Panning）**：在河流中使用淘金盘有概率获得
+### Other Methods
+- **Kill monsters**: Certain monsters have a chance to drop moss
+- **Fishing chests**: Chests obtained while fishing have a chance to contain moss
+- **Panning**: Using the Copper Pan in rivers has a chance to yield moss
 
-## 生成条件
+## Spawn Conditions
 
-- **天气**：苔藓主要在雨天生成在树木上
-- **季节**：全年都可获得
-- **地点**：农场、煤矿森林（Cindersap Forest）、深山（Mountain）等地的树木
+- **Weather**: Moss mainly spawns on trees during rainy weather
+- **Season**: Available year-round
+- **Locations**: Trees on the farm, Cindersap Forest, Mountain, and other areas
 
-## 用途
+## Uses
 
-### 制作配方
-Moss 用于以下制作配方：
+### Crafting Recipes
+Moss is used in the following crafting recipes:
 
-- **Moss Soup（苔藓汤）**：恢复能量和生命值
-- **various crafting recipes**：多种 1.6 新增的制作配方
+- **Moss Soup**: Restores energy and health
+- **Various crafting recipes**: Multiple new 1.6 crafting recipes
 
-### 烹饪
-- 苔藓汤（Moss Soup）：+125 能量，+56 生命值
+### Cooking
+- Moss Soup: +125 energy, +56 health
 
-### 其他用途
-- **送礼**：某些村民喜欢苔藓作为礼物
-- **任务**：部分任务可能需要苔藓
-- **染色**：可用于染色
+### Other Uses
+- **Gifting**: Certain villagers like moss as a gift
+- **Quests**: Some quests may require moss
+- **Dyeing**: Can be used for dyeing
 
-## 采集技巧
+## Foraging Tips
 
-- 雨天时多检查树木
-- 苔藓树（树干上有绿色苔藓纹理）是苔藓的主要来源
-- 使用采集者（Gatherer）职业可以增加采集数量
-- 植物学家（Botanist）职业可以使所有苔藓变为铱星品质
+- Check trees frequently during rainy weather
+- Mossy Trees (trees with green moss texture on the trunk) are the main source of moss
+- The Gatherer profession can increase foraging quantity
+- The Botanist profession makes all moss iridium quality
 
-## 相关技能
+## Related Skills
 
-### 采集（Foraging）技能加成
-- **等级 5 - Gatherer（采集者）**：有概率双倍采集
-- **等级 10 - Botanist（植物学家）**：所有采集物品为铱星品质
+### Foraging Skill Bonuses
+- **Level 5 - Gatherer**: Chance for double forage
+- **Level 10 - Botanist**: All foraged items are iridium quality
 
-## 注意事项
+## Notes
 
-- 苔藓不会在冬季生成（树木外观变化）
-- 需要斧头（Axe）采集树上的苔藓
-- 苔藓不会自动再生在同一棵树上，需要等待雨天重新生成
+- Moss does not spawn in Winter (tree appearance changes)
+- Requires an Axe to harvest moss from trees
+- Moss does not automatically regenerate on the same tree, need to wait for rainy weather to respawn
 
-## 策略建议
+## Strategy Suggestions
 
-- 雨天时优先检查所有树木
-- 保留一定数量的苔藓用于制作和烹饪
-- 升级采集技能以提高苔藓获取效率
-- 苔藓树是可持续的苔藓来源，不要砍伐它们
+- Prioritize checking all trees during rainy weather
+- Keep a certain amount of moss for crafting and cooking
+- Upgrade foraging skill to improve moss acquisition efficiency
+- Mossy Trees are a sustainable moss source, do not chop them down
 
-## 版本历史
+## Version History
 
-- **1.6 版本**：新增资源
+- **1.6**: New resource added
 
 ---
 
-*本指南基于 Stardew Valley 1.6 版本编写。游戏内容可能随更新而变化，建议参考官方 Wiki 获取最新信息。*
+*This guide is based on Stardew Valley 1.6. Game content may change with updates, please refer to the official Wiki for the latest information.*

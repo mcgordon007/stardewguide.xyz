@@ -1,154 +1,151 @@
-﻿---
-title: "Stardew Valley 齐先生核桃房攻略"
-description: "齐先生核桃房解锁条件、贩卖机商品一览、特别任务攻略及齐钻获取方式"
+---
+title: "Stardew Valley Mr. Qi's Walnut Room Guide"
+description: "Mr. Qi's Walnut Room unlock requirements, vending machine items, special orders, and Qi Gem acquisition methods."
 category: locations
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["核桃房", "齐钻", "金色核桃", "贩卖机", "特别任务"]
+tags: ["Walnut Room", "Qi Gems", "Golden Walnuts", "vending machine", "special orders"]
 ---
 
-# 齐先生核桃房攻略
+# Mr. Qi's Walnut Room Guide
 
-齐先生的核桃房位于姜岛农场西北部，是游戏后期的重要设施。解锁后可以用齐钻兑换稀有物品和配方。
+Mr. Qi's Walnut Room is located in the northwestern part of the Ginger Island farm and is an important late-game facility. Once unlocked, you can exchange Qi Gems for rare items and recipes.
 
-## 解锁条件
+## Unlock Requirements
 
-累计收集 **100个金色核桃**后自动解锁。金色核桃来源包括：
+Automatically unlocked after collecting a total of **100 Golden Walnuts**. Sources of Golden Walnuts include:
 
-- 姜岛各处砍树、采矿、钓鱼、觅食
-- 完成蜗牛教授的田野调查
-- 火山地牢中的宝箱和怪物掉落
-- 饕餮青蛙任务
-- 钓鱼挑战等
+- Chopping trees, mining, fishing, and foraging around Ginger Island
+- Completing Professor Snail's field surveys
+- Chests and monster drops in the Volcano Dungeon
+- The Hungry Frog quest
+- Fishing challenges, etc.
 
-## 房间设施
+## Room Facilities
 
-### 进度跟踪器
+### Progress Tracker
 
-显示完美度完成进度，共11项：
-1. 所有技能达到10级
-2. 所有社交关系达到满心（可选村民）
-3. 出货所有物品
-4. 完成所有社区中心收集包（或Joja）
-5. 找到所有秘密纸条
-6. 达到最大房屋升级
-7. 钓到所有鱼
-8. 烹饪所有菜肴
-9. 制作所有物品
-10. 发现所有远古种子
-11. 金色核桃（达到130个）
+Displays Perfection completion progress, with a total of 11 items:
+1. All skills reach level 10
+2. All social relationships reach maximum hearts (optional villagers)
+3. Ship all items
+4. Complete all Community Center bundles (or Joja)
+5. Find all Secret Notes
+6. Reach maximum house upgrade
+7. Catch all fish
+8. Cook all dishes
+9. Craft all items
+10. Discover all Ancient Seeds
+11. Golden Walnuts (reach 130)
 
-### 特别任务板
+### Special Order Board
 
-接取齐先生的特别任务，完成后获得齐钻奖励。
+Accept Mr. Qi's special orders and receive Qi Gem rewards upon completion.
 
-### 贩卖机
+### Vending Machine
 
-用齐钻兑换物品和配方。
+Exchange Qi Gems for items and recipes.
 
-## 贩卖机商品一览
+## Vending Machine Items
 
-### 重要物品
+### Important Items
 
-| 商品 | 齐钻价格 | 说明 |
-|------|----------|------|
-| 祝尼魔箱 | 15（首次需30买两个） | 连接所有储存箱 |
-| 马笛 | 50 | 召唤马到当前位置 |
-| 皮埃尔丢失的存货单 | 50 | 交给皮埃尔后全季节种子 |
-| 银河之魂 | 40 | 解锁无限武器最终形态 |
-| 迷你出货箱 | 60 | 随身出货箱（1.6.4新增） |
-| 小镇钥匙 | 20 | 随时进入镇上建筑 |
-| 金蛋 | 100 | 100%完成度后解锁 |
+| Item | Qi Gem Price | Description |
+|------|--------------|-------------|
+| Junimo Chest | 15 (first purchase requires 30 for two) | Connects all storage chests |
+| Horse Flute | 50 | Summons your horse to your current location |
+| Pierre's Missing Stocklist | 50 | Give to Pierre to unlock all-season seeds |
+| Galaxy Soul | 40 | Unlocks the final form of Infinity weapons |
+| Mini-Shipping Bin | 60 | Portable shipping bin (added in 1.6.4) |
+| Town Key | 20 | Access town buildings at any time |
+| Golden Egg | 100 | Unlocked after 100% completion |
 
-### 农场设施
+### Farm Facilities
 
-| 商品 | 齐钻价格 | 说明 |
-|------|----------|------|
-| 加料器 | 10 | 自动加料 |
-| 施肥器(4) | 20 | 自动施肥 |
-| 加压喷头(4) | 20 | 增加洒水器范围 |
-| 分解机 | 20 | 回收打造材料 |
-| 水生动物保护所 | 20 | 家具装饰 |
+| Item | Qi Gem Price | Description |
+|------|--------------|-------------|
+| Hopper | 10 | Auto-feeder |
+| Deconstructor | 20 | Recycles crafted items into materials |
+| Aquatic Sanctuary | 20 | Furniture decoration |
 
-### 配方
+### Recipes
 
-| 商品 | 齐钻价格 | 说明 |
-|------|----------|------|
-| 重型树液采集器配方 | 20 | 采集重型树液 |
-| 顶级生长激素配方 | 30 | 最高级生长激素 |
-| 顶级肥料配方 | 20 | 最高级肥料 |
-| 加料器配方 | 50 | 自制加料器 |
-| 魔法鱼饵配方 | 20 | 自制魔法鱼饵 |
-| 蓝色草籽配方 | 40 | 种出蓝色草 |
+| Item | Qi Gem Price | Description |
+|------|--------------|-------------|
+| Heavy Tapper Recipe | 20 | Tap heavy sap |
+| Hyper Speed-Gro Recipe | 30 | Highest tier speed-gro |
+| Deluxe Fertilizer Recipe | 20 | Highest tier fertilizer |
+| Hopper Recipe | 50 | Craft your own hopper |
+| Magic Bait Recipe | 20 | Craft your own magic bait |
+| Blue Grass Starter Recipe | 40 | Grow blue grass |
 
-### 消耗品
+### Consumables
 
-| 商品 | 齐钻价格 | 说明 |
-|------|----------|------|
-| 蘑菇树种子 | 5 | 种出蘑菇树 |
-| 魔法鱼饵(20) | 5 | 所有水域钓所有鱼 |
-| 齐氏调味料(10) | 10 | 烹饪自动添加 |
-| 烟花（红/紫/绿） | 各1 | 节日装饰 |
-| 齐钻(2) | 1 | 需完全升级且有额外核桃 |
-| 奇异双人床 | 50 | 特殊家具 |
+| Item | Qi Gem Price | Description |
+|------|--------------|-------------|
+| Mushroom Tree Seed | 5 | Grow a mushroom tree |
+| Magic Bait (20) | 5 | Catch any fish in any water |
+| Qi Seasoning (10) | 10 | Auto-added when cooking |
+| Fireworks (Red/Purple/Green) | 1 each | Festival decorations |
+| Qi Gem (2) | 1 | Requires fully upgraded Ginger Island with extra walnuts |
+| Strange Double Bed | 50 | Special furniture |
 
-## 齐钻获取方式
+## Qi Gem Acquisition Methods
 
-| 方式 | 说明 |
-|------|------|
-| 完成特别任务 | 每个任务20-100齐钻 |
-| 金色核桃兑换 | 1核桃=2齐钻（需姜岛完全升级后） |
-| 激活挑战之神庙 | 矿井中的神庙 |
+| Method | Description |
+|--------|-------------|
+| Complete special orders | 20-100 Qi Gems per order |
+| Golden Walnut exchange | 1 Walnut = 2 Qi Gems (requires fully upgraded Ginger Island) |
+| Activate the Shrine of Challenge | Shrine in the Mines |
 
-## 特别任务攻略
+## Special Order Guide
 
-### 齐先生的作物（100齐钻）
-- 种植齐瓜（夏季作物，种子从核桃房购买）
-- 28天内出货500个，需要大面积种植
-- 建议在姜岛农场种植（不受季节限制）
+### Qi's Crop (100 Qi Gems)
+- Plant Qi Fruit (Summer crop, seeds purchased from the Walnut Room).
+- Ship 500 within 28 days, requiring large-scale planting.
+- Recommended to plant on the Ginger Island farm (not restricted by season).
 
-### 来玩游戏吧（20齐钻）
-- 祝尼魔赛车无限模式达到50,000分
-- 需要一定练习，掌握节奏后不难
+### Let's Play A Game (20 Qi Gems)
+- Reach 50,000 points in Junimo Kart endless mode.
+- Requires some practice; not difficult once you get the rhythm.
 
-### 四颗宝石（40齐钻）
-- 任务期间新收集4个五彩碎片
-- 可在骷髅洞穴100层以上获取
+### Four Gems (40 Qi Gems)
+- Collect 4 newly obtained Prismatic Shards during the quest period.
+- Can be obtained below floor 100 of the Skull Cavern.
 
-### 齐先生的饥饿挑战（25齐钻）
-- 不吃不喝到达骷髅洞穴100层
-- 建议带楼梯和炸弹快速下到100层
+### Qi's Hungry Challenge (25 Qi Gems)
+- Reach floor 100 of the Skull Cavern without eating or drinking.
+- Recommended to bring staircases and bombs to quickly descend to floor 100.
 
-### 齐先生的菜肴（25齐钻）
-- 14天内售出10万金新鲜烹饪食品
-- 高价值菜肴：寿司饭(300g)、南瓜汤(240g)、生鱼片(225g)
+### Qi's Cuisine (25 Qi Gems)
+- Sell 100,000g worth of freshly cooked food within 14 days.
+- High-value dishes: Maki Roll (300g), Pumpkin Soup (240g), Sashimi (225g).
 
-### 齐先生的善意（40齐钻）
-- 7天内送出50份最爱礼物
-- 提前准备好每个NPC的最爱物品
+### Qi's Kindness (40 Qi Gems)
+- Give 50 loved gifts within 7 days.
+- Prepare each NPC's loved items in advance.
 
-### 大家族（20齐钻）
-- 3天内捕捉5条传说鱼二代
-- 需要先完成传说鱼任务
+### The Extended Family (20 Qi Gems)
+- Catch 5 Legendary Fish II within 3 days.
+- Requires completing the Legendary Fish quest first.
 
-### 深处的危险（50齐钻）
-- 重置矿井电梯后到达底部（120层）
-- 带好楼梯和炸弹
+### Danger In The Deep (50 Qi Gems)
+- Reach the bottom (floor 120) of the Mines after resetting the mine elevator.
+- Bring plenty of staircases and bombs.
 
-### 骷髅洞穴入侵（40齐钻）
-- 7天内到达骷髅洞穴100层
+### Skull Cavern Invasion (40 Qi Gems)
+- Reach floor 100 of the Skull Cavern within 7 days.
 
-### 齐先生的五彩农场（35齐钻）
-- 14天内收集箱放六色物品各100个
-- 需要大量采集和种植
+### Qi's Prismatic Grange (35 Qi Gems)
+- Place 100 items of each of the six colors in the shipping bin within 14 days.
+- Requires extensive foraging and planting.
 
-## 实用提示
+## Useful Tips
 
-- 优先购买祝尼魔箱和银河之魂
-- 加料器和施肥器大幅提升农场自动化效率
-- 齐先生的作物任务建议在姜岛农场大面积种植
-- 齐钻任务可以同时接取多个
-- 完美豁免权在挖掘场蘑菇洞购买（500,000金=1%完美度），由NPC Fizz出售，需在核桃房查看完美追踪器后触发
-
+- Prioritize purchasing the Junimo Chest and Galaxy Soul.
+- The Hopper and Deconstructor greatly improve farm automation efficiency.
+- Qi's Crop quest is recommended to be done with large-scale planting on the Ginger Island farm.
+- Multiple Qi Gem quests can be accepted at the same time.
+- Perfection exemptions can be purchased in the Dig Site mushroom cave (500,000g = 1% Perfection), sold by the NPC Fizz, triggered after viewing the Perfection Tracker in the Walnut Room.

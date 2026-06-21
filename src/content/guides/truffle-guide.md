@@ -1,117 +1,117 @@
-﻿---
-title: "Stardew Valley 松露攻略"
-description: "松露获取方式、养猪配置、松露油利润计算及最佳养殖策略"
+---
+title: "Stardew Valley Truffle Guide"
+description: "Truffle acquisition methods, pig farming configuration, Truffle Oil profit calculations, and best breeding strategies."
 category: farming
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["松露", "猪", "松露油", "利润", "养殖", "觅食等级"]
+tags: ["Truffle", "Pig", "Truffle Oil", "profit", "animal husbandry", "foraging level"]
 ---
 
-# 松露攻略
+# Truffle Guide
 
-松露（Truffle）是星露谷物语中最赚钱的农牧产品之一。通过养猪获取松露，再加工成松露油，可以实现极高的利润。
+The Truffle is one of the most profitable agricultural products in Stardew Valley. By raising pigs to obtain Truffles and processing them into Truffle Oil, extremely high profits can be achieved.
 
-## 基本信息
+## Basic Information
 
-| 属性 | 数据 |
-|------|------|
-| 售价 | 625g（基础品质） |
-| 季节 | 春季、夏季、秋季（猪在春/夏/秋季觅食） |
-| 获取方式 | 猪在户外觅食时产出 |
-| 加工产品 | 松露油（Oil Maker，售价1,065g） |
+| Attribute | Data |
+|-----------|------|
+| Selling Price | 625g (base quality) |
+| Season | Spring, Summer, Fall (pigs forage in Spring/Summer/Fall) |
+| Acquisition Method | Produced by pigs when foraging outdoors |
+| Processed Product | Truffle Oil (Oil Maker, selling price 1,065g) |
 
-> 猪在冬季不会觅食，不产出松露。
+> Pigs do not forage in Winter and do not produce Truffles.
 
-## 如何获取松露
+## How to Obtain Truffles
 
-### 前提条件
+### Prerequisites
 
-1. 建造**豪华谷仓（Deluxe Barn）**（花费25,000g + 550木头 + 300石头，容纳12只动物）
-2. 从玛妮处购买**猪（Pig）**，每头16,000g
-3. 猪在春/夏/秋季的户外会自动觅食产出松露
+1. Build a **Deluxe Barn** (costs 25,000g + 550 Wood + 300 Stone, holds 12 animals).
+2. Purchase **Pigs** from Marnie for 16,000g each.
+3. Pigs will automatically forage outdoors and produce Truffles in Spring/Summer/Fall.
 
-### 觅食机制
+### Foraging Mechanism
 
-- 猪每天会走出谷仓觅食
-- 每天有约99.99%概率产出至少1个松露
-- 在产出第一个后，还有概率继续产出额外松露（概率 = 动物好感度 / 1500）
-- 满好感度（1000）下，每天平均产出约**3个松露**
-- 冬季猪不会觅食
+- Pigs will walk out of the barn every day to forage.
+- There is approximately a 99.99% chance of producing at least 1 Truffle per day.
+- After producing the first one, there is a probability of continuing to produce additional Truffles (probability = animal friendship / 1500).
+- At maximum friendship (1000), pigs produce an average of approximately **3 Truffles** per day.
+- Pigs do not forage in Winter.
 
-> 提升猪的好感度可以大幅增加松露产出。每天抚摸猪可以提升好感度。
+> Increasing pig friendship can significantly increase Truffle production. Petting pigs daily increases friendship.
 
-## 松露油加工
+## Truffle Oil Processing
 
-| 品质 | 松露售价 | 松露油售价 | 加工时间 |
-|------|----------|------------|----------|
-| 普通 | 625g | 1,065g | 6小时 |
-| 铱星 | 1,250g | 1,917g | 6小时 |
+| Quality | Truffle Selling Price | Truffle Oil Selling Price | Processing Time |
+|---------|-----------------------|---------------------------|-----------------|
+| Regular | 625g | 1,065g | 6 hours |
+| Iridium | 1,250g | 1,917g | 6 hours |
 
-### 工匠职业加成（+40%）
+### Artisan Profession Bonus (+40%)
 
-| 产品 | 售价 |
-|------|------|
-| 铱星松露油 + 工匠 | **2,684g** |
+| Product | Selling Price |
+|---------|---------------|
+| Iridium Truffle Oil + Artisan | **2,684g** |
 
-## 养猪策略
+## Pig Farming Strategy
 
-### 最佳配置
+### Best Configuration
 
-| 项目 | 建议 |
-|------|------|
-| 谷仓数量 | 1-3个豪华谷仓 |
-| 每个谷仓猪数 | 12头（满员） |
-| 谷仓位置 | 放在农场开阔区域 |
-| 好感度 | 每天抚摸，保持最高好感 |
+| Item | Suggestion |
+|------|------------|
+| Number of Barns | 1-3 Deluxe Barns |
+| Pigs per Barn | 12 (full capacity) |
+| Barn Location | Place in an open area of the farm |
+| Friendship | Pet daily, maintain maximum friendship |
 
-### 收益估算（满好感度，春/夏/秋季）
+### Income Estimate (Maximum Friendship, Spring/Summer/Fall)
 
-| 配置 | 日均松露数 | 日均收入（松露油+工匠） |
-|------|-----------|------------------------|
-| 4头猪 | 约12个 | 约32,000g |
-| 12头猪 | 约36个 | 约96,000g |
-| 24头猪（2谷仓） | 约72个 | 约192,000g |
+| Configuration | Average Daily Truffles | Average Daily Income (Truffle Oil + Artisan) |
+|---------------|------------------------|----------------------------------------------|
+| 4 pigs | ~12 | ~32,000g |
+| 12 pigs | ~36 | ~96,000g |
+| 24 pigs (2 barns) | ~72 | ~192,000g |
 
-> 以上为满好感度、松露油+工匠职业的估算。
+> The above is an estimate for maximum friendship, Truffle Oil + Artisan profession.
 
-### 重要提示
+### Important Notes
 
-- **自动采集器不能收集松露**（松露在谷仓外，自动采集器只能在谷仓内使用）
-- 需要手动收集松露，或让猪在出货箱附近觅食
-- 松露受觅食技能的采集者（Gatherer，双倍收获）和植物学家（Botanist，铱星品质）加成
+- **Auto-Grabbers cannot collect Truffles** (Truffles are produced outside the barn, and Auto-Grabbers can only be used inside barns).
+- Truffles need to be collected manually, or pigs need to forage near the shipping bin.
+- Truffles are affected by the Gatherer (double harvest) and Botanist (Iridium quality) foraging skill bonuses.
 
-## 实用技巧
+## Useful Tips
 
-### 提升好感度
-- 每天抚摸猪提升好感度
-- 好感度越高，额外松露概率越大
-- 满好感度下每天平均约3个松露
+### Increasing Friendship
+- Pet pigs daily to increase friendship.
+- The higher the friendship, the greater the probability of additional Truffles.
+- At maximum friendship, pigs produce an average of approximately 3 Truffles per day.
 
-### 冬季管理
-- 冬季猪不觅食，将猪关在谷仓内
-- 确保谷仓内有足够的干草
-- 可以在冬季提升好感度
+### Winter Management
+- Pigs do not forage in Winter; keep them inside the barn.
+- Ensure there is enough hay inside the barn.
+- Friendship can be increased in Winter.
 
-### 谷仓布局
-- 谷仓门朝向开阔区域
-- 清除谷仓周围的障碍物
-- 让猪有最大的觅食空间
+### Barn Layout
+- Barn doors should face an open area.
+- Clear obstacles around the barn.
+- Give pigs the maximum foraging space.
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 猪在什么季节产出松露？**
-A: 春季、夏季和秋季。冬季猪不会觅食。
+**Q: In which seasons do pigs produce Truffles?**
+A: Spring, Summer, and Fall. Pigs do not forage in Winter.
 
-**Q: 松露油比直接卖松露更赚钱吗？**
-A: 是的，松露油售价1,065g，比松露基础价625g高70%。
+**Q: Is Truffle Oil more profitable than selling Truffles directly?**
+A: Yes, Truffle Oil sells for 1,065g, which is 70% higher than the base Truffle price of 625g.
 
-**Q: 自动采集器能收集松露吗？**
-A: 不能，松露在谷仓外产出，自动采集器只能在谷仓内使用。
+**Q: Can Auto-Grabbers collect Truffles?**
+A: No, Truffles are produced outside the barn, and Auto-Grabbers can only be used inside barns.
 
-**Q: 一头猪每天产几个松露？**
-A: 至少1个，满好感度下平均约3个。
+**Q: How many Truffles does one pig produce per day?**
+A: At least 1, with an average of approximately 3 at maximum friendship.
 
-**Q: 松露可以在温室种吗？**
-A: 不能，松露只能通过猪觅食获得。
+**Q: Can Truffles be grown in the Greenhouse?**
+A: No, Truffles can only be obtained through pig foraging.

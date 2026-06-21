@@ -1,215 +1,214 @@
-﻿---
-title: "Stardew Valley 古代种子攻略"
-description: "古代种子获取方式、上古水果种植、利润计算及最佳种植策略"
+---
+title: "Stardew Valley Ancient Seed Guide"
+description: "Ancient Seed acquisition methods, Ancient Fruit planting, profit calculations, and best planting strategies"
 category: farming
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["古代种子", "上古水果", "温室", "姜岛", "酿酒", "最赚钱作物"]
+tags: ["Ancient Seed", "Ancient Fruit", "Greenhouse", "Ginger Island", "Wine", "Most Profitable Crop"]
 ---
 
-# 古代种子攻略
+# Ancient Seed Guide
 
-古代种子（Ancient Seed）是星露谷物语中最珍贵的种子之一，种植后产出**上古水果**（Ancient Fruit）。上古水果是游戏中最赚钱的作物，配合酒桶和地窖陈酿可以产生巨额利润。
+Ancient Seed is one of the most precious seeds in Stardew Valley. When planted, it produces **Ancient Fruit**, which is the most profitable crop in the game. Combined with Kegs and Cellar aging, it can generate massive profits.
 
-## 获取方式
+## Acquisition Methods
 
-古代种子的获取方式特殊，以下是所有途径：
+Ancient Seeds have special acquisition methods. Here are all the ways to obtain them:
 
-### 主要获取方式
+### Main Acquisition Methods
 
-| 来源 | 概率 | 说明 |
-|------|------|------|
-| 远古斑点（任意地点） | 0.7% | 用锄头挖掘 |
-| 钓鱼宝箱 | 极低 | 钓鱼时出现的宝箱 |
-| 怪物掉落（虫子类） | 极低 | 洞穴蝇、蛆等 |
-| 种子机 | — | 将上古水果放入种子机 |
+| Source | Probability | Notes |
+|--------|-------------|-------|
+| Artifact Spots (any location) | 0.7% | Dig with Hoe |
+| Fishing Treasure Chests | Very low | Chests that appear while fishing |
+| Monster Drops (bug types) | Very low | Cave Flies, Grubs, etc. |
+| Seed Maker | — | Put Ancient Fruit into Seed Maker |
 
-### 博物馆奖励
+### Museum Reward
 
-- 将古代种子捐赠给博物馆（Gunther）
-- 捐赠后获得 **上古种子配方** + 1包上古种子
-- 这是获得上古种子的最可靠方式
+- Donate the Ancient Seed to the Museum (Gunther)
+- After donation, receive **Ancient Seeds recipe** + 1 pack of Ancient Seeds
+- This is the most reliable way to obtain Ancient Seeds
 
-### 种子机产出
+### Seed Maker Production
 
-- 将上古水果放入种子机
-- 97.51%概率产出1-3个上古种子（平均约2个）
-- 放入任何作物时有0.5%概率额外产出1个上古种子
-- 是后期大量获取种子的主要方式
+- Put Ancient Fruit into the Seed Maker
+- 97.51% chance to produce 1-3 Ancient Seeds (average ~2)
+- 0.5% chance to produce 1 extra Ancient Seed when any crop is put in
+- This is the main way to acquire large quantities of seeds in the late game
 
-## 上古水果特点
+## Ancient Fruit Characteristics
 
-| 属性 | 数据 |
-|------|------|
-| 生长周期 | 28天（首次种植） |
-| 重复收获周期 | 7天 |
-| 基础售价 | 550g |
-| 季节 | 春季、夏季、秋季（或温室/姜岛全年） |
-| 是否持续收获 | 是 |
+| Attribute | Data |
+|-----------|------|
+| Growth Cycle | 28 days (first planting) |
+| Regrowth Cycle | 7 days |
+| Base Sell Price | 550g |
+| Seasons | Spring, Summer, Fall (or year-round in Greenhouse/Ginger Island) |
+| Continuous Harvest | Yes |
 
-> 上古水果种植后每7天收获一次，直到季节结束或作物被铲除。
+> After planting, Ancient Fruit can be harvested every 7 days until the season ends or the crop is removed.
 
-## 利润计算
+## Profit Calculations
 
-### 基础利润（无职业加成）
+### Base Profit (No Profession Bonus)
 
-| 品质 | 售价 | 月利润（4次收获） |
-|------|------|------------------|
-| 普通 | 550g | 2,200g |
-| 银星 | 687g | 2,748g |
-| 金星 | 825g | 3,300g |
-| 铱星 | 1,100g | 4,400g |
+| Quality | Sell Price | Monthly Profit (4 harvests) |
+|---------|------------|-----------------------------|
+| Normal | 550g | 2,200g |
+| Silver | 687g | 2,748g |
+| Gold | 825g | 3,300g |
+| Iridium | 1,100g | 4,400g |
 
-### 酿酒利润（使用酒桶）
+### Wine Profit (Using Kegs)
 
-| 品质 | 酒售价 | 月利润 |
-|------|--------|--------|
-| 普通酒 | 2,310g | 9,240g |
-| 铱星酒（地窖陈酿） | 4,620g | 18,480g |
+| Quality | Wine Sell Price | Monthly Profit |
+|---------|-----------------|----------------|
+| Normal Wine | 2,310g | 9,240g |
+| Iridium Wine (Cellar Aged) | 4,620g | 18,480g |
 
-### 工匠职业加成（+40%）
+### Artisan Profession Bonus (+40%)
 
-| 产品 | 售价 |
-|------|------|
-| 普通上古水果酒 | 3,234g |
-| 铱星上古水果酒 | **6,468g** |
+| Product | Sell Price |
+|---------|------------|
+| Normal Ancient Fruit Wine | 3,234g |
+| Iridium Ancient Fruit Wine | **6,468g** |
 
-> 铱星上古水果酒配合工匠职业，单瓶售价 **6,468g**，是游戏中最赚钱的产品。
+> Iridium Ancient Fruit Wine with Artisan Profession sells for **6,468g**, making it the most profitable product in the game.
 
-## 种植策略
+## Planting Strategies
 
-### 温室种植（最推荐）
+### Greenhouse Planting (Most Recommended)
 
-温室是种植上古水果的最佳地点：
+The Greenhouse is the best location for planting Ancient Fruit:
 
-- **不受季节限制**：全年生长和收获
-- **不会枯萎**：作物永久存在
-- **配合酒桶**：温室内或附近放置酒桶
+- **Not season-limited**: Grows and harvests year-round
+- **Never withers**: Crops persist permanently
+- **Combine with Kegs**: Place Kegs inside or nearby
 
-#### 温室布局
+#### Greenhouse Layout
 
-- 温室内总耕地120格，使用铱级洒水器最多可种116株
-- 使用铱级洒水器自动浇水
-- 旁边放置酒桶，收获后立即酿造
+- Total of 120 tillable tiles in the Greenhouse, up to 116 plants with Iridium Sprinklers
+- Use Iridium Sprinklers for automatic watering
+- Place Kegs nearby for immediate brewing after harvest
 
-### 姜岛农场种植
+### Ginger Island Farm Planting
 
-姜岛农场是另一个理想地点：
+Ginger Island Farm is another ideal location:
 
-- **不受季节限制**
-- **没有乌鸦**
-- **大面积耕地**：约941块可耕地
+- **Not season-limited**
+- **No Crows**
+- **Large tillable area**: ~941 tiles
 
-### 户外种植
+### Outdoor Planting
 
-如果在户外种植（春季/夏季/秋季）：
+If planting outdoors (Spring/Summer/Fall):
 
-- 春季第1天种植，到秋季结束可收获多次
-- 季节更替时作物会枯萎
-- 需要每年重新种植
+- Plant on Spring Day 1 for multiple harvests until Fall ends
+- Crops will wither at season change
+- Need to replant every year
 
-## 最佳配置
+## Best Setup
 
-### 推荐设置
+### Recommended Configuration
 
-| 项目 | 建议 |
-|------|------|
-| 种植地点 | 温室 + 姜岛农场 |
-| 洒水器 | 铱级洒水器 |
-| 肥料 | 顶级肥料（提升品质） |
-| 酒桶数量 | 越多越好（建议200+） |
-| 地窖 | 189个小桶全部用于陈酿 |
+| Item | Suggestion |
+|------|------------|
+| Planting Location | Greenhouse + Ginger Island Farm |
+| Sprinklers | Iridium Sprinklers |
+| Fertilizer | Deluxe Fertilizer (improves quality) |
+| Number of Kegs | As many as possible (200+ recommended) |
+| Cellar | 189 Casks all for aging |
 
-### 时间规划
+### Timeline Planning
 
-- **第1天**：种植上古种子
-- **第28天**：首次收获
-- **第28天**：将上古水果放入酒桶酿造
-- **第35天**：酒酿造完成，收入地窖陈酿
-- **第91天**：铱星酒陈酿完成，收获出售
-- **每7天**：持续收获上古水果
+- **Day 1**: Plant Ancient Seeds
+- **Day 28**: First harvest
+- **Day 28**: Put Ancient Fruit into Kegs for brewing
+- **Day 35**: Wine brewing complete, move to Cellar for aging
+- **Day 91**: Iridium Wine aging complete, harvest and sell
+- **Every 7 days**: Continue harvesting Ancient Fruit
 
-## 种子扩繁策略
+## Seed Multiplication Strategy
 
-### 初期（1-10个种子）
+### Early Game (1-10 seeds)
 
-1. 获得第一个古代种子后，捐赠博物馆获得配方和种子
-2. 在温室种植
-3. 收获后部分上古水果直接出售，部分放入种子机
-4. 逐步扩大种植规模
+1. After obtaining the first Ancient Seed, donate to Museum for recipe and seeds
+2. Plant in Greenhouse
+3. After harvest, sell some Ancient Fruit directly, put some in Seed Maker
+4. Gradually expand planting scale
 
-### 中期（10-50个种子）
+### Mid Game (10-50 seeds)
 
-1. 温室全部种满上古水果
-2. 大量制作酒桶
-3. 收获的上古水果一半酿酒，一半放入种子机
+1. Fill Greenhouse with Ancient Fruit
+2. Craft large numbers of Kegs
+3. Half of harvested Ancient Fruit for wine, half for Seed Maker
 
-### 后期（50+个种子）
+### Late Game (50+ seeds)
 
-1. 姜岛农场大面积种植
-2. 酒桶数量最大化
-3. 地窖189个小桶全部陈酿上古水果酒
-4. 实现完全自动化的高额收入
+1. Large-scale planting on Ginger Island Farm
+2. Maximize number of Kegs
+3. All 189 Casks in Cellar for aging Ancient Fruit Wine
+4. Achieve fully automated high income
 
-## 与其他作物的对比
+## Comparison with Other Crops
 
-| 作物 | 月利润（酿酒+工匠） | 是否持续收获 | 管理难度 |
-|------|-------------------|-------------|----------|
-| 上古水果 | 极高 | 是 | 低 |
-| 杨桃 | 极高 | 否 | 中 |
-| 南瓜 | 高 | 否 | 中 |
-| 啤酒花 | 中等 | 是 | 高 |
+| Crop | Monthly Profit (Wine + Artisan) | Continuous Harvest | Management Difficulty |
+|------|--------------------------------|--------------------|-----------------------|
+| Ancient Fruit | Extremely High | Yes | Low |
+| Starfruit | Extremely High | No | Medium |
+| Pumpkin | High | No | Medium |
+| Hops | Medium | Yes | High |
 
-> 上古水果是综合最优选择：高利润、持续收获、管理简单。
+> Ancient Fruit is the best overall choice: high profit, continuous harvest, simple management.
 
-## 实用技巧
+## Practical Tips
 
-### 早期获取古代种子
-- 每天检查所有远古斑点
-- 冬季是挖掘远古斑点的好时机
-- 钓鱼时留意宝箱
+### Early Acquisition of Ancient Seeds
+- Check all Artifact Spots daily
+- Winter is a good time to dig Artifact Spots
+- Watch for treasure chests while fishing
 
-### 温室优先
-- 优先在温室种植上古水果
-- 温室作物不会枯萎，永久产出
-- 配合自动洒水器，几乎零维护
+### Greenhouse Priority
+- Prioritize planting Ancient Fruit in the Greenhouse
+- Greenhouse crops never wither, producing permanently
+- With automatic sprinklers, almost zero maintenance
 
-### 酒桶规划
-- 上古水果每7天收获一次
-- 酒酿造需要7天
-- 地窖陈酿需要56天
-- 建议酒桶数量 = 种植面积 x 2（保证酿造和陈酿不积压）
+### Keg Planning
+- Ancient Fruit harvested every 7 days
+- Wine brewing takes 7 days
+- Cellar aging takes 56 days
+- Recommended Keg quantity = planting area x 2 (to prevent backlog)
 
-### 工匠职业
-- 农耕10级务必选择工匠职业
-- +40%售价让上古水果酒利润大幅提升
-- 铱星上古水果酒售价6,468g
+### Artisan Profession
+- Be sure to choose Artisan Profession at Farming Level 10
+- +40% sell price significantly boosts Ancient Fruit Wine profit
+- Iridium Ancient Fruit Wine sells for 6,468g
 
-## 1.6更新变化
+## 1.6 Update Changes
 
-- 新增更多种子机配方
-- 姜岛农场种植效率提升
-- 新增与上古水果相关的任务
+- Added more Seed Maker recipes
+- Ginger Island Farm planting efficiency improved
+- Added quests related to Ancient Fruit
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 古代种子在哪里获得？**
-A: 挖掘远古斑点（0.7%概率）、钓鱼宝箱、捐赠博物馆后获得配方。
+**Q: Where can I get Ancient Seeds?**
+A: Dig Artifact Spots (0.7% chance), fishing treasure chests, or receive recipe after Museum donation.
 
-**Q: 上古水果可以种在冬季吗？**
-A: 户外不行，但温室和姜岛农场全年可种植。
+**Q: Can Ancient Fruit be planted in Winter?**
+A: Not outdoors, but can be planted year-round in Greenhouse and Ginger Island Farm.
 
-**Q: 上古水果酒是最赚钱的吗？**
-A: 是的，铱星上古水果酒配合工匠职业售价6,468g，是游戏中最赚钱的产品。
+**Q: Is Ancient Fruit Wine the most profitable?**
+A: Yes, Iridium Ancient Fruit Wine with Artisan Profession sells for 6,468g, the most profitable product in the game.
 
-**Q: 一个上古种子可以收获几次？**
-A: 在温室或姜岛可以无限收获（每7天一次），户外种植到季节结束。
+**Q: How many times can one Ancient Seed be harvested?**
+A: Infinite harvests in Greenhouse or Ginger Island (every 7 days), until season ends outdoors.
 
-**Q: 上古水果可以放入种子机吗？**
-A: 可以，平均产出1.97个种子，是扩繁的主要方式。
+**Q: Can Ancient Fruit be put in Seed Maker?**
+A: Yes, averages 1.97 seeds per fruit, the main method for multiplication.
 
-**Q: 温室可以种多少上古水果？**
-A: 约120块地，使用铱级洒水器可以全覆盖。
-
+**Q: How many Ancient Fruit can be planted in the Greenhouse?**
+A: About 120 tiles, fully covered with Iridium Sprinklers.

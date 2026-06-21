@@ -1,177 +1,175 @@
-﻿---
-title: "Stardew Valley 杨桃攻略"
-description: "杨桃种植攻略，包括获取方式、生长周期、利润计算及最佳种植策略"
+---
+title: "Stardew Valley Starfruit Guide"
+description: "Starfruit planting guide, including acquisition methods, growth cycle, profit calculations, and best planting strategies."
 category: farming
 season: summer
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["杨桃", "夏季作物", "温室", "姜岛", "酿酒", "利润"]
+tags: ["Starfruit", "Summer Crop", "Greenhouse", "Ginger Island", "winemaking", "profit"]
 ---
 
-# 杨桃攻略
+# Starfruit Guide
 
-杨桃（Starfruit）是星露谷物语中**单季最高售价的作物**，是后期赚钱的核心选择之一。配合酒桶和地窖陈酿，可以产生极高的利润。
+Starfruit is the **highest single-season selling price crop** in Stardew Valley and is one of the core choices for late-game money-making. Combined with Kegs and Cellar aging, it can generate extremely high profits.
 
-## 基本信息
+## Basic Information
 
-| 属性 | 数据 |
-|------|------|
-| 种子价格 | 400g（绿洲商店） |
-| 生长周期 | 13天 |
-| 基础售价 | 750g |
-| 季节 | 夏季 |
-| 是否可重复收获 | 否（一次性收获） |
+| Attribute | Data |
+|-----------|------|
+| Seed Price | 400g (Oasis shop) |
+| Growth Cycle | 13 days |
+| Base Selling Price | 750g |
+| Season | Summer |
+| Repeat Harvest | No (one-time harvest) |
 
-## 如何获取种子
+## How to Obtain Seeds
 
-- **绿洲商店（Oasis）**：400g/个，全年出售
-- **旅行商人**：偶尔出售，价格随机
-- **皮埃尔丢失的存货单**：在齐先生核桃房用**50齐钻**购买，交给皮埃尔后全年出售（非当季种子价格贵50%）
+- **Oasis (Sandy's Shop)**: 400g each, sold year-round.
+- **Traveling Cart**: Occasionally sold at random prices.
+- **Pierre's Missing Stocklist**: Purchase at Mr. Qi's Walnut Room for **50 Qi Gems**, give it to Pierre, and he will sell it year-round (out-of-season seeds are 50% more expensive).
 
+## Profit Calculations
 
-## 利润计算
+### Base Profit (No Profession Bonus)
 
-### 基础利润（无职业加成）
+| Quality | Selling Price | Profit (after seed cost) |
+|---------|---------------|--------------------------|
+| Regular | 750g | 350g |
+| Silver | 937g | 537g |
+| Gold | 1,125g | 725g |
+| Iridium | 1,500g | 1,100g |
 
-| 品质 | 售价 | 利润（扣除种子成本） |
-|------|------|---------------------|
-| 普通 | 750g | 350g |
-| 银星 | 937g | 537g |
-| 金星 | 1,125g | 725g |
-| 铱星 | 1,500g | 1,100g |
+### Winemaking Profit (Using Kegs)
 
-### 酿酒利润（使用酒桶）
+| Quality | Wine Selling Price | Profit (after seed cost) |
+|---------|--------------------|--------------------------|
+| Regular Wine | 2,250g | 1,850g |
+| Iridium Wine (Cellar Aged) | 4,500g | 4,100g |
 
-| 品质 | 酒售价 | 利润（扣除种子成本） |
-|------|--------|---------------------|
-| 普通酒 | 2,250g | 1,850g |
-| 铱星酒（地窖陈酿） | 4,500g | 4,100g |
+### Artisan Profession Bonus (+40%)
 
-### 工匠职业加成（+40%）
+| Product | Selling Price |
+|---------|---------------|
+| Regular Starfruit Wine | 3,150g |
+| Iridium Starfruit Wine | **6,300g** |
 
-| 产品 | 售价 |
-|------|------|
-| 普通杨桃酒 | 3,150g |
-| 铱星杨桃酒 | **6,300g** |
+> Iridium Starfruit Wine with the Artisan profession sells for **6,300g** per bottle, making it one of the most profitable products in the game.
 
-> 铱星杨桃酒配合工匠职业，单瓶售价 **6,300g**，是游戏中最赚钱的产品之一。
+## Summer Planting Strategy
 
-## 夏季种植策略
+### Maximum Single-Season Profit
 
-### 单季最大收益
+Summer has 28 days, and Starfruit has a 13-day growth cycle:
+- **First Batch**: Planted on Summer 1, harvested on Summer 14.
+- **Second Batch**: Planted on Summer 14, harvested on Summer 27.
+- **Each plot can be harvested twice per season.**
 
-夏季共28天，杨桃生长周期13天：
-- **第一批**：夏季第1天种植，第14天收获
-- **第二批**：夏季第14天种植，第27天收获
-- **每块地每季可收获2次**
+### Summer Profit Estimate (100 plots)
 
-### 夏季利润估算（100块地）
+| Plan | Single-Season Profit |
+|------|----------------------|
+| Direct Sale (Regular Quality) | 70,000g |
+| Winemaking (Regular Wine) | 370,000g |
+| Iridium Wine + Artisan | 1,220,000g |
 
-| 方案 | 单季利润 |
-|------|----------|
-| 直接出售（普通品质） | 70,000g |
-| 酿酒（普通酒） | 370,000g |
-| 铱星酒+工匠 | 1,220,000g |
+## Greenhouse Planting
 
-## 温室种植
+The Greenhouse is the best place to plant Starfruit:
 
-温室是种植杨桃的最佳地点：
+- **Not restricted by season**: Can be planted year-round.
+- **Continuous production**: Harvest every 13 days.
+- **Combined with Kegs**: Place Kegs inside or near the Greenhouse.
 
-- **不受季节限制**：全年可种植
-- **持续产出**：每13天收获一次
-- **配合酒桶**：在温室内或附近放置酒桶
+### Greenhouse Starfruit Layout
 
-### 温室杨桃布局
+- Approximately 120 plots can be planted inside the Greenhouse.
+- Combined with Iridium Sprinklers for automatic watering.
+- Place Kegs nearby for immediate brewing after harvest.
 
-- 温室内可种植约120块地
-- 配合铱级洒水器自动浇水
-- 旁边放置酒桶，收获后立即酿造
+## Ginger Island Farm Planting
 
-## 姜岛农场种植
+The Ginger Island farm is another ideal location for planting Starfruit:
 
-姜岛农场是种植杨桃的另一个理想地点：
+- **Not restricted by season** (similar to the Greenhouse).
+- **No crows** (no scarecrows needed).
+- **Large farming area**: Approximately 941 tillable plots.
 
-- **不受季节限制**（类似温室）
-- **没有乌鸦**（不需要稻草人）
-- **大面积耕地**：约941块可耕地
+### Ginger Island Starfruit + Keg Strategy
 
-### 姜岛杨桃+酒桶流
+1. Plant Starfruit on a large scale at the Ginger Island farm.
+2. Place a large number of Kegs on Ginger Island or the main farm.
+3. Brew after harvest, then place in the Cellar for aging.
+4. Achieve uninterrupted high income year-round.
 
-1. 在姜岛农场大面积种植杨桃
-2. 在姜岛或主农场放置大量酒桶
-3. 收获后酿造，放入地窖陈酿
-4. 实现全年不间断的高额收入
+## Best Planting Setup
 
-## 最佳种植配置
+### Recommended Configuration
 
-### 推荐设置
+| Item | Suggestion |
+|------|------------|
+| Planting Location | Greenhouse + Ginger Island Farm |
+| Sprinklers | Iridium Sprinklers |
+| Fertilizer | Deluxe Fertilizer (improves quality) |
+| Speed-Gro | Hyper Speed-Gro (shortens growth cycle) |
+| Number of Kegs | The more, the better (recommended 100+) |
+| Cellar | 189 Casks all used for aging |
 
-| 项目 | 建议 |
-|------|------|
-| 种植地点 | 温室 + 姜岛农场 |
-| 洒水器 | 铱级洒水器 |
-| 肥料 | 顶级肥料（提升品质） |
-| 生长激素 | 顶级生长激素（缩短生长周期） |
-| 酒桶数量 | 越多越好（建议100+） |
-| 地窖 | 189个小桶全部用于陈酿 |
+### Time Planning
 
-### 时间规划
+- **Day 1**: Plant Starfruit, use Hyper Speed-Gro.
+- **Day 10** (after using Speed-Gro): Harvest Starfruit.
+- **Day 10**: Place Starfruit in Kegs for brewing.
+- **Day 17**: Wine brewing complete, move to Cellar for aging.
+- **Day 73**: Iridium Wine aging complete, harvest and sell.
 
-- **第1天**：种植杨桃，使用顶级生长激素
-- **第10天**（使用激素后）：收获杨桃
-- **第10天**：将杨桃放入酒桶酿造
-- **第17天**：酒酿造完成，收入地窖陈酿
-- **第73天**：铱星酒陈酿完成，收获出售
+## Comparison with Other Crops
 
-## 与其他作物的对比
+| Crop | Single-Season Profit | Growth Cycle | Repeat Harvest |
+|------|----------------------|--------------|----------------|
+| Starfruit | Extremely High | 13 days | No |
+| Ancient Fruit | Extremely High | 28 days | Yes (continuous) |
+| Pumpkin | High | 13 days | No |
+| Red Cabbage | Medium | 9 days | No |
 
-| 作物 | 单季利润 | 生长周期 | 是否持续收获 |
-|------|----------|----------|-------------|
-| 杨桃 | 极高 | 13天 | 否 |
-| 上古水果 | 极高 | 28天 | 是（持续） |
-| 南瓜 | 高 | 13天 | 否 |
-| 红叶卷心菜 | 中等 | 9天 | 否 |
+> Starfruit is suitable for short-term high-burst income, while Ancient Fruit is suitable for long-term stable income. Both can be used in combination.
 
-> 杨桃适合短期高爆发收益，上古水果适合长期稳定收益。两者可以结合使用。
+## Useful Tips
 
-## 实用技巧
+### Early Preparation
+- Repair the Bus Stop as early as possible to go to the Oasis to purchase Starfruit seeds.
+- Accumulate funds to buy a large number of seeds (recommended to buy several hundred at a time).
+- Prepare Kegs and the Cellar in advance.
 
-### 早期准备
-- 尽早修复巴士站，前往绿洲购买杨桃种子
-- 积累资金购买大量种子（建议一次买几百个）
-- 提前制作酒桶和准备地窖
+### Quality Improvement
+- Use Deluxe Fertilizer to improve crop quality.
+- Choose the Artisan profession at Farming Level 10 (+40% selling price).
+- Age to Iridium quality in the Cellar.
 
-### 品质提升
-- 使用顶级肥料提升作物品质
-- 农耕10级选择工匠职业（+40%售价）
-- 地窖陈酿至铱星品质
+### Fund Management
+- Starfruit seeds are relatively expensive (400g), requiring a certain capital base.
+- It is recommended to start with small-scale planting, accumulate funds, and then expand.
+- Combine with other money-making methods (fishing, mining) to transition.
 
-### 资金管理
-- 杨桃种子较贵（400g），需要一定资金基础
-- 建议先小规模种植，积累资金后再扩大规模
-- 配合其他赚钱方式（钓鱼、采矿）过渡
+## 1.6 Update Changes
 
-## 1.6更新变化
+- Added Pierre's Missing Stocklist, allowing year-round purchase of Starfruit seeds.
+- Ginger Island farm planting efficiency improved.
+- Heavy Tapper and other new equipment assist in resource acquisition.
 
-- 新增皮埃尔丢失的存货单，可全年购买杨桃种子
-- 姜岛农场种植效率提升
-- 重型树液采集器等新设备辅助资源获取
+## Frequently Asked Questions
 
-## 常见问题
+**Q: Where can I buy Starfruit seeds?**
+A: Sandy's Shop at the Calico Desert Oasis, 400g each, sold year-round.
 
-**Q: 杨桃种子在哪里买？**
-A: 卡利科沙漠绿洲商店，400g/个，全年出售。
+**Q: Which is more profitable, Starfruit or Ancient Fruit?**
+A: In the short term, Starfruit is higher (single-season burst), while in the long term, Ancient Fruit is more stable (continuous harvest). It is recommended to combine both.
 
-**Q: 杨桃和上古水果哪个更赚钱？**
-A: 短期看杨桃更高（单季爆发），长期看上古水果更稳定（持续收获）。建议两者结合。
+**Q: Can Starfruit be planted in the Greenhouse?**
+A: Yes, the Greenhouse is not restricted by season and is an ideal place to plant Starfruit.
 
-**Q: 温室可以种杨桃吗？**
-A: 可以，温室不受季节限制，是种植杨桃的理想地点。
+**Q: How long does Starfruit Wine need to age?**
+A: It takes 56 days to age to Iridium quality in the Cellar.
 
-**Q: 杨桃酒需要陈酿多久？**
-A: 地窖陈酿至铱星品质需要56天。
-
-**Q: 一个夏季能种几批杨桃？**
-A: 不使用生长激素可种2批，使用顶级生长激素可种2-3批。
-
+**Q: How many batches of Starfruit can be planted in one Summer?**
+A: Without Speed-Gro, 2 batches can be planted; with Hyper Speed-Gro, 2-3 batches can be planted.

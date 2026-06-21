@@ -336,6 +336,35 @@ Even in late game, the Secret Woods remains valuable:
 - [ ] Plan for next year's Sweet Gem Berry crop
 - [ ] Use stored Hardwood for crafting projects
 
+## Lost Items Recovery (1.6.15.1 Update)
+
+Starting in version 1.6.15.1, a mysterious new friend appears in the Secret Woods if you have lost an item that cannot be found again. This NPC can help you recover lost unique items for a price.
+
+### How It Works
+
+**Trigger:** Lose a unique one-time item (e.g., by accidentally trashing it, losing it in the mines, or other permanent loss)
+**Location:** Secret Woods (appears only when condition is met)
+**Service:** Recover lost unique items
+**Cost:** Varies depending on item rarity (100g - 5,000g+)
+
+### Recoverable Items
+
+Only unique one-time items can be recovered through this service. Examples include:
+- Unique quest items
+- Rare collectibles that cannot be re-obtained
+- Special event rewards
+- One-of-a-kind tools or equipment
+
+Items that can be easily re-obtained (common forageables, craftable items, purchasable goods) are not eligible for recovery.
+
+### Tips
+
+- Check the Secret Woods if you suspect you have lost an important unique item
+- The recovery NPC only appears when you have a qualifying lost item
+- Costs scale with item rarity and importance
+- Consider keeping backup copies of important items in chests when possible
+- Recovery is often much cheaper than the time cost of starting a new save file
+
 ## Common Mistakes to Avoid
 
 1. **Selling First Sweet Gem Berry:** Always give the first one to Old Master Cannoli

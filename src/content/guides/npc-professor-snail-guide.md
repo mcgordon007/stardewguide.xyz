@@ -1,91 +1,90 @@
-﻿---
-title: "Stardew Valley 蜗牛教授攻略"
-description: "蜗牛教授田野调查任务全攻略，包括化石捐赠、岛屿调查及奖励一览"
+---
+title: "Stardew Valley Professor Snail Guide"
+description: "Complete guide to Professor Snail's field survey, including fossil donations, island surveys, and rewards."
 category: social
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["姜岛", "蜗牛教授", "化石", "田野调查", "金色核桃"]
+tags: ["Ginger Island", "Professor Snail", "fossils", "field survey", "Golden Walnuts"]
 ---
 
-# 蜗牛教授攻略
+# Professor Snail Guide
 
-蜗牛教授是姜岛北部的特殊NPC，负责管理岛屿办事处。完成他的田野调查可以获得金色核桃奖励，最终解锁鸵鸟孵化器配方。
+Professor Snail is a special NPC in the northern part of Ginger Island who manages the Island Field Office. Completing his field surveys rewards Golden Walnuts and eventually unlocks the Ostrich Incubator recipe.
 
-## 如何解锁蜗牛教授
+## How to Unlock Professor Snail
 
-1. 前往姜岛北部挖掘场
-2. 花费 **10个金色核桃** 给断桥旁的鹦鹉修复通往挖掘场的桥
-3. 在挖掘场北边的蘑菇洞，用**炸弹或弹弓**炸开巨石
-4. 蜗牛教授被救出后回到岛屿办事处（帐篷内）
+1. Go to the Ginger Island North Dig Site.
+2. Spend **10 Golden Walnuts** on the parrot next to the broken bridge to repair the bridge to the dig site.
+3. In the mushroom cave north of the dig site, use a **bomb or slingshot** to destroy the boulder.
+4. After rescuing Professor Snail, he will return to the Island Field Office (inside the tent).
 
-> 蜗牛教授不可送礼、不可结婚，但可以与他对话获取化石位置提示。
+> Professor Snail cannot receive gifts or be married, but you can talk to him for hints on fossil locations.
 
-## 化石捐赠任务
+## Fossil Donation Tasks
 
-在岛屿办事处可以捐赠化石来组装四套完整动物化石。每种化石完成后获得金色核桃奖励。
+At the Island Field Office, you can donate fossils to assemble four complete animal skeletons. Each completed fossil grants Golden Walnut rewards.
 
-### 熊化石
+### Large Animal Fossil (Bear)
 
-| 部位 | 所需数量 | 获取途径 |
-|------|----------|----------|
-| 腿骨化石 | 2 | 挖掘场骨头矿（10%概率） |
-| 肋骨化石 | 1 | 挖掘场骨头矿（1.35%）/ 姜岛南部远古斑点（25%） |
-| 颅骨化石 | 1 | 打开金色椰子（14%，首次不会出现） |
-| 脊柱化石 | 1 | 挖掘场旁小河钓鱼（10%） |
-| 尾巴化石 | 1 | 挖掘场旁小河淘盘（20%） |
+| Part | Quantity | Source |
+|------|----------|--------|
+| Leg Bone Fossil | 2 | Dig Site bone nodes (10% chance) |
+| Rib Fossil | 1 | Dig Site bone nodes (1.35%) / Ginger Island South artifact spots (25%) |
+| Skull Fossil | 1 | Opening Golden Coconuts (14%, won't appear on first try) |
+| Spine Fossil | 1 | Fishing in the small river next to the dig site (10%) |
+| Tail Fossil | 1 | Panning in the small river next to the dig site (20%) |
 
-**完成奖励：6个金色核桃 + 1棵香蕉树苗**
+**Completion Reward: 6 Golden Walnuts + 1 Banana Sapling**
 
-### 蛇化石
+### Snake Fossil
 
-| 部位 | 所需数量 | 获取途径 |
-|------|----------|----------|
-| 蛇头骨 | 1 | 姜岛西部远古斑点（10%）/ 挖掘场远古斑点（10%）/ 姜岛西部钓鱼（10%） |
-| 蛇脊椎骨 | 2 | 姜岛西部远古斑点（22.5%）/ 姜岛西部贻贝节点（2.5%）/ 姜岛西部石头（1%） |
+| Part | Quantity | Source |
+|------|----------|--------|
+| Snake Skull | 1 | Ginger Island West artifact spots (10%) / Dig Site artifact spots (10%) / Ginger Island West fishing (10%) |
+| Snake Vertebrae | 2 | Ginger Island West artifact spots (22.5%) / Ginger Island West mussel nodes (2.5%) / Ginger Island West stones (1%) |
 
-**完成奖励：3个金色核桃 + 1棵芒果幼苗**
+**Completion Reward: 3 Golden Walnuts + 1 Mango Sapling**
 
-### 青蛙木乃伊
+### Frog Mummy
 
-- **所需：1个青蛙木乃伊**
-- **获取：清除姜岛东部丛林杂草时随机获得**
-- **完成奖励：1个金色核桃**
+- **Requires: 1 Frog Mummy**
+- **Source: Randomly obtained when clearing weeds in the Ginger Island East jungle.**
+- **Completion Reward: 1 Golden Walnut**
 
-### 蝙蝠木乃伊
+### Bat Mummy
 
-- **所需：1个蝙蝠木乃伊**
-- **获取：火山地牢开采石头（0.5%概率）**
-- **完成奖励：1个金色核桃**
+- **Requires: 1 Bat Mummy**
+- **Source: Mining stones in the Volcano Dungeon (0.5% chance)**
+- **Completion Reward: 1 Golden Walnut**
 
-## 岛屿调查
+## Island Surveys
 
-蜗牛教授还会进行两个岛屿调查问答，每天只能回答一次。
+Professor Snail also conducts two island survey quizzes. You can only answer once per day.
 
-### 紫色花调查
+### Purple Flower Survey
 
-- **问题：岛上共有多少朵紫色花？**
-- **答案：22朵**
-- **奖励：1个金色核桃**
+- **Question: How many purple flowers are there on the island?**
+- **Answer: 22**
+- **Reward: 1 Golden Walnut**
 
-### 紫色海星调查
+### Purple Starfish Survey
 
-- **问题：岛上共有多少个紫色海星？**
-- **答案：18个**
-- **奖励：1个金色核桃**
+- **Question: How many purple starfish are there on the island?**
+- **Answer: 18**
+- **Reward: 1 Golden Walnut**
 
-## 全部完成奖励
+## Completion Reward
 
-完成所有化石捐赠和岛屿调查后，蜗牛教授会奖励你：
+After completing all fossil donations and island surveys, Professor Snail will reward you with:
 
-- **鸵鸟孵化器配方** — 可以用来孵化鸵鸟蛋，饲养鸵鸟产出鸵鸟蛋
+- **Ostrich Incubator Recipe** — Used to hatch Ostrich Eggs and raise ostriches that produce Ostrich Eggs.
 
-## 实用提示
+## Useful Tips
 
-- 捐赠界面可以选择"提示"按钮获取物品位置线索
-- 蜗牛教授的对话中暗含获取提示（如蛙类在黑暗潮湿处、蝙蝠耐高温等）
-- 金色椰子可以在姜岛各处钓鱼获得，也可以在沙漠绿洲用椰子交换
-- 建议先完成熊化石（奖励最丰厚），再逐步完成其他化石
-- 蝙蝠木乃伊需要在火山地牢中开采石头，建议在探索火山时顺便收集
-
+- In the donation interface, you can select the "Hint" button for clues on item locations.
+- Professor Snail's dialogue contains hints (e.g., frogs are in dark, damp places; bats can withstand high temperatures).
+- Golden Coconuts can be obtained by fishing around Ginger Island or traded with coconuts at the Desert Oasis.
+- It is recommended to complete the Large Animal Fossil first (the most rewarding), then gradually complete the other fossils.
+- The Bat Mummy requires mining stones in the Volcano Dungeon, so it is recommended to collect it while exploring the volcano.

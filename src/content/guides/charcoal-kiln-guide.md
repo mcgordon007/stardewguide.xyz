@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Charcoal Kiln Guide"
 description: "Complete guide to the Charcoal Kiln in Stardew Valley - unlock requirements, crafting materials, and efficient coal production."
 category: items
@@ -9,41 +9,40 @@ featured: false
 tags: ["charcoal-kiln", "foraging", "crafting", "coal"]
 ---
 
-# Charcoal Kiln 指南
+# Charcoal Kiln Guide
 
-## 解锁条件
+## Unlock Condition
 
-Charcoal Kiln（木炭窑）在 **Foraging Level 4（采集等级4）** 时解锁 crafting recipe。
+Charcoal Kiln is unlocked at **Foraging Level 4**.
 
-## 制作材料
+## Crafting Materials
 
-| 材料 | 数量 |
-|------|------|
-| Wood（木材） | 20 |
-| Copper Bar（铜锭） | 2 |
+| Material | Quantity |
+|----------|----------|
+| Wood | 20 |
+| Copper Bar | 2 |
 
-## 功能说明
+## Function
 
-Charcoal Kiln 可以将木材转化为煤炭：
+Charcoal Kiln converts Wood into Coal:
 
-- **输入**：10 Wood（木材）
-- **输出**：1 Coal（煤炭）
-- 处理时间：约 **30分钟** 游戏时间
+- **Input**: 10 Wood
+- **Output**: 1 Coal
+- Processing time: About **30 minutes** game time
 
-## 使用技巧
+## Usage Tips
 
-- 煤炭是游戏中期大量需要的资源（冶炼、 crafting）
-- 当 Mines 深层煤炭不足时，Charcoal Kiln 是稳定的煤炭来源
-- 建议批量制作多个 Charcoal Kiln 提高产能
-- 后期可配合 Wood Fence 或 Tree Farm 实现木材-煤炭自给自足
-- 比直接在 Mines 挖掘煤炭更可控，适合 AFK 生产
+- Coal is a resource needed in large quantities in mid-game (smelting, crafting)
+- When Coal is insufficient in deep Mines, Charcoal Kiln is a stable Coal source
+- Recommended to craft multiple Charcoal Kilns to increase production capacity
+- Late game can coordinate with Wood Fence or Tree Farm for Wood-Coal self-sufficiency
+- More controllable than directly mining Coal in Mines, suitable for AFK production
 
-## 对比获取煤炭的其他方式
+## Comparison with Other Coal Acquisition Methods
 
-| 方式 | 效率 | 备注 |
-|------|------|------|
-| Charcoal Kiln | 稳定 | 需要木材，适合基地生产 |
-| Mines 挖掘 | 随机 | 需要探索，适合前期 |
-| Dust Sprite | 较高 | Mines 40-79层，需要战斗 |
-| 购买 | 快但贵 | Blacksmith 处 150g/个 |
-
+| Method | Efficiency | Notes |
+|--------|------------|-------|
+| Charcoal Kiln | Stable | Needs Wood, suitable for base production |
+| Mines Mining | Random | Needs exploration, suitable for early game |
+| Dust Sprite | Higher | Mines Levels 40-79, needs combat |
+| Purchase | Fast but expensive | Blacksmith at 150g each |

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Leah Guide - Marriage Candidate"
 description: "Complete guide to Leah in Stardew Valley. Learn about her schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,160 +9,160 @@ featured: false
 tags: ["npc", "marriage", "leah"]
 ---
 
-# Stardew Valley Leah 攻略 - 可结婚 NPC
+# Stardew Valley Leah Guide - Marriage Candidate
 
-## 基本信息
+## Basic Information
 
-| 属性 | 内容 |
-|------|------|
-| 姓名 | Leah (莉亚) |
-| 生日 | 冬季 23 日 (Winter 23) |
-| 住址 | Leah's Cottage (莉亚的小屋) - 小镇南部 |
-| 家庭 | 无直系亲属在镇上 |
-| 可结婚 | 是 |
-| 职业 | 艺术家，喜欢雕塑和绘画 |
+| Attribute | Details |
+|-----------|---------|
+| Name | Leah |
+| Birthday | Winter 23 |
+| Address | Leah's Cottage - south of town |
+| Family | No direct relatives in town |
+| Marriage | Yes |
+| Occupation | Artist, likes sculpture and painting |
 
-## 日常行程
+## Daily Schedule
 
-### 春季
-- **周一/二/三/四/五**
-  - 10:00 AM - 起床站在小屋中
-  - 12:00 PM - 离开小屋前往森林或河边
-  - 4:00 PM - 返回小屋
-  - 6:00 PM - 站在小屋中工作
-  - 10:00 PM - 上床睡觉
+### Spring
+- **Monday/Tuesday/Wednesday/Thursday/Friday**
+  - 10:00 AM - Wakes up, stands in cottage
+  - 12:00 PM - Leaves cottage for forest or river
+  - 4:00 PM - Returns to cottage
+  - 6:00 PM - Stands in cottage working
+  - 10:00 PM - Goes to bed
 
-- **周六**
-  - 10:00 AM - 起床
-  - 11:00 AM - 前往小镇广场
-  - 12:00 PM - 到达小镇广场
-  - 5:00 PM - 返回小屋
-  - 7:00 PM - 在小屋中
-  - 10:00 PM - 睡觉
+- **Saturday**
+  - 10:00 AM - Wakes up
+  - 11:00 AM - Heads to Town Square
+  - 12:00 PM - Arrives at Town Square
+  - 5:00 PM - Returns to cottage
+  - 7:00 PM - In cottage
+  - 10:00 PM - Sleeps
 
-- **周日**
-  - 10:00 AM - 起床
-  - 12:00 PM - 前往河边或森林寻找灵感
-  - 4:00 PM - 返回小屋
-  - 6:00 PM - 在小屋中创作
-  - 10:00 PM - 睡觉
+- **Sunday**
+  - 10:00 AM - Wakes up
+  - 12:00 PM - Heads to river or forest for inspiration
+  - 4:00 PM - Returns to cottage
+  - 6:00 PM - Creating in cottage
+  - 10:00 PM - Sleeps
 
-### 夏季
-- 常去海滩寻找贝壳和灵感
-- 下午常在河边
+### Summer
+- Often visits beach to find shells and inspiration
+- Afternoons often by the river
 
-### 秋季
-- 常去森林采集蘑菇
-- 行程与春季类似
+### Fall
+- Often visits forest to gather mushrooms
+- Schedule similar to Spring
 
-### 冬季
-- 大部分时间待在小屋中创作
-- 雨天会待在小屋中
+### Winter
+- Spends most time in cottage creating
+- Stays in cottage on rainy days
 
-## 礼物喜好
+## Gift Preferences
 
-### 最爱的礼物 (Loved Gifts) - +80 好感度
-- Salad (沙拉)
-- Goat Cheese (山羊奶酪)
-- Truffle (松露)
-- Wine (葡萄酒)
-- Poppyseed Muffin (罂粟籽松饼)
-- Stir Fry (炒菜)
-- Vegetable Medley (蔬菜杂烩)
+### Loved Gifts (+80 friendship)
+- Salad
+- Goat Cheese
+- Truffle
+- Wine
+- Poppyseed Muffin
+- Stir Fry
+- Vegetable Medley
 
-### 喜欢的礼物 (Liked Gifts) - +45 好感度
-- All Fruits (大部分水果)
-- All Mushrooms (大部分蘑菇)
-- All Flowers (大部分花)
-- Daffodil (黄水仙)
-- Dandelion (蒲公英)
-- Leek (韭葱)
-- Hazelnut (榛子)
-- Snow Yam (雪山药)
-- Winter Root (冬根)
+### Liked Gifts (+45 friendship)
+- All Fruits (most fruit)
+- All Mushrooms (most mushrooms)
+- All Flowers (most flowers)
+- Daffodil
+- Dandelion
+- Leek
+- Hazelnut
+- Snow Yam
+- Winter Root
 
-### 中立的礼物 (Neutral Gifts) - +20 好感度
-- Milk (牛奶)
-- Chanterelle (鸡油菌)
-- Common Mushroom (普通蘑菇)
-- Purple Mushroom (紫蘑菇)
-- Morel (羊肚菌)
+### Neutral Gifts (+20 friendship)
+- Milk
+- Chanterelle
+- Common Mushroom
+- Purple Mushroom
+- Morel
 
-### 不喜欢的礼物 (Disliked Gifts) - -20 好感度
-- Clay (粘土)
-- All Fish (大部分鱼类)
-- All Eggs (鸡蛋)
-- All Milk (牛奶)
-- Seaweed (海藻)
-- Holly (冬青)
+### Disliked Gifts (-20 friendship)
+- Clay
+- All Fish (most fish)
+- All Eggs (eggs)
+- All Milk (milk)
+- Seaweed
+- Holly
 
-### 讨厌的礼物 (Hated Gifts) - -40 好感度
-- Bread (面包)
-- Hashbrowns (薯饼)
-- Pancakes (煎饼)
-- Pizza (披萨)
-- Void Mayonnaise (虚空蛋黄酱)
-- Sugar (糖)
-- All Junk Food (垃圾食品)
+### Hated Gifts (-40 friendship)
+- Bread
+- Hashbrowns
+- Pancakes
+- Pizza
+- Void Mayonnaise
+- Sugar
+- All Junk Food
 
-## 爱心事件
+## Heart Events
 
-### 2 心事件
-- **触发条件**: 进入 Leah 的小屋时触发
-- **剧情**: Leah 正在创作艺术品，她向你展示她的作品并谈论她的艺术梦想。
-- **选择影响**: 欣赏她的作品会增加好感度。
+### 2 Heart Event
+- **Trigger**: Enter Leah's cottage
+- **Plot**: Leah is creating artwork, she shows you her work and talks about her artistic dreams.
+- **Choice Effect**: Appreciating her work increases friendship.
 
-### 4 心事件
-- **触发条件**: 在 Leah 在家时进入她家
-- **剧情**: Leah 的前任 Kel 出现并试图说服她回去。Leah 需要你的支持。
-- **选择影响**: 支持 Leah 的决定会大幅增加好感度。
+### 4 Heart Event
+- **Trigger**: Enter her house when Leah is home
+- **Plot**: Leah's ex Kel appears and tries to convince her to return. Leah needs your support.
+- **Choice Effect**: Supporting Leah's decision greatly increases friendship.
 
-### 6 心事件
-- **触发条件**: 进入 Cindersap Forest 时触发
-- **剧情**: Leah 在森林中写生，她邀请你一起画画。
-- **选择影响**: 参与她的创作活动会增加好感度。
+### 6 Heart Event
+- **Trigger**: Enter Cindersap Forest
+- **Plot**: Leah is sketching in the forest, she invites you to paint together.
+- **Choice Effect**: Participating in her creative activity increases friendship.
 
-### 8 心事件
-- **触发条件**: 收到 Leah 的信后，在晴天进入小镇
-- **剧情**: Leah 的艺术作品被选中参加展览，她非常兴奋并邀请你参加。
-- **选择影响**: 为她感到高兴并参加展览会增加好感度。
+### 8 Heart Event
+- **Trigger**: After receiving Leah's letter, enter town on a sunny day
+- **Plot**: Leah's artwork is selected for an exhibition, she is very excited and invites you to attend.
+- **Choice Effect**: Being happy for her and attending the exhibition increases friendship.
 
-### 10 心事件
-- **触发条件**: 收到 Leah 的信后，在晚上进入 Leah 的小屋
-- **剧情**: Leah 向你展示她为你创作的雕塑，表达了她对你的感情。
-- **选择影响**: 接受她的感情和礼物会增加好感度。
-- **注意**: 需要购买美人鱼吊坠 (Mermaid's Pendant) 才能求婚
+### 10 Heart Event
+- **Trigger**: After receiving Leah's letter, enter Leah's cottage in the evening
+- **Plot**: Leah shows you a sculpture she created for you, expressing her feelings for you.
+- **Choice Effect**: Accepting her feelings and gift increases friendship.
+- **Note**: Need to purchase Mermaid's Pendant to propose
 
-### 14 心事件 (婚后)
-- **触发条件**: 婚后，进入农舍
-- **剧情**: Leah 想要在农场建立一个艺术工作室，她询问你的意见。
-- **选择影响**: 支持她的艺术梦想会增加好感度。
+### 14 Heart Event (Post-Marriage)
+- **Trigger**: After marriage, enter the farmhouse
+- **Plot**: Leah wants to establish an art studio on the farm, she asks for your opinion.
+- **Choice Effect**: Supporting her artistic dream increases friendship.
 
-## 结婚信息
+## Marriage Information
 
-### 求婚条件
-1. 与 Leah 达到 10 心好感度
-2. 完成 10 心事件
-3. 拥有至少 1 级农舍升级
-4. 购买美人鱼吊坠 (Mermaid's Pendant) 从老水手处 (3000g)
+### Proposal Requirements
+1. Reach 10 hearts friendship with Leah
+2. Complete 10 heart event
+3. Have at least 1 farmhouse upgrade
+4. Purchase Mermaid's Pendant from the Old Mariner (3000g)
 
-### 婚后生活
-- **房间**: 会在农舍右侧添加一个艺术工作室风格的房间
-- **帮忙**: 偶尔会 watering crops (浇水)、feeding animals (喂动物)、repairing fences (修栅栏)
-- **礼物**: 有时会送你她创作的艺术品、食物或酒
-- **孩子**: 可以生育或领养最多两个孩子
+### Married Life
+- **Room**: Adds an art studio-style room on the right side of the farmhouse
+- **Help**: Occasionally waters crops, feeds animals, repairs fences
+- **Gifts**: Sometimes gives you artwork she created, food, or wine
+- **Children**: Can have or adopt up to two children
 
-### 婚后行程
-- 大部分时间待在农舍内
-- 周三有时会回她的小屋工作
-- 晴天有时会去森林或河边写生
+### Post-Marriage Schedule
+- Spends most time inside the farmhouse
+- Sometimes returns to her cottage to work on Wednesday
+- Sometimes goes to the forest or river to sketch on sunny days
 
-## 趣闻
-- Leah 是一位独立的艺术家，搬到星露谷寻找灵感
-- 她有一个复杂的前任关系需要处理
-- 她热爱大自然，经常在户外寻找创作灵感
-- 她最喜欢的颜色是绿色和棕色
+## Trivia
+- Leah is an independent artist who moved to Stardew Valley seeking inspiration
+- She has a complex ex-relationship to deal with
+- She loves nature and often seeks creative inspiration outdoors
+- Her favorite colors are green and brown
 
 ---
 
-*数据来源于 Stardew Valley Wiki，适用于游戏版本 1.6*
+*Data sourced from Stardew Valley Wiki, applicable to game version 1.6*

@@ -1,62 +1,62 @@
-﻿---
-title: "Stardew Valley 祝福雕像指南 - 每日祝福"
-description: "每天触摸可获得随机祝福"
+---
+title: "Stardew Valley Statue of Blessings Guide - Daily Blessings"
+description: "Receive a random blessing every day by touching the statue."
 category: farming
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["祝福雕像", "Statue of Blessings", "祝福", "耕种精通"]
+tags: ["Statue of Blessings", "blessing", "farming mastery"]
 ---
 
-# Stardew Valley 祝福雕像 (Statue of Blessings) 指南
+# Stardew Valley Statue of Blessings Guide
 
-祝福雕像（Statue of Blessings）是《星露谷物语》中一种设备，每天触摸后都会给玩家带来随机祝福。
+The Statue of Blessings is a piece of equipment in Stardew Valley that grants the player a random blessing every day after being touched.
 
-## 基本信息
+## Basic Information
 
-- **类型**: 设备
-- **配方来源**: 耕种精通（精通山洞）
+- **Type**: Equipment
+- **Recipe Source**: Farming Mastery (Mastery Cave)
 
-## 制造配方
+## Crafting Recipe
 
-| 材料 | 数量 |
-|------|------|
-| 树液 | 999 |
-| 纤维 | 999 |
-| 石头 | 999 |
-| 苔藓 | 333 |
+| Material | Quantity |
+|----------|----------|
+| Sap | 999 |
+| Fiber | 999 |
+| Stone | 999 |
+| Moss | 333 |
 
-## 祝福列表
+## Blessing List
 
-每天，雕像会从下面的列表中给玩家一个随机的祝福，持续一天的游戏时间：
+Every day, the statue will grant the player a random blessing from the list below, lasting for one in-game day:
 
-| 祝福名称 | 效果 |
-|----------|------|
-| 蝴蝶祝福 | 在随机地点生成一个彩虹蝴蝶 |
-| 能量祝福 | 给予无限的能量 |
-| 獠牙祝福 | +10% 暴击几率 |
-| 友谊祝福 | 增加与人交谈时获得的友谊值（×3） |
-| 速度祝福 | +0.5 速度 |
-| 水域祝福 | 你今天钓的前三条鱼会容易得多 |
-| 幸运祝福 | +1 运气 |
+| Blessing Name | Effect |
+|---------------|--------|
+| Butterfly Blessing | Spawns a rainbow butterfly at a random location |
+| Energy Blessing | Grants infinite energy |
+| Fangs Blessing | +10% critical hit chance |
+| Friendship Blessing | Increases friendship points gained when talking to people (x3) |
+| Speed Blessing | +0.5 speed |
+| Water Blessing | The first three fish you catch today will be much easier |
+| Luck Blessing | +1 luck |
 
-### 彩虹蝴蝶
+### Rainbow Butterfly
 
-蝴蝶祝福会在山谷的某个地方产生一只彩虹蝴蝶。一旦玩家找到它，蝴蝶会给玩家总资产的0.5%的金钱（最少100g，最多50,000g），并且有（5%+当日运气）的概率获得一个五彩碎片。
+The Butterfly Blessing will spawn a rainbow butterfly somewhere in the valley. Once the player finds it, the butterfly will give the player money equal to 0.5% of their total assets (minimum 100g, maximum 50,000g), and has a (5% + daily luck) chance of giving a Prismatic Shard.
 
-注意：彩虹蝴蝶在下午5点后无法生成。
+Note: Rainbow butterflies cannot spawn after 5:00 PM.
 
-## 配方获取
+## Recipe Acquisition
 
-在精通山洞中选择「耕种精通」后获得祝福雕像的打造配方。
+Select "Farming Mastery" in the Mastery Cave to obtain the crafting recipe for the Statue of Blessings.
 
-## 历史版本
+## Version History
 
-- **1.6**: 加入游戏。
+- **1.6**: Added to the game.
 
-## 小贴士
+## Tips
 
-- 每天记得触摸雕像获取祝福
-- 蝴蝶祝福的五彩碎片掉落受当日运气影响
-- 友谊祝福只影响对话获得的好感度，不影响送礼
+- Remember to touch the statue every day to receive a blessing.
+- The Prismatic Shard drop from the Butterfly Blessing is affected by daily luck.
+- The Friendship Blessing only affects friendship points gained from dialogue, not gifts.

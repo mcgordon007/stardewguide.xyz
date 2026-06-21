@@ -1,134 +1,133 @@
-﻿---
-title: "Stardew Valley 夏季作物攻略"
-description: "夏季作物全攻略，包括种植时间、利润对比、推荐搭配及最佳种植策略"
+---
+title: "Stardew Valley Summer Crops Guide"
+description: "Complete guide to Summer crops, including planting times, profit comparisons, recommended combinations, and best planting strategies."
 category: farming
 season: summer
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["夏季", "作物", "杨桃", "蓝莓", "甜瓜", "利润", "种植策略"]
+tags: ["Summer", "crops", "Starfruit", "Blueberry", "Melon", "profit", "planting strategy"]
 ---
 
-# 夏季作物攻略
+# Summer Crops Guide
 
-夏季是星露谷物语中赚钱潜力最大的季节之一。杨桃酿酒流和蓝莓多收流都是夏季的核心策略。
+Summer is one of the seasons with the greatest money-making potential in Stardew Valley. The Starfruit winemaking strategy and the Blueberry multi-harvest strategy are both core Summer strategies.
 
-## 夏季作物一览
+## Summer Crop List
 
-### 高价值作物
+### High-Value Crops
 
-| 作物 | 种子价格 | 生长天数 | 售价 | 利润 | 是否多收 |
-|------|----------|----------|------|------|----------|
-| 杨桃 | 400g | 13天 | 750g | 350g | 否 |
-| 甜瓜 | 80g | 12天 | 250g | 170g | 否 |
-| 红辣椒 | 40g | 5天 | 40g | 0 | 是（3天） |
-| 蓝莓 | 80g | 13天 | 50g（每次收获3个共150g） | 70g | 是（4天） |
+| Crop | Seed Price | Growth Days | Selling Price | Profit | Multi-Harvest |
+|------|------------|-------------|---------------|--------|---------------|
+| Starfruit | 400g | 13 days | 750g | 350g | No |
+| Melon | 80g | 12 days | 250g | 170g | No |
+| Hot Pepper | 40g | 5 days | 40g | 0g | Yes (3 days) |
+| Blueberry | 80g | 13 days | 50g (3 per harvest, 150g total) | 70g | Yes (4 days) |
 
-### 多收型作物
+### Multi-Harvest Crops
 
-| 作物 | 种子价格 | 首次生长 | 再生周期 | 售价 | 季总收获次数 |
-|------|----------|----------|----------|------|-------------|
-| 蓝莓 | 80g | 13天 | 4天 | 150g | 约4次 |
-| 啤酒花 | 60g | 11天 | 1天 | 25g | 约16次 |
-| 番茄 | 50g | 11天 | 4天 | 60g | 约4次 |
-| 红辣椒 | 40g | 5天 | 3天 | 40g | 约8次 |
-| 咖啡豆 | 无法购买（击杀灰尘精灵1%掉落）| 10天 | 2天 | 15g（售价）| 约9次 |
-| 玉米 | 150g | 14天 | 4天 | 50g | 约3次 |
+| Crop | Seed Price | First Growth | Regrowth Cycle | Selling Price | Total Harvests per Season |
+|------|------------|--------------|----------------|---------------|---------------------------|
+| Blueberry | 80g | 13 days | 4 days | 150g | ~4 times |
+| Hops | 60g | 11 days | 1 day | 25g | ~16 times |
+| Tomato | 50g | 11 days | 4 days | 60g | ~4 times |
+| Hot Pepper | 40g | 5 days | 3 days | 40g | ~8 times |
+| Coffee Bean | Cannot be purchased (1% drop from Dust Sprites) | 10 days | 2 days | 15g (selling price) | ~9 times |
+| Corn | 150g | 14 days | 4 days | 50g | ~3 times |
 
-### 特殊作物
+### Special Crops
 
-| 作物 | 种子价格 | 生长天数 | 售价 | 获取方式 |
-|------|----------|----------|------|----------|
-| 红卷心菜 | 100g | 9天 | 260g | Year 2+信件解锁后皮埃尔购买 |
-| 罂粟 | 100g | 7天 | 140g | 皮埃尔购买（产出罂粟蜜） |
-| 飞瓜 | 200g | 12天 | 150g | Year 2+信件解锁 |
+| Crop | Seed Price | Growth Days | Selling Price | Acquisition Method |
+|------|------------|-------------|---------------|--------------------|
+| Red Cabbage | 100g | 9 days | 260g | Purchase from Pierre after Year 2+ mail unlock |
+| Poppy | 100g | 7 days | 140g | Purchase from Pierre (produces Poppy Honey) |
+| Radish | 200g | 12 days | 150g | Purchase from Pierre after Year 2+ mail unlock |
 
-## 利润对比（28天夏季）
+## Profit Comparison (28-Day Summer)
 
-### 直接出售（每块地）
+### Direct Sale (per plot)
 
-| 作物 | 28天总收入 | 种子成本 | 净利润 |
-|------|------------|----------|--------|
-| 杨桃（2批） | 1,500g | 800g | 700g |
-| 甜瓜（2批） | 500g | 160g | 340g |
-| 蓝莓（含多收） | 750g | 80g | 670g |
-| 啤酒花（含多收） | 400g | 60g | 340g |
-| 番茄（含多收） | 240g | 50g | 190g |
+| Crop | 28-Day Total Income | Seed Cost | Net Profit |
+|------|---------------------|-----------|------------|
+| Starfruit (2 batches) | 1,500g | 800g | 700g |
+| Melon (2 batches) | 500g | 160g | 340g |
+| Blueberry (including multi-harvest) | 750g | 80g | 670g |
+| Hops (including multi-harvest) | 400g | 60g | 340g |
+| Tomato (including multi-harvest) | 240g | 50g | 190g |
 
-### 酿酒利润（使用酒桶）
+### Winemaking Profit (using Kegs)
 
-| 作物 | 酒售价 | 28天酿酒利润 | 工匠加成后 |
-|------|--------|-------------|------------|
-| 杨桃酒 | 2,250g | 3,700g | 5,180g |
-| 甜瓜酒 | 750g | 1,340g | 1,876g |
-| 蓝莓酒 | 450g | 820g | 1,148g |
+| Crop | Wine Selling Price | 28-Day Winemaking Profit | With Artisan Bonus |
+|------|--------------------|--------------------------|--------------------|
+| Starfruit Wine | 2,250g | 3,700g | 5,180g |
+| Melon Wine | 750g | 1,340g | 1,876g |
+| Blueberry Wine | 450g | 820g | 1,148g |
 
-> 杨桃酒是夏季最赚钱的产品，配合工匠职业利润极高。
+> Starfruit Wine is the most profitable Summer product, with extremely high profits when combined with the Artisan profession.
 
-## 种植策略
+## Planting Strategies
 
-### 策略一：杨桃酿酒流（最赚钱）
+### Strategy 1: Starfruit Winemaking (Most Profitable)
 
-1. 修复巴士站，前往绿洲购买杨桃种子
-2. 夏季第1天种植杨桃
-3. 第14天收获后放入酒桶酿造
-4. 第21天收获第二批杨桃
-5. 配合温室和姜岛农场全年种植
+1. Repair the Bus Stop and go to the Oasis to purchase Starfruit seeds.
+2. Plant Starfruit on Summer 1.
+3. Harvest on Summer 14 and place in Kegs for brewing.
+4. Harvest the second batch of Starfruit on Summer 21.
+5. Combine with the Greenhouse and Ginger Island farm for year-round planting.
 
-### 策略二：蓝莓多收流（稳定收益）
+### Strategy 2: Blueberry Multi-Harvest (Stable Income)
 
-1. 夏季第1天种植蓝莓
-2. 使用顶级肥料提升品质
-3. 每4天收获一次，约收获4次
-4. 蓝莓酿酒或直接出售
+1. Plant Blueberries on Summer 1.
+2. Use Deluxe Fertilizer to improve quality.
+3. Harvest every 4 days, approximately 4 times in total.
+4. Brew Blueberry Wine or sell directly.
 
-### 策略三：啤酒花自动酿酒
+### Strategy 3: Hops Automated Winemaking
 
-1. 种植大量啤酒花
-2. 旁边放置酒桶
-3. 啤酒花每天产出，酒桶持续酿造
-4. 淡啤酒售价300g，利润稳定
+1. Plant a large number of Hops.
+2. Place Kegs nearby.
+3. Hops produce daily, and Kegs brew continuously.
+4. Pale Ale sells for 300g, with stable profits.
 
-### 策略四：混合种植
+### Strategy 4: Mixed Planting
 
-- 高价值区：杨桃/甜瓜
-- 多收区：蓝莓/番茄
-- 酿酒区：啤酒花
-- 特殊区：罂粟（产出罂粟蜜）
+- High-value area: Starfruit / Melon
+- Multi-harvest area: Blueberry / Tomato
+- Winemaking area: Hops
+- Special area: Poppy (produces Poppy Honey)
 
-## 种子获取
+## Seed Acquisition
 
-| 作物 | 购买地点 | 价格 |
-|------|----------|------|
-| 杨桃 | 绿洲商店 | 400g |
-| 蓝莓 | 皮埃尔商店 | 80g |
-| 甜瓜 | 皮埃尔商店 | 80g |
-| 番茄 | 皮埃尔商店 | 50g |
-| 红辣椒 | 皮埃尔商店 | 40g |
-| 啤酒花 | 皮埃尔商店 | 60g |
-| 咖啡豆 | 旅行商人/姜岛 | 15g |
-| 玉米 | 皮埃尔商店 | 150g |
-| 红卷心菜 | 皮埃尔（Year 2+） | 100g |
-| 罂粟 | 皮埃尔商店 | 100g |
-| 飞瓜 | 皮埃尔（Year 2+） | 200g |
+| Crop | Purchase Location | Price |
+|------|-------------------|-------|
+| Starfruit | Sandy's Shop (Oasis) | 400g |
+| Blueberry | Pierre's General Store | 80g |
+| Melon | Pierre's General Store | 80g |
+| Tomato | Pierre's General Store | 50g |
+| Hot Pepper | Pierre's General Store | 40g |
+| Hops | Pierre's General Store | 60g |
+| Coffee Bean | Traveling Cart / Ginger Island | 15g |
+| Corn | Pierre's General Store | 150g |
+| Red Cabbage | Pierre's (Year 2+) | 100g |
+| Poppy | Pierre's General Store | 100g |
+| Radish | Pierre's (Year 2+) | 200g |
 
-## 实用技巧
+## Useful Tips
 
-- 夏季第1天就种下所有作物，最大化生长天数
-- 使用顶级肥料提升作物品质
-- 杨桃种子较贵，建议有一定资金后再大规模种植
-- 啤酒花配合酒桶可以实现几乎每天产出淡啤酒
-- 红卷心菜和飞瓜需要Year 2才能购买种子
-- 配合铱级洒水器实现自动化浇水
+- Plant all crops on Summer 1 to maximize growth days.
+- Use Deluxe Fertilizer to improve crop quality.
+- Starfruit seeds are relatively expensive; it is recommended to have a certain amount of capital before large-scale planting.
+- Hops combined with Kegs can achieve almost daily production of Pale Ale.
+- Red Cabbage and Radish seeds can only be purchased in Year 2.
+- Combine with Iridium Sprinklers for automatic watering.
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 夏季最赚钱的作物是什么？**
-A: 杨桃（配合酿酒和工匠职业），单季每块地净利润可达5,180g。
+**Q: What is the most profitable Summer crop?**
+A: Starfruit (combined with winemaking and the Artisan profession), with a net profit of up to 5,180g per plot per season.
 
-**Q: 蓝莓值得种吗？**
-A: 值得，蓝莓多收型，28天可收获约4次，配合酿酒利润不错。
+**Q: Are Blueberries worth planting?**
+A: Yes, Blueberries are multi-harvest, can be harvested approximately 4 times in 28 days, and have decent profits when combined with winemaking.
 
-**Q: 红卷心菜第一年能种吗？**
-A: 不能，需要Year 2收到信件后才能在皮埃尔处购买种子。
-
+**Q: Can Red Cabbage be planted in Year 1?**
+A: No, you need to receive the mail in Year 2 before you can purchase seeds from Pierre.

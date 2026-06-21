@@ -1,66 +1,66 @@
-﻿---
-title: "Stardew Valley 便携帐篷指南 - 户外睡觉"
-description: "可在户外放置的一次性帐篷"
+---
+title: "Stardew Valley Tent Kit Guide - Outdoor Sleeping"
+description: "A single-use tent that can be placed outdoors."
 category: items
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["便携帐篷", "Tent Kit", "睡觉", "户外"]
+tags: ["Tent Kit", "sleeping", "outdoor"]
 ---
 
-# Stardew Valley 便携帐篷 (Tent Kit) 指南
+# Stardew Valley Tent Kit Guide
 
-便携帐篷（Tent Kit）是《星露谷物语》中一种设备，可以让玩家在户外建造一个帐篷睡觉。
+The Tent Kit is a piece of equipment in Stardew Valley that allows the player to build a tent outdoors to sleep in.
 
-## 基本信息
+## Basic Information
 
-- **来源**: 打造、鳟鱼大赛、姜岛
-- **售价**: 200g
+- **Source**: Crafting, Trout Derby, Ginger Island
+- **Selling Price**: 200g
 
-## 制造配方
+## Crafting Recipe
 
-| 材料 | 数量 |
-|------|------|
-| 硬木 | 10 |
-| 纤维 | 25 |
-| 布料 | 1 |
+| Material | Quantity |
+|----------|----------|
+| Hardwood | 10 |
+| Fiber | 25 |
+| Cloth | 1 |
 
-## 配方来源
+## Recipe Source
 
-觅食等级8自动解锁。
+Automatically unlocked at Foraging Level 8.
 
-## 其他获取方式
+## Other Acquisition Methods
 
-1. 在姜岛东部丛林的一个盒子里可以发现三个便携帐篷
-2. 在鳟鱼大赛第一次使用黄金标签兑换奖励时可获得1个便携帐篷
-3. 如果玩家已经使用了金色Joja鹦鹉，蜗牛教授将赠送一个便携帐篷作为将蝙蝠木乃伊捐赠给岛屿办事处的奖励
+1. Three Tent Kits can be found in a box in the Ginger Island East jungle.
+2. One Tent Kit can be obtained as a reward when using a Golden Tag for the first time at the Trout Derby.
+3. If the player has already used the Golden Joja Parrot, Professor Snail will gift a Tent Kit as a reward for donating the Bat Mummy to the Island Field Office.
 
-## 使用方法
+## How to Use
 
-- 选择2×3地格区域的空地放置便携帐篷
-- 只能在户外使用
-- 每个便携帐篷只能使用一次
-- 使用帐篷后游戏将被保存，玩家第二天早上6点将在同一位置醒来
-- 帐篷本身会消失
+- Select a 2x3 tile area of open space to place the Tent Kit.
+- Can only be used outdoors.
+- Each Tent Kit can only be used once.
+- After using the tent, the game will be saved, and the player will wake up at 6:00 AM the next day in the same location.
+- The tent itself will disappear.
 
-## 限制
+## Restrictions
 
-- 如果没有足够的空间会显示错误消息
-- 在室内（例如矿井）使用会显示错误消息
-- 第二天该位置是节日场所也会显示错误消息
-- 放置在室外的未使用的帐篷将在第二天消失
+- An error message will be displayed if there is not enough space.
+- An error message will be displayed if used indoors (e.g., in the Mines).
+- An error message will be displayed if the location is a festival venue the next day.
+- Unused tents placed outdoors will disappear the next day.
 
-## 多人游戏
+## Multiplayer
 
-在多人游戏中，多人可以同时使用帐篷。
+In multiplayer, multiple players can use the tent at the same time.
 
-## 历史版本
+## Version History
 
-- **1.6**: 加入游戏。
+- **1.6**: Added to the game.
 
-## 小贴士
+## Tips
 
-- 便携帐篷非常适合在矿井深处或骷髅洞穴探险时使用
-- 在姜岛探险时携带几个帐篷可以避免来回奔波
-- 记得提前确认放置位置有足够的空间
+- The Tent Kit is very suitable for use when exploring deep in the Mines or the Skull Cavern.
+- Carry a few tents when exploring Ginger Island to avoid back-and-forth travel.
+- Remember to confirm that the placement location has enough space in advance.

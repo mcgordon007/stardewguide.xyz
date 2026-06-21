@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Bee House Guide"
 description: "Complete guide to the Bee House in Stardew Valley - unlock requirements, crafting materials, honey production, and flower pairing strategies."
 category: farming
@@ -9,35 +9,35 @@ featured: false
 tags: ["bee-house", "farming", "crafting", "honey"]
 ---
 
-# Bee House 指南
+# Bee House Guide
 
-## 解锁条件
+## Unlock Condition
 
-Bee House（蜂房）在 **Farming Level 3（耕种等级3）** 时解锁 crafting recipe。
+Bee House is unlocked at **Farming Level 3**.
 
-## 制作材料
+## Crafting Materials
 
-| 材料 | 数量 |
-|------|------|
-| Wood（木材） | 40 |
-| Coal（煤炭） | 8 |
-| Iron Bar（铁锭） | 1 |
-| Maple Syrup（枫糖浆） | 1 |
+| Material | Quantity |
+|----------|----------|
+| Wood | 40 |
+| Coal | 8 |
+| Iron Bar | 1 |
+| Maple Syrup | 1 |
 
-## 功能说明
+## Function
 
-Bee House 生产 Honey（蜂蜜）：
+Bee House produces Honey:
 
-- **基础产出**：Wild Honey（野蜂蜜），约 **4天** 产出一次
-- **售价**：100g（基础），受 Rancher/Artisan 职业加成影响
+- **Base Output**: Wild Honey, produced about every **4 days**
+- **Sell Price**: 100g (base), affected by Rancher/Artisan profession bonuses
 
-## 花朵配对机制
+## Flower Pairing Mechanism
 
-当 Bee House 的 **5格范围内** 种植有成熟的花朵时，产出的蜂蜜会变为对应花蜜：
+When a mature flower is planted within **5 tiles** of a Bee House, the honey produced changes to the corresponding flower honey:
 
-| 花朵 | 蜂蜜类型 | 售价 |
-|------|----------|------|
-| 无 | Wild Honey | 100g |
+| Flower | Honey Type | Sell Price |
+|--------|------------|------------|
+| None | Wild Honey | 100g |
 | Tulip | Tulip Honey | 160g |
 | Blue Jazz | Blue Jazz Honey | 200g |
 | Sunflower | Sunflower Honey | 260g |
@@ -46,18 +46,18 @@ Bee House 生产 Honey（蜂蜜）：
 | Fairy Rose | Fairy Rose Honey | 680g |
 | Crocus | Crocus Honey | 150g |
 
-## 使用技巧
+## Usage Tips
 
-- ** Fairy Rose Honey 价值最高**，强烈推荐搭配种植
-- 花朵必须在 Bee House 的 5 格半径内且完全成熟才能影响蜂蜜类型
-- 冬季户外无法产蜜（除非在 Greenhouse 内放置）
-- 搭配 Artisan 职业（蜂蜜售价+40%）收益极高
-- 可大量建造 Bee House 形成"蜂蜜农场"
-- 蜂蜜可放入 Keg 酿造 Mead（蜂蜜酒），价值进一步提升
+- **Fairy Rose Honey has the highest value**, strongly recommended to pair with Fairy Rose
+- Flowers must be within 5 tile radius of Bee House and fully mature to affect honey type
+- Bee Houses cannot produce honey outdoors in Winter (unless placed in Greenhouse)
+- Combined with Artisan profession (+40% honey sell price) yields extremely high returns
+- Can build large numbers of Bee Houses to form a "honey farm"
+- Honey can be put into Kegs to brew Mead, further increasing value
 
-## 季节注意事项
+## Season Notes
 
-- 春季：Tulip、Blue Jazz
-- 夏季：Sunflower、Summer Spangle、Poppy、Fairy Rose
-- 秋季：Sunflower、Fairy Rose（需夏季种好延续）
-- 冬季：户外停止产蜜，Greenhouse 内可继续
+- Spring: Tulip, Blue Jazz
+- Summer: Sunflower, Summer Spangle, Poppy, Fairy Rose
+- Fall: Sunflower, Fairy Rose (needs to be planted in Summer to continue)
+- Winter: Outdoor production stops, can continue in Greenhouse

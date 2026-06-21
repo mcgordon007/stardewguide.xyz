@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Abigail Guide - Marriage Candidate"
 description: "Complete guide to Abigail in Stardew Valley. Learn about her schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,161 +9,161 @@ featured: false
 tags: ["npc", "marriage", "abigail"]
 ---
 
-# Stardew Valley Abigail 攻略 - 可结婚 NPC
+# Stardew Valley Abigail Guide - Marriage Candidate
 
-## 基本信息
+## Basic Information
 
-| 属性 | 内容 |
-|------|------|
-| 姓名 | Abigail (阿比盖尔) |
-| 生日 | 秋季 13 日 (Fall 13) |
-| 住址 | Pierre's General Store (皮埃尔杂货店) |
-| 家庭 | 父亲 Pierre，母亲 Caroline |
-| 可结婚 | 是 |
-| 职业 | 无固定职业，喜欢冒险和探索 |
+| Attribute | Details |
+|-----------|---------|
+| Name | Abigail |
+| Birthday | Fall 13 |
+| Address | Pierre's General Store |
+| Family | Father Pierre, Mother Caroline |
+| Marriage | Yes |
+| Occupation | No fixed occupation, likes adventure and exploration |
 
-## 日常行程
+## Daily Schedule
 
-### 春季
-- **周一/二/三/四/五**
-  - 10:00 AM - 离开房间，站在杂货店柜台前
-  - 12:00 PM - 离开家前往河边站在桥上
-  - 1:00 PM - 到达河边桥边
-  - 4:30 PM - 返回家中
-  - 5:30 PM - 回到自己房间
-  - 10:00 PM - 上床睡觉
+### Spring
+- **Monday/Tuesday/Wednesday/Thursday/Friday**
+  - 10:00 AM - Leaves room, stands at General Store counter
+  - 12:00 PM - Leaves home for the river bridge
+  - 1:00 PM - Arrives at river bridge
+  - 4:30 PM - Returns home
+  - 5:30 PM - Back in her room
+  - 10:00 PM - Goes to bed
 
-- **周六**
-  - 11:00 AM - 离开家前往小镇广场
-  - 12:30 PM - 到达小镇广场
-  - 5:00 PM - 返回家中
-  - 7:30 PM - 站在杂货店柜台前
-  - 10:00 PM - 回到房间睡觉
+- **Saturday**
+  - 11:00 AM - Leaves home for Town Square
+  - 12:30 PM - Arrives at Town Square
+  - 5:00 PM - Returns home
+  - 7:30 PM - Stands at General Store counter
+  - 10:00 PM - Back to room, sleeps
 
-- **周日**
-  - 10:30 AM - 离开房间站在柜台前
-  - 1:00 PM - 前往 wizard tower 方向（森林区域）
-  - 4:00 PM - 返回家中
-  - 7:30 PM - 站在柜台前
-  - 10:00 PM - 回到房间
+- **Sunday**
+  - 10:30 AM - Leaves room, stands at counter
+  - 1:00 PM - Heads toward Wizard Tower direction (forest area)
+  - 4:00 PM - Returns home
+  - 7:30 PM - Stands at counter
+  - 10:00 PM - Back to room
 
-### 夏季
-- 行程与春季类似，下午常去湖泊或海滩区域
+### Summer
+- Schedule similar to Spring, afternoons often at the lake or beach area
 
-### 秋季
-- 生日当天会在家中
-- 其他日子行程与春季类似
+### Fall
+- At home on birthday
+- Other days schedule similar to Spring
 
-### 冬季
-- 常去温泉区域
-- 雨天会待在家中
+### Winter
+- Often visits Spa area
+- Stays home on rainy days
 
-## 礼物喜好
+## Gift Preferences
 
-### 最爱的礼物 (Loved Gifts) - +80 好感度
-- Amethyst (紫水晶)
-- Pumpkin (南瓜)
-- Chocolate Cake (巧克力蛋糕)
-- Blackberry Cobbler (黑莓馅饼)
-- Pufferfish (河豚)
-- Spicy Eel (香辣鳗鱼)
+### Loved Gifts (+80 friendship)
+- Amethyst
+- Pumpkin
+- Chocolate Cake
+- Blackberry Cobbler
+- Pufferfish
+- Spicy Eel
 
-### 喜欢的礼物 (Liked Gifts) - +45 好感度
-- Quartz (石英)
-- Earth Crystal (大地结晶)
-- Fire Quartz (火水晶)
-- Solar Essence (太阳精华)
-- Void Essence (虚空精华)
-- All Gems (所有宝石，除了钻石)
-- All Cooking (大部分烹饪食物)
-- All Flowers (大部分花)
+### Liked Gifts (+45 friendship)
+- Quartz
+- Earth Crystal
+- Fire Quartz
+- Solar Essence
+- Void Essence
+- All Gems (except Diamond)
+- All Cooking (most cooked dishes)
+- All Flowers (most flowers)
 
-### 中立的礼物 (Neutral Gifts) - +20 好感度
-- Milk (牛奶)
-- Chanterelle (鸡油菌)
-- Common Mushroom (普通蘑菇)
-- Dandelion (蒲公英)
-- Hazelnut (榛子)
-- Leek (韭葱)
-- Morel (羊肚菌)
-- Purple Mushroom (紫蘑菇)
-- Snow Yam (雪山药)
-- Winter Root (冬根)
+### Neutral Gifts (+20 friendship)
+- Milk
+- Chanterelle
+- Common Mushroom
+- Dandelion
+- Hazelnut
+- Leek
+- Morel
+- Purple Mushroom
+- Snow Yam
+- Winter Root
 
-### 不喜欢的礼物 (Disliked Gifts) - -20 好感度
-- Clay (粘土)
-- Holly (冬青)
-- All Fish (大部分鱼类)
-- All Eggs (鸡蛋)
-- All Vegetables (大部分蔬菜)
-- All Fruit (大部分水果)
+### Disliked Gifts (-20 friendship)
+- Clay
+- Holly
+- All Fish (most fish)
+- All Eggs (eggs)
+- All Vegetables (most vegetables)
+- All Fruit (most fruit)
 
-### 讨厌的礼物 (Hated Gifts) - -40 好感度
-- Sugar (糖)
-- Wild Horseradish (野生辣根)
-- All Milk (牛奶制品)
-- Mayonnaise (蛋黄酱)
-- Pickles (腌菜)
-- Jelly (果酱)
+### Hated Gifts (-40 friendship)
+- Sugar
+- Wild Horseradish
+- All Milk (dairy products)
+- Mayonnaise
+- Pickles
+- Jelly
 
-## 爱心事件
+## Heart Events
 
-### 2 心事件
-- **触发条件**: 进入 Pierre's General Store，Abigail 在店内时
-- **剧情**: 你发现 Abigail 因为电子游戏卡关而生气。你可以安慰她或给她建议。
-- **选择影响**: 支持她的选择会增加好感度。
+### 2 Heart Event
+- **Trigger**: Enter Pierre's General Store when Abigail is inside
+- **Plot**: You find Abigail angry because she's stuck in a video game. You can comfort her or give advice.
+- **Choice Effect**: Supporting her choice increases friendship.
 
-### 4 心事件
-- **触发条件**: 在雨天或雪天中午 12 点后进入山区 (Mountain)
-- **剧情**: Abigail 在吹长笛，她邀请你一起演奏。你们一起演奏音乐。
-- **选择影响**: 告诉她她演奏得很好会增加好感度。
+### 4 Heart Event
+- **Trigger**: Enter the Mountain on a rainy or snowy day after 12 PM
+- **Plot**: Abigail is playing the flute and invites you to play together. You play music together.
+- **Choice Effect**: Telling her she plays well increases friendship.
 
-### 6 心事件
-- **触发条件**: 进入 Pelican Town 时触发
-- **剧情**: Abigail 和你在墓地对话，她谈论对冒险和超自然现象的兴趣。
-- **选择影响**: 表达对她兴趣的理解会增加好感度。
+### 6 Heart Event
+- **Trigger**: Enter Pelican Town
+- **Plot**: Abigail talks with you at the graveyard about her interest in adventure and supernatural phenomena.
+- **Choice Effect: Expressing understanding of her interests increases friendship.
 
-### 8 心事件
-- **触发条件**: 收到 Abigail 的信后，晚上 8 点到 10 点之间进入 Pelican Town
-- **剧情**: Abigail 向你展示她的剑术，并邀请你进行一场友好的比试。
-- **选择影响**: 认真对待比试会增加好感度。
+### 8 Heart Event
+- **Trigger**: After receiving Abigail's letter, enter Pelican Town between 8:00 PM and 10:00 PM
+- **Plot**: Abigail shows you her sword skills and invites you to a friendly sparring match.
+- **Choice Effect**: Taking the match seriously increases friendship.
 
-### 10 心事件
-- **触发条件**: 收到 Abigail 的信后，晚上 8 点到午夜之间进入矿山 (Mines)
-- **剧情**: Abigail 在矿山探险，你们一起面对危险。她表达了对冒险生活的热爱。
-- **选择影响**: 支持她的冒险精神会增加好感度。
-- **注意**: 需要购买美人鱼吊坠 (Mermaid's Pendant) 才能求婚
+### 10 Heart Event
+- **Trigger**: After receiving Abigail's letter, enter the Mines between 8:00 PM and midnight
+- **Plot**: Abigail is exploring the Mines, you face danger together. She expresses her love for adventure.
+- **Choice Effect**: Supporting her adventurous spirit increases friendship.
+- **Note**: Need to purchase Mermaid's Pendant to propose
 
-### 14 心事件 (婚后)
-- **触发条件**: 婚后，进入农舍
-- **剧情**: Abigail 想要尝试在农场帮忙，她讨论如何为农场生活做出贡献。
-- **选择影响**: 鼓励她参与农场工作会增加好感度。
+### 14 Heart Event (Post-Marriage)
+- **Trigger**: After marriage, enter the farmhouse
+- **Plot**: Abigail wants to try helping on the farm, discussing how to contribute to farm life.
+- **Choice Effect**: Encouraging her to participate in farm work increases friendship.
 
-## 结婚信息
+## Marriage Information
 
-### 求婚条件
-1. 与 Abigail 达到 10 心好感度
-2. 完成 10 心事件
-3. 拥有至少 1 级农舍升级
-4. 购买美人鱼吊坠 (Mermaid's Pendant) 从老水手处 (3000g)
+### Proposal Requirements
+1. Reach 10 hearts friendship with Abigail
+2. Complete 10 heart event
+3. Have at least 1 farmhouse upgrade
+4. Purchase Mermaid's Pendant from the Old Mariner (3000g)
 
-### 婚后生活
-- **房间**: 会在农舍右侧添加一个紫色主题的房间
-- **帮忙**: 偶尔会 watering crops (浇水)、feeding animals (喂动物)、repairing fences (修栅栏)
-- **礼物**: 有时会送你炸弹、食物或其他物品
-- **孩子**: 可以生育或领养最多两个孩子
+### Married Life
+- **Room**: Adds a purple-themed room on the right side of the farmhouse
+- **Help**: Occasionally waters crops, feeds animals, repairs fences
+- **Gifts**: Sometimes gives you bombs, food, or other items
+- **Children**: Can have or adopt up to two children
 
-### 婚后行程
-- 大部分时间待在农舍内
-- 周三有时会回杂货店看望父母
-- 偶尔会外出冒险
+### Post-Marriage Schedule
+- Spends most time inside the farmhouse
+- Sometimes visits parents at the General Store on Wednesday
+- Occasionally goes out adventuring
 
-## 趣闻
-- Abigail 最喜欢的颜色是紫色
-- 她经常谈论想要离开小镇去冒险
-- 她对神秘学和超自然现象很感兴趣
-- 她其实是 Pierre 和 Caroline 的女儿，但发色引发了一些玩家猜测
+## Trivia
+- Abigail's favorite color is purple
+- She often talks about wanting to leave town to go adventuring
+- She is very interested in mysticism and supernatural phenomena
+- She is Pierre and Caroline's daughter, but her hair color has sparked some player speculation
 
 ---
 
-*数据来源于 Stardew Valley Wiki，适用于游戏版本 1.6*
+*Data sourced from Stardew Valley Wiki, applicable to game version 1.6*

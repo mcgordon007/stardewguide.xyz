@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Mushroom Log Guide - Produces Mushrooms"
 description: "Complete guide to the Mushroom Log in Stardew Valley, a crafting item that produces mushrooms periodically when placed near trees."
 category: items
@@ -9,85 +9,84 @@ featured: false
 tags: ["mushroom log", "mushrooms", "crafting", "foraging", "trees"]
 ---
 
-# Stardew Valley Mushroom Log 指南
+# Stardew Valley Mushroom Log Guide
 
-## 简介
+## Introduction
 
-**Mushroom Log（蘑菇木桩）** 是《星露谷物语》中一种制作物品。放置在树木附近后，它会定期产出各种蘑菇，是获取蘑菇的稳定来源。
+The **Mushroom Log** is a craftable item in Stardew Valley. When placed near trees, it periodically produces various mushrooms, providing a stable mushroom source.
 
-## 获取方式
+## How to Obtain
 
-- **制作（Crafting）**：达到 Foraging 等级 4 后解锁配方
-- **配方材料**：
-  - 硬木（Hardwood）x 10
-  - 苔藓（Moss）x 10
+- **Crafting**: Recipe unlocked at Foraging Level 4
+- **Recipe Materials**:
+  - Hardwood x 10
+  - Moss x 10
 
-## 制作方法
+## How to Craft
 
-1. 将 Foraging 技能提升到等级 4
-2. 收集所需材料（硬木和苔藓）
-3. 打开制作菜单（按 E 键）
-4. 选择 Mushroom Log 进行制作
+1. Raise Foraging skill to Level 4
+2. Collect required materials (Hardwood and Moss)
+3. Open crafting menu (press E key)
+4. Select Mushroom Log to craft
 
-## 使用方法
+## How to Use
 
-1. 将 Mushroom Log 放置在农场中
-2. 确保周围有树木（任何类型的树都可以）
-3. 每隔一段时间，Mushroom Log 会自动产出蘑菇
-4. 与 Mushroom Log 互动即可收集蘑菇
+1. Place the Mushroom Log on the farm
+2. Ensure there are trees nearby (any type of tree works)
+3. After a period of time, the Mushroom Log will automatically produce mushrooms
+4. Interact with the Mushroom Log to collect mushrooms
 
-## 产出物品
+## Output Items
 
-Mushroom Log 可以产出以下蘑菇：
+The Mushroom Log can produce the following mushrooms:
 
-- **普通蘑菇（Common Mushroom）**：最常见的产出
-- **羊肚菌（Morel）**：春季特有
-- **鸡油菌（Chanterelle）**：秋季特有
-- **红蘑菇（Red Mushroom）**：有概率产出
-- **紫蘑菇（Purple Mushroom）**：稀有产出
+- **Common Mushroom**: Most common output
+- **Morel**: Spring exclusive
+- **Chanterelle**: Fall exclusive
+- **Red Mushroom**: Has a chance to produce
+- **Purple Mushroom**: Rare output
 
-## 产出机制
+## Output Mechanics
 
-- **产出频率**：每隔几天产出一次
-- **产出数量**：每次产出 1-3 个蘑菇
-- **影响因素**：周围树木的数量和类型可能影响产出
-- **季节影响**：某些蘑菇只在特定季节产出
+- **Output Frequency**: Produces every few days
+- **Output Quantity**: 1-3 mushrooms per production
+- **Influencing Factors**: Number and type of surrounding trees may affect output
+- **Seasonal Effect**: Certain mushrooms only produce in specific seasons
 
-## 注意事项
+## Notes
 
-- 需要放置在树木附近才能工作
-- 不需要浇水或维护
-- 冬季仍然可以产出蘑菇
-- 产出不受天气影响
-- 可以放置多个 Mushroom Log
+- Needs to be placed near trees to work
+- Does not require watering or maintenance
+- Can still produce mushrooms in Winter
+- Output is not affected by weather
+- Can place multiple Mushroom Logs
 
-## 策略建议
+## Strategy Suggestions
 
-- 在农场边缘或森林区域集中放置 Mushroom Log
-- 保留周围树木不被砍伐，以维持产出
-- 对于需要大量蘑菇的制作和烹饪配方，建议制作多个 Mushroom Log
-- 紫蘑菇是稀有产出，可用于制作生命药剂或送礼
+- Concentrate Mushroom Logs at the edge of the farm or forest areas
+- Keep surrounding trees unchopped to maintain output
+- For crafting and cooking recipes that require large amounts of mushrooms, recommend crafting multiple Mushroom Logs
+- Purple Mushroom is a rare output, can be used to craft Life Elixir or as gifts
 
-## 相关物品与建筑
+## Related Items and Buildings
 
-- **Mushroom Box（蘑菇盒）**：地下室（Cellar）中的蘑菇产出设备
-- **Fruit Trees（果树）**：不影响 Mushroom Log 工作
-- **Tapper（树液采集器）**：可以同时在树上使用
+- **Mushroom Box**: Mushroom production device in the Cellar
+- **Fruit Trees**: Do not affect Mushroom Log function
+- **Tapper**: Can be used on trees simultaneously
 
-## 与 Mushroom Box 的区别
+## Differences from Mushroom Box
 
-| 特性 | Mushroom Log | Mushroom Box |
-|------|--------------|--------------|
-| 位置 | 户外 | 地下室 |
-| 需要树木 | 是 | 否 |
-| 产出种类 | 野生蘑菇 | 特定蘑菇 |
-| 解锁方式 | Foraging 4 级 | 农场地下室 |
+| Feature | Mushroom Log | Mushroom Box |
+|---------|--------------|--------------|
+| Location | Outdoors | Cellar |
+| Needs Trees | Yes | No |
+| Output Types | Wild mushrooms | Specific mushrooms |
+| Unlock Method | Foraging Level 4 | Farm Cellar |
 
-## 版本历史
+## Version History
 
-- **1.6 版本**：新增制作配方
+- **1.6**: New crafting recipe added
 
 ---
 
-*本指南基于 Stardew Valley 1.6 版本编写。游戏内容可能随更新而变化，建议参考官方 Wiki 获取最新信息。*
-
+*This guide is based on Stardew Valley 1.6. Game content may change with updates, please refer to the official Wiki for the latest information.*

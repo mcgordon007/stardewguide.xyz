@@ -1,54 +1,53 @@
-﻿---
-title: "Stardew Valley 加料器指南 - 自动加载机器"
-description: "自动将材料加入前面的机器"
+---
+title: "Stardew Valley Hopper Guide - Auto-Loading Machine"
+description: "Automatically loads materials into the machine in front of it"
 category: items
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["加料器", "Hopper", "自动化", "齐先生的核桃房"]
+tags: ["hopper", "automation", "Qi Gem", "Qi Walnut Room"]
 ---
 
-# Stardew Valley 加料器 (Hopper) 指南
+# Stardew Valley Hopper Guide
 
-加料器（Hopper）是《星露谷物语》中一种可打造物品，可以自动将内部存放的材料加入它前面的机器里。
+The Hopper is a craftable item in Stardew Valley that can automatically load materials stored inside into the machine placed in front of it.
 
-## 基本信息
+## Basic Information
 
-- **来源**: 打造、齐先生的核桃房
-- **售出价格**: 不可出售
+- **Source**: Crafting, Qi's Walnut Room
+- **Sell Price**: Cannot be sold
 
-## 制造配方
+## Crafting Recipe
 
-| 材料 | 数量 |
-|------|------|
-| 硬木 | 10 |
-| 铱锭 | 1 |
-| 放射性矿锭 | 1 |
+| Material | Quantity |
+|----------|----------|
+| Hardwood | 10 |
+| Iridium Bar | 1 |
+| Radioactive Bar | 1 |
 
-## 配方来源
+## Recipe Source
 
-在齐先生的核桃房花费 50 齐钻购买配方，或以 10 齐钻直接购买加料器。
+Purchase the recipe for 50 Qi Gems at Qi's Walnut Room, or buy a Hopper directly for 10 Qi Gems.
 
-## 使用方法
+## How to Use
 
-当加料器前面的机器没有工作且产出的物品已经被收走，同时加料器里的材料可以加入这个机器时，它会自动将内部存放的材料加进它前面的机器里。
+When the machine in front of the Hopper is not working and its output has been collected, and the materials in the Hopper can be loaded into that machine, it will automatically load the stored materials into the machine in front of it.
 
-### 特点
+### Features
 
-- 通过这种方式生产出来的物品依然需要手动取走
-- 加料器可以添加多种不同原材料
-- 可以同时添加两种材料到与它相连的机器内
-- 例如可以同时在加料器内加入煤炭和多种不同的矿石，并在加料器的前面放置一个熔炉，加料器会按照从左到右的顺序依次给熔炉加入矿石进行冶炼
+- Items produced this way still need to be manually collected
+- The Hopper can hold multiple different raw materials
+- Can add two materials at once to a connected machine
+- For example, you can place coal and multiple different ores in the Hopper, and place a Furnace in front of it; the Hopper will load ores into the Furnace in left-to-right order for smelting
 
-## 历史版本
+## Version History
 
-- **1.5**: 加入游戏。
-- **1.6.9**: 修复了使用加料器向蟹笼加料会导致鱼饵重复的问题。
+- **1.5**: Added to the game.
+- **1.6.9**: Fixed a bug where using a Hopper to load bait into Crab Pots caused bait duplication.
 
-## 小贴士
+## Tips
 
-- 加料器是实现半自动生产的重要工具
-- 适合用于熔炉、小桶等需要反复添加材料的机器
-- 配合多个机器可以实现批量生产
-
+- The Hopper is an important tool for achieving semi-automatic production
+- Suitable for machines that require repeated material loading such as Furnaces and Kegs
+- Pair with multiple machines to achieve batch production

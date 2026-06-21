@@ -1,53 +1,53 @@
-﻿---
-title: "Stardew Valley 战斗技能攻略"
-description: "战斗技能等级奖励、职业选择策略及战斗效率优化"
+---
+title: "Stardew Valley Combat Skill Guide"
+description: "Combat skill level rewards, profession choice strategies, and combat efficiency optimization"
 category: skills
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["战斗", "技能", "职业", "战士", "游侠"]
+tags: ["Combat", "Skill", "Profession", "Fighter", "Scout"]
 ---
 
-# 战斗技能攻略
+# Combat Skill Guide
 
-战斗技能影响武器伤害、生命值和战斗效率。
+Combat skill affects weapon damage, health points, and combat efficiency.
 
-## 如何提升
+## How to Level Up
 
-- **击杀怪物**：+2-5战斗经验
-- **矿井战斗**：主要经验来源
-- **骷髅洞穴战斗**：后期主要经验来源
+- **Kill monsters**: +2-5 Combat XP
+- **Mines combat**: Main XP source
+- **Skull Cavern combat**: Main late game XP source
 
-## 等级奖励
+## Level Rewards
 
-| 等级 | 奖励 |
-|------|------|
-| 1 | 解锁石剑配方 |
-| 2 | 解锁生命药水配方 |
-| 3 | 解锁英雄药水配方 |
-| 4 | 解锁钢制小剑配方 |
-| 5 | 职业选择 |
-| 6 | 解锁铱剑配方 |
-| 8 | 解锁生命花药水配方 |
-| 9 | 解锁银河剑购买权限 |
-| 10 | 职业选择 |
+| Level | Reward |
+|-------|--------|
+| 1 | Unlocks Wooden Blade recipe |
+| 2 | Unlocks Life Elixir recipe |
+| 3 | Unlocks Hero's Elixir recipe |
+| 4 | Unlocks Steel Smallsword recipe |
+| 5 | Profession choice |
+| 6 | Unlocks Obsidian Edge recipe |
+| 8 | Unlocks Life Elixir recipe |
+| 9 | Unlocks Galaxy Sword purchase |
+| 10 | Profession choice |
 
-## 5级职业选择
+## Level 5 Profession Choice
 
-### 战士（Fighter）- 攻击+10%
-### 游侠（Scout）- 暴击率+50%
+### Fighter - Attack +10%
+### Scout - Critical Strike Chance +50%
 
-> **推荐战士**，稳定的10%攻击加成比不可靠的暴击更实用。
+> **Recommended Fighter**, stable 10% attack bonus is more practical than unreliable critical strikes.
 
-## 10级职业选择
+## Level 10 Profession Choice
 
-### 武士（Brute）- 攻击+15%（需战士）
-### 防御者（Defender）- 生命值+25（需战士）
+### Brute - Attack +15% (requires Fighter)
+### Defender - Health +25 (requires Fighter)
 
-> **推荐武士**，+25%攻击（与战士叠加）非常强力。
+> **Recommended Brute**, +25% attack (stacks with Fighter) is very powerful.
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 战士和游侠哪个好？** A: 战士更实用。
-**Q: 武士和防御者哪个好？** A: 武士更好。
+**Q: Which is better, Fighter or Scout?** A: Fighter is more practical.
+**Q: Which is better, Brute or Defender?** A: Brute is better.

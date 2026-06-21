@@ -1,155 +1,153 @@
-﻿---
-title: "Stardew Valley 恐龙蛋攻略"
-description: "恐龙蛋获取方式、孵化恐龙、产出恐龙蛋及最佳使用策略"
+---
+title: "Stardew Valley Dinosaur Egg Guide"
+description: "Dinosaur Egg acquisition methods, hatching dinosaurs, producing Dinosaur Eggs, and best usage strategies"
 category: items
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["恐龙蛋", "恐龙", "古物", "博物馆", "蛋黄酱", "稀有物品"]
+tags: ["Dinosaur Egg", "Dinosaur", "Artifact", "Museum", "Mayonnaise", "Rare Item"]
 ---
 
-# 恐龙蛋攻略
+# Dinosaur Egg Guide
 
-恐龙蛋（Dinosaur Egg）是星露谷物语中最稀有的古物之一。它可以孵化成恐龙、捐赠博物馆、制作恐龙蛋黄酱，是游戏中非常珍贵的物品。
+Dinosaur Egg is one of the rarest artifacts in Stardew Valley. It can hatch into a dinosaur, be donated to the Museum, or be made into Dinosaur Mayonnaise, making it a very precious item in the game.
 
-## 获取方式
+## Acquisition Methods
 
-恐龙蛋的获取概率极低，以下是所有获取途径：
+Dinosaur Egg has extremely low acquisition probability. Here are all acquisition methods:
 
-### 主要获取方式
+### Main Acquisition Methods
 
-| 来源 | 概率 | 说明 |
-|------|------|------|
-| 远古斑点（山区/采石场） | 0.6% | 用锄头挖掘 |
-| 钓鱼宝箱 | 极低 | 钓鱼时出现的宝箱 |
-| 怪物掉落（ Pepper Rex） | 10% | 骷髅洞穴中的恐龙怪物 |
+| Source | Probability | Notes |
+|--------|-------------|-------|
+| Artifact Spots (Mountains/Quarry) | 0.6% | Dig with Hoe |
+| Fishing Treasure Chests | Very low | Chests that appear while fishing |
+| Monster Drops (Pepper Rex) | 10% | Dinosaur monsters in Skull Cavern |
 
+### Other Acquisition Methods
 
-### 其他获取方式
+| Source | Notes |
+|--------|-------|
+| Skull Cavern Treasure Rooms | Low chance to appear |
+| Panning | Very low chance |
+| Secret Woods | Very low chance |
 
-| 来源 | 说明 |
-|------|------|
-| 骷髅洞穴宝藏房 | 低概率出现 |
-| 淘盘 | 极低概率 |
-| 秘密森林 | 极低概率 |
+> The most reliable acquisition methods are digging Artifact Spots in the Mountains and Quarry, and killing Pepper Rex in Skull Cavern.
 
-> 最可靠的获取方式是在山区和采石场挖掘远古斑点，以及在骷髅洞穴击杀Pepper Rex。
+## Main Uses
 
-## 主要用途
+### 1. Hatch Dinosaur (Most Recommended)
 
-### 1. 孵化恐龙（最推荐）
+Put Dinosaur Egg into an incubator in a **Big Coop**:
+- Incubation time: About 11 days
+- After hatching, obtain a **Dinosaur**
+- Adult dinosaur produces a **Dinosaur Egg** every 7 days
 
-将恐龙蛋放入**大鸡舍**的孵化器中：
-- 孵化时间：约11天
-- 孵化后获得一只**恐龙**
-- 恐龙成年后每7天产出一个**恐龙蛋**
+> Dinosaur Egg sell price is 350g, Dinosaur Mayonnaise sell price is 800g, a stable income source.
 
-> 恐龙蛋售价350g，恐龙蛋黄酱售价800g，是稳定的收入来源。
+### 2. Donate to Museum
 
-### 2. 捐赠博物馆
+- Can be donated to the Museum (Gunther)
+- Receive rewards after donation
+- But not a required item for Museum completion
 
-- 可以捐赠给博物馆（Gunther）
-- 捐赠后获得奖励
-- 但不是完成博物馆的必要物品
+### 3. Make Dinosaur Mayonnaise
 
-### 3. 制作恐龙蛋黄酱
+- Put Dinosaur Egg into Mayonnaise Machine
+- Produces **Dinosaur Mayonnaise**, sell price 800g
+- Much more valuable than regular Mayonnaise (190g)
 
-- 将恐龙蛋放入蛋黄酱机
-- 产出**恐龙蛋黄酱**，售价800g
-- 比普通蛋黄酱（190g）价值高很多
+### 4. Gifts
 
-### 4. 礼物
+- Dinosaur Egg is a "liked" gift for some villagers
+- But not a "loved" gift
 
-- 恐龙蛋是部分村民的"喜欢"礼物
-- 但不是"最爱"礼物
+### 5. Tailoring
 
-### 5. 裁缝
+- Can craft Dinosaur clothing at the Sewing Machine
+- Interesting decorative use
 
-- 可以在缝纫机中制作恐龙服装
-- 有趣的装饰用途
+## Dinosaur Farming
 
-## 恐龙养殖
+### Dinosaur Characteristics
 
-### 恐龙特点
+| Attribute | Data |
+|-----------|------|
+| Output | Dinosaur Egg (every 7 days) |
+| Sell Price | 350g (Egg) / 800g (Mayonnaise) |
+| Feed | Hay |
+| Living Environment | Big Coop |
 
-| 属性 | 数据 |
-|------|------|
-| 产出 | 恐龙蛋（每7天） |
-| 售价 | 350g（蛋）/ 800g（蛋黄酱） |
-| 饲料 | 干草 |
-| 生活环境 | 大鸡舍 |
+### Farming Profits
 
-### 养殖收益
+| Item | Profit |
+|------|--------|
+| Single dinosaur monthly output | About 4 eggs |
+| Single dinosaur monthly profit (Eggs) | 1,400g |
+| Single dinosaur monthly profit (Mayonnaise) | 3,200g |
 
-| 项目 | 收益 |
-|------|------|
-| 单只恐龙月产出 | 约4个蛋 |
-| 单只恐龙月收益（蛋） | 1,400g |
-| 单只恐龙月收益（蛋黄酱） | 3,200g |
+> Dinosaurs do not need special care, just feed Hay daily like regular chickens.
 
-> 恐龙不需要特殊照顾，与普通鸡一样喂养干草即可。
+## Best Usage Strategy
 
-## 最佳使用策略
+### First Dinosaur Egg
 
-### 第一个恐龙蛋
+**Strongly recommended for hatching dinosaurs**, reasons:
+1. Dinosaurs can continuously produce Dinosaur Eggs
+2. Stable long-term income source
+3. Dinosaur Eggs can be made into high-value Mayonnaise
 
-**强烈推荐用于孵化恐龙**，原因：
-1. 恐龙可以持续产出恐龙蛋
-2. 稳定的长期收入来源
-3. 恐龙蛋可以制作高价值蛋黄酱
+### Second and Subsequent Dinosaur Eggs
 
-### 第二个及以后的恐龙蛋
+1. **Make Mayonnaise**: Dinosaur Mayonnaise sell price 800g
+2. **Donate to Museum**: Complete Museum collection
+3. **Gifts**: Give to villagers who like it
 
-1. **制作蛋黄酱**：恐龙蛋黄酱售价800g
-2. **捐赠博物馆**：完成博物馆收藏
-3. **礼物**：送给喜欢的村民
+### Not Recommended Uses
+- Directly selling (350g, far lower value than continuous production)
+- As regular gift (not a "loved" gift)
 
-### 不建议的用途
-- 直接出售（350g，价值远低于持续产出）
-- 作为普通礼物（不是"最爱"礼物）
+## Increasing Acquisition Probability
 
-## 提高获取概率
+### Best Locations
+1. **Mountain Artifact Spots**: Check daily, 0.6% chance
+2. **Quarry Artifact Spots**: Same 0.6% chance
+3. **Skull Cavern**: Kill Pepper Rex (10% drop)
 
-### 最佳地点
-1. **山区远古斑点**：每天检查，概率0.6%
-2. **采石场远古斑点**：同样0.6%概率
-3. **骷髅洞穴**：击杀Pepper Rex（10%掉落）
+### Luck Bonuses
+- Choose high-luck days to dig Artifact Spots
+- Eat luck food (Lucky Lunch, Spicy Eel)
+- Wear Lucky Ring
+- Carry Rabbit's Foot
 
-### 幸运加成
-- 选择高幸运日挖掘远古斑点
-- 吃幸运食物（幸运午餐、香辣鳗鱼）
-- 佩戴幸运戒指
-- 携带幸运兔脚
+### Efficiency Improvements
+- Check all Artifact Spots daily
+- Place Warp Totems in Mountains and Quarry
+- Winter is a good time to dig Artifact Spots (no watering needed)
 
-### 效率提升
-- 每天检查所有远古斑点
-- 在山区和采石场放置传送图腾
-- 冬季是挖掘远古斑点的好时机（不需要浇水）
+## 1.6 Update Changes
 
-## 1.6更新变化
+- Added more dinosaur-related items
+- Pepper Rex drop rate may be adjusted
+- Added dinosaur-related recipes
 
-- 新增更多恐龙相关物品
-- Pepper Rex掉落率可能调整
-- 新增恐龙相关配方
+## Frequently Asked Questions
 
-## 常见问题
+**Q: How much can a Dinosaur Egg sell for?**
+A: Base sell price 350g, but strongly recommended to hatch instead of selling.
 
-**Q: 恐龙蛋能卖多少钱？**
-A: 基础售价350g，但强烈建议孵化而不是出售。
+**Q: Do dinosaurs need special care?**
+A: No, same as regular chickens, just feed Hay daily.
 
-**Q: 恐龙需要特殊照顾吗？**
-A: 不需要，与普通鸡一样，每天喂养干草即可。
+**Q: How many dinosaurs can one Coop raise?**
+A: Big Coop can hold up to 12 animals, can mix chickens and dinosaurs.
 
-**Q: 一个鸡舍可以养几只恐龙？**
-A: 大鸡舍最多12只动物，可以混合养鸡和恐龙。
+**Q: Can Dinosaur Eggs be put into Seed Maker?**
+A: No, Dinosaur Eggs are not crop seeds.
 
-**Q: 恐龙蛋可以放进种子机吗？**
-A: 不可以，恐龙蛋不是作物种子。
+**Q: Does the Museum need Dinosaur Eggs?**
+A: Can donate but not required, does not affect Museum completion.
 
-**Q: 博物馆需要恐龙蛋吗？**
-A: 可以捐赠但不是必须的，不影响博物馆完成度。
-
-**Q: 恐龙蛋黄酱比普通蛋黄酱贵多少？**
-A: 恐龙蛋黄酱800g，普通大鸡蛋蛋黄酱380g，贵420g。
-
+**Q: How much more expensive is Dinosaur Mayonnaise than regular Mayonnaise?**
+A: Dinosaur Mayonnaise 800g, regular Large Egg Mayonnaise 380g, 420g more expensive.

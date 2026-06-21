@@ -255,6 +255,8 @@ Lava Eels occasionally produce:
 - Value: 200g
 - Buff food: Speed + Luck
 
+> **Note:** As of patch 1.6.15.1, Legendary Fish ponds now produce roe much more often and have a higher average daily value.
+
 ### Super Cucumber - Purple Roe
 
 Super Cucumber produces:

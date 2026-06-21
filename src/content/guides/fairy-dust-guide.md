@@ -1,50 +1,49 @@
-﻿---
-title: "Stardew Valley 仙尘指南 - 加速机器完成"
-description: "使设备立即完成正在进行的工作"
+---
+title: "Stardew Valley Fairy Dust Guide - Speeds Up Machine Completion"
+description: "Makes devices instantly complete ongoing work"
 category: items
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["仙尘", "Fairy Dust", "机器加速", "制造"]
+tags: ["Fairy Dust", "Machine Speedup", "Crafting"]
 ---
 
-# Stardew Valley 仙尘 (Fairy Dust) 指南
+# Stardew Valley Fairy Dust Guide
 
-仙尘（Fairy Dust）是《星露谷物语》中一种可制造的物品，能够使设备立即完成正在进行的工作。
+Fairy Dust is a craftable item in Stardew Valley that can make devices instantly complete ongoing work.
 
-## 基本信息
+## Basic Information
 
-- **售价**: 500g
-- **来源**: 制造
-- **配方来源**: 完成任务「海盗的妻子」后获得
+- **Sell Price**: 500g
+- **Source**: Crafting
+- **Recipe Source**: Obtained after completing the "Pirate's Wife" quest
 
-## 制造配方
+## Crafting Recipe
 
-| 材料 | 数量 |
-|------|------|
-| 钻石 | 1 |
-| 玫瑰仙子 | 1 |
+| Material | Quantity |
+|----------|----------|
+| Diamond | 1 |
+| Fairy Rose | 1 |
 
-## 使用方法
+## Usage
 
-将仙尘洒在以下设备上，可以立刻获得正在生产的产品：
+Sprinkle Fairy Dust on the following devices to immediately obtain the product being produced:
 
-- 小桶
-- 熔炉
-- 其他精炼设备
+- Keg
+- Furnace
+- Other refining devices
 
-### 木桶特殊效果
+### Special Effect on Casks
 
-当仙尘用于木桶上时，每次使用会使其中的物品达到下一个品质，而不是直接成为铱星品质。
+When Fairy Dust is used on Casks, each use advances the item to the next quality level, rather than directly becoming Iridium quality.
 
-## 历史版本
+## Version History
 
-- **1.5**: 加入游戏。
+- **1.5**: Added to game.
 
-## 小贴士
+## Tips
 
-- 仙尘是后期加速生产的重要道具
-- 适合用于急需产品时节省时间
-- 所有NPC都讨厌收到仙尘作为礼物
-
+- Fairy Dust is an important late-game item for speeding up production
+- Suitable for saving time when urgently needing products
+- All NPCs hate receiving Fairy Dust as a gift

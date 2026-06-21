@@ -1,158 +1,157 @@
-﻿---
-title: "Stardew Valley 树液采集器攻略"
-description: "树液采集器使用攻略，包括枫糖浆、橡树树脂、松焦油获取及用途"
+---
+title: "Stardew Valley Tapper Guide"
+description: "Tapper usage guide, including Maple Syrup, Oak Resin, and Pine Tar acquisition and uses."
 category: farming
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["树液采集器", "枫糖浆", "橡树树脂", "松焦油", "配方材料"]
+tags: ["Tapper", "Maple Syrup", "Oak Resin", "Pine Tar", "recipe materials"]
 ---
 
-# 树液采集器攻略
+# Tapper Guide
 
-树液采集器（Tapper）是星露谷物语中的重要设备，可以从枫树、橡树和松树上采集树液产品。这些产品是许多配方和工匠物品的必需材料。
+The Tapper is an important piece of equipment in Stardew Valley that can collect tree sap products from Maple Trees, Oak Trees, and Pine Trees. These products are essential materials for many recipes and artisan goods.
 
-## 如何制作
+## How to Craft
 
-- **解锁条件**：采集技能达到4级（1.6版本后从3级改为4级）
-- **制作材料**：40个木头 + 2个铜锭
+- **Unlock Requirement**: Foraging Level 4 (changed from Level 3 in version 1.6)
+- **Crafting Materials**: 40 Wood + 2 Copper Bars
 
-## 使用方法
+## How to Use
 
-1. 制作树液采集器
-2. 将树液采集器放在成熟的枫树、橡树或松树上
-3. 等待一段时间，树液采集器会自动产出对应产品
-4. 产品产出后，点击树液采集器收集
+1. Craft a Tapper.
+2. Place the Tapper on a mature Maple Tree, Oak Tree, or Pine Tree.
+3. Wait for a period of time, and the Tapper will automatically produce the corresponding product.
+4. Click on the Tapper to collect the product after it is produced.
 
-> 注意：树液采集器只能放在成熟的树上（不是树苗或树桩）。
+> Note: Tappers can only be placed on mature trees (not saplings or stumps).
 
-## 采集产品
+## Collected Products
 
-### 枫糖浆（Maple Syrup）
+### Maple Syrup
 
-| 属性 | 数据 |
-|------|------|
-| 来源 | 枫树（Maple Tree） |
-| 采集时间 | 约9天（随机波动） |
-| 基础售价 | 200g |
-| 季节 | 全年 |
+| Attribute | Data |
+|-----------|------|
+| Source | Maple Tree |
+| Collection Time | ~9 days (random fluctuation) |
+| Base Selling Price | 200g |
+| Season | Year-round |
 
-**主要用途：**
-- 蜂房（Bee House）配方
-- 农场图腾柱（Farm Obelisk）配方
-- 枫糖棒（Maple Bar）烹饪
-- 社区中心收集包（Exotic Foraging Bundle）
-- 可作为礼物送给村民（部分村民喜欢）
+**Main Uses:**
+- Bee House recipe
+- Farm Obelisk recipe
+- Maple Bar cooking
+- Community Center Bundle (Exotic Foraging Bundle)
+- Can be given as a gift to villagers (some villagers like it)
 
-### 橡树树脂（Oak Resin）
+### Oak Resin
 
-| 属性 | 数据 |
-|------|------|
-| 来源 | 橡树（Oak Tree） |
-| 采集时间 | 约7天（随机波动） |
-| 基础售价 | 150g |
-| 季节 | 全年 |
+| Attribute | Data |
+|-----------|------|
+| Source | Oak Tree |
+| Collection Time | ~7 days (random fluctuation) |
+| Base Selling Price | 150g |
+| Season | Year-round |
 
-**主要用途：**
-- 酒桶（Keg）配方
-- 高级肥料（Quality Fertilizer）配方
-- 高级保湿土壤（Quality Retaining Soil）配方
-- 可作为礼物送给村民（部分村民喜欢）
+**Main Uses:**
+- Keg recipe
+- Quality Fertilizer recipe
+- Quality Retaining Soil recipe
+- Can be given as a gift to villagers (some villagers like it)
 
-### 松焦油（Pine Tar）
+### Pine Tar
 
-| 属性 | 数据 |
-|------|------|
-| 来源 | 松树（Pine Tree） |
-| 采集时间 | 约5天（随机波动） |
-| 基础售价 | 100g |
-| 季节 | 全年 |
+| Attribute | Data |
+|-----------|------|
+| Source | Pine Tree |
+| Collection Time | ~5 days (random fluctuation) |
+| Base Selling Price | 100g |
+| Season | Year-round |
 
-**主要用途：**
-- 织布机（Loom）配方
-- 雨水图腾（Rain Totem）配方
-- 高级生长激素（Speed-Gro）配方
-- 可作为礼物送给村民（部分村民喜欢）
+**Main Uses:**
+- Loom recipe
+- Rain Totem recipe
+- Speed-Gro recipe
+- Can be given as a gift to villagers (some villagers like it)
 
-## 重型树液采集器（Heavy Tapper）
+## Heavy Tapper
 
-1.6版本新增的重型树液采集器：
+The Heavy Tapper, added in version 1.6:
 
-| 属性 | 普通树液采集器 | 重型树液采集器 |
-|------|---------------|---------------|
-| 采集速度 | 正常 | **2倍速度** |
-| 制作配方 | 采集3级 | 齐先生核桃房购买（20齐钻） |
-| 材料 | 40木头+2铜锭 | 30硬木+1放射性矿锭 |
+| Attribute | Regular Tapper | Heavy Tapper |
+|-----------|----------------|--------------|
+| Collection Speed | Normal | **2x speed** |
+| Crafting Recipe | Foraging Level 3 | Purchase from Mr. Qi's Walnut Room (20 Qi Gems) |
+| Materials | 40 Wood + 2 Copper Bars | 30 Hardwood + 1 Radioactive Bar |
 
-> 重型树液采集器产出速度是普通版本的两倍，非常适合大规模采集。
+> The Heavy Tapper produces at twice the speed of the regular version, making it very suitable for large-scale collection.
 
-## 最佳种植策略
+## Best Planting Strategy
 
-### 树木种植
+### Tree Planting
 
-| 树木类型 | 推荐种植数量 | 理由 |
-|----------|-------------|------|
-| 枫树 | 20-30棵 | 枫糖浆需求量大 |
-| 橡树 | 20-30棵 | 橡树树脂是酒桶必需材料 |
-| 松树 | 10-20棵 | 松焦油需求相对较少 |
+| Tree Type | Recommended Planting Quantity | Reason |
+|-----------|------------------------------|--------|
+| Maple Tree | 20-30 | High demand for Maple Syrup |
+| Oak Tree | 20-30 | Oak Resin is an essential material for Kegs |
+| Pine Tree | 10-20 | Relatively low demand for Pine Tar |
 
-### 种植位置
+### Planting Locations
 
-- **农场边缘**：不占用耕地空间
-- **火车站区域**：大量空地
-- **采石场**：空闲区域
-- **姜岛**：额外种植空间
+- **Farm edges**: Do not occupy farming space.
+- **Train Station area**: Large open space.
+- **Quarry**: Idle area.
+- **Ginger Island**: Additional planting space.
 
-### 采集效率
+### Collection Efficiency
 
-- 每棵树只能放一个树液采集器
-- 建议每种树至少种植20棵，保证稳定产出
-- 冬季树木不会生长，但树液采集器仍然工作
+- Only one Tapper can be placed per tree.
+- It is recommended to plant at least 20 of each tree type to ensure stable production.
+- Trees do not grow in Winter, but Tappers still work.
 
-## 用途优先级
+## Use Priority
 
-### 橡树树脂（最优先）
-橡树树脂是制作**酒桶**的必需材料，而酒桶是后期最赚钱的设备之一。建议优先保证橡树树脂的供应。
+### Oak Resin (Highest Priority)
+Oak Resin is an essential material for crafting **Kegs**, and Kegs are one of the most profitable pieces of equipment in the late game. It is recommended to prioritize ensuring the supply of Oak Resin.
 
-### 枫糖浆（第二优先）
-枫糖浆用于制作蜂房和农场图腾柱，也是社区中心收集包所需。
+### Maple Syrup (Second Priority)
+Maple Syrup is used for crafting Bee Houses and Farm Obelisks, and is also required for Community Center bundles.
 
-### 松焦油（第三优先）
-松焦油用于织布机和雨水图腾，需求量相对较少。
+### Pine Tar (Third Priority)
+Pine Tar is used for Looms and Rain Totems, with relatively low demand.
 
-## 实用技巧
+## Useful Tips
 
-### 早期准备
-- 游戏初期就开始种植树木，为后期做准备
-- 保留农场边缘的野生树木，直接放置树液采集器
-- 冬季是种植树木的好时机（不需要浇水）
+### Early Preparation
+- Start planting trees early in the game to prepare for the late game.
+- Keep wild trees on the farm edges and place Tappers directly on them.
+- Winter is a good time to plant trees (no watering required).
 
-### 批量管理
-- 同一种树的树液采集器放在一起，方便收集
-- 记录每个树液采集器的放置日期
-- 使用重型树液采集器提升效率
+### Batch Management
+- Place Tappers on the same type of tree together for easy collection.
+- Record the date each Tapper was placed.
+- Use Heavy Tappers to improve efficiency.
 
-### 与工匠职业
-- 选择工匠职业后，树液产品售价+40%
-- 枫糖浆：280g
-- 橡树树脂：210g
-- 松焦油：140g
+### With Artisan Profession
+- After choosing the Artisan profession, tree sap product selling prices +40%.
+- Maple Syrup: 280g
+- Oak Resin: 210g
+- Pine Tar: 140g
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 树液采集器可以放在果树上吗？**
-A: 不可以，只能放在枫树、橡树和松树上。
+**Q: Can Tappers be placed on Fruit Trees?**
+A: No, they can only be placed on Maple Trees, Oak Trees, and Pine Trees.
 
-**Q: 树液采集器会被天气影响吗？**
-A: 不会，树液采集器全年工作，不受季节和天气影响。
+**Q: Are Tappers affected by weather?**
+A: No, Tappers work year-round and are not affected by seasons or weather.
 
-**Q: 一棵树可以放多个树液采集器吗？**
-A: 不可以，每棵树只能放一个树液采集器。
+**Q: Can multiple Tappers be placed on one tree?**
+A: No, only one Tapper can be placed per tree.
 
-**Q: 树液采集器需要维护吗？**
-A: 不需要，放置后自动工作，只需定期收集产品。
+**Q: Do Tappers require maintenance?**
+A: No, they work automatically after being placed; just collect the products regularly.
 
-**Q: 冬季树木会产出吗？**
-A: 会，树液采集器全年工作，冬季也能产出。
-
+**Q: Do trees produce in Winter?**
+A: Yes, Tappers work year-round and can produce in Winter.

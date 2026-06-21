@@ -1,62 +1,61 @@
-﻿---
-title: "Stardew Valley 磨坊指南"
-description: "磨坊（Mill）是星露谷物语中的农场建筑，可以将小麦和甜菜加工成面粉和糖。"
+---
+title: "Stardew Valley Mill Guide"
+description: "The Mill is a farm building in Stardew Valley that can process Wheat and Beets into Flour and Sugar."
 category: farming
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["磨坊", "Mill", "面粉", "糖", "农场建筑"]
+tags: ["mill", "flour", "sugar", "farm building"]
 ---
 
-# 磨坊（Mill）指南
+# Mill Guide
 
-磨坊是《星露谷物语》中一种**农场建筑**，用于将收获的作物加工成更高价值的商品。
+The Mill is a **farm building** in Stardew Valley used to process harvested crops into higher-value goods.
 
-## 解锁条件
+## Unlock Requirements
 
-- **耕种等级（Farming Level）**：1 级
-- 达到后即可在罗宾（Robin）的**木匠商店（Carpenter's Shop）**建造
+- **Farming Level**: 1
+- Once reached, can be built at Robin's **Carpenter's Shop**
 
-## 建造材料
+## Building Materials
 
-| 材料 | 数量 |
-|------|------|
-| 木材（Wood） | 50 |
-| 石头（Stone） | 40 |
-| 布料（Cloth） | 4 |
-| 金币（Gold） | 2,500g |
+| Material | Quantity |
+|----------|----------|
+| Wood | 50 |
+| Stone | 40 |
+| Cloth | 4 |
+| Gold | 2,500g |
 
-## 功能与用途
+## Function and Uses
 
-磨坊可以将以下作物加工成产品：
+The Mill can process the following crops into products:
 
-| 输入作物 | 输出产品 | 数量 |
-|----------|----------|------|
-| 小麦（Wheat） | 面粉（Flour） | 1 个小麦 → 1 份面粉 |
-| 甜菜（Beet） | 糖（Sugar） | 1 个甜菜 → 3 份糖 |
-| 未碾米（Unmilled Rice） | 大米（Rice） | 1 个未碾米 → 1 份大米 |
+| Input Crop | Output Product | Quantity |
+|------------|----------------|----------|
+| Wheat | Flour | 1 Wheat -> 1 Flour |
+| Beet | Sugar | 1 Beet -> 3 Sugar |
+| Unmilled Rice | Rice | 1 Unmilled Rice -> 1 Rice |
 
-### 使用方式
-1. 将作物放入磨坊左侧的投放口
-2. 等待**次日早上**完成加工
-3. 从右侧取出口收集成品
+### How to Use
+1. Place crops into the input slot on the left side of the Mill
+2. Wait until **the next morning** for processing to complete
+3. Collect finished products from the output slot on the right
 
-### 加工优势
-- **面粉**：售价高于原材料小麦，是烹饪多种食谱的必需材料
-- **糖**：用于烹饪和制作食谱，甜菜加工成糖后价值大幅提升
-- **大米**：用于多种烹饪食谱
+### Processing Advantages
+- **Flour**: Sells for more than raw Wheat, essential ingredient for many cooking recipes
+- **Sugar**: Used for cooking and recipes, Beets processed into Sugar greatly increase value
+- **Rice**: Used for many cooking recipes
 
-## 小贴士
+## Tips
 
-- 磨坊是游戏早期即可建造的实用建筑，建议尽早建造
-- 小麦在夏季和秋季均可种植，是稳定的面粉来源
-- 甜菜在秋季种植，由沙漠商店（Oasis）出售种子
-- 磨坊可以同时加工多种作物，每种作物独立计算
-- 加工后的产品可以放入**发货箱**出售或用于**烹饪**
+- The Mill is a practical building available early in the game, recommended to build as soon as possible
+- Wheat can be planted in Summer and Fall, providing a stable Flour source
+- Beets are planted in Fall, seeds sold at the Oasis in the Desert
+- The Mill can process multiple crop types at once, each calculated independently
+- Processed products can be placed in the **Shipping Bin** to sell or used for **Cooking**
 
-## 相关建筑
+## Related Buildings
 
-- [筒仓（Silo）](./silo-guide.md) — 存储干草
-- [大箱子（Big Chest）](./big-chest-guide.md) — 存储加工成品
-
+- [Silo](./silo-guide.md) - Stores hay
+- [Big Chest](./big-chest-guide.md) - Stores processed goods

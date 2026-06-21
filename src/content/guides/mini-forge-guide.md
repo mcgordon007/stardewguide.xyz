@@ -1,58 +1,57 @@
-﻿---
-title: "Stardew Valley 迷你锻造台指南 - 便携锻造"
-description: "可放置在任何地方的便携锻造台"
+---
+title: "Stardew Valley Mini-Forge Guide - Portable Forging"
+description: "A portable forge that can be placed anywhere"
 category: items
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["迷你锻造台", "Mini-Forge", "锻造", "战斗精通"]
+tags: ["mini-forge", "forging", "combat mastery"]
 ---
 
-# Stardew Valley 迷你锻造台 (Mini-Forge) 指南
+# Stardew Valley Mini-Forge Guide
 
-迷你锻造台（Mini-Forge）是《星露谷物语》中姜岛火山口锻造台的便携版本，功能完全相同，但可以放置在任何地方。
+The Mini-Forge is a portable version of the Volcano Forge on Ginger Island in Stardew Valley. It has identical functionality but can be placed anywhere.
 
-## 基本信息
+## Basic Information
 
-- **来源**: 打造
-- **售出价格**: 不可出售
-- **配方来源**: 战斗精通（精通山洞）
+- **Source**: Crafting
+- **Sell Price**: Cannot be sold
+- **Recipe Source**: Combat Mastery (Mastery Cave)
 
-## 制造配方
+## Crafting Recipe
 
-| 材料 | 数量 |
-|------|------|
-| 龙牙 | 5 |
-| 铁锭 | 10 |
-| 金锭 | 10 |
-| 铱锭 | 5 |
+| Material | Quantity |
+|----------|----------|
+| Dragon Tooth | 5 |
+| Iron Bar | 10 |
+| Gold Bar | 10 |
+| Iridium Bar | 5 |
 
-## 功能
+## Functions
 
-迷你锻造台的功能与姜岛火山口锻造台完全相同，可以进行以下操作：
+The Mini-Forge has identical functions to the Volcano Forge on Ginger Island, and can perform the following operations:
 
-- **锻造**: 使用火山晶石为武器附加属性
-- **附魔**: 为武器和工具添加特殊效果
-- **戒指合成**: 将两个戒指合成为一个
+- **Forge**: Use Cinder Shards to add attributes to weapons
+- **Enchant**: Add special effects to weapons and tools
+- **Ring Crafting**: Combine two rings into one
 
-## 优势
+## Advantages
 
-- 可以放置在农场、家中或任何需要的地方
-- 无需每次前往姜岛火山地牢进行锻造
-- 节省往返姜岛的时间和资源
+- Can be placed on the farm, at home, or anywhere needed
+- No need to travel to Ginger Island Volcano Dungeon for forging each time
+- Saves travel time and resources to Ginger Island
 
-## 配方获取
+## Recipe Acquisition
 
-在精通山洞中选择「战斗精通」后获得迷你锻造台的打造配方。
+Select "Combat Mastery" in the Mastery Cave to obtain the Mini-Forge crafting recipe.
 
-## 历史版本
+## Version History
 
-- **1.6**: 加入游戏。
+- **1.6**: Added to the game.
 
-## 小贴士
+## Tips
 
-- 锻造需要消耗火山晶石，建议在姜岛火山地牢中大量采集
-- 附魔和锻造可以显著提升武器和工具的性能
-- 戒指合成可以节省戒指栏位
-
+- Forging requires Cinder Shards, recommended to collect large amounts in the Ginger Island Volcano Dungeon
+- Enchanting and forging can significantly improve weapon and tool performance
+- Ring crafting can save ring slots

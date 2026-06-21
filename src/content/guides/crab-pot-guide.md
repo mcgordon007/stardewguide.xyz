@@ -1,178 +1,175 @@
-﻿---
-title: "Stardew Valley 蟹笼攻略"
-description: "蟹笼使用全攻略，包括制作配方、捕获物、钓鱼职业选择及自动化收益"
+---
+title: "Stardew Valley Crab Pot Guide"
+description: "Complete guide to Crab Pots, including crafting recipe, catches, fishing profession choices, and automated profits"
 category: fishing
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["蟹笼", "钓鱼", "捕获物", "职业", "自动化", "收集包"]
+tags: ["Crab Pot", "Fishing", "Catch", "Profession", "Automation", "Bundle"]
 ---
 
-# 蟹笼攻略
+# Crab Pot Guide
 
-蟹笼（Crab Pot）是星露谷物语中的钓鱼辅助设备，可以自动捕获水中的各种生物。它是完成钓鱼收集包和获取特定材料的重要工具。
+Crab Pot is a fishing auxiliary device in Stardew Valley that can automatically catch various creatures in water. It is an important tool for completing the Fishing Bundle and obtaining specific materials.
 
-## 如何解锁与制作
+## How to Unlock and Craft
 
-### 基础蟹笼
+### Basic Crab Pot
 
-- **解锁条件**：钓鱼技能达到3级
-- **制作材料**：40个木头 + 3个铁锭
+- **Unlock Condition**: Fishing skill reaches Level 3
+- **Crafting Materials**: 40 Wood + 3 Iron Bars
 
+## Usage
 
-## 使用方法
+1. Craft Crab Pot
+2. Place Crab Pot in water (rivers, lakes, ocean all work)
+3. Put in Bait (optional, with Bait will not catch trash)
+4. Collect catches the next day
+5. Re-place in water to continue working
 
-1. 制作蟹笼
-2. 将蟹笼放入水中（河流、湖泊、海洋均可）
-3. 放入鱼饵（可选，有鱼饵时不会捕获垃圾）
-4. 第二天来收集捕获物
-5. 重新放入水中继续工作
+> Crab Pots need to be manually collected and re-placed every day.
 
-> 蟹笼需要每天手动收集和重新放置。
+## Catch Categories
 
-## 捕获物分类
+Crab Pot catches depend on the water type:
 
-蟹笼的捕获物取决于放置的水域类型：
+### Freshwater Catches (Rivers/Lakes)
 
-### 淡水捕获物（河流/湖泊）
+| Catch | Base Sell Price | Usage |
+|-------|-----------------|-------|
+| Crayfish | 75g | Cooking, Bundle |
+| Snail | 65g | Cooking, Bundle |
+| Periwinkle | 20g | Cooking, Bundle |
+| Mussel | 30g | Cooking, Bundle |
+| Clam | 50g (Ocean only) | Bundle |
+| Oyster | 40g (Ocean only) | Cooking, Bundle |
+| Freshwater Lobster | 80g | Cooking |
+| Crab | 100g (Ocean only) | Cooking, Bundle |
 
-| 捕获物 | 基础售价 | 用途 |
-|--------|----------|------|
-| 小龙虾 | 75g | 烹饪、收集包 |
-| 蜗牛 | 65g | 烹饪、收集包 |
-| 玉黍螺 | 20g | 烹饪、收集包 |
-| 蚌 | 30g | 烹饪、收集包 |
-| 鸟蛤 | 50g（仅海水）| 收集包 |
-| 牡蛎 | 40g（仅海水）| 烹饪、收集包 |
-| 淡水龙虾 | 80g | 烹饪 |
-| 螃蟹 | 100g（仅海水）| 烹饪、收集包 |
+### Ocean Catches
 
-### 海水捕获物（海洋）
+| Catch | Base Sell Price | Usage |
+|-------|-----------------|-------|
+| Lobster | 120g | Cooking, Bundle |
+| Crab | 100g (Ocean only) | Cooking, Bundle |
+| Clam | 50g (Ocean only) | Bundle |
+| Mussel | 30g | Cooking, Bundle |
+| Oyster | 40g (Ocean only) | Cooking, Bundle |
+| Periwinkle | 20g | Cooking, Bundle |
+| Shrimp | 60g | Cooking, Bundle |
+| Squid | 80g | Cooking |
 
-| 捕获物 | 基础售价 | 用途 |
-|--------|----------|------|
-| 龙虾 | 120g | 烹饪、收集包 |
-| 螃蟹 | 100g（仅海水）| 烹饪、收集包 |
-| 鸟蛤 | 50g（仅海水）| 收集包 |
-| 蚌 | 30g | 烹饪、收集包 |
-| 牡蛎 | 40g（仅海水）| 烹饪、收集包 |
-| 玉黍螺 | 20g | 烹饪、收集包 |
-| 虾 | 60g | 烹饪、收集包 |
-| 鱿鱼 | 80g | 烹饪 |
+### Trash (Without Bait)
 
-### 垃圾（无鱼饵时）
+| Trash | Notes |
+|-------|-------|
+| Driftwood | Can be recycled into Wood |
+| Soggy Newspaper | Can be recycled into Torch |
+| Broken Glasses | Can craft Refined Quartz |
+| Broken CD | Can craft Refined Quartz |
 
-| 垃圾 | 说明 |
-|------|------|
-| 浮木 | 可回收为木头 |
-| 湿报纸 | 可回收为火把 |
-| 破眼镜 | 可制作精炼石英 |
-| 破CD | 可制作精炼石英 |
-| 湿报纸 | 可制作火把 |
+> Put in Bait to avoid catching trash, recommended to always use Bait.
 
-> 放入鱼饵后不会捕获垃圾，建议始终使用鱼饵。
+## Fishing Profession Choice
 
-## 钓鱼职业选择
+Fishing skill Level 5 and 10 profession choices affect Crab Pot profits:
 
-钓鱼技能5级和10级的职业选择影响蟹笼收益：
+### Level 5 Choice
 
-### 5级选择
+| Profession | Effect |
+|------------|--------|
+| **Fisher** | Fish value +25% |
+| **Trapper** | Crab Pot crafting materials halved (25 Wood + 2 Copper Bars) |
 
-| 职业 | 效果 |
-|------|------|
-| **渔夫（Fisher）** | 鱼价值+25% |
-| **捕蟹者（Trapper）** | 蟹笼制作材料减半（25木头+2铜锭）|
+> **Recommended Trapper**, saves the trouble of making Bait every day.
 
-> **推荐选择捕蟹者**，省去每天制作鱼饵的麻烦。
+### Level 10 Choice (Requires Trapper)
 
-### 10级选择（需选择捕蟹者）
+| Profession | Effect |
+|------------|--------|
+| **Mariner** | Crab Pots no longer catch trash |
+| **Luremaster** | Crab Pots no longer need Bait (auto-bait) |
 
-| 职业 | 效果 |
-|------|------|
-| **水手（Mariner）** | 蟹笼不再捕获垃圾 |
-| **诱饵大师（Luremaster）** | 蟹笼不再需要鱼饵（自动补饵）|
+> **Recommended Mariner**, ensures Crab Pots only catch valuable items.
 
-> **推荐选择水手**，确保蟹笼只捕获有价值的物品。
+## Profit Analysis
 
-## 收益分析
+### Single Crab Pot Daily Profit Estimate
 
-### 单蟹笼日收益估算
+| Configuration | Daily Profit |
+|---------------|--------------|
+| No profession bonus | About 50-80g |
+| Trapper + Mariner | About 80-120g |
+| Artisan profession bonus | About 100-150g |
 
-| 配置 | 日均收益 |
-|------|----------|
-| 无职业加成 | 约50-80g |
-| 捕蟹者+水手 | 约80-120g |
-| 工匠职业加成 | 约100-150g |
+### Large Scale Crab Pot Profits
 
-### 大规模蟹笼收益
+| Crab Pot Quantity | Daily Profit (Trapper + Mariner) |
+|-------------------|----------------------------------|
+| 10 | 800-1,200g |
+| 20 | 1,600-2,400g |
+| 40 | 3,200-4,800g |
 
-| 蟹笼数量 | 日均收益（捕蟹者+水手） |
-|----------|------------------------|
-| 10个 | 800-1,200g |
-| 20个 | 1,600-2,400g |
-| 40个 | 3,200-4,800g |
+> 40 Crab Pots is the game limit (20 in rivers + 20 in ocean).
 
-> 40个蟹笼是游戏上限（河流20个+海洋20个）。
+## Best Placement Locations
 
-## 最佳放置位置
+### River/Lake Locations
 
-### 河流/湖泊位置
+| Location | Advantage |
+|----------|-----------|
+| Farm Pond | Convenient collection |
+| Pelican Town River | Close to home |
+| Mountain Lake | Large area |
+| Cindersap Forest River | Convenient |
 
-| 位置 | 优点 |
-|------|------|
-| 农场池塘 | 方便收集 |
-| 鹈鹕镇河流 | 靠近家 |
-| 山区湖泊 | 面积大 |
-| 煤矿森林河流 | 方便 |
+### Ocean Locations
 
-### 海洋位置
+| Location | Advantage |
+|----------|-----------|
+| Beach | Large area, convenient |
+| Ginger Island Beach | Extra location |
 
-| 位置 | 优点 |
-|------|------|
-| 海滩 | 面积大，方便 |
-| 姜岛海滩 | 额外位置 |
+## Practical Tips
 
-## 实用技巧
+### Automation Suggestions
+- After choosing Trapper profession, no Bait needed
+- After choosing Mariner profession, no trash caught
+- Place Crab Pots near farm for easy daily collection
 
-### 自动化建议
-- 选择捕蟹者职业后不需要鱼饵
-- 选择水手职业后不捕获垃圾
-- 将蟹笼放在农场附近，方便每天收集
+### Bundle Usage
+Crab Pot catches are required for multiple Community Center bundles:
+- **Fish Tank Bundle**: Crab, Lobster, Crayfish, Snail, etc.
+- **Chef's Bundle**: Various seafood
 
-### 收集包用途
-蟹笼捕获物是多个社区中心收集包的必需品：
-- **鱼缸收集包**：螃蟹、龙虾、小龙虾、蜗牛等
-- **厨师收集包**：各种海鲜
+### Cooking Usage
+- Crab Pot catches can be used in multiple cooking recipes
+- Lobster Bisque, Seafood Stew, etc.
 
-### 烹饪用途
-- 蟹笼捕获物可用于多种烹饪配方
-- 龙虾浓汤、海鲜杂烩汤等
+### With Artisan Profession
+- If Artisan profession is chosen (Farming Level 10), Crab Pot catch sell price +40%
+- But usually Fishing profession is more suitable for Crab Pot players
 
-### 与工匠职业
-- 如果选择工匠职业（农耕10级），蟹笼捕获物售价+40%
-- 但通常钓鱼职业更适合蟹笼玩家
+## 1.6 Update Changes
 
-## 1.6更新变化
+- Added advanced Crab Pots (higher quality)
+- Some catch sell prices adjusted
+- Added new catch items
 
-- 新增高级蟹笼（品质更高）
-- 部分捕获物售价调整
-- 新增捕获物品
+## Frequently Asked Questions
 
-## 常见问题
+**Q: Can Crab Pots be placed in water outside the farm?**
+A: Yes, can be placed in any water body.
 
-**Q: 蟹笼可以放在农场外的水里吗？**
-A: 可以，任何水域都可以放置。
+**Q: Can Crab Pots be washed away?**
+A: No, Crab Pots are fixed in water position.
 
-**Q: 蟹笼会被冲走吗？**
-A: 不会，蟹笼固定在水中位置。
+**Q: Do Crab Pots work in Winter?**
+A: Yes, Crab Pots work year-round.
 
-**Q: 冬天蟹笼还能工作吗？**
-A: 可以，蟹笼全年工作。
+**Q: Do Crab Pot catches rot?**
+A: No, collected items are permanently preserved.
 
-**Q: 蟹笼捕获物会腐烂吗？**
-A: 不会，收集后永久保存。
-
-**Q: 捕蟹者职业真的不需要鱼饵吗？**
-A: 是的，选择捕蟹者后蟹笼不再需要鱼饵也能正常工作。
-
+**Q: Does Trapper profession really not need Bait?**
+A: Yes, after choosing Trapper, Crab Pots no longer need Bait to work normally.

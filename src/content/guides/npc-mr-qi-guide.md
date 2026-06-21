@@ -1,106 +1,106 @@
 ---
-title: "Stardew Valley 齐先生攻略"
-description: "齐先生出现地点、神秘任务链、核桃房特别任务及奖励全攻略"
+title: "Stardew Valley Mr. Qi Guide"
+description: "Mr. Qi appearance locations, mysterious quest chain, Walnut Room special orders, and rewards complete guide"
 category: social
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["齐先生", "核桃房", "赌场", "骷髅洞穴", "完美度"]
+tags: ["mr-qi", "walnut-room", "casino", "skull-cavern", "perfection"]
 ---
 
-# 齐先生攻略
+# Mr. Qi Guide
 
-齐先生是星露谷物语中的神秘NPC，与玩家的爷爷是熟人。他出现在多个地点，提供各种挑战和奖励。
+Mr. Qi is a mysterious NPC in Stardew Valley, acquainted with the player's grandfather. He appears in multiple locations, providing various challenges and rewards.
 
-## 出现地点
+## Appearance Locations
 
-| 地点 | 条件 |
-|------|------|
-| 沙漠赌场 | 完成"神秘的齐"任务链获得会员卡 |
-| 姜岛核桃房 | 累计收集100个金色核桃后解锁 |
-| 骷髅洞穴第100层 | 阅读秘密纸条#10后触发过场动画 |
-| 山顶 | 完美度100%后与爷爷一同出现祝贺 |
+| Location | Condition |
+|----------|-----------|
+| Desert Casino | Complete "The Mysterious Qi" quest chain to obtain Club Card |
+| Ginger Island Walnut Room | Unlocked after collecting 100 Golden Walnuts |
+| Skull Cavern Floor 100 | Cutscene triggered after reading Secret Note #10 |
+| Mountain Peak | Appears with grandfather to congratulate after 100% Perfection |
 
-## "神秘的齐"任务链
+## "The Mysterious Qi" Quest Chain
 
-完成此任务链可获得**会员卡**，进入沙漠赌场。
+Complete this quest chain to obtain the **Club Card** and enter the Desert Casino.
 
-| 步骤 | 要求 | 位置 |
-|------|------|------|
-| 1 | 在巴士站旁隧道加密箱放1个**电池组** | 巴士站隧道 |
-| 2 | 在火车站台箱子放1个**彩虹贝壳** | 火车站 |
-| 3 | 在镇长刘易斯冰箱放10个**甜菜** | 刘易斯家厨房 |
-| 4 | 在沙之巨龙嘴里放1个**太阳精华** | 沙漠 |
-| 5 | 检查房子旁**木材堆** | 农场 |
+| Step | Requirement | Location |
+|------|-------------|----------|
+| 1 | Place 1 **Battery Pack** in the encrypted box at the tunnel next to Bus Stop | Bus Stop Tunnel |
+| 2 | Place 1 **Rainbow Shell** in the box at the Train Station | Train Station |
+| 3 | Place 10 **Beets** in Mayor Lewis's refrigerator | Lewis's Kitchen |
+| 4 | Place 1 **Solar Essence** in the mouth of the Sand Dragon | Desert |
+| 5 | Check the **wood pile** next to your house | Farm |
 
-**最终奖励：会员卡**（可进入沙漠赌场）
+**Final Reward: Club Card** (can enter Desert Casino)
 
-> 甜菜只能在冬季从旅行商人处购买（100g/个），建议提前囤货。
+> Beets can only be purchased from the Traveling Cart in Winter (100g each), recommended to stock up in advance.
 
-## 骷髅洞穴挑战
+## Skull Cavern Challenge
 
-进入骷髅洞穴后，齐先生会发布挑战任务：
+After entering Skull Cavern, Mr. Qi will issue challenge quests:
 
-- **到达第25层** — 奖励 **10,000金**（次日邮件送达）
+- **Reach Floor 25** - Reward **10,000g** (delivered by mail the next day)
 
-## 骷髅洞穴第100层相遇
+## Skull Cavern Floor 100 Encounter
 
-使用秘密纸条#10的线索到达骷髅洞穴第100层后：
+After using the clue from Secret Note #10 to reach Skull Cavern Floor 100:
 
-- **使用不到10个楼梯到达**：齐先生赞美你的实力，赠送**铱蛇牛奶**（永久+25生命值上限）
-- **使用10个以上楼梯到达**：齐先生表示"聪明但不太光荣"，仍赠送铱蛇牛奶
+- **Reach using fewer than 10 staircases**: Mr. Qi praises your strength, gifts **Iridium Snake Milk** (permanent +25 max health)
+- **Reach using 10+ staircases**: Mr. Qi says "clever but not very honorable", still gifts Iridium Snake Milk
 
-> 铱蛇牛奶是非常珍贵的永久属性提升道具，建议尽早获取。
+> Iridium Snake Milk is a very precious permanent stat boost item, recommended to obtain as early as possible.
 
-## 核桃房（齐先生的核桃房）
+## Walnut Room (Mr. Qi's Walnut Room)
 
-收集 **100个金色核桃**后解锁姜岛核桃房，内含：
+Collect **100 Golden Walnuts** to unlock the Ginger Island Walnut Room, containing:
 
-- **进度跟踪器**：显示完美度完成进度（11项）
-- **特别任务板**：接取齐先生的特别任务获取齐钻
-- **贩卖机**：用齐钻兑换稀有物品和配方
+- **Progress Tracker**: Displays Perfection completion progress (11 items)
+- **Special Order Board**: Accept Mr. Qi's Special Orders to obtain Qi Gems
+- **Vending Machine**: Exchange Qi Gems for rare items and recipes
 
-### 特别任务一览
+### Special Orders List
 
-| 任务 | 时限 | 要求 | 齐钻奖励 |
-|------|------|------|----------|
-| 齐先生的作物 | 28天 | 出货500个齐瓜 | 100 |
-| 来玩游戏吧 | 7天 | 祝尼魔赛车无限模式5万分 | 20 |
-| 四颗宝石 | 28天 | 收集4个五彩碎片 | 40 |
-| 齐先生的饥饿挑战 | 7天 | 不吃不喝到达骷髅洞穴100层 | 25 |
-| 齐先生的菜肴 | 14天 | 售出10万金新鲜烹饪食品 | 25 |
-| 齐先生的善意 | 7天 | 送出50份最爱礼物 | 40 |
-| 大家族 | 3天 | 捕捉5条传说鱼二代 | 20 |
-| 深处的危险 | 7天 | 重置电梯后到达矿井底部 | 50 |
-| 骷髅洞穴入侵 | 7天 | 到达骷髅洞穴100层 | 40 |
-| 齐先生的五彩农场 | 14天 | 收集箱放六色物品各100个 | 35 |
+| Order | Time Limit | Requirement | Qi Gem Reward |
+|-------|------------|-------------|---------------|
+| Qi's Crop | 28 days | Ship 500 Qi Fruit | 100 |
+| Let's Play A Game | 7 days | Junimo Kart infinite mode 50,000 points | 20 |
+| Four Gems | 28 days | Collect 4 Prismatic Shards | 40 |
+| Qi's Hungry Challenge | 7 days | Reach Skull Cavern Floor 100 without eating or drinking | 25 |
+| Qi's Cuisine | 14 days | Sell 100,000g worth of fresh cooked food | 25 |
+| Qi's Kindness | 7 days | Give 50 loved gifts | 40 |
+| Extended Family | 3 days | Catch 5 Legendary Fish II | 20 |
+| Danger In The Deep | 7 days | Reach bottom of Mines after resetting elevator | 50 |
+| Skull Cavern Invasion | 7 days | Reach Skull Cavern Floor 100 | 40 |
+| Qi's Prismatic Grange | 14 days | Place 100 of each color item in the collection box | 35 |
 
-### 贩卖机重要商品
+### Vending Machine Important Items
 
-| 商品 | 齐钻价格 | 说明 |
-|------|----------|------|
-| 祝尼魔箱 | 15（首次需30买两个） | 连接储存 |
-| 马笛 | 50 | 召唤马到当前位置 |
-| 皮埃尔丢失的存货单 | 50 | 交给皮埃尔后全季节种子 |
-| 银河之魂 | 40 | 解锁无限武器最终形态 |
-| 迷你出货箱 | 60 | 随身出货箱 |
-| 小镇钥匙 | 20 | 随时进入镇上建筑 |
-| 加料器 | 10 | 自动加料 |
-| 分解机 | 20 | 回收打造材料 |
-| 顶级生长激素配方 | 30 | 最高级生长激素 |
-| 金蛋 | 100 | 100%完成度后解锁 |
+| Item | Qi Gem Price | Description |
+|------|--------------|-------------|
+| Junimo Chest | 15 (first time needs 30 for two) | Connected storage |
+| Horse Flute | 50 | Summons horse to current location |
+| Pierre's Missing Stocklist | 50 | Give to Pierre for all-season seeds |
+| Galaxy Soul | 40 | Unlocks final form of Infinity weapons |
+| Mini-Shipping Bin | 60 | Portable shipping bin |
+| Town Key | 20 | Enter town buildings anytime |
+| Hopper | 10 | Auto-loading |
+| Deconstructor | 20 | Recycle crafted items |
+| Deluxe Fertilizer Recipe | 30 | Highest tier fertilizer |
+| Golden Egg | 100 | Unlocked after 100% completion |
 
-## 完美度系统
+## Perfection System
 
-齐先生与完美度系统密切相关。完成所有11项完美度目标后：
+Mr. Qi is closely related to the Perfection system. After completing all 11 Perfection goals:
 
-- 在山顶与齐先生和爷爷相遇
-- 获得**完美豁免权**（1.6新增）：在挖掘场蘑菇洞花费500,000金购买1%完美度
+- Meet Mr. Qi and grandfather at the mountain peak
+- Obtain **Perfection Waiver** (1.6 new): Spend 500,000g at the Dig Site mushroom cave to purchase 1% Perfection
 
-## 实用提示
+## Useful Tips
 
-- 齐先生的挑战任务建议在实力较强时再接取
-- 齐钻优先购买银河之魂（解锁无限武器）和祝尼魔箱
-- 完美豁免权可以购买多次，适合不想完成所有目标的玩家
-- 矿井里的宝箱都是齐先生放的（彩蛋设定）
+- Mr. Qi's challenge quests are recommended to accept when you are strong enough
+- Qi Gems should prioritize purchasing Galaxy Soul (unlocks Infinity weapons) and Junimo Chest
+- Perfection Waiver can be purchased multiple times, suitable for players who don't want to complete all goals
+- The treasure chests in the Mines are all placed by Mr. Qi (easter egg setting)

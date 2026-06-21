@@ -1,88 +1,88 @@
-﻿---
-title: "Stardew Valley 大箱子指南"
-description: "大箱子（Big Chest）和石制大箱子（Big Stone Chest）是星露谷物语1.6版本新增的存储容器，提供70格超大容量。"
+---
+title: "Stardew Valley Big Chest Guide"
+description: "Big Chest and Big Stone Chest are new storage containers added in Stardew Valley 1.6, providing 70 slots of extra large capacity."
 category: items
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["大箱子", "Big Chest", "石制大箱子", "Big Stone Chest", "存储", "1.6版本", " crafting"]
+tags: ["Big Chest", "Big Stone Chest", "Storage", "1.6", "Crafting"]
 ---
 
-# 大箱子（Big Chest）指南
+# Big Chest Guide
 
-大箱子是《星露谷物语》**1.6 版本**新增的存储容器，相比普通箱子拥有更大的容量。
+Big Chest is a new storage container added in **Stardew Valley 1.6**, with larger capacity compared to regular Chests.
 
-## 大箱子（Big Chest）
+## Big Chest
 
-### 解锁条件
-- 需要达到**钓鱼等级 2 级（Fishing Level 2）**解锁配方
+### Unlock Condition
+- Requires **Fishing Level 2** to unlock recipe
 
-### 制作材料
+### Crafting Materials
 
-| 材料 | 数量 |
-|------|------|
-| 木材（Wood） | 120 |
-| 铜锭（Copper Bar） | 2 |
+| Material | Quantity |
+|----------|----------|
+| Wood | 120 |
+| Copper Bar | 2 |
 
-### 容量
-- **70 格**存储空间
-- 相比普通箱子的 **36 格**，容量提升了约 **94%**
+### Capacity
+- **70 slots** storage space
+- Compared to regular Chest's **36 slots**, capacity increased by about **94%**
 
-## 石制大箱子（Big Stone Chest）
+## Big Stone Chest
 
-石制大箱子是 1.6 版本的另一种大容量存储容器，外观为石制风格。
+Big Stone Chest is another large-capacity storage container in version 1.6, with a stone-style appearance.
 
-### 解锁条件
-- 需要达到**采矿等级 2 级（Mining Level 2）**解锁配方
+### Unlock Condition
+- Requires **Mining Level 2** to unlock recipe
 
-### 制作材料
+### Crafting Materials
 
-| 材料 | 数量 |
-|------|------|
-| 石头（Stone） | 120 |
-| 铜锭（Copper Bar） | 2 |
+| Material | Quantity |
+|----------|----------|
+| Stone | 120 |
+| Copper Bar | 2 |
 
-### 容量
-- **70 格**存储空间
-- 与大箱子容量相同
+### Capacity
+- **70 slots** storage space
+- Same capacity as Big Chest
 
-## 与普通箱子对比
+## Comparison with Regular Chest
 
-| 特性 | 普通箱子（Chest） | 大箱子（Big Chest / Big Stone Chest） |
-|------|------------------|--------------------------------------|
-| 容量 | 36 格 | 70 格 |
-| 制作材料 | 木材 × 50 | 木材/石头 × 120 + 铜锭 × 2 |
-| 解锁条件 | 游戏开始即可制作 | 钓鱼/采矿等级 2 |
-| 外观 | 木质 | 木质/石质 |
+| Feature | Regular Chest (Chest) | Big Chest / Big Stone Chest |
+|---------|----------------------|----------------------------|
+| Capacity | 36 slots | 70 slots |
+| Crafting Materials | Wood x 50 | Wood/Stone x 120 + Copper Bar x 2 |
+| Unlock Condition | Available from start | Fishing/Mining Level 2 |
+| Appearance | Wood | Wood/Stone |
 
-## 使用技巧
+## Usage Tips
 
-### 1. 分类存储
-- 使用大箱子进行更高效的物品分类
-- 例如：一个箱子存放所有矿石和金属条，另一个存放所有作物
+### 1. Organized Storage
+- Use Big Chests for more efficient item categorization
+- For example: one chest for all ores and bars, another for all crops
 
-### 2. 颜色区分
-- 大箱子可以使用**染色系统**改变外观颜色
-- 通过染色可以直观区分不同用途的箱子
+### 2. Color Coding
+- Big Chests can change appearance color using the **dye system**
+- Use different colors to visually distinguish chests for different purposes
 
-### 3. 放置位置
-- 大箱子可以放置在**农场**、**农舍**、**小屋（Shed）**等室内空间
-- 建议在小屋内集中放置多个大箱子，形成高效的存储中心
+### 3. Placement Locations
+- Big Chests can be placed in **Farm**, **Farmhouse**, **Shed**, and other indoor spaces
+- Recommended to place multiple Big Chests in a Shed to form an efficient storage center
 
-### 4. 移动与回收
-- 使用**工具**敲击大箱子可以将其收回背包（需清空内容）
-- 也可以直接移动已放置的大箱子
+### 4. Moving and Recycling
+- Use a **tool** to hit a Big Chest to return it to inventory (must be empty first)
+- Can also directly move placed Big Chests
 
-## 小贴士
+## Tips
 
-- 大箱子是 1.6 版本的重要生活质量提升，建议尽早解锁配方
-- 钓鱼和采矿是游戏早期常见的活动，很容易达到 2 级
-- 大箱子非常适合放置在**小屋**内，配合大量工匠设备使用
-- 石制大箱子的石质外观与矿井主题或工业风农场很搭配
+- Big Chest is an important quality of life improvement in version 1.6, recommended to unlock recipe early
+- Fishing and Mining are common early game activities, easily reaching Level 2
+- Big Chest is very suitable for placement in **Sheds**, combined with large numbers of artisan equipment
+- Big Stone Chest's stone appearance matches mining themes or industrial-style farms
 
-## 相关建筑
+## Related Buildings
 
-- [小屋（Shed）](./shed-guide.md) — 扩展室内空间放置大箱子
-- [筒仓（Silo）](./silo-guide.md) — 存储干草
-- [磨坊（Mill）](./mill-guide.md) — 加工面粉和糖
+- [Shed](./shed-guide.md) - Expands indoor space for placing Big Chests
+- [Silo](./silo-guide.md) - Stores Hay
+- [Mill](./mill-guide.md) - Processes Flour and Sugar

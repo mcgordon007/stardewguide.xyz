@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Wood Chipper Guide - Converts Wood to Resources"
 description: "Converts wood to resources"
 category: items
@@ -9,50 +9,48 @@ featured: false
 tags: ["wood", "crafting", "resources", "forestry"]
 ---
 
-# Stardew Valley Wood Chipper 指南
+# Stardew Valley Wood Chipper Guide
 
-## 简介
+## Introduction
 
-**Wood Chipper（碎木机）** 是 Stardew Valley 1.6 版本新增的设备，用于将硬木 (Hardwood) 转化为普通木材 (Wood)，并有机会获得额外的树液和木材资源。
+The **Wood Chipper** is a device added in Stardew Valley 1.6, used to convert **Hardwood** into regular **Wood**, with a chance to obtain additional Sap and Wood resources.
 
-## 解锁条件
+## Unlock Requirements
 
-- 达到 **采集 (Foraging) 等级 4 级** 后解锁配方
+- Reach **Foraging Level 4** to unlock the recipe.
 
-## 制作材料
+## Crafting Materials
 
-- 木材 (Wood) x30
-- 石头 (Stone) x30
-- 铜锭 (Copper Bar) x2
+- Wood x30
+- Stone x30
+- Copper Bar x2
 
-## 功能说明
+## Function
 
-- 放入 **1 个硬木 (Hardwood)** 进行加工
-- 产出：
-  - 普通木材 (Wood) x5-7
-  - 树液 (Sap) x0-2
-- 加工时间约为 **3 小时**（游戏时间）
+- Place **1 Hardwood** for processing.
+- Output:
+  - Wood x5-7
+  - Sap x0-2
+- Processing time is approximately **3 hours** (game time).
 
-## 使用场景
+## Usage Scenarios
 
-1. **硬木过剩时**：后期农场硬木积累较多，可转化为用途更广的普通木材
-2. **建筑需求**：建造农场建筑（如谷仓、鸡舍升级）需要大量普通木材
-3. ** crafting 需求**：许多制作配方需要普通木材而非硬木
+1. **Excess Hardwood**: In the late game, Hardwood accumulates in large quantities and can be converted into more versatile regular Wood.
+2. **Building Needs**: Constructing farm buildings (such as barn and coop upgrades) requires a large amount of regular Wood.
+3. **Crafting Needs**: Many crafting recipes require regular Wood rather than Hardwood.
 
-## 使用技巧
+## Usage Tips
 
-1. 在桃花心木树 (Mahogany Tree) 大量种植后，硬木产量会很高
-2. 碎木机适合放在农场靠近木工房或仓库的位置
-3. 不需要连续操作，适合作为被动资源转换设备
+1. After planting a large number of Mahogany Trees, Hardwood production will be high.
+2. The Wood Chipper is suitable for placement near the Carpenter's Shop or warehouse on the farm.
+3. Does not require continuous operation; suitable as a passive resource conversion device.
 
-## 注意事项
+## Notes
 
-- 无法放入普通木材进行加工
-- 硬木本身也是重要资源（如用于建造、制作硬木围栏等），请合理分配
+- Cannot place regular Wood for processing.
+- Hardwood itself is also an important resource (used for construction, crafting Hardwood Fences, etc.), so please allocate it reasonably.
 
-## 相关设备
+## Related Devices
 
-- [Recycling Machine（回收机）](./recycling-machine-guide.md) - 回收垃圾为资源
-- [Charcoal Kiln（木炭窑）](./charcoal-kiln-guide.md) - 将木材转化为煤炭
-
-
+- [Recycling Machine](./recycling-machine-guide.md) - Recycles trash into resources
+- [Charcoal Kiln](./charcoal-kiln-guide.md) - Converts Wood into Coal

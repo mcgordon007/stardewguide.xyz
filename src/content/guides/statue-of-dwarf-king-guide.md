@@ -1,72 +1,72 @@
-﻿---
-title: "Stardew Valley 矮人之王雕像指南 - 采矿增益"
-description: "每天二选一获得采矿能力"
+---
+title: "Stardew Valley Statue of the Dwarf King Guide - Mining Buffs"
+description: "Choose one of two daily mining buffs."
 category: mining
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["矮人之王雕像", "Statue of the Dwarf King", "采矿", "采矿精通"]
+tags: ["Statue of the Dwarf King", "mining", "mining mastery"]
 ---
 
-# Stardew Valley 矮人之王雕像 (Statue of the Dwarf King) 指南
+# Stardew Valley Statue of the Dwarf King Guide
 
-矮人之王雕像（Statue of the Dwarf King）是《星露谷物语》中一种设备，每天可以互动一次，交互后会提供两种增益供玩家选择，增益效果持续至当天结束。
+The Statue of the Dwarf King is a piece of equipment in Stardew Valley. You can interact with it once per day, and after interacting, it will provide two buffs for the player to choose from. The buff effect lasts until the end of the day.
 
-## 基本信息
+## Basic Information
 
-- **类型**: 设备
-- **配方来源**: 采矿精通（精通山洞）
-- **售出价格**: 不可出售
+- **Type**: Equipment
+- **Recipe Source**: Mining Mastery (Mastery Cave)
+- **Selling Price**: Cannot be sold
 
-## 制造配方
+## Crafting Recipe
 
-| 材料 | 数量 |
-|------|------|
-| 铱锭 | 20 |
+| Material | Quantity |
+|----------|----------|
+| Iridium Bar | 20 |
 
-## 增益列表
+## Buff List
 
-每天玩家可以在与雕像互动后在两种增益中选择一种：
+Every day, the player can choose one of two buffs after interacting with the statue:
 
-| 增益 | 效果 |
-|------|------|
-| 额外矿石 | 每个采矿点 +1 个矿石 |
-| 更多梯子 | 找到梯子和竖井的几率更高（+25%） |
-| 更多煤炭 | 找到煤炭的几率更高 |
-| 炸弹免疫 | 炸弹无法对你造成伤害 |
-| 更多晶球 | 找到晶球的几率更高（+25%） |
+| Buff | Effect |
+|------|--------|
+| Extra Ore | +1 ore per mining node |
+| More Ladders | Higher chance of finding ladders and shafts (+25%) |
+| More Coal | Higher chance of finding coal |
+| Bomb Immunity | Bombs cannot damage you |
+| More Geodes | Higher chance of finding geodes (+25%) |
 
-### 额外矿石
+### Extra Ore
 
-当此能力激活时，在矿井内外开采特定种类的矿石采矿点将额外掉落一块矿石。受影响的矿石包括：石头、煤炭、铜矿石、铁矿石、黄金矿石、铱矿石、火山晶石、放射性矿石、骨头碎片、黏土。
+When this buff is active, mining specific types of ore nodes inside and outside the Mines will yield an extra piece of ore. Affected ores include: Stone, Coal, Copper Ore, Iron Ore, Gold Ore, Iridium Ore, Cinder Shard, Radioactive Ore, Bone Fragment, Clay.
 
-### 更多晶球
+### More Geodes
 
-当此能力激活时，在矿井内外使用十字镐或炸弹破坏岩石时获得晶球的概率提升25%。
+When this buff is active, the probability of obtaining geodes when breaking rocks inside and outside the Mines with a Pickaxe or bombs increases by 25%.
 
-### 更多煤炭
+### More Coal
 
-当此能力激活时，矿井里敲碎岩石时掉落煤炭的概率提升40%，在拥有勘探者职业时提升20%。
+When this buff is active, the probability of coal dropping when breaking rocks in the Mines increases by 40%, and by 20% when having the Prospector profession.
 
-### 更多梯子
+### More Ladders
 
-当此能力激活时，在矿井和骷髅洞穴中破坏岩石时生成梯子和竖井的概率提升25%。击杀怪物时生成梯子的概率也从平时的15%增加到22%。
+When this buff is active, the probability of ladders and shafts spawning when breaking rocks in the Mines and Skull Cavern increases by 25%. The probability of ladders spawning when killing monsters also increases from the usual 15% to 22%.
 
-### 炸弹免疫
+### Bomb Immunity
 
-当此能力激活时，玩家在矿井内外都会免疫由樱桃炸弹、炸弹、超级炸弹和爆炸弹丸造成的所有伤害。玩家也会免疫火山地牢中熔岩大头的爆炸伤害。
+When this buff is active, the player is immune to all damage caused by Cherry Bombs, Bombs, Mega Bombs, and Explosive Ammo inside and outside the Mines. The player is also immune to the explosion damage from Hot Heads in the Volcano Dungeon.
 
-## 配方获取
+## Recipe Acquisition
 
-在精通山洞中选择「采矿精通」后获得矮人之王雕像的打造配方。
+Select "Mining Mastery" in the Mastery Cave to obtain the crafting recipe for the Statue of the Dwarf King.
 
-## 历史版本
+## Version History
 
-- **1.6**: 加入游戏。
+- **1.6**: Added to the game.
 
-## 小贴士
+## Tips
 
-- 根据当天的计划选择合适的增益
-- 下矿前选择「更多梯子」或「额外矿石」效率最高
-- 使用大量炸弹时选择「炸弹免疫」非常实用
+- Choose the appropriate buff based on your plans for the day.
+- "More Ladders" or "Extra Ore" are the most efficient choices before going mining.
+- "Bomb Immunity" is very practical when using a large number of bombs.

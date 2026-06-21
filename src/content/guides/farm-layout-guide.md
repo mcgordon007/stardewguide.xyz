@@ -1,138 +1,138 @@
-﻿---
-title: "Stardew Valley 农场地图选择与布局攻略"
-description: "8种农场地图对比、选择建议及最佳布局规划"
+---
+title: "Stardew Valley Farm Map Selection and Layout Guide"
+description: "Comparison of 8 farm maps, selection advice, and best layout planning"
 category: farming
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["农场", "地图", "布局", "规划", "新手", "选择"]
+tags: ["Farm", "Map", "Layout", "Planning", "Beginner", "Selection"]
 ---
 
-# 农场地图选择与布局攻略
+# Farm Map Selection and Layout Guide
 
-选择农场地图是星露谷物语中最重要的开局决策之一。游戏提供8种不同的农场地图，各有特色。
+Choosing a farm map is one of the most important early decisions in Stardew Valley. The game offers 8 different farm maps, each with unique features.
 
-## 8种农场地图对比
+## 8 Farm Maps Comparison
 
-| 农场 | 可耕地 | 特色 | 适合玩家 |
-|------|--------|------|----------|
-| 标准农场 | 最大 | 无特殊限制，最平衡 | 新手首选 |
-| 河边农场 | 中等 | 大量水域，适合钓鱼 | 钓鱼爱好者 |
-| 森林农场 | 中等 | 大量树木，采集物丰富 | 采集/觅食玩家 |
-| 山顶农场 | 中等 | 矿石丰富，采矿方便 | 采矿爱好者 |
-| 荒野农场 | 中等 | 夜间怪物出现 | 战斗爱好者 |
-| 四角农场 | 大 | 4个分区，适合多人 | 多人游戏 |
-| 海滩农场 | 小 | 海边，特殊采集物 | 休闲玩家 |
-| 草原农场 | 大 | 蓝色草，动物友好 | 养殖爱好者 |
+| Farm | Tillable Area | Feature | Suitable For |
+|------|---------------|---------|--------------|
+| Standard Farm | Largest | No special restrictions, most balanced | Beginners |
+| Riverland Farm | Medium | Lots of water, good for fishing | Fishing enthusiasts |
+| Forest Farm | Medium | Lots of trees, rich forageables | Foraging players |
+| Hill-top Farm | Medium | Rich in ores, convenient for mining | Mining enthusiasts |
+| Wilderness Farm | Medium | Monsters appear at night | Combat enthusiasts |
+| Four Corners Farm | Large | 4 sections, good for multiplayer | Multiplayer |
+| Beach Farm | Small | Seaside, special forageables | Casual players |
+| Meadowlands Farm | Large | Blue grass, animal-friendly | Animal farming enthusiasts |
 
-## 标准农场（Standard Farm）
+## Standard Farm
 
-### 特点
-- **最大可耕地面积**：约3,427格
-- 无特殊限制
-- 最平衡的选择
-- 适合任何玩法
+### Features
+- **Largest tillable area**: About 3,427 tiles
+- No special restrictions
+- Most balanced choice
+- Suitable for any playstyle
 
-### 布局建议
-- **北部**：作物种植区（配合洒水器）
-- **中部**：酒桶/小桶加工区
-- **南部**：动物谷仓/鸡舍
-- **边缘**：树木种植区（树液采集器）
+### Layout Suggestions
+- **North**: Crop planting area (with Sprinklers)
+- **Center**: Keg/Cask processing area
+- **South**: Animal Barn/Coop
+- **Edges**: Tree planting area (Tapper)
 
-> **新手强烈推荐选择标准农场。**
+> **Strongly recommended for beginners to choose Standard Farm.**
 
-## 河边农场（Riverland Farm）
+## Riverland Farm
 
-### 特点
-- 大量水域（适合钓鱼）
-- 可耕地被河流分割
-- 适合蟹笼放置
+### Features
+- Lots of water (good for fishing)
+- Tillable area divided by rivers
+- Suitable for Crab Pot placement
 
-### 布局建议
-- 利用小岛种植作物
-- 水域放置大量蟹笼
-- 钓鱼为主要收入来源
+### Layout Suggestions
+- Use small islands for crop planting
+- Place lots of Crab Pots in water
+- Fishing as main income source
 
-## 森林农场（Forest Farm）
+## Forest Farm
 
-### 特点
-- 大量树木和采集物
-- 西部有采集区（产出季节性采集物）
-- 适合觅食技能提升
+### Features
+- Lots of trees and forageables
+- Western foraging area (produces seasonal forageables)
+- Good for Foraging skill leveling
 
-### 布局建议
-- 保留西部采集区
-- 种植树木获取树液
-- 适合树液采集器流
+### Layout Suggestions
+- Keep western foraging area
+- Plant trees for sap
+- Suitable for Tapper flow
 
-## 山顶农场（Hill-top Farm）
+## Hill-top Farm
 
-### 特点
-- 西南部有采矿区（产出矿石）
-- 矿石节点定期刷新
-- 适合采矿技能提升
+### Features
+- Southwest mining area (produces ores)
+- Ore nodes periodically refresh
+- Good for Mining skill leveling
 
-### 布局建议
-- 利用采矿区获取矿石
-- 减少去矿井的频率
-- 适合矿工职业玩家
+### Layout Suggestions
+- Use mining area to get ores
+- Reduce frequency of going to Mines
+- Suitable for Miner profession players
 
-## 荒野农场（Wilderness Farm）
+## Wilderness Farm
 
-### 特点
-- 夜间怪物出现（根据战斗等级）
-- 怪物掉落物品
-- 适合战斗技能提升
+### Features
+- Monsters appear at night (based on combat level)
+- Monsters drop items
+- Good for Combat skill leveling
 
-### 布局建议
-- 注意夜间安全
-- 利用怪物掉落获取资源
-- 适合战士职业玩家
+### Layout Suggestions
+- Pay attention to night safety
+- Use monster drops to get resources
+- Suitable for Fighter profession players
 
-## 四角农场（Four Corners Farm）
+## Four Corners Farm
 
-### 特点
-- 4个独立分区
-- 适合多人游戏（每人一个分区）
-- 可耕地面积大
+### Features
+- 4 independent sections
+- Good for multiplayer (one section per player)
+- Large tillable area
 
-### 布局建议
-- 每个分区专精一种玩法
-- 分区1：作物
-- 分区2：动物
-- 分区3：酿酒
-- 分区4：树木/装饰
+### Layout Suggestions
+- Each section specializes in one playstyle
+- Section 1: Crops
+- Section 2: Animals
+- Section 3: Brewing
+- Section 4: Trees/Decoration
 
-## 海滩农场（Beach Farm）
+## Beach Farm
 
-### 特点
-- 海边位置
-- 特殊采集物（海胆、珊瑚等）
-- 洒水器在沙地上效率降低
+### Features
+- Seaside location
+- Special forageables (Sea Urchin, Coral, etc.)
+- Sprinklers have reduced efficiency on sand
 
-### 布局建议
-- 利用海边采集物
-- 在可耕地使用洒水器
-- 适合休闲玩法
+### Layout Suggestions
+- Use seaside forageables
+- Use Sprinklers on tillable land
+- Suitable for casual playstyle
 
-## 草原农场（Meadowlands Farm）
+## Meadowlands Farm
 
-### 特点
-- 1.6版本新增
-- 蓝色草（动物更喜欢）
-- 动物好感度增长更快
+### Features
+- Added in version 1.6
+- Blue grass (animals prefer)
+- Animal friendship increases faster
 
-### 布局建议
-- 大量养殖动物
-- 蓝色草提升动物产出
-- 适合牧场主职业
+### Layout Suggestions
+- Large-scale animal farming
+- Blue grass improves animal output
+- Suitable for Rancher profession
 
-## 通用布局技巧
+## General Layout Tips
 
-### 洒水器布局
+### Sprinkler Layout
 
-**铱级洒水器**（覆盖24格）：
+**Iridium Sprinkler** (covers 24 tiles):
 ```
   C C C C C
   C S S S C
@@ -140,33 +140,33 @@ tags: ["农场", "地图", "布局", "规划", "新手", "选择"]
   C S S S C
   C C C C C
 ```
-W = 铱级洒水器，S = 可耕地，C = 通道
+W = Iridium Sprinkler, S = Tillable, C = Path
 
-### 温室布局
-- 使用铱级洒水器覆盖最大面积
-- 旁边放置酒桶，收获后立即酿造
-- 种植上古水果或杨桃
+### Greenhouse Layout
+- Use Iridium Sprinklers to cover maximum area
+- Place Kegs nearby for immediate brewing after harvest
+- Plant Ancient Fruit or Starfruit
 
-### 酒桶布局
-- 在农舍地窖放置189个小桶
-- 在温室旁边放置额外酒桶
-- 姜岛农场也可以放置酒桶
+### Keg Layout
+- Place 189 Casks in Farmhouse Cellar
+- Place additional Kegs near Greenhouse
+- Can also place Kegs on Ginger Island Farm
 
-### 动物区布局
-- 谷仓和鸡舍靠近农舍
-- 门口留出空地让猪觅食
-- 放置自动采集器减少工作量
+### Animal Area Layout
+- Barns and Coops close to Farmhouse
+- Leave open space near doors for pigs to forage
+- Place Auto-Grabbers to reduce workload
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 新手应该选择哪个农场？**
-A: 标准农场，最大可耕地，无特殊限制。
+**Q: Which farm should beginners choose?**
+A: Standard Farm, largest tillable area, no special restrictions.
 
-**Q: 农场选择后可以更改吗？**
-A: 不可以，选择后无法更改。
+**Q: Can farm choice be changed after selection?**
+A: No, cannot be changed after selection.
 
-**Q: 哪个农场最赚钱？**
-A: 标准农场和四角农场，可耕地面积最大。
+**Q: Which farm is most profitable?**
+A: Standard Farm and Four Corners Farm, largest tillable areas.
 
-**Q: 草原农场的蓝色草有什么特殊？**
-A: 动物更喜欢蓝色草，好感度增长更快，产出品质更高。
+**Q: What is special about Meadowlands Farm's blue grass?**
+A: Animals prefer blue grass, friendship increases faster, output quality is higher.

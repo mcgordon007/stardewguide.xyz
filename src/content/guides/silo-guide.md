@@ -1,75 +1,74 @@
-﻿---
-title: "Stardew Valley 筒仓指南"
-description: "筒仓（Silo）是星露谷物语中用于存储干草的农场建筑，是饲养动物的必备设施。"
+---
+title: "Stardew Valley Silo Guide"
+description: "The Silo is a farm building in Stardew Valley used for storing hay, essential for raising animals."
 category: farming
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["筒仓", "Silo", "干草", "Hay", "动物饲养", "农场建筑"]
+tags: ["Silo", "Hay", "animal husbandry", "farm building"]
 ---
 
-# 筒仓（Silo）指南
+# Silo Guide
 
-筒仓是《星露谷物语》中一种**农场建筑**，专门用于存储**干草（Hay）**，是饲养农场动物的必备设施。
+The Silo is a **farm building** in Stardew Valley specifically used for storing **Hay**, and it is an essential facility for raising farm animals.
 
-## 解锁条件
+## Unlock Requirements
 
-- 无需特定技能等级，游戏开始后即可在罗宾（Robin）的**木匠商店（Carpenter's Shop）**建造
+- No specific skill level is required. It can be built at Robin's **Carpenter's Shop** from the start of the game.
 
-## 建造材料
+## Building Materials
 
-| 材料 | 数量 |
-|------|------|
-| 石头（Stone） | 100 |
-| 黏土（Clay） | 10 |
-| 铜锭（Copper Bar） | 5 |
-| 金币（Gold） | 100g |
+| Material | Quantity |
+|----------|----------|
+| Stone | 100 |
+| Clay | 10 |
+| Copper Bar | 5 |
+| Gold | 100g |
 
-## 存储容量
+## Storage Capacity
 
-- **基础容量**：**240 份干草**
-- 在 1.6 版本更新后，容量可能因游戏版本和模组而有所不同，部分资料显示容量可达 **360 份干草**
-- 可以建造**多个筒仓**，干草容量会叠加
+- **Base Capacity**: **240** pieces of hay
+- After the 1.6 update, capacity may vary depending on the game version and mods; some sources indicate capacity can reach **360** pieces of hay.
+- You can build **multiple Silos**, and hay capacity will stack.
 
-## 如何获取干草
+## How to Obtain Hay
 
-### 1. 割草
-- 使用**镰刀（Scythe）**割除农场上的**草（Grass）**
-- 每次割草有几率获得干草
-- 割草获得的干草会自动存入筒仓（如果筒仓有空间）
+### 1. Cutting Grass
+- Use a **Scythe** to cut **Grass** on your farm.
+- Each cut has a chance to yield hay.
+- Hay obtained from cutting grass is automatically stored in the Silo (if the Silo has space).
 
-### 2. 购买
-- 从**玛妮的牧场（Marnie's Ranch）**购买干草
-- 每份干草价格：**50g**
-- 购买后需要使用**料斗（Hopper）**或手动存入筒仓
+### 2. Purchasing
+- Buy hay from **Marnie's Ranch**.
+- Price per piece of hay: **50g**.
+- After purchasing, you need to use a **Hopper** or manually store it in the Silo.
 
-### 3. 小麦收获
-- 收获**小麦（Wheat）**时有几率获得干草
+### 3. Wheat Harvest
+- Harvesting **Wheat** has a chance to yield hay.
 
-## 如何使用干草
+## How to Use Hay
 
-### 自动喂食
-- 建造**鸡舍（Coop）**或**畜棚（Barn）**后，每个建筑内会有**料槽（Feeding Bench）**
-- 如果建筑已升级并配有**自动喂食系统（Auto-feeder）**，干草会自动从筒仓分配到料槽
-- 未升级的建筑需要手动将干草放入料槽
+### Auto-Feeding
+- After building a **Coop** or **Barn**, each building will have a **Feeding Bench**.
+- If the building has been upgraded with an **Auto-feeder**, hay will be automatically distributed from the Silo to the feeding bench.
+- Unupgraded buildings require manually placing hay into the feeding bench.
 
-### 手动喂食
-1. 进入鸡舍或畜棚
-2. 从料槽处取出干草（前提是筒仓中有干草）
-3. 将干草放置在空的料槽位置上
+### Manual Feeding
+1. Enter the Coop or Barn.
+2. Take hay from the feeding bench (provided there is hay in the Silo).
+3. Place the hay on empty feeding bench slots.
 
-## 小贴士
+## Tips
 
-- **尽早建造筒仓**——在开始饲养动物之前，确保已有筒仓存储干草
-- 秋季是割草储备干草的好时机，冬季草不会生长
-- 建议建造**多个筒仓**以应对大量动物的饲料需求
-- 筒仓可以与**料斗（Hopper）**配合使用，实现干草的自动转移
-- 在 1.6 版本中，干草管理更加便捷，建议充分利用自动喂食功能
+- **Build a Silo early** — before you start raising animals, make sure you have a Silo to store hay.
+- Fall is a good time to cut grass and stock up on hay, as grass does not grow in Winter.
+- It is recommended to build **multiple Silos** to meet the feed demands of a large number of animals.
+- The Silo can be used in conjunction with a **Hopper** for automatic hay transfer.
+- In version 1.6, hay management is more convenient; it is recommended to make full use of the auto-feeding function.
 
-## 相关建筑
+## Related Buildings
 
-- [马厩（Stable）](./stable-guide.md) — 解锁马匹
-- [小屋（Shed）](./shed-guide.md) — 扩展存储和工作空间
-- [水井（Well）](./well-guide.md) — 提供水源
-
+- [Stable](./stable-guide.md) — Unlocks the horse
+- [Shed](./shed-guide.md) — Expands storage and workspace
+- [Well](./well-guide.md) — Provides a water source

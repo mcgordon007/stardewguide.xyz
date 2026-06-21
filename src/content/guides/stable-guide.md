@@ -1,70 +1,69 @@
-﻿---
-title: "Stardew Valley 马厩指南"
-description: "马厩（Stable）是星露谷物语中的农场建筑，建造后可获得一匹可骑乘的马，大幅提升移动速度。"
+---
+title: "Stardew Valley Stable Guide"
+description: "The Stable is a farm building in Stardew Valley. After building it, you will obtain a rideable horse, greatly increasing movement speed."
 category: farming
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["马厩", "Stable", "马", "Horse", "移动速度", "农场建筑"]
+tags: ["Stable", "Horse", "movement speed", "farm building"]
 ---
 
-# 马厩（Stable）指南
+# Stable Guide
 
-马厩是《星露谷物语》中一种**农场建筑**，建造后玩家将获得一匹**马（Horse）**，可以骑乘以大幅提升移动速度。
+The Stable is a **farm building** in Stardew Valley. After building it, the player will receive a **Horse**, which can be ridden to greatly increase movement speed.
 
-## 解锁条件
+## Unlock Requirements
 
-- 无需特定技能等级，游戏开始后即可在罗宾（Robin）的**木匠商店（Carpenter's Shop）**建造
+- No specific skill level is required. It can be built at Robin's **Carpenter's Shop** from the start of the game.
 
-## 建造材料
+## Building Materials
 
-| 材料 | 数量 |
-|------|------|
-| 金币（Gold） | 10,000g |
-| 硬木（Hardwood） | 100 |
-| 铁锭（Iron Bar） | 5 |
+| Material | Quantity |
+|----------|----------|
+| Gold | 10,000g |
+| Hardwood | 100 |
+| Iron Bar | 5 |
 
-### 材料获取建议
+### Material Acquisition Tips
 
-- **硬木**：使用**钢斧（Steel Axe）**或更高级斧头砍伐**树桩（Stumps）**和**大圆木（Logs）**，或在**秘密森林（Secret Woods）**每日收集
-- **铁锭**：在矿井（Mines）41-80层开采**铁矿石（Iron Ore）**，使用**熔炉（Furnace）**冶炼，5个铁矿石 + 1个煤炭 = 1个铁锭
+- **Hardwood**: Use a **Steel Axe** or higher-tier axe to chop **Stumps** and **Large Logs**, or collect daily in the **Secret Woods**.
+- **Iron Bar**: Mine **Iron Ore** on floors 41-80 of the **Mines**, then smelt it in a **Furnace** (5 Iron Ore + 1 Coal = 1 Iron Bar).
 
-## 功能
+## Functions
 
-### 获得马匹
-- 马厩建造完成后，马会立即出现在马厩内
-- 马的颜色是**随机**的（棕色、黑色、白色等）
-- 在 1.6 版本中，可以通过与马互动来改变外观
+### Obtaining a Horse
+- After the Stable is built, the horse will immediately appear inside the Stable.
+- The horse's color is **random** (brown, black, white, etc.).
+- In version 1.6, you can change the horse's appearance by interacting with it.
 
-### 骑乘移动
-- 靠近马并按**交互键**即可骑乘
-- 骑乘时**移动速度 +30%**
-- 可以骑马穿越农场、城镇和大部分区域
-- 骑马时无法与 NPC 对话或使用工具
+### Riding
+- Approach the horse and press the **interact key** to mount.
+- While riding, **movement speed +30%**.
+- You can ride the horse across the farm, town, and most areas.
+- You cannot talk to NPCs or use tools while riding.
 
-### 下马
-- 再次按交互键下马
-- 马会停留在原地，直到玩家再次骑乘
-- 如果玩家**睡觉**，马会自动返回马厩
+### Dismounting
+- Press the interact key again to dismount.
+- The horse will stay in place until you mount again.
+- If the player **goes to sleep**, the horse will automatically return to the Stable.
 
-### 马厩内部
-- 马厩内部有一匹**马**
-- 还包含一个**料槽**，但马不需要喂食
-- 马厩内部空间较小，不可放置其他物品
+### Stable Interior
+- The Stable interior contains a **Horse**.
+- It also contains a **feeding trough**, but the horse does not need to be fed.
+- The Stable interior space is small and cannot hold other items.
 
-## 小贴士
+## Tips
 
-- 马厩是游戏中**提升效率**最重要的建筑之一，建议尽早建造
-- 骑马可以大幅缩短往返矿井、城镇和森林的时间
-- 马可以穿过**栅栏（Fence）**和**大门（Gate）**
-- 在 1.5 版本后，马可以佩戴**马帽（Horse Hat）**等装饰品
-- 在 1.6 版本中，马的外观可以自定义
-- 如果马阻挡了道路，可以对其吹口哨（如果有**口哨**道具）或推挤使其移动
+- The Stable is one of the most important buildings in the game for **improving efficiency**; it is recommended to build it as early as possible.
+- Riding a horse can significantly reduce travel time to and from the Mines, town, and forest.
+- Horses can pass through **Fences** and **Gates**.
+- After version 1.5, horses can wear **Horse Hats** and other accessories.
+- In version 1.6, horse appearances can be customized.
+- If the horse is blocking the path, you can whistle at it (if you have the **Horse Flute** item) or push it to move.
 
-## 相关建筑
+## Related Buildings
 
-- [水井（Well）](./well-guide.md) — 提供水源
-- [小屋（Shed）](./shed-guide.md) — 扩展存储空间
-- [筒仓（Silo）](./silo-guide.md) — 存储干草
-
+- [Well](./well-guide.md) — Provides a water source
+- [Shed](./shed-guide.md) — Expands storage space
+- [Silo](./silo-guide.md) — Stores hay

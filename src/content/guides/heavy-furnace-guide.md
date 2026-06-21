@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Heavy Furnace Guide - Smelts Ore in Bulk"
 description: "Smelts ore in bulk"
 category: items
@@ -9,52 +9,50 @@ featured: false
 tags: ["smelting", "mining", "crafting", "bulk"]
 ---
 
-# Stardew Valley Heavy Furnace 指南
+# Stardew Valley Heavy Furnace Guide
 
-## 简介
+## Introduction
 
-**Heavy Furnace（重型熔炉）** 是 Stardew Valley 1.6 版本新增的大型熔炼设备，能够一次性批量熔炼多个矿石，大幅提升熔炼效率。
+The **Heavy Furnace** is a large smelting device added in Stardew Valley 1.6 that can smelt multiple ores at once, greatly improving smelting efficiency.
 
-## 解锁条件
+## Unlock Requirements
 
-- 达到 **采矿等级 9 级** 后解锁配方
+- Recipe unlocked after reaching **Mining Level 9**
 
-## 制作材料
+## Crafting Materials
 
-- 熔炉 (Furnace) x2
-- 铁锭 (Iron Bar) x3
-- 精炼石英 (Refined Quartz) x50
+- Furnace x2
+- Iron Bar x3
+- Refined Quartz x50
 
-## 功能说明
+## Functionality
 
-- 一次可放入 **25 个矿石** 进行批量熔炼
-- 每熔炼 5 个矿石消耗 1 个煤炭
-- 熔炼时间为普通熔炉的 **5 倍**（但效率大幅提升）
-- 产出对应金属锭，有小概率产出额外产物
+- Can place **25 ores** at once for bulk smelting
+- Consumes 1 coal per 5 ores smelted
+- Smelting time is **5x** that of a regular furnace (but efficiency is greatly improved)
+- Produces corresponding metal bars with a small chance of extra output
 
-## 熔炼配方
+## Smelting Recipes
 
-| 输入 | 输出 | 数量 |
-|------|------|------|
-| 铜矿石 x25 + 煤炭 x5 | 铜锭 | 5 个 |
-| 铁矿石 x25 + 煤炭 x5 | 铁锭 | 5 个 |
-| 金矿石 x25 + 煤炭 x5 | 金锭 | 5 个 |
-| 铱矿石 x25 + 煤炭 x5 | 铱锭 | 5 个 |
+| Input | Output | Quantity |
+|-------|--------|----------|
+| Copper Ore x25 + Coal x5 | Copper Bar | 5 |
+| Iron Ore x25 + Coal x5 | Iron Bar | 5 |
+| Gold Ore x25 + Coal x5 | Gold Bar | 5 |
+| Iridium Ore x25 + Coal x5 | Iridium Bar | 5 |
 
-## 使用技巧
+## Usage Tips
 
-1. 在矿洞探险后集中批量熔炼，节省时间和煤炭
-2. 配合大量煤炭储备使用，避免中途缺煤
-3. 适合中后期大规模农场建设时的金属需求
+1. Smelt in bulk after mine expeditions to save time and coal
+2. Use with a large coal reserve to avoid running out mid-process
+3. Ideal for mid-to-late game large-scale farm construction metal needs
 
-## 注意事项
+## Notes
 
-- Heavy Furnace 无法熔炼石英或火水晶
-- 需要比普通熔炉更多的空间放置
+- Heavy Furnace cannot smelt quartz or fire quartz
+- Requires more space to place than a regular furnace
 
-## 相关设备
+## Related Equipment
 
-- [Furnace（熔炉）](./furnace-guide.md) - 基础熔炼设备
-- [Geode Crusher（晶球破碎机）](./geode-crusher-guide.md) - 自动开启晶球
-
-
+- [Furnace](./furnace-guide.md) - Basic smelting device
+- [Geode Crusher](./geode-crusher-guide.md) - Automatically opens geodes

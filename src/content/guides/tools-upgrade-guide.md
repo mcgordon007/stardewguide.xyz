@@ -241,7 +241,7 @@ The order in which you upgrade your tools significantly impacts your early-game 
 - Plant crops that will be watered by rain while your can is being upgraded
 - Alternatively, upgrade on Spring 27 (last day of season) since crops die when seasons change anyway
 
-### Priority 2: Pickaxe (Copper 鈫?Steel)
+### Priority 2: Pickaxe (Copper -> Steel)
 
 **When:** After Watering Can, before reaching Mine Level 40
 
@@ -253,7 +253,7 @@ The order in which you upgrade your tools significantly impacts your early-game 
 
 **Why:** The Steel Axe unlocks the Secret Woods, which contains 6 Large Stumps that respawn daily, providing 12 Hardwood per day. Hardwood is essential for many crafting recipes and buildings.
 
-### Priority 4: Watering Can (Steel 鈫?Gold)
+### Priority 4: Watering Can (Steel -> Gold)
 
 **When:** During Winter or when you have sufficient sprinklers
 
@@ -268,13 +268,13 @@ The order in which you upgrade your tools significantly impacts your early-game 
 - The path to the Railroad (if not already unlocked)
 - Various shortcuts around the map
 
-### Priority 6: Pickaxe (Gold 鈫?Iridium)
+### Priority 6: Pickaxe (Gold -> Iridium)
 
 **When:** Before serious Skull Cavern expeditions
 
 **Why:** Iridium nodes in the Skull Cavern require many hits with lower-tier pickaxes. The Iridium Pickaxe mines them efficiently, maximizing your Iridium Ore collection.
 
-### Priority 7: Hoe (Gold 鈫?Iridium)
+### Priority 7: Hoe (Gold -> Iridium)
 
 **When:** When setting up large Ginger Island farms or extensive crop plots
 
@@ -373,9 +373,3 @@ Winter is the ideal time for tool upgrades because you have no crops to water. U
 | **Trash Can** | 15% refund | 30% refund | 45% refund | 60% refund | **Last** |
 
 Mastering tool upgrades is essential for efficient farming in Stardew Valley. Prioritize your watering can early, unlock the Secret Woods with the Steel Axe, and use Winter for major upgrades. With proper planning, you'll transform from an exhausted beginner into a master farmer who can clear land, mine deep, and water crops with minimal effort.
-
-
-
-
-
-

@@ -1,111 +1,110 @@
-﻿---
-title: "Stardew Valley 姜岛农场攻略"
-description: "姜岛农场解锁条件、种植优势、农场升级及饕餮青蛙任务全攻略"
+---
+title: "Stardew Valley Island Farm Guide"
+description: "Island Farm unlock conditions, planting advantages, farm upgrades, and Gourmand Frog quest complete guide"
 category: farming
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["姜岛", "姜岛农场", "金色核桃", "饕餮青蛙", "四季种植"]
+tags: ["ginger island", "island farm", "golden walnut", "gourmand frog", "all-season planting"]
 ---
 
-# 姜岛农场攻略
+# Island Farm Guide
 
-姜岛农场是星露谷物语中最重要的额外种植区域。与大陆农场最大的区别是**不受季节限制**，可以四季种植任何作物。
+The Island Farm is the most important additional planting area in Stardew Valley. The biggest difference from the mainland farm is that it is **not limited by season** and can grow any crop year-round.
 
-## 解锁条件
+## Unlock Conditions
 
-1. 修复社区中心或完成Joja社区发展申请书
-2. 收到威利邮件，去鱼店里屋花 **200硬木 + 5电池组 + 5铱锭** 修船
-3. 花 **1,000金** 买船票到姜岛
-4. 跟随雷欧进入丛林，在雷欧小屋内互动后乌龟自动移除（解锁北部）
-5. 给堵路海龟旁的鹦鹉 **10个金色核桃** 赶走海龟
+1. Complete the Community Center or the Joja Community Development Form
+2. Receive a letter from Willy, then go to the back room of the Fish Shop and spend **200 Hardwood + 5 Battery Packs + 5 Iridium Bars** to repair the boat
+3. Spend **1,000g** to buy a boat ticket to Ginger Island
+4. Follow Leo into the jungle; after interacting in Leo's Hut, the turtle automatically moves (unlocks the north)
+5. Give the parrot next to the blocking turtle **10 Golden Walnuts** to scare it away
 
-## 与大陆农场的关键区别
+## Key Differences from Mainland Farm
 
-| 特性 | 大陆农场 | 姜岛农场 |
-|------|----------|----------|
-| 季节限制 | 受季节限制 | **不受限制，四季种植** |
-| 乌鸦 | 会吃作物，需稻草人 | **不会出现乌鸦** |
-| 可耕种面积 | 较大 | 约941块（含西部区域） |
-| 洒水器 | 可放置 | 可放置 |
-| 出货箱 | 有 | 建好农舍后附带 |
+| Feature | Mainland Farm | Island Farm |
+|---------|---------------|-------------|
+| Season Limit | Season-restricted | **No restriction, all-season planting** |
+| Crows | Eat crops, need Scarecrows | **No crows appear** |
+| Tillable Area | Large | About 941 tiles (including west area) |
+| Sprinklers | Can be placed | Can be placed |
+| Shipping Bin | Available | Available after building farmhouse |
 
-> 不受季节限制且没有乌鸦，是姜岛农场最大的优势。
+> No season restriction and no crows are the Island Farm's biggest advantages.
 
-## 农场设施升级
+## Farm Facility Upgrades
 
-使用金色核桃升级农场设施：
+Use Golden Walnuts to upgrade farm facilities:
 
-| 设施 | 花费 | 说明 |
-|------|------|------|
-| 姜岛农舍 | 20个金色核桃 | 4房间+厨房+热带床+出货箱 |
-| 邮箱 | 5个金色核桃 | 建好农舍后可用 |
-| 农场图腾柱 | 20个金色核桃 | 传送回大陆农场，附赠传送图腾：姜岛 |
+| Facility | Cost | Description |
+|----------|------|-------------|
+| Island Farmhouse | 20 Golden Walnuts | 4 rooms + kitchen + tropical bed + shipping bin |
+| Mailbox | 5 Golden Walnuts | Available after building farmhouse |
+| Farm Obelisk | 20 Golden Walnuts | Teleport back to mainland farm, includes Warp Totem: Island |
 
-> 农场图腾柱非常实用，可以快速往返大陆和姜岛。
+> The Farm Obelisk is very practical for quickly traveling between the mainland and Ginger Island.
 
-## 饕餮青蛙任务
+## Gourmand Frog Quest
 
-建好农舍后，饕餮青蛙会出现并依次要求你种植3种作物。
+After building the farmhouse, the Gourmand Frog appears and sequentially asks you to grow 3 crops.
 
-> **重要：作物成熟后不要立即收获！** 先跟青蛙对话展示作物获得奖励，**收到奖励后再由玩家自己收割**。
+> **Important: Do not harvest crops immediately when they mature!** Talk to the frog first to show the crop and receive the reward, **then harvest it yourself after receiving the reward**.
 
-### 第一阶段：甜瓜
+### Phase 1: Melon
 
-- 青蛙描述："粉红色的东西"
-- 种植**甜瓜**，成熟后等待青蛙收获
-- **奖励：5个金色核桃**
+- Frog description: "The pink thing"
+- Grow **Melon**, wait for the frog to harvest after maturity
+- **Reward: 5 Golden Walnuts**
 
-### 第二阶段：小麦
+### Phase 2: Wheat
 
-- 青蛙描述："长的黄色在风中摇晃的"
-- 种植**小麦**，成熟后等待青蛙收获
-- **奖励：5个金色核桃**
+- Frog description: "The long yellow thing swaying in the wind"
+- Grow **Wheat**, wait for the frog to harvest after maturity
+- **Reward: 5 Golden Walnuts**
 
-### 第三阶段：蒜
+### Phase 3: Garlic
 
-- 青蛙描述："很刺激的地上的果子"
-- 种植**蒜**，成熟后等待青蛙收获
-- **奖励：5个金色核桃**
+- Frog description: "The spicy thing on the ground"
+- Grow **Garlic**, wait for the frog to harvest after maturity
+- **Reward: 5 Golden Walnuts**
 
-**总计奖励：15个金色核桃**
+**Total Reward: 15 Golden Walnuts**
 
-## 种植策略
+## Planting Strategy
 
-### 推荐作物
+### Recommended Crops
 
-由于不受季节限制，推荐种植以下高价值作物：
+Since there is no season restriction, the following high-value crops are recommended:
 
-| 作物 | 基础售价 | 生长周期 | 推荐理由 |
-|------|----------|----------|----------|
-| 远古果实 | 550g | 28天（持续收获） | 最高价值持续收获作物 |
-| 杨桃 | 750g | 13天 | 高售价，配合酿酒利润极高 |
-| 南瓜 | 320g | 13天 | 高价值作物 |
-| 红叶卷心菜 | 260g | 9天 | 较快生长周期 |
-| 花椰菜 | 175g | 12天 | 稳定收益 |
+| Crop | Base Sell Price | Growth Cycle | Reason |
+|------|-----------------|--------------|--------|
+| Ancient Fruit | 550g | 28 days (regrows) | Highest value regrowing crop |
+| Starfruit | 750g | 13 days | High sell price, extremely profitable with winemaking |
+| Pumpkin | 320g | 13 days | High value crop |
+| Red Cabbage | 260g | 9 days | Faster growth cycle |
+| Cauliflower | 175g | 12 days | Stable income |
 
-### 自动化建议
+### Automation Suggestions
 
-1. **尽早放置洒水器**：铱级洒水器覆盖最大范围
-2. **配合顶级肥料**：提升作物品质
-3. **放置出货箱**：建好农舍后自带
-4. **酿酒桶/小桶**：将作物加工为更高价值产品
+1. **Place sprinklers early**: Iridium Sprinkler covers the largest area
+2. **Use Deluxe Fertilizer**: Improves crop quality
+3. **Place shipping bin**: Available after building farmhouse
+4. **Kegs**: Process crops into higher value products
 
-## 姜岛西部可耕种区域
+## Ginger Island West Tillable Area
 
-除了主农场外，姜岛西部也有可耕种区域：
+In addition to the main farm, the west side of Ginger Island also has tillable areas:
 
-- 西岸河边约51块
-- 零散地块若干
-- 可种植果树
+- About 51 tiles along the west shore river
+- Several scattered plots
+- Can plant fruit trees
 
-## 实用提示
+## Useful Tips
 
-- 姜岛农场是种植远古果实的最佳地点（不受季节限制，持续收获）
-- 不需要稻草人，节省大量空间和资源
-- 建议优先升级农舍和图腾柱
-- 饕餮青蛙任务作物成熟后**千万不要收获**，否则需要重新种植
-- 配合洒水器和小桶/酿酒桶可实现完全自动化收益
-- 1.6更新后，完美豁免权可在挖掘场蘑菇洞购买
-
+- The Island Farm is the best place to grow Ancient Fruit (no season limit, regrows)
+- No Scarecrows needed, saving a lot of space and resources
+- Prioritize upgrading the farmhouse and obelisk
+- **Do not harvest** Gourmand Frog quest crops after maturity, or you will need to replant
+- Pair with sprinklers and Kegs for fully automated income
+- After 1.6 update, Perfection Waiver can be purchased at the Dig Site mushroom cave

@@ -1,197 +1,195 @@
-﻿---
-title: "Stardew Valley 博物馆捐赠全收集攻略"
-description: "博物馆95件捐赠物品全攻略，包括古物、矿物获取方式及捐赠奖励"
+---
+title: "Stardew Valley Museum Donation Complete Guide"
+description: "Complete guide to all 95 museum donations, including artifacts, minerals, acquisition methods, and donation rewards"
 category: quests
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["博物馆", "捐赠", "古物", "矿物", "收集", "奖励"]
+tags: ["museum", "donation", "artifacts", "minerals", "collection", "rewards"]
 ---
 
-# 博物馆捐赠全收集攻略
+# Museum Donation Complete Guide
 
-博物馆位于鹈鹕镇，由Gunther管理。捐赠古物和矿物可以获得重要奖励，包括星之果实（永久+34体力上限，95件全捐赠获得）和生锈的钥匙（解锁下水道，60件捐赠获得）。
+The Museum is located in Pelican Town, managed by Gunther. Donating artifacts and minerals yields important rewards, including the Stardrop (permanent +34 max energy, obtained after all 95 donations) and the Rusty Key (unlocks the Sewers, obtained after 60 donations).
 
-## 基本信息
+## Basic Information
 
-- **位置**：鹈鹕镇，铁匠铺右侧
-- **NPC**：Gunther
-- **总捐赠数**：95件（53种矿物 + 42种古物）
-- **开放时间**：上午8:00 - 下午6:00
+- **Location**: Pelican Town, right of the Blacksmith
+- **NPC**: Gunther
+- **Total Donations**: 95 items (53 minerals + 42 artifacts)
+- **Open Hours**: 8:00 AM - 6:00 PM
 
-## 捐赠奖励
+## Donation Rewards
 
-| 捐赠数量 | 奖励 |
-|----------|------|
-| 5件 | 花椰菜种子 x9 |
-| 10件 | 甜瓜种子 x9 |
-| 15件 | 杨桃种子 x1 |
-| 20件 | 《生态山之夜》挂画（家具） |
-| 25件 | 《翡翠山》挂画（家具） |
-| 30件 | 大福坦熊（家具） |
-| 35件 | 南瓜种子 x9 |
-| 40件 | 稀有乌鸦 #8 |
-| 50件 | 熊雕像（家具） |
-| 60件 | **生锈的钥匙**（解锁下水道） |
-| 70件 | 三倍浓缩咖啡 x3 |
-| 80件 | 传送图腾：农场 x5 |
-| 90件 | 魔法糖冰棍 x1 |
-| 95件（全部） | **星之果实**（永久+34体力上限） |
+| Donation Count | Reward |
+|----------------|--------|
+| 5 | Cauliflower Seeds x9 |
+| 10 | Melon Seeds x9 |
+| 15 | Starfruit Seeds x1 |
+| 20 | 'Night Mountain' Painting (furniture) |
+| 25 | 'Jade Mountain' Painting (furniture) |
+| 30 | Big Fuftan Bear (furniture) |
+| 35 | Pumpkin Seeds x9 |
+| 40 | Rarecrow #8 |
+| 50 | Bear Statue (furniture) |
+| 60 | **Rusty Key** (unlocks the Sewers) |
+| 70 | Triple Shot Espresso x3 |
+| 80 | Warp Totem: Farm x5 |
+| 90 | Magic Rock Candy x1 |
+| 95 (all) | **Stardrop** (permanent +34 max energy) |
 
-> **星之果实**和**生锈的钥匙**是最重要的奖励。
+> **Stardrop** and **Rusty Key** are the most important rewards.
 
-## 矿物获取方式
+## Mineral Acquisition Methods
 
-### 矿井矿物（1-120层）
+### Mine Minerals (Floors 1-120)
 
-| 矿物 | 出现层数 | 获取方式 |
-|------|----------|----------|
-| 紫水晶 | 所有层 | 紫水晶矿、晶洞 |
-| 黄水晶 | 所有层 | 黄水晶矿、晶洞 |
-| 海蓝宝石 | 所有层 | 海蓝宝石矿、晶洞 |
-| 翡翠 | 所有层 | 翡翠矿、晶洞 |
-| 翡翠 | 所有层 | 翡翠矿、晶洞 |
-| 石英 | 所有层 | 石英矿、晶洞 |
-| 地晶 | 1-39层 | 地晶矿、晶洞 |
-| 泪晶 | 40-79层 | 泪晶矿、晶洞 |
-| 火水晶 | 80-120层 | 火水晶矿、晶洞 |
+| Mineral | Floors | Acquisition Method |
+|---------|--------|-------------------|
+| Amethyst | All floors | Amethyst nodes, geodes |
+| Topaz | All floors | Topaz nodes, geodes |
+| Aquamarine | All floors | Aquamarine nodes, geodes |
+| Jade | All floors | Jade nodes, geodes |
+| Emerald | All floors | Emerald nodes, geodes |
+| Quartz | All floors | Quartz nodes, geodes |
+| Earth Crystal | 1-39 | Earth Crystal nodes, geodes |
+| Frozen Tear | 40-79 | Frozen Tear nodes, geodes |
+| Fire Quartz | 80-120 | Fire Quartz nodes, geodes |
 
-### 特殊矿物
+### Special Minerals
 
-| 矿物 | 获取方式 |
-|------|----------|
-| 钻石 | 钻石矿（矿井任意层）、晶洞 |
-| 五彩碎片 | 铱矿节点、怪物掉落（极低概率） |
-| 翡翠 | 翡翠矿、晶洞 |
-| 红宝石 | 红宝石矿、晶洞 |
-| 绿宝石 | 绿宝石矿、晶洞 |
-| 翡翠 | 翡翠矿、晶洞 |
-| 黄水晶 | 黄水晶矿、晶洞 |
+| Mineral | Acquisition Method |
+|---------|-------------------|
+| Diamond | Diamond nodes (any mine floor), geodes |
+| Prismatic Shard | Iridium nodes, monster drops (very low chance) |
+| Emerald | Emerald nodes, geodes |
+| Ruby | Ruby nodes, geodes |
+| Emerald | Emerald nodes, geodes |
+| Topaz | Topaz nodes, geodes |
 
-### 晶洞矿物
+### Geode Minerals
 
-| 矿物 | 晶洞类型 |
-|------|----------|
-| 孔雀石 | 普通晶洞 |
-| 青金石 | 普通晶洞 |
-| 柠檬石 | 普通晶洞 |
-| 大理石 | 普通晶洞 |
-| 黑曜石 | 冰冻晶洞 |
-| 虎眼石 | 冰冻晶洞 |
-| 碧玉 | 冰冻晶洞 |
-| 花岗岩 | 冰冻晶洞 |
-| 玄武岩 | 岩浆晶洞 |
-| 石灰石 | 岩浆晶洞 |
-| 沙岩 | 岩浆晶洞 |
-| 板岩 | 岩浆晶洞 |
-| 赤铁矿 | 万象晶洞 |
-| 泥石 | 万象晶洞 |
-| 新硅石 | 万象晶洞 |
-| 精灵石 | 万象晶洞 |
+| Mineral | Geode Type |
+|---------|------------|
+| Malachite | Geode |
+| Lapis Lazuli | Geode |
+| Lemon Stone | Geode |
+| Marble | Geode |
+| Obsidian | Frozen Geode |
+| Tigerseye | Frozen Geode |
+| Jasper | Frozen Geode |
+| Granite | Frozen Geode |
+| Basalt | Magma Geode |
+| Limestone | Magma Geode |
+| Sandstone | Magma Geode |
+| Slate | Magma Geode |
+| Hematite | Omni Geode |
+| Mudstone | Omni Geode |
+| Neptunite | Omni Geode |
+| Fairy Stone | Omni Geode |
 
-## 古物获取方式
+## Artifact Acquisition Methods
 
-### 远古斑点挖掘
+### Artifact Spot Digging
 
-| 古物 | 出现地点 | 概率 |
-|------|----------|------|
-| 矮人卷轴 I | 矿井1-40层 | 0.5% |
-| 矮人卷轴 II | 矿井1-40层 | 0.1% |
-| 矮人卷轴 III | 矿井40-80层 | 0.5% |
-| 矮人卷轴 IV | 矿井80-120层 | 0.1% |
-| 古代玩偶 | 深山3%、巴士站2.4%、煤矿森林2.4%、鹈鹕镇0.8% | 各区域不同 |
-| 古代种子 | 煤矿森林、山区 | 0.7% |
-| 史前手斧 | 山区、采石场 | 0.6% |
-| 史前工具 | 山区、采石场 | 0.6% |
-| 箭头 | 山区、采石场 | 0.6% |
-| 史前肋骨 | 山区、采石场 | 0.6% |
-| 史前肩胛骨 | 山区、采石场 | 0.6% |
-| 史前头骨 | 山区、采石场 | 0.6% |
-| 史前脊椎骨 | 山区、采石场 | 0.6% |
-| 史前尾巴 | 山区、采石场 | 0.6% |
-| 鹦鹉螺化石 | 海滩 | 1.8% |
-| 两栖动物化石 | 煤矿森林0.6%、深山0.6% | 各区域不同 |
-| 棕榈化石 | 沙漠7%、煤矿森林0.6%、沙滩0.6% | 各区域不同 |
-| 三叶虫 | 沙滩1.7%、煤矿森林1.9%、深山1.8% | 各区域不同 |
+| Artifact | Location | Chance |
+|----------|----------|--------|
+| Dwarf Scroll I | Mines 1-40 | 0.5% |
+| Dwarf Scroll II | Mines 1-40 | 0.1% |
+| Dwarf Scroll III | Mines 40-80 | 0.5% |
+| Dwarf Scroll IV | Mines 80-120 | 0.1% |
+| Ancient Doll | Mountain 3%, Bus Stop 2.4%, Cindersap Forest 2.4%, Pelican Town 0.8% | Varies by area |
+| Ancient Seed | Cindersap Forest, Mountain | 0.7% |
+| Prehistoric Handaxe | Mountain, Quarry | 0.6% |
+| Prehistoric Tool | Mountain, Quarry | 0.6% |
+| Arrowhead | Mountain, Quarry | 0.6% |
+| Prehistoric Rib | Mountain, Quarry | 0.6% |
+| Prehistoric Scapula | Mountain, Quarry | 0.6% |
+| Prehistoric Skull | Mountain, Quarry | 0.6% |
+| Prehistoric Vertebra | Mountain, Quarry | 0.6% |
+| Prehistoric Tail | Mountain, Quarry | 0.6% |
+| Nautilus Fossil | Beach | 1.8% |
+| Amphibian Fossil | Cindersap Forest 0.6%, Mountain 0.6% | Varies by area |
+| Palm Fossil | Desert 7%, Cindersap Forest 0.6%, Beach 0.6% | Varies by area |
+| Trilobite | Beach 1.7%, Cindersap Forest 1.9%, Mountain 1.8% | Varies by area |
 
-### 怪物掉落
+### Monster Drops
 
-| 古物 | 掉落怪物 | 概率 |
-|------|----------|------|
-| 矮人卷轴 I | 绿色史莱姆 | 0.5% |
-| 矮人卷轴 II | 灰尘精灵 | 0.5% |
-| 矮人卷轴 III | 蓝色史莱姆1.5%、其他史莱姆0.5% | 怪物掉落 |
-| 矮人卷轴 IV | 任意怪物（矿井80+） | 0.1% |
-| 古代玩偶 | 任意怪物 | 极低 |
-| 古代种子 | 虫子类怪物 | 0.5% |
+| Artifact | Dropping Monster | Chance |
+|----------|-----------------|--------|
+| Dwarf Scroll I | Green Slime | 0.5% |
+| Dwarf Scroll II | Dust Sprite | 0.5% |
+| Dwarf Scroll III | Blue Slime 1.5%, other slimes 0.5% | Monster drop |
+| Dwarf Scroll IV | Any monster (Mines 80+) | 0.1% |
+| Ancient Doll | Any monster | Very low |
+| Ancient Seed | Bug-type monsters | 0.5% |
 
-### 钓鱼获取
+### Fishing
 
-| 古物 | 钓鱼地点 | 概率 |
-|------|----------|------|
-| 古代玩偶 | 任意水域 | 极低 |
-| 古代种子 | 任意水域 | 极低 |
-| 史前手斧 | 河流 | 极低 |
-| 鹦鹉螺化石 | 海滩 | 极低 |
+| Artifact | Fishing Location | Chance |
+|----------|-----------------|--------|
+| Ancient Doll | Any water | Very low |
+| Ancient Seed | Any water | Very low |
+| Prehistoric Handaxe | River | Very low |
+| Nautilus Fossil | Beach | Very low |
 
-### 特殊古物
+### Special Artifacts
 
-| 古物 | 获取方式 |
-|------|----------|
-| 恐龙蛋 | 远古斑点（0.6%）、Pepper Rex掉落（10%） |
-| 稀有圆盘 | 远古斑点（0.6%）、钓鱼宝箱 |
-| 古代鼓 | 远古斑点（0.6%）、钓鱼宝箱 |
-| 黄金面具 | 远古斑点（0.6%） |
-| 黄金遗物 | 远古斑点（0.6%） |
-| 诡异玩偶（绿色） | 远古斑点（0.6%） |
-| 诡异玩偶（黄色） | 远古斑点（0.6%） |
-| 古代剑 | 远古斑点（0.6%） |
-| 生锈的汤匙 | 远古斑点（0.6%） |
-| 生锈的齿轮 | 远古斑点（0.6%） |
-| 生锈的靴刺 | 远古斑点（0.6%） |
-| 鸡雕像 | 远古斑点（0.6%） |
-| 骨笛 | 远古斑点（0.6%） |
-| 咀嚼棒 | 远古斑点（0.6%） |
-| 玻璃碎片 | 远古斑点（0.6%） |
-| 粘土 | 远古斑点（常见） |
+| Artifact | Acquisition Method |
+|----------|-------------------|
+| Dinosaur Egg | Artifact spot (0.6%), Pepper Rex drop (10%) |
+| Rare Disc | Artifact spot (0.6%), fishing chest |
+| Ancient Drum | Artifact spot (0.6%), fishing chest |
+| Golden Mask | Artifact spot (0.6%) |
+| Golden Relic | Artifact spot (0.6%) |
+| Strange Doll (green) | Artifact spot (0.6%) |
+| Strange Doll (yellow) | Artifact spot (0.6%) |
+| Ancient Sword | Artifact spot (0.6%) |
+| Rusty Spoon | Artifact spot (0.6%) |
+| Rusty Cog | Artifact spot (0.6%) |
+| Rusty Spur | Artifact spot (0.6%) |
+| Chicken Statue | Artifact spot (0.6%) |
+| Bone Flute | Artifact spot (0.6%) |
+| Chewing Stick | Artifact spot (0.6%) |
+| Glass Shards | Artifact spot (0.6%) |
+| Clay | Artifact spot (common) |
 
-## 实用技巧
+## Useful Tips
 
-### 快速收集策略
+### Fast Collection Strategy
 
-1. **每天检查远古斑点**：冬季是最佳时机（不需要浇水）
-2. **大量砸碎晶洞**：积累晶洞后一次性打开
-3. **钓鱼获取古物**：留意钓鱼宝箱
-4. **击杀怪物**：矮人卷轴主要通过怪物掉落
+1. **Check artifact spots daily**: Winter is the best time (no watering needed)
+2. **Open geodes in bulk**: Accumulate geodes and open them all at once
+3. **Fish for artifacts**: Watch for fishing chests
+4. **Kill monsters**: Dwarf Scrolls mainly drop from monsters
 
-### 冬季收集计划
-- 冬季不需要浇水，有更多时间挖掘远古斑点
-- 优先在山区和采石场挖掘
-- 海滩也是重要的古物来源
+### Winter Collection Plan
+- Winter requires no watering, more time to dig artifact spots
+- Prioritize digging in the Mountain and Quarry
+- Beach is also an important artifact source
 
-### 晶洞管理
-- 积累大量晶洞后统一打开
-- 选择高幸运日打开晶洞
-- 吃幸运食物提升掉落品质
+### Geode Management
+- Accumulate large amounts of geodes and open them uniformly
+- Choose high-luck days to open geodes
+- Eat luck-boosting food to improve drop quality
 
-## 常见问题
+## FAQ
 
-**Q: 博物馆捐赠可以重复吗？**
-A: 每种物品只能捐赠一次，重复物品可以出售。
+**Q: Can museum donations be repeated?**
+A: Each item can only be donated once, duplicate items can be sold.
 
-**Q: 错过了某个古物怎么办？**
-A: 远古斑点每天都会刷新，耐心挖掘即可。
+**Q: What if I miss an artifact?**
+A: Artifact spots refresh daily, keep digging patiently.
 
-**Q: 生锈的钥匙有什么用？**
-A: 解锁鹈鹕镇南部的下水道，可以进入Krobus的商店。
+**Q: What is the Rusty Key for?**
+A: Unlocks the Sewers south of Pelican Town, where you can enter Krobus's shop.
 
-**Q: 星之果实在哪里获得？**
-A: 游戏中共有7个星之果实来源，博物馆95件全捐赠是其中之一。
+**Q: Where to get Stardrops?**
+A: There are 7 Stardrop sources in the game, all 95 museum donations is one of them.
 
-**Q: 生锈的钥匙什么时候获得？**
-A: 捐赠60件后，第二天Gunther会送来生锈的钥匙，用于解锁下水道。
+**Q: When do I get the Rusty Key?**
+A: After donating 60 items, Gunther will send the Rusty Key the next day to unlock the Sewers.
 
-**Q: 矮人卷轴怎么快速获得？**
-A: 在对应层数大量击杀史莱姆和灰尘精灵。
-
+**Q: How to quickly get Dwarf Scrolls?**
+A: Kill large amounts of slimes and dust sprites on corresponding floors.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Keg Guide"
 description: "Complete guide to the Keg in Stardew Valley - unlock requirements, crafting materials, and how to produce wine, juice, and beer for maximum profit."
 category: farming
@@ -9,60 +9,59 @@ featured: false
 tags: ["keg", "farming", "crafting", "wine", "juice", "beer"]
 ---
 
-# Keg 指南
+# Keg Guide
 
-## 解锁条件
+## Unlock Requirements
 
-Keg（小桶）在 **Farming Level 8（耕种等级8）** 时解锁 crafting recipe。
+The Keg is unlocked at **Farming Level 8**.
 
-## 制作材料
+## Crafting Materials
 
-| 材料 | 数量 |
-|------|------|
-| Wood（木材） | 30 |
-| Copper Bar（铜锭） | 1 |
-| Iron Bar（铁锭） | 1 |
-| Oak Resin（橡树树脂） | 1 |
+| Material | Quantity |
+|----------|----------|
+| Wood | 30 |
+| Copper Bar | 1 |
+| Iron Bar | 1 |
+| Oak Resin | 1 |
 
-## 功能说明
+## Functionality
 
-Keg 可将农作物转化为高价值饮品：
+The Keg can turn crops into high-value beverages:
 
-| 输入 | 输出 | 酿造时间 | 基础售价 |
-|------|------|----------|----------|
-| 任意蔬菜 | Juice（果汁） | 4天 | 蔬菜基础价 x 2.25 |
-| 任意水果 | Wine（葡萄酒） | 约6.25天（10,000分钟） | 水果基础价 x 3 |
-| Wheat（小麦） | Beer（啤酒） | 约1.1天（1,750分钟） | 200g |
-| Hops（啤酒花） | Pale Ale（淡啤酒） | 约1.4天（2,250分钟） | 300g |
-| Coffee Bean（咖啡豆）x5 | Coffee（咖啡） | 2小时 | 150g |
-| Honey（蜂蜜） | Mead（蜂蜜酒） | 10小时（600分钟） | 300g |
-| Tea Leaves（茶叶） | Green Tea（绿茶） | 3小时 | 100g |
+| Input | Output | Brew Time | Base Sell Price |
+|-------|--------|-----------|-----------------|
+| Any Vegetable | Juice | 4 days | Vegetable base price x 2.25 |
+| Any Fruit | Wine | About 6.25 days (10,000 minutes) | Fruit base price x 3 |
+| Wheat | Beer | About 1.1 days (1,750 minutes) | 200g |
+| Hops | Pale Ale | About 1.4 days (2,250 minutes) | 300g |
+| Coffee Bean x5 | Coffee | 2 hours | 150g |
+| Honey | Mead | 10 hours (600 minutes) | 300g |
+| Tea Leaves | Green Tea | 3 hours | 100g |
 
-## 陈酿系统（Cask）
+## Cask Aging System
 
-Wine 和 Cheese 可在 **Cellar（地窖）** 的 Cask 中进一步陈酿提升品质：
+Wine and Cheese can be further aged in Casks in the **Cellar** to improve quality:
 
-| 品质 | 陈酿时间 | 售价倍数 |
-|------|----------|----------|
-| 普通 | - | x1 |
-| 银星 | 14天 | x1.25 |
-| 金星 | 28天 | x1.5 |
-| 铱星 | 56天 | x2 |
+| Quality | Aging Time | Sell Price Multiplier |
+|---------|------------|----------------------|
+| Normal | - | x1 |
+| Silver | 14 days | x1.25 |
+| Gold | 28 days | x1.5 |
+| Iridium | 56 days | x2 |
 
-## 使用技巧
+## Usage Tips
 
-- **最赚钱组合**：Ancient Fruit / Starfruit -> Wine -> Cask 陈酿至铱星
-- Starfruit Wine 铱星品质配合 Artisan 职业可达 6,300g/瓶
-- Pale Ale 酿造速度快，适合快速周转盈利
-- 大量建造 Keg 需要规划好存储空间（Shed 是理想选择）
-- 搭配 Artisan 职业（饮品售价+40%）收益最大化
-- 地窖只有 189 个 Cask 位置，优先陈酿高价值 Wine
+- **Most profitable combo**: Ancient Fruit / Starfruit -> Wine -> Cask age to iridium
+- Starfruit Wine iridium quality with Artisan profession reaches 6,300g/bottle
+- Pale Ale brews quickly, suitable for fast turnover profit
+- Building many Kegs requires planning storage space (Shed is ideal)
+- Pair with Artisan profession (+40% sell price for beverages) to maximize profit
+- Cellar only has 189 Cask slots, prioritize aging high-value Wine
 
-## 收益对比
+## Profit Comparison
 
-| 作物 | 直接出售 | Keg 酿造 | 铱星陈酿 |
-|------|----------|----------|----------|
+| Crop | Direct Sell | Keg Brew | Iridium Aged |
+|------|-------------|----------|--------------|
 | Ancient Fruit | 550g | 1,650g | 3,300g |
 | Starfruit | 750g | 2,250g | 6,300g |
 | Melon | 250g | 562g | 1,124g |
-

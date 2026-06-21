@@ -1,303 +1,299 @@
-﻿---
-title: "Stardew Valley 社区中心收集包攻略"
-description: "社区中心6个房间30个收集包全攻略，包括所需物品、获取方式及奖励一览"
+---
+title: "Stardew Valley Community Center Bundles Guide"
+description: "Complete guide to all 6 rooms and 30 bundles in the Community Center, including required items, how to obtain them, and rewards."
 category: quests
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["社区中心", "收集包", "献祭", "奖励", "进度", "新手"]
+tags: ["Community Center", "Bundles", "Junimos", "Rewards", "Progress", "Beginner"]
 ---
 
-# 社区中心收集包攻略
+# Community Center Bundles Guide
 
-社区中心是星露谷物语的核心进度系统。完成6个房间的收集包可以修复社区中心，解锁多个重要奖励。
+The Community Center is the core progression system in Stardew Valley. Completing the bundles in all 6 rooms restores the Community Center and unlocks multiple important rewards.
 
-## 如何解锁社区中心
+## How to Unlock the Community Center
 
-- 游戏第5天收到镇长刘易斯的信件
-- 前往鹈鹕镇广场北侧的社区中心
-- 触发与祝尼魔的过场动画
+- Receive a letter from Mayor Lewis on day 5 of the game
+- Go to the Community Center located on the north side of Pelican Town square
+- Trigger the cutscene with the Junimos
 
-## 6个房间收集包总览
+## Overview of the 6 Rooms
 
-| 房间 | 收集包数量 | 解锁条件 |
-|------|-----------|----------|
-| 工艺室 | 6个 | 初始可用 |
-| 鱼缸 | 6个 | 初始可用 |
-| 锅炉房 | 3个 | 完成任意2个收集包后解锁 |
-| 布告栏 | 5个 | 完成任意2个收集包后解锁 |
-| 金库 | 4个 | 完成任意3个收集包后解锁 |
-| 茶水间 | 6个 | 完成任意3个收集包后解锁 |
+| Room | Number of Bundles | Unlock Condition |
+|------|-------------------|------------------|
+| Crafts Room | 6 | Available from start |
+| Fish Tank | 6 | Available from start |
+| Boiler Room | 3 | Unlocks after completing any 2 bundles |
+| Bulletin Board | 5 | Unlocks after completing any 2 bundles |
+| Vault | 4 | Unlocks after completing any 3 bundles |
+| Pantry | 6 | Unlocks after completing any 3 bundles |
 
-## 工艺室（Crafts Room）
+## Crafts Room
 
-### 春季采集包
-- 野山葵 x1
-- 黄水仙 x1
-- 韭葱 x1
-- 蒲公英 x1
-- **奖励：春季种子 x30**
+### Spring Foraging Bundle
+- Wild Horseradish x1
+- Daffodil x1
+- Leek x1
+- Dandelion x1
+- **Reward: Spring Seeds x30**
 
-### 夏季采集包
-- 葡萄 x1
-- 香甜薯 x1
-- 香料莓 x1
-- **奖励：夏季种子 x30**
+### Summer Foraging Bundle
+- Spice Berry x1
+- Sweet Pea x1
+- Grape x1
+- **Reward: Summer Seeds x30**
 
-### 秋季采集包
-- 普通蘑菇 x1
-- 野李子 x1
-- 榛子 x1
-- 黑莓 x1
-- **奖励：秋季种子 x30**
+### Fall Foraging Bundle
+- Common Mushroom x1
+- Wild Plum x1
+- Hazelnut x1
+- Blackberry x1
+- **Reward: Fall Seeds x30**
 
-### 冬季采集包
-- 冬青 x1
-- 水晶果 x1
-- 雪山药 x1
-- **奖励：冬季种子 x30**
+### Winter Foraging Bundle
+- Winter Root x1
+- Crystal Fruit x1
+- Snow Yam x1
+- **Reward: Winter Seeds x30**
 
-### 建筑收集包
-- 木材 x99
-- 石材 x99
-- 硬木 x10
-- **奖励：木炭窑**
+### Construction Bundle
+- Wood x99
+- Stone x99
+- Hardwood x10
+- **Reward: Charcoal Kiln**
 
-### 异域采集包
-- 椰子 x1
-- 仙人掌果 x1
-- 洞穴胡萝卜 x1
-- 红蘑菇 x1
-- 紫蘑菇 x1
-- 枫糖浆 x1
-- 橡树树脂 x1
-- 松焦油 x1
-- 海胆 x1（或更多选项）
-- **奖励：秋季种子 x30**
+### Exotic Foraging Bundle
+- Coconut x1
+- Cactus Fruit x1
+- Cave Carrot x1
+- Red Mushroom x1
+- Purple Mushroom x1
+- Maple Syrup x1
+- Oak Resin x1
+- Pine Tar x1
+- Sea Urchin x1 (or more options)
+- **Reward: Autumn's Bounty x5**
 
-> 工艺室全部完成后奖励：**桥梁修复**（通往采石场）
+> Completing all Crafts Room bundles rewards: **Bridge Repair** (access to the Quarry)
 
-## 鱼缸（Fish Tank）
+## Fish Tank
 
-### 河鱼收集包
-- 太阳鱼 x1（晴天春季/夏季）
-- 鲶鱼 x1（雨天春/秋）
-- 西鲱 x1（雨天春/夏/秋）
-- 虎鳟鱼 x1（秋季）
-- **奖励：鱼饵 x30**
+### River Fish Bundle
+- Sunfish x1 (Spring/Summer, sunny weather)
+- Catfish x1 (Spring/Fall, rainy weather)
+- Shad x1 (Spring/Summer/Fall, rainy weather)
+- Tiger Trout x1 (Fall/Winter)
+- **Reward: Bait x30**
 
-### 湖鱼收集包
-- 大嘴鲈鱼 x1
-- 鲤鱼 x1
-- 大头鱼 x1
-- 鲟鱼 x1（冬季）
-- **奖励：精致鱼饵 x30**
+### Lake Fish Bundle
+- Largemouth Bass x1
+- Carp x1
+- Bullhead x1
+- Sturgeon x1 (Winter)
+- **Reward: Dressed Spinner**
 
-### 海鱼收集包
-- 沙丁鱼 x1（春季/秋季/冬季）
-- 金枪鱼 x1（夏季/冬季）
-- 红鲷鱼 x1（夏季/秋季/冬季雨天）
-- 罗非鱼 x1（夏季/秋季）
-- **奖励：蟹笼 x3**
+### Ocean Fish Bundle
+- Sardine x1 (Spring/Fall/Winter)
+- Tuna x1 (Summer/Winter)
+- Red Snapper x1 (Summer/Fall/Winter, rainy weather)
+- Tilapia x1 (Summer/Fall)
+- **Reward: Crab Pot x3**
 
-### 夜间垂钓收集包
-- 大眼鱼 x1（雨天秋季）
-- 比目鱼 x1（春季/夏季）
-- 鳗鱼 x1（雨天春季/秋季）
-- **奖励：小型光辉戒指**
+### Night Fishing Bundle
+- Walleye x1 (Fall, rainy weather)
+- Bream x1
+- Eel x1 (Spring/Fall, rainy weather)
+- **Reward: Small Glow Ring**
 
-### 蟹笼收集包
-- 龙虾 x1
-- 螃蟹 x1
-- 鸟蛤 x1
-- 蚌 x1
-- 虾 x1
-- 蜗牛 x1
-- 玉黍螺 x1
-- 牡蛎 x1
-- 小龙虾 x1
-- **奖励：蟹笼 x3**
+### Crab Pot Bundle
+- Lobster x1
+- Crayfish x1
+- Crab x1
+- Cockle x1
+- Mussel x1
+- Shrimp x1
+- Snail x1
+- Periwinkle x1
+- Oyster x1
+- Clam x1
+- **Reward: Crab Pot x3**
 
-### 特色鱼类收集包
-- 河豚 x1（夏季晴天）
-- 鬼鱼 x1（矿井）
-- 沙鱼 x1（沙漠）
-- 木跃鱼 x1（秘密树林）
-- **奖励：回收机**
+### Specialty Fish Bundle
+- Pufferfish x1 (Summer, sunny weather)
+- Ghostfish x1 (Mines)
+- Sandfish x1 (Desert)
+- Woodskip x1 (Secret Woods)
+- **Reward: Recycling Machine**
 
-> 鱼缸全部完成后奖励：**矿井闪光石移除**（矿井中闪光石不再阻挡道路）
+> Completing all Fish Tank bundles rewards: **Glittering Boulder Removed** (panning and ore nodes in the river)
 
-## 锅炉房（Boiler Room）
+## Boiler Room
 
-### 铁匠收集包
-- 铜锭 x1
-- 铁锭 x1
-- 金锭 x1
-- **奖励：熔炉**
+### Blacksmith's Bundle
+- Copper Bar x1
+- Iron Bar x1
+- Gold Bar x1
+- **Reward: Furnace**
 
-### 地质学家收集包
-- 紫水晶 x1
-- 黄水晶 x1
-- 海蓝宝石 x1
-- 翡翠 x1
-- 翡翠 x1
-- 石英 x1
-- **奖励：宝石复制机**
+### Geologist's Bundle
+- Quartz x1
+- Earth Crystal x1
+- Frozen Tear x1
+- Fire Quartz x1
+- **Reward: Omni Geode x5**
 
-### 冒险者收集包
-- 史莱姆泥 x99
-- 蝙蝠翅膀 x10
-- 太阳精华 x1
-- 虚空精华 x1
-- **奖励：小型磁铁戒指**
+### Adventurer's Bundle
+- Slime x99
+- Bat Wing x10
+- Solar Essence x1
+- Void Essence x1
+- **Reward: Small Magnet Ring**
 
-> 锅炉房全部完成后奖励：**矿车修复**（可快速前往矿井、采石场、巴士站）
+> Completing all Boiler Room bundles rewards: **Minecarts Repaired** (fast travel to Mines, Quarry, and Bus Stop)
 
-## 布告栏（Bulletin Board）
+## Bulletin Board
 
-### 厨师收集包
-- 枫糖浆 x1
-- 蕨菜 x1
-- 松露 x1
-- 羊奶 x1
-- 奶酪 x1
-- 油 x1
-- **奖励：粉色蛋糕 x3**
+### Chef's Bundle
+- Maple Syrup x1
+- Fiddlehead Fern x1
+- Truffle x1
+- Goat Milk x1
+- Cheese x1
+- Oil x1
+- **Reward: Pink Cake x3**
 
-### 染料收集包
-- 红蘑菇 x1
-- 海胆 x1
-- 向日葵 x1
-- 鸭毛 x1
-- 红卷心菜 x1
-- **奖励：种子机**
+### Dye Bundle
+- Red Mushroom x1
+- Sea Urchin x1
+- Sunflower x1
+- Duck Feather x1
+- Aquamarine x1
+- Red Cabbage x1
+- **Reward: Seed Maker**
 
-### 地质学家收集包
-- 紫水晶 x1
-- 黄水晶 x1
-- 海蓝宝石 x1
-- 翡翠 x1
-- 翡翠 x1
-- 石英 x1
-- **奖励：宝石复制机**
+### Fodder Bundle
+- Wheat x10
+- Hay x10
+- Apple x3
+- **Reward: Heater**
 
-### 魔法师收集包
-- 橡树树脂 x1
-- 葡萄酒 x1
-- 兔子的脚 x1
-- 石榴 x1
-- **奖励：金条 x5**
+### Enchanter's Bundle
+- Oak Resin x1
+- Wine x1
+- Rabbit's Foot x1
+- Pomegranate x1
+- **Reward: Gold Bar x5**
 
-### 渔夫收集包
-- 沙丁鱼 x1
-- 金枪鱼 x1
-- 红鲷鱼 x1
-- 罗非鱼 x1
-- **奖励：蟹笼 x3**
+### Field Research Bundle
+- Purple Mushroom x1
+- Nautilus Shell x1
+- Chub x1
+- Frozen Geode x1
+- **Reward: Recycling Machine**
 
-> 布告栏全部完成后奖励：**友谊度提升**（所有不可约会村民好感度+2心）
+> Completing all Bulletin Board bundles rewards: **Friendship Boost** (all non-datable villagers gain +2 hearts)
 
-## 金库（Vault）
+## Vault
 
-金库的收集包是**直接捐款**：
+The Vault bundles require **direct donations**:
 
-| 收集包 | 捐款金额 | 奖励 |
-|--------|----------|------|
-| 2,500g | 2,500g | 巧克力蛋糕 x3 |
-| 5,000g | 5,000g | 高级肥料 x30 |
-| 10,000g | 10,000g | 避雷针 |
-| 25,000g | 25,000g | 宝石复制机 |
+| Bundle | Donation Amount | Reward |
+|--------|----------------|--------|
+| 2,500g | 2,500g | Chocolate Cake x3 |
+| 5,000g | 5,000g | Quality Fertilizer x30 |
+| 10,000g | 10,000g | Lightning Rod |
+| 25,000g | 25,000g | Crystalarium |
 
-> 金库全部完成后奖励：**巴士站修复**（可前往卡利科沙漠）
+> Completing all Vault bundles rewards: **Bus Repair** (access to Calico Desert)
 
-## 茶水间（Pantry）
+## Pantry
 
-### 春季作物包
-- 防风草 x1
-- 青豆 x1
-- 花椰菜 x1
-- 土豆 x1
-- **奖励：生长激素 x20**
+### Spring Crops Bundle
+- Parsnip x1
+- Green Bean x1
+- Cauliflower x1
+- Potato x1
+- **Reward: Speed-Gro x20**
 
-### 夏季作物包
-- 番茄 x1
-- 辣椒 x1
-- 蓝莓 x1
-- 甜瓜 x1
-- **奖励：优质洒水器**
+### Summer Crops Bundle
+- Tomato x1
+- Hot Pepper x1
+- Blueberry x1
+- Melon x1
+- **Reward: Quality Sprinkler**
 
-### 秋季作物包
-- 玉米 x1
-- 茄子 x1
-- 南瓜 x1
-- 山药 x1
-- **奖励：蜂房**
+### Fall Crops Bundle
+- Corn x1
+- Eggplant x1
+- Pumpkin x1
+- Yam x1
+- **Reward: Bee House**
 
-### 品质作物包
-- 5个金星防风草
-- 5个金星甜瓜
-- 5个金星南瓜
-- 5个金星玉米
-- **奖励：防腐剂罐**
+### Quality Crops Bundle
+- 5 Gold Star Parsnips
+- 5 Gold Star Melons
+- 5 Gold Star Pumpkins
+- 5 Gold Star Corn
+- **Reward: Preserves Jar**
 
-### 动物收集包
-- 大牛奶 x1
-- 大鸡蛋 x1
-- 大瓶羊奶 x1
-- 动物毛 x1
-- 鸭毛 x1
-- **奖励：奶酪机**
+### Animal Bundle
+- Large Milk x1
+- Large Egg (Brown) x1
+- Large Goat Milk x1
+- Wool x1
+- Duck Egg x1
+- **Reward: Cheese Press**
 
-### 工匠收集包
-- 松露油 x1
-- 布料 x1
-- 山羊奶酪 x1
-- 奶酪 x1
-- 蜂蜜 x1
-- 果酱 x1
-- 苹果/杏子/橙子/桃子/石榴/樱桃（任选1种）
-- **奖励：酒桶**
+### Artisan Bundle
+- Truffle Oil x1
+- Cloth x1
+- Goat Cheese x1
+- Cheese x1
+- Honey x1
+- Jelly x1
+- Apple / Apricot / Orange / Peach / Pomegranate / Cherry (any 1)
+- **Reward: Keg**
 
-> 工匠收集包共12个展示物品，只需任选6个填满槽位即可。
+> The Artisan Bundle has 12 display slots, but you only need to fill any 6 of them.
 
-> 茶水间全部完成后奖励：**温室修复**
+> Completing all Pantry bundles rewards: **Greenhouse Restored**
 
-## 全部完成奖励
+## Completion Rewards
 
-完成所有6个房间的收集包后：
-- 社区中心修复完成
-- 触发最终过场动画
-- 获得**星露谷英雄奖杯**（Stardew Hero Trophy）
-- Joja超市关闭
-- 鹈鹕镇恢复繁荣
+After completing all bundles in all 6 rooms:
+- Community Center is fully restored
+- Final cutscene is triggered
+- Receive the **Stardew Hero Trophy**
+- JojaMart goes out of business
+- Pelican Town is revitalized
 
-## 实用技巧
+## Useful Tips
 
-### 新手建议
-- 优先完成金库收集包（捐款），解锁巴士站前往沙漠
-- 温室修复（茶水间全部完成）是中期最重要的目标
-- 矿车修复（锅炉房）大幅提升移动效率
+### Beginner Advice
+- Prioritize completing the Vault bundles (donations) to unlock the Bus Stop and access the Desert
+- Greenhouse restoration (completing all Pantry bundles) is the most important mid-game goal
+- Minecart repair (Boiler Room) greatly improves travel efficiency
 
-### 季节规划
-- 每个季节都种植收集包所需的作物
-- 春季：防风草、花椰菜、土豆
-- 夏季：番茄、辣椒、蓝莓、甜瓜
-- 秋季：玉米、茄子、南瓜、山药
+### Season Planning
+- Plant crops needed for bundles every season
+- Spring: Parsnip, Cauliflower, Potato
+- Summer: Tomato, Hot Pepper, Blueberry, Melon
+- Fall: Corn, Eggplant, Pumpkin, Yam
 
-### 品质作物技巧
-- 使用高级肥料提升作物品质
-- 5个金星作物需要大量种植
-- 建议用温室种植防风草刷金星
+### Quality Crops Tips
+- Use Quality Fertilizer to improve crop quality
+- 5 Gold Star crops require planting a large number of crops
+- Consider growing Parsnips in the Greenhouse to farm for Gold Star quality
 
-## 常见问题
+## FAQ
 
-**Q: 收集包可以跳过吗？**
-A: 可以，选择Joja路线可以花钱购买所有升级。但社区中心路线奖励更丰富。
+**Q: Can I skip bundles?**
+A: Yes, by choosing the Joja route you can purchase all upgrades with money. However, the Community Center route offers richer rewards.
 
-**Q: 错过了某个季节的作物怎么办？**
-A: 可以在温室种植，或等下一年。旅行商人偶尔也出售过季种子。
+**Q: What if I miss a seasonal crop?**
+A: You can grow it in the Greenhouse or wait until next year. The Traveling Cart also occasionally sells out-of-season seeds.
 
-**Q: 品质作物包的金星作物怎么刷？**
-A: 大量种植并使用高级肥料，金星概率约33%。
-
+**Q: How do I get Gold Star crops for the Quality Crops Bundle?**
+A: Plant a large number of crops and use Quality Fertilizer. The chance for Gold Star quality is approximately 33%.

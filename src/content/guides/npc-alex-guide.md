@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Alex Guide - Marriage Candidate"
 description: "Complete guide to Alex in Stardew Valley. Learn about his schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,106 +9,106 @@ featured: false
 tags: ["npc", "marriage", "alex"]
 ---
 
-# Alex 完全指南
+# Alex Complete Guide
 
-Alex 是 Stardew Valley 中一位可结婚的男性 NPC，住在 Pierre's General Store 东南方向的 1 River Road。他是一个热爱运动和海滩的自信年轻人，梦想成为一名职业运动员。
+Alex is a marriageable male NPC in Stardew Valley, living at 1 River Road southeast of Pierre's General Store. He is a confident young man who loves sports and the beach, dreaming of becoming a professional athlete.
 
-## 基本信息
+## Basic Information
 
-- **生日**: 夏季 13 日 (Summer 13)
-- **住址**: 1 River Road（Pierre's General Store 东南方向）
-- **家庭**: Evelyn（祖母）、George（祖父）
-- **可结婚**: 是
-- **诊所检查日**: 夏季 16 日
+- **Birthday**: Summer 13
+- **Address**: 1 River Road (southeast of Pierre's General Store)
+- **Family**: Evelyn (grandmother), George (grandfather)
+- **Marriage**: Yes
+- **Clinic Check Day**: Summer 16
 
-## 日程安排
+## Schedule
 
-### 春季
-- **常规日程**: 8:00 AM 离开房间去屋外站在树下；1:00 PM 离开树回房间举重；4:00 PM 离开房间去狗舍旁站着；6:30 PM 回屋站在门厅；8:00 PM 回房间站在梳妆台旁；10:00 PM 睡觉。
-- **雨天**: 8:00 AM 离开房间站在门厅；1:00 PM 回房间举重；4:00 PM 离开房间去狗舍旁站着；6:30 PM 回屋站在门厅；8:00 PM 回房间站在梳妆台旁；10:00 PM 睡觉。
-- **周三（玩家与 Haley 或 Alex 好感不足 6 心）**: 8:00 AM 离开房间去屋外站在树下；12:00 PM 去 Haley 和 Emily 家；4:30 PM 离开 Haley 和 Emily 家去狗舍旁站着；6:40 PM 回屋站在门厅；8:00 PM 回房间站在梳妆台旁；10:00 PM 睡觉。
+### Spring
+- **Regular Schedule**: 8:00 AM leaves room to stand under tree outside; 1:00 PM leaves tree to lift weights in room; 4:00 PM leaves room to stand by dog pen; 6:30 PM returns home to stand in foyer; 8:00 PM back to room standing by dresser; 10:00 PM sleeps.
+- **Rainy Day**: 8:00 AM leaves room to stand in foyer; 1:00 PM back to room lifting weights; 4:00 PM leaves room to stand by dog pen; 6:30 PM returns home to stand in foyer; 8:00 PM back to room standing by dresser; 10:00 PM sleeps.
+- **Wednesday (player friendship with Haley or Alex below 6 hearts)**: 8:00 AM leaves room to stand under tree outside; 12:00 PM goes to Haley and Emily's house; 4:30 PM leaves Haley and Emily's house to stand by dog pen; 6:40 PM returns home to stand in foyer; 8:00 PM back to room standing by dresser; 10:00 PM sleeps.
 
-### 夏季
-- **常规日程**: 7:50 AM 离开家去海滩；12:00 PM 离开海滩去冰淇淋摊工作（博物馆左边）；5:00 PM 回家在房间举重；7:00 PM 站在屋前门厅；8:00 PM 回房间站在梳妆台旁；10:00 PM 睡觉。
-- **夏季 16 日（诊所检查）**: 8:00 AM 离开房间去屋外站在树下；10:30 AM 去诊所；11:00 AM 在诊所候诊室；1:40 PM 在检查室；4:00 PM 回家。
-- **雨天**: 与春季雨天相同。
+### Summer
+- **Regular Schedule**: 7:50 AM leaves home for beach; 12:00 PM leaves beach to work at ice cream stand (left of Museum); 5:00 PM returns home to lift weights in room; 7:00 PM stands in foyer in front of house; 8:00 PM back to room standing by dresser; 10:00 PM sleeps.
+- **Summer 16 (Clinic Check)**: 8:00 AM leaves room to stand under tree outside; 10:30 AM goes to Clinic; 11:00 AM in Clinic waiting room; 1:40 PM in examination room; 4:00 PM returns home.
+- **Rainy Day**: Same as Spring rainy day.
 
-### 秋季
-- **常规日程**: 与春季常规日程相同。
-- **雨天**: 与春季雨天相同。
+### Fall
+- **Regular Schedule**: Same as Spring regular schedule.
+- **Rainy Day**: Same as Spring rainy day.
 
-### 冬季
-- **常规日程**: 8:00 AM 在卧室；9:00 AM 离开家去 Spa（温泉）；3:00 PM 离开 Spa 健身房回家回房间；6:00 PM 离开家去狗舍旁站着；7:30 PM 回屋站在门厅；9:00 PM 回卧室站在梳妆台旁；10:40 PM 睡觉。
-- **冬季 17 日（夜市）**: 9:00 AM 离开家去 Spa；3:00 PM 离开 Spa 健身房去海滩参加夜市；12:00 AM 离开夜市回家。
+### Winter
+- **Regular Schedule**: 8:00 AM in bedroom; 9:00 AM leaves home for Spa; 3:00 PM leaves Spa gym to return home to room; 6:00 PM leaves home to stand by dog pen; 7:30 PM returns home to stand in foyer; 9:00 PM back to bedroom standing by dresser; 10:40 PM sleeps.
+- **Winter 17 (Night Market)**: 9:00 AM leaves home for Spa; 3:00 PM leaves Spa gym to go to beach for Night Market; 12:00 AM leaves Night Market to return home.
 
-## 礼物指南
+## Gift Guide
 
-### 最爱的礼物 (Love)
-- Complete Breakfast（完全早餐）
-- Jack Be Nimble, Jack Be Thick（杰克快快，杰克壮壮）——书籍，+1 防御
-- Salmon Dinner（鲑鱼晚餐）
-- 所有 Universal Loves（通用最爱）
+### Loved Gifts (Love)
+- Complete Breakfast
+- Jack Be Nimble, Jack Be Thick - book, +1 defense
+- Salmon Dinner
+- All Universal Loves
 
-### 喜欢的礼物 (Like)
-- 所有 Universal Likes（通用喜欢）
-- 所有 Eggs（除了 Void Egg）
-- Field Snack（野外小吃）
+### Liked Gifts (Like)
+- All Universal Likes
+- All Eggs (except Void Egg)
+- Field Snack
 
-### 中立的礼物 (Neutral)
-- 所有 Universal Neutrals
-- 所有 Fish（除了 Carp、Snail）
-- 所有 Fruit（除了 Fruit Tree Fruit、Salmonberry）
-- Milk（牛奶）
+### Neutral Gifts (Neutral)
+- All Universal Neutrals
+- All Fish (except Carp, Snail)
+- All Fruit (except Fruit Tree Fruit, Salmonberry)
+- Milk
 
-### 不喜欢的礼物 (Dislike)
-- 所有 Universal Dislikes
-- 所有 Vegetables（除了 Hops、Tea Leaves、Wheat）
-- 所有 Mushrooms（除了 Red Mushroom）
-- Quartz（石英）
-- Clay（粘土）
+### Disliked Gifts (Dislike)
+- All Universal Dislikes
+- All Vegetables (except Hops, Tea Leaves, Wheat)
+- All Mushrooms (except Red Mushroom)
+- Quartz
+- Clay
 
-### 讨厌的礼物 (Hate)
-- 所有 Universal Hates
-- Holly（冬青）
-- Quartz（石英）
+### Hated Gifts (Hate)
+- All Universal Hates
+- Holly
+- Quartz
 
-## 爱心事件
+## Heart Events
 
-### 2 心事件
-进入 Alex 的家，你会看到他在房间里举重。他会和你谈论他的运动梦想以及他想成为职业 Gridball 球员的愿望。
+### 2 Heart Event
+Enter Alex's house, you will see him lifting weights in his room. He will talk to you about his sports dreams and his wish to become a professional Gridball player.
 
-### 4 心事件
-在上午 8:00 至下午 4:00 之间进入镇上，你会看到 Alex 在 Haley 和 Emily 家门前。他会和你谈论他的狗 Dusty，以及他对动物的喜爱。
+### 4 Heart Event
+Enter town between 8:00 AM and 4:00 PM, you will see Alex in front of Haley and Emily's house. He will talk to you about his dog Dusty and his love for animals.
 
-### 5 心事件
-Alex 会寄给你一份礼物——Survival Burger（生存汉堡）的烹饪配方。
+### 5 Heart Event
+Alex will send you a gift - the cooking recipe for Survival Burger.
 
-### 6 心事件
-进入 Alex 的家，你会看到他在和祖父 George 争吵。你会介入并帮助他们改善关系。
+### 6 Heart Event
+Enter Alex's house, you will see him arguing with his grandfather George. You will step in and help them improve their relationship.
 
-### 8 心事件
-在上午 9:00 至下午 4:00 之间进入镇上，你会看到 Alex 在海滩上。他会向你敞开心扉，谈论他母亲 Clara 的去世以及他对父亲的复杂情感。
+### 8 Heart Event
+Enter town between 9:00 AM and 4:00 PM, you will see Alex on the beach. He will open up to you, talking about his mother Clara's death and his complex feelings about his father.
 
-### 10 心事件
-在晚间（8:00 PM 至午夜）前往镇上，Alex 会邀请你去看 Gridball 比赛。比赛结束后，他会向你表白。
+### 10 Heart Event
+In the evening (8:00 PM to midnight) go to town, Alex will invite you to watch a Gridball game. After the game, he will confess to you.
 
-### 14 心事件
-婚后事件。Alex 会邀请你一起参加一个特别的活动，展示他对你们关系的重视。
+### 14 Heart Event
+Post-marriage event. Alex will invite you to participate in a special event, showing how much he values your relationship.
 
-## 婚姻
+## Marriage
 
-与 Alex 结婚后，他会搬入你的农舍。他会在农舍里设置一个健身区域，有时会帮忙给宠物碗加水或修理农场围栏。他还会偶尔给你送礼物，如 Complete Breakfast（完全早餐）或 Salmon Dinner（鲑鱼晚餐）。
+After marrying Alex, he will move into your farmhouse. He will set up a fitness area in the farmhouse, sometimes help fill the pet's water bowl or repair farm fences. He will also occasionally give you gifts, such as Complete Breakfast or Salmon Dinner.
 
-## 家庭关系
+## Family Relationships
 
-- **Evelyn（祖母）**: Alex 和祖母关系亲密，Evelyn 经常为他烤饼干。
-- **George（祖父）**: Alex 和祖父关系较为复杂，George 因残疾而脾气暴躁，但 Alex 很关心他。
-- **Dusty（狗）**: Alex 的爱犬，你可以在镇上看到他。
-- **Clara（母亲）**: 已故，Alex 和她关系非常亲密。
+- **Evelyn (grandmother)**: Alex is close to his grandmother, Evelyn often bakes cookies for him.
+- **George (grandfather)**: Alex has a complex relationship with his grandfather, George is grumpy due to his disability, but Alex cares about him very much.
+- **Dusty (dog)**: Alex's beloved dog, you can see him in town.
+- **Clara (mother)**: Deceased, Alex was very close to her.
 
-## 小贴士
+## Tips
 
-- Alex 最喜欢的礼物中，Complete Breakfast 需要学会烹饪配方（从 Queen of Sauce 获得）。
-- Salmon Dinner 需要学会烹饪配方（从 Gus 处以 3 心好感获得）。
-- Jack Be Nimble, Jack Be Thick 是一本书，可以从书商处购买或在矿井中找到。
-- 他的生日是夏季 13 日，这天送礼物效果翻倍（8 倍好感度）。
+- Among Alex's favorite gifts, Complete Breakfast requires learning the cooking recipe (from Queen of Sauce).
+- Salmon Dinner requires learning the cooking recipe (from Gus at 3 hearts friendship).
+- Jack Be Nimble, Jack Be Thick is a book that can be purchased from the Bookseller or found in the Mines.
+- His birthday is Summer 13, gift effects are doubled on this day (8x friendship).

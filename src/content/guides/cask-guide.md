@@ -1,148 +1,146 @@
-﻿---
-title: "Stardew Valley 小桶（地窖）攻略"
-description: "地窖小桶使用攻略，包括陈酿机制、品质提升、利润计算及最佳配置"
+---
+title: "Stardew Valley Cask (Cellar) Guide"
+description: "Cellar Cask usage guide, including aging mechanics, quality improvement, profit calculations, and best configuration"
 category: farming
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["小桶", "地窖", "陈酿", "品质", "利润", "上古水果酒"]
+tags: ["Cask", "Cellar", "Aging", "Quality", "Profit", "Ancient Fruit Wine"]
 ---
 
-# 小桶（地窖）攻略
+# Cask (Cellar) Guide
 
-小桶（Cask）是地窖中的特殊设备，可以将酒、果汁、奶酪和啤酒花的品质从普通提升到银星、金星，最终达到铱星品质。
+Cask is a special device in the Cellar that can improve the quality of Wine, Juice, Cheese, and Pale Ale from Normal to Silver, Gold, and finally Iridium quality.
 
-## 如何解锁
+## How to Unlock
 
-- 完成**房屋第三次升级**（添加地窖）
-- 升级费用：100,000金
-- 地窖中包含 **189个小桶位**
+- Complete **third house upgrade** (adds Cellar)
+- Upgrade cost: 100,000g
+- Cellar contains **189 Cask slots**
 
-## 陈酿机制
+## Aging Mechanics
 
-小桶可以陈酿以下物品：
+Cask can age the following items:
 
-| 物品 | 银星时间 | 金星时间 | 铱星时间 | 总时间 |
-|------|----------|----------|----------|--------|
-| 酒（Wine） | 14天 | 28天 | 56天 | **56天** |
+| Item | Silver Time | Gold Time | Iridium Time | Total Time |
+|------|-------------|-----------|--------------|------------|
+| Wine | 14 days | 28 days | 56 days | **56 days** |
+| Cheese | 3 days | 7 days | 14 days | **14 days** |
+| Goat Cheese | 7 days | 14 days | 21 days | **21 days** |
+| Beer | 7 days | 14 days | 28 days | **28 days** |
+| Pale Ale | 7 days | 14 days | 28 days | **28 days** |
+| Mead | 7 days | 14 days | 28 days | **28 days** |
+| Fruit Wine (any fruit) | 14 days | 28 days | 56 days | **56 days** |
 
-| 奶酪（Cheese） | 3天 | 7天 | 14天 | **14天** |
-| 山羊奶酪（Goat Cheese） | 7天 | 14天 | 21天 | **21天** |
-| 啤酒（Beer） | 7天 | 14天 | 28天 | **28天** |
-| 淡啤酒（Pale Ale） | 7天 | 14天 | 28天 | **28天** |
-| 蜂蜜酒（Mead） | 7天 | 14天 | 28天 | **28天** |
-| 果酒（任何水果） | 14天 | 28天 | 56天 | **56天** |
+> Items cannot be removed during aging; must wait until target quality to harvest.
 
-> 陈酿过程中不能取出物品，必须等到目标品质才能收获。
+## Quality and Sell Price
 
-## 品质与售价
+| Quality | Sell Price Multiplier |
+|---------|----------------------|
+| Normal | Base price x 1 |
+| Silver | Base price x 1.25 |
+| Gold | Base price x 1.5 |
+| Iridium | Base price x 2 |
 
-| 品质 | 售价倍数 |
-|------|----------|
-| 普通 | 基础价 x 1 |
-| 银星 | 基础价 x 1.25 |
-| 金星 | 基础价 x 1.5 |
-| 铱星 | 基础价 x 2 |
+## Profit Calculation (Using Wine as Example)
 
-## 利润计算（以酒为例）
+### Ancient Fruit Wine (Most Profitable)
 
-### 上古水果酒（最赚钱）
+| Quality | Base Sell Price | Aged Sell Price | Profit |
+|---------|-----------------|-----------------|--------|
+| Normal | 2,310g | 2,310g | — |
+| Silver | — | 2,887g | +577g |
+| Gold | — | 3,465g | +1,155g |
+| Iridium | — | 4,620g | +2,310g |
 
-| 品质 | 基础售价 | 陈酿后售价 | 利润 |
-|------|----------|------------|------|
-| 普通 | 2,310g | 2,310g | — |
-| 银星 | — | 2,887g | +577g |
-| 金星 | — | 3,465g | +1,155g |
-| 铱星 | — | 4,620g | +2,310g |
+> Iridium Ancient Fruit Wine sells for **4,620g**, one of the most profitable products in the game.
 
-> 上古水果酒铱星品质售价 **4,620g**，是游戏中最赚钱的产品之一。
+### Starfruit Wine
 
-### 杨桃酒
+| Quality | Aged Sell Price |
+|---------|-----------------|
+| Normal | 2,250g |
+| Iridium | **4,500g** |
 
-| 品质 | 陈酿后售价 |
-|------|------------|
-| 普通 | 2,250g |
-| 铱星 | **4,500g** |
+### Other Fruit Wine Reference
 
-### 其他水果酒参考
+| Fruit | Normal Wine Sell Price | Iridium Wine Sell Price |
+|-------|------------------------|-------------------------|
+| Melon | 750g | 1,500g |
+| Strawberry | 360g | 720g |
+| Blueberry | 150g | 300g |
+| Cranberry | 225g | 450g |
 
-| 水果 | 普通酒售价 | 铱星酒售价 |
-|------|------------|------------|
-| 甜瓜 | 750g | 1,500g |
-| 草莓 | 360g | 720g |
-| 蓝莓 | 150g | 300g |
-| 蔓越莓 | 225g | 450g |
+## Cellar Layout
 
-## 地窖布局
+Cellar has **189 Cask slots**, layout as follows:
+- Main area: Large number of Cask slots
+- Passages: Keep walking space
 
-地窖共有 **189个小桶位**，布局如下：
-- 主区域：大量小桶位
-- 通道：保留行走空间
+### Optimal Layout Suggestions
 
-### 最优布局建议
+1. **Fill completely**: All 189 Casks in use
+2. **Categorized storage**: Put same type of wine together for easy management
+3. **Mark dates**: Record the date each Cask was filled, know when to harvest
 
-1. **全部放满**：189个小桶全部使用
-2. **分类存放**：将相同类型的酒放在一起，方便管理
-3. **标记日期**：记录每个小桶的放入日期，知道何时收获
+## Aging Strategy
 
-## 陈酿策略
+### Best Items to Age
 
-### 最佳陈酿物品
+| Rank | Item | Reason |
+|------|------|--------|
+| 1 | Ancient Fruit Wine | Highest profit, continuous harvest |
+| 2 | Starfruit Wine | Highest single-season return |
+| 3 | Melon Wine | High Summer value |
+| 4 | Goat Cheese | Fast aging (21 days) |
+| 5 | Cheese | Fast aging, stable income |
 
-| 排名 | 物品 | 理由 |
-|------|------|------|
-| 1 | 上古水果酒 | 最高利润，持续收获 |
-| 2 | 杨桃酒 | 单季最高收益 |
-| 3 | 甜瓜酒 | 夏季高价值 |
-| 4 | 山羊奶酪 | 快速陈酿（21天） |
-| 5 | 奶酪 | 快速陈酿，稳定收益 |
+### Aging Cycle Management
 
-### 陈酿周期管理
+Due to long aging times (Wine needs 56 days), it is recommended to:
+- **Batch input**: Put in a batch every week for continuous output
+- **Record dates**: Use notes or external tools to record each Cask's input time
+- **Prioritize high-value items**: Cellar space is limited, prioritize aging the most valuable wine
 
-由于陈酿时间较长（酒需要56天），建议：
-- **分批放入**：每周放入一批，实现持续产出
-- **记录日期**：用纸条或外部工具记录每个小桶的放入时间
-- **优先陈酿高价值物品**：地窖空间有限，优先陈酿最值钱的酒
+## Stacking with Artisan Profession
 
-## 与工匠职业的叠加
+If **Artisan** profession is chosen (Farming Level 10):
+- Artisan item sell price +40%
+- Iridium Ancient Fruit Wine sell price: **6,468g**
+- Iridium Starfruit Wine sell price: **6,300g**
 
-如果选择了**工匠（Artisan）**职业（农耕10级）：
-- 工匠物品售价 +40%
-- 上古水果酒铱星品质售价：**6,468g**
-- 杨桃酒铱星品质售价：**6,300g**
+> Artisan profession is the core of Cellar strategy, be sure to choose it.
 
-> 工匠职业是地窖流的核心，务必选择。
+## Practical Tips
 
-## 实用技巧
+### Maximize Profit
+1. Plant large amounts of Ancient Fruit in Greenhouse and Ginger Island Farm
+2. Use Kegs to brew Ancient Fruit into Wine
+3. Put into Cellar to age to Iridium quality
+4. Combined with Artisan profession, profit is maximized
 
-### 最大化利润
-1. 在温室和姜岛农场大量种植上古水果
-2. 使用小桶将上古水果酿造成酒
-3. 放入地窖陈酿至铱星品质
-4. 配合工匠职业，利润最大化
+### Time Management
+- Cellar aging takes 56 days (for Wine), plan ahead
+- Can concentrate aging in Winter, harvest in Spring
+- Coordinate with seasonal planting for uninterrupted year-round output
 
-### 时间管理
-- 地窖陈酿需要56天（酒），提前规划
-- 可以在冬季集中陈酿，春季收获
-- 配合季节种植，实现全年不间断产出
+### Notes
+- Items cannot be removed during aging
+- Cellar space is fixed at 189, cannot be expanded
+- Casks can only be used in Cellar, cannot be placed elsewhere
 
-### 注意事项
-- 陈酿过程中不能取出物品
-- 地窖空间固定为189个，无法扩展
-- 小桶只能在地窖中使用，不能放在其他地方
+## Frequently Asked Questions
 
-## 常见问题
+**Q: Can Casks be placed outside the Cellar?**
+A: No, Casks can only be used in the Cellar.
 
-**Q: 小桶可以放在地窖外面吗？**
-A: 不可以，小桶只能在地窖中使用。
+**Q: Can items be removed halfway through aging?**
+A: No, must wait until target quality to harvest. Can use axe to destroy Cask to remove, but will lose aging progress.
 
-**Q: 陈酿到一半可以取出吗？**
-A: 不可以，必须等到目标品质才能收获。可以用斧头破坏小桶取出，但会损失陈酿进度。
+**Q: Can the Cellar be expanded?**
+A: No, Cellar size is fixed at 189 Cask slots.
 
-**Q: 地窖可以扩建吗？**
-A: 不可以，地窖大小固定为189个小桶位。
-
-**Q: 什么酒最赚钱？**
-A: 上古水果酒铱星品质配合工匠职业，售价6,468g，是游戏中最赚钱的产品。
-
+**Q: What wine is most profitable?**
+A: Iridium Ancient Fruit Wine with Artisan profession sells for 6,468g, the most profitable product in the game.

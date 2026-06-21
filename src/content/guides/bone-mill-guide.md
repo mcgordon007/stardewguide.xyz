@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Bone Mill Guide - Converts Bone Fragments to Fertilizer"
 description: "Converts bone fragments to fertilizer"
 category: items
@@ -9,56 +9,54 @@ featured: false
 tags: ["bone", "fertilizer", "crafting", "farming"]
 ---
 
-# Stardew Valley Bone Mill 指南
+# Stardew Valley Bone Mill Guide
 
-## 简介
+## Introduction
 
-**Bone Mill（碎骨机）** 是 Stardew Valley 1.5 版本新增的设备，用于将骨头碎片 (Bone Fragment) 转化为各种肥料，是姜岛 (Ginger Island) 内容的重要组成部分。
+**Bone Mill** is a device added in Stardew Valley 1.5, used to convert Bone Fragments into various fertilizers. It is an important part of Ginger Island content.
 
-## 解锁条件
+## Unlock Condition
 
-- 达到 **采集 (Foraging) 等级 8 级** 后解锁配方
+- Recipe unlocked after reaching **Foraging Level 8**
 
-## 制作材料
+## Crafting Materials
 
-- 骨头碎片 (Bone Fragment) x10
-- 粘土 (Clay) x3
-- 石头 (Stone) x20
+- Bone Fragment x10
+- Clay x3
+- Stone x20
 
-## 功能说明
+## Function
 
-放入骨头碎片后，Bone Mill 会随机产出以下肥料之一：
+After putting in Bone Fragments, Bone Mill randomly produces one of the following fertilizers:
 
-| 产出肥料 | 概率 |
-|----------|------|
-| 普通肥料 (Fertilizer) | 约 40% |
-| 高级肥料 (Quality Fertilizer) | 约 30% |
-| 极速肥料 (Speed-Gro) | 约 20% |
-| 高级极速肥料 (Deluxe Speed-Gro) | 约 10% |
+| Output Fertilizer | Probability |
+|-------------------|-------------|
+| Fertilizer | About 40% |
+| Quality Fertilizer | About 30% |
+| Speed-Gro | About 20% |
+| Deluxe Speed-Gro | About 10% |
 
-- 每次放入 **1 个骨头碎片**
-- 加工时间约为 **4 小时**（游戏时间）
+- Put in **1 Bone Fragment** each time
+- Processing time is about **4 hours** (game time)
 
-## 骨头碎片获取方式
+## Bone Fragment Acquisition Methods
 
-1. **姜岛挖掘点** - 使用锄头在姜岛挖掘骨头
-2. **姜岛怪物掉落** - 击败姜岛的骷髅怪物
-3. **金色椰子** - 开启金色椰子有概率获得
+1. **Ginger Island Dig Spots** - Use Hoe to dig bones on Ginger Island
+2. **Ginger Island Monster Drops** - Defeat skeleton monsters on Ginger Island
+3. **Golden Coconut** - Chance to obtain when opening Golden Coconuts
 
-## 使用技巧
+## Usage Tips
 
-1. 在姜岛长期探索时，骨头碎片会大量积累，Bone Mill 是消耗它们的好方法
-2. 产出的高级肥料和极速肥料对农场作物生长非常有帮助
-3. 建议批量加工，提高获得高级肥料的概率
+1. During long-term exploration on Ginger Island, Bone Fragments accumulate in large quantities; Bone Mill is a good way to consume them
+2. Produced Quality Fertilizer and Speed-Gro are very helpful for farm crop growth
+3. Recommended to process in batches to increase probability of obtaining high-quality fertilizer
 
-## 注意事项
+## Notes
 
-- 产出是随机的，无法指定想要哪种肥料
-- 骨头碎片也是制作其他物品的材料，请合理分配
+- Output is random, cannot specify which fertilizer you want
+- Bone Fragments are also crafting materials for other items, please allocate reasonably
 
-## 相关设备
+## Related Equipment
 
-- [Fertilizer（肥料）](./fertilizer-guide.md) - 直接提升作物品质
-- [Seed Maker（种子制造机）](./seed-maker-guide.md) - 配合肥料优化农场
-
-
+- [Fertilizer](./fertilizer-guide.md) - Directly improves crop quality
+- [Seed Maker](./seed-maker-guide.md) - Coordinates with fertilizer to optimize farm

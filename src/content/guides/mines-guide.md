@@ -1,142 +1,140 @@
-﻿---
-title: "Stardew Valley 矿井攻略"
-description: "矿井120层全攻略，包括矿石分布、怪物、宝箱奖励、电梯机制及采矿技巧"
+---
+title: "Stardew Valley Mines Guide"
+description: "Complete guide to all 120 floors of the Mines, including ore distribution, monsters, chest rewards, elevator mechanics, and mining tips"
 category: mining
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["矿井", "采矿", "矿石", "怪物", "电梯", "宝箱"]
+tags: ["mines", "mining", "ore", "monsters", "elevator", "chests"]
 ---
 
-# 矿井攻略
+# Mines Guide
 
-矿井是星露谷物语中最重要的地点之一，位于鹈鹕镇东北部的山区。玩家可以在这里采矿、打怪、收集矿石和古物。
+The Mines are one of the most important locations in Stardew Valley, located in the mountains northeast of Pelican Town. Players can mine, fight monsters, and collect ores and artifacts here.
 
-## 如何进入矿井
+## How to Enter the Mines
 
-- **位置**：鹈鹕镇东北部，罗宾家旁边
-- **解锁条件**：游戏第5天收到信件，矿井入口的岩石碎片被清除后开放
-- **开放时间**：全天开放（但02:00会昏倒）
-- **电梯**：每下降5层自动保存一个电梯停靠点
+- **Location**: Northeast of Pelican Town, next to Robin's house
+- **Unlock Condition**: Receive a letter on day 5, the rock debris at the mine entrance is cleared
+- **Open Hours**: Open all day (but you will pass out at 02:00)
+- **Elevator**: Automatically saves an elevator stop every 5 floors descended
 
-## 矿井结构（共120层）
+## Mine Structure (120 Floors Total)
 
-矿井分为三个主题区域：
+The Mines are divided into three themed areas:
 
-### 入口层（0层）
-- 入口大厅，有电梯
-- 马龙（Marlon）的探险家公会在此
+### Entrance Floor (Floor 0)
+- Entrance hall with elevator
+- Marlon's Adventurer's Guild is here
 
-### 普通矿井（1-39层）
-- 棕色泥土主题
-- 主要矿石：铜矿石
-- 主要宝石：紫水晶、黄水晶、翡翠
+### Normal Mines (Floors 1-39)
+- Brown dirt theme
+- Main ore: Copper Ore
+- Main gems: Amethyst, Topaz, Jade
 
-### 冰层矿井（40-79层）
-- 冰雪主题，地面为冰蓝色
-- 主要矿石：铁矿石、金矿石
-- 主要宝石：蓝宝石、红宝石、翡翠
-- 冰层地面会滑行（按住方向键可抵消）
+### Ice Mines (Floors 40-79)
+- Ice and snow theme, ground is ice blue
+- Main ores: Iron Ore, Gold Ore
+- Main gems: Sapphire, Ruby, Emerald
+- Ice floor causes sliding (hold direction keys to counteract)
 
-### 岩浆矿井（80-120层）
-- 岩浆/火山主题
-- 主要矿石：金矿石、铱矿石（极少）
-- 主要宝石：翡翠、钻石、五彩碎片
-- 第120层有宝箱奖励
+### Lava Mines (Floors 80-120)
+- Lava/volcano theme
+- Main ores: Gold Ore, Iridium Ore (very rare)
+- Main gems: Emerald, Diamond, Prismatic Shard
+- Floor 120 has a chest reward
 
-## 矿石分布
+## Ore Distribution
 
-| 矿石 | 出现层数 | 用途 |
-|------|----------|------|
-| 石头 | 所有层 | 建造、配方 |
-| 铜矿石 | 1-39层 | 工具升级、配方 |
-| 铁矿石 | 40-79层 | 工具升级、配方 |
-| 金矿石 | 80-120层 | 工具升级、配方 |
-| 铱矿石 | 100-120层（极少） | 高级工具、配方 |
+| Ore | Floors | Use |
+|-----|--------|-----|
+| Stone | All floors | Building, recipes |
+| Copper Ore | 1-39 | Tool upgrades, recipes |
+| Iron Ore | 40-79 | Tool upgrades, recipes |
+| Gold Ore | 80-120 | Tool upgrades, recipes |
+| Iridium Ore | 100-120 (very rare) | Advanced tools, recipes |
 
-## 怪物一览
+## Monster List
 
-| 怪物 | 出现层数 | HP | 掉落物 |
-|------|----------|-----|--------|
-| 绿色史莱姆 | 所有层 | 24 | 史莱姆泥、树液 |
-| 灰尘精灵 | 40-79层 | 40 | 煤炭、水晶鞋（稀有） |
-| 蝙蝠 | 1-120层 | 24 | 蝙蝠翅膀 |
-| 洞穴蝇 | 1-29层 | 24 | 虫肉 |
-| 岩石蟹 | 1-29层 | 30 | 蟹壳、各种矿石 |
-| 蛆 | 1-29层 | 20 | 虫肉 |
-| 幽灵 | 51-79层 | 96 | 太阳精华、金条 |
-| 骷髅 | 71-79层 | 100 | 骨头碎片、太阳精华 |
-| 熔岩蝙蝠 | 80-120层 | 80 | 蝙蝠翅膀 |
-| 熔岩蟹 | 80-120层 | 120 | 蟹壳、各种矿石 |
-| 金属头 | 80-120层 | 40 | 太阳精华、铱矿石 |
-| 暗影狂徒 | 81-119层 | 160 | 虚空精华、金条 |
-| 暗影萨满 | 81-119层 | 80 | 虚空精华、金条 |
-| 红色史莱姆 | 81-119层 | 104 | 史莱姆泥 |
+| Monster | Floors | HP | Drops |
+|---------|--------|-----|-------|
+| Green Slime | All floors | 24 | Slime, Sap |
+| Dust Sprite | 40-79 | 40 | Coal, Crystal Shoes (rare) |
+| Bat | 1-120 | 24 | Bat Wing |
+| Cave Fly | 1-29 | 24 | Bug Meat |
+| Rock Crab | 1-29 | 30 | Crab Shell, various ores |
+| Grub | 1-29 | 20 | Bug Meat |
+| Ghost | 51-79 | 96 | Solar Essence, Gold Bar |
+| Skeleton | 71-79 | 100 | Bone Fragment, Solar Essence |
+| Lava Bat | 80-120 | 80 | Bat Wing |
+| Lava Crab | 80-120 | 120 | Crab Shell, various ores |
+| Metal Head | 80-120 | 40 | Solar Essence, Iridium Ore |
+| Shadow Brute | 81-119 | 160 | Void Essence, Gold Bar |
+| Shadow Shaman | 81-119 | 80 | Void Essence, Gold Bar |
+| Red Slime | 81-119 | 104 | Slime |
 
+## Chest Rewards
 
-## 宝箱奖励
+Reach specific floors to receive chest rewards:
 
-每到达特定层数可获得宝箱奖励：
+| Floor | Reward |
+|-------|--------|
+| 10 | Leather Boots, Steel Smallblade |
+| 20 | Mummy Mask, Explosive Ring |
+| 40 | Steel Boots, Obsidian Edge |
+| 50 | Crystal Shoes, Amethyst Ring |
+| 60 | Shadow Boots, Jade Ring |
+| 70 | Space Boots, Ruby Ring |
+| 80 | Flame Boots, Burglar's Ring |
+| 90 | Frost Boots, Vampire Ring |
+| 100 | Sneakers, Iridium Band |
+| 110 | Glow Ring, Magnet Ring |
+| 120 | **Skull Key** (unlocks Skull Cavern) |
 
-| 层数 | 奖励 |
-|------|------|
-| 10层 | 皮靴、钢制小剑 |
-| 20层 | 木乃伊头巾、燃烧弹戒指 |
-| 40层 | 钢靴、黑曜石之刃 |
-| 50层 | 水晶鞋、紫水晶戒指 |
-| 60层 | 影子靴、翡翠戒指 |
-| 70层 | 太空靴、红宝石戒指 |
-| 80层 | 火焰靴、盗贼戒指 |
-| 90层 | 冰霜靴、吸血戒指 |
-| 100层 | 运动鞋、铱戒指 |
-| 110层 | 发光戒指、磁铁戒指 |
-| 120层 | **骷髅钥匙**（解锁骷髅洞穴） |
+## Elevator Mechanics
 
-## 电梯机制
+- Automatically saves an elevator stop every 5 floors descended (5, 10, 15...120)
+- Next time entering the Mines, you can take the elevator directly to the highest unlocked floor
+- If you pass out in the Mines that day, the next day starts from the highest unlocked floor
 
-- 每下降5层自动保存电梯停靠点（5, 10, 15...120层）
-- 下次进入矿井可直接乘电梯到达已解锁的最高层
-- 如果当天在矿井中昏倒，第二天从已解锁的最高层开始
+## Useful Tips
 
-## 实用技巧
+### Mining Efficiency
+- Prioritize descending, find the ladder and immediately enter the next floor
+- Use bombs to quickly clear large areas
+- Bring plenty of food to restore energy and health
+- Staircases can be used in emergencies to quickly descend to the next floor
 
-### 采矿效率
-- 优先向下挖掘，找到梯子后立刻进入下一层
-- 使用炸弹快速清理大片区域
-- 带足食物补充体力和生命值
-- 楼梯可以在紧急情况下快速下到下一层
+### Best Mining Days
+- **Lucky Day**: Check daily luck on TV, high luck days make it easier to find ladders and ores
+- **Rainy Day**: No need to water crops, can spend more time in the Mines
 
-### 最佳采矿日
-- **幸运日**：看电视查看每日运势，高幸运日更容易找到梯子和矿石
-- **雨天**：不需要浇水，可以花更多时间在矿井
+### Essential Items
+- **Weapon**: At least Steel Smallblade or better
+- **Food**: Bring food that restores health and energy
+- **Bombs**: For quickly blasting ores and stones
+- **Staircases**: For quickly descending in emergencies
+- **Torches**: To light up dark areas
 
-### 必备物品
-- **武器**：至少钢制小剑以上
-- **食物**：带恢复生命值和体力的食物
-- **炸弹**：用于快速炸开矿石和石头
-- **楼梯**：紧急情况下快速下楼
-- **火把**：照亮黑暗区域
+### Special Floors
+- **Mushroom Floor**: Randomly appears, has many mushrooms to forage
+- **Monster Floor**: Full of monsters, no ores
+- **Treasure Floor**: Has many chests
 
-### 特殊层数
-- **蘑菇层**：随机出现，有大量蘑菇可采集
-- **怪物层**：全是怪物，没有矿石
-- **宝藏层**：有大量宝箱
+## 1.6 Update Changes
 
-## 1.6更新变化
+- Added Challenge Shrine (activated after completing Mr. Qi quests)
+- Added Mine elevator reset mechanic
+- Added rare monster drops
 
-- 新增挑战之神庙（完成齐先生任务后激活）
-- 新增矿井电梯重置机制
-- 新增稀有怪物掉落
+## FAQ
 
-## 常见问题
+**Q: How to quickly reach floor 120?**
+A: Craft many staircases (99 stone = 1 staircase), descend quickly on lucky days. Or bring bombs to blast large areas to find ladders.
 
-**Q: 如何快速下到120层？**
-A: 制作大量楼梯（99石头=1楼梯），在幸运日快速下楼。或者带炸弹炸开大片区域找梯子。
+**Q: Where to find Iridium Ore?**
+A: Very rare in Mines floors 100-120, main source is Skull Cavern. Iridium ore spawn rate increases after completing Mr. Qi quests.
 
-**Q: 铱矿石在哪里找？**
-A: 矿井100-120层极少出现，主要来源是骷髅洞穴。完成齐先生任务后矿井中铱矿出现率提升。
-
-**Q: 矿井里昏倒了会怎样？**
-A: 损失部分金钱（最多5,000g）和随机物品，第二天从已解锁的最高层开始。
-
+**Q: What happens if I pass out in the Mines?**
+A: Lose some gold (up to 5,000g) and random items, next day starts from the highest unlocked floor.

@@ -1,140 +1,139 @@
-﻿---
-title: "Stardew Valley 骷髅洞穴攻略"
-description: "骷髅洞穴全攻略，包括铱矿获取、下到100层技巧、怪物及宝箱奖励"
+---
+title: "Stardew Valley Skull Cavern Guide"
+description: "Complete Skull Cavern guide, including Iridium Ore farming, reaching floor 100, monsters, and treasure chest rewards."
 category: mining
 season: all
 difficulty: advanced
 date: 2026-06-15
 featured: false
-tags: ["骷髅洞穴", "铱矿", "银河剑", "齐先生", "挑战"]
+tags: ["Skull Cavern", "Iridium Ore", "Galaxy Sword", "Mr. Qi", "challenge"]
 ---
 
-# 骷髅洞穴攻略
+# Skull Cavern Guide
 
-骷髅洞穴是星露谷物语中最具挑战性的地下区域，位于卡利科沙漠。这里是获取铱矿石和五彩碎片的主要来源。
+The Skull Cavern is the most challenging underground area in Stardew Valley, located in the Calico Desert. It is the primary source of Iridium Ore and Prismatic Shards.
 
-## 如何解锁
+## How to Unlock
 
-1. 到达矿井 **第120层**，获得**骷髅钥匙**
-2. 修复巴士站（社区中心收集包或Joja）
-3. 乘坐巴士前往卡利科沙漠
-4. 在沙漠西北角使用骷髅钥匙打开骷髅洞穴入口
+1. Reach floor **120** of the Mines to obtain the **Skull Key**.
+2. Repair the Bus Stop (Community Center bundles or Joja).
+3. Take the bus to the Calico Desert.
+4. Use the Skull Key to open the Skull Cavern entrance in the northwest corner of the desert.
 
-## 基本信息
+## Basic Information
 
-- **位置**：卡利科沙漠西北角
-- **层数**：无限层（没有电梯）
-- **特点**：没有电梯，每次进入都从第1层开始
-- **时间限制**：02:00昏倒，损失最多5,000g
+- **Location**: Northwest corner of the Calico Desert
+- **Floors**: Infinite (no elevator)
+- **Feature**: No elevator; you start from floor 1 every time you enter.
+- **Time Limit**: Pass out at 2:00 AM, losing up to 5,000g.
 
-## 铱矿石分布
+## Iridium Ore Distribution
 
-| 层数范围 | 铱矿石出现率 | 说明 |
-|----------|-------------|------|
-| 1-50层 | 极低 | 几乎不出现 |
-| 50-100层 | 低 | 偶尔出现 |
-| 100-150层 | 中等 | 开始出现铱矿节点 |
-| 150层以上 | 高 | 大量铱矿节点 |
+| Floor Range | Iridium Ore Spawn Rate | Notes |
+|-------------|------------------------|-------|
+| 1-50 | Extremely low | Almost never appears |
+| 50-100 | Low | Occasionally appears |
+| 100-150 | Medium | Iridium nodes start to appear |
+| 150+ | High | Large number of Iridium nodes |
 
-> 层数越深，铱矿石越多，怪物也越强。
+> The deeper the floor, the more Iridium Ore there is, but the stronger the monsters become.
 
-## 怪物一览
+## Monster List
 
-| 怪物 | HP | 伤害 | 掉落物 |
-|------|-----|------|--------|
-| 紫色史莱姆 | 410 | 28 | 史莱姆泥、铱矿石 |
-| 铱蝙蝠 | 300 | 30 | 蝙蝠翅膀、铱矿石 |
-| 铱蟹 | 240 | 15 | 蟹壳、铱矿石 |
-| 木乃伊 | 260 | 30 | 太阳精华、布料 |
-| 飞蛇 | 150 | 23 | 太阳精华、蛇脊椎骨 |
-| 霸王喷火怪 | 300 | 15 | 虚空精华 |
-| 熔岩蝙蝠 | 80 | 15 | 蝙蝠翅膀 |
+| Monster | HP | Damage | Drops |
+|---------|-----|--------|-------|
+| Purple Slime | 410 | 28 | Slime, Iridium Ore |
+| Iridium Bat | 300 | 30 | Bat Wing, Iridium Ore |
+| Iridium Crab | 240 | 15 | Crab Cake, Iridium Ore |
+| Mummy | 260 | 30 | Solar Essence, Cloth |
+| Serpent | 150 | 23 | Solar Essence, Snake Vertebrae |
+| Royal Serpent | 300 | 15 | Void Essence |
+| Lava Bat | 80 | 15 | Bat Wing |
 
-> 木乃伊被击倒后会复活，需要用炸弹炸碎才能彻底消灭。
+> Mummies will revive after being knocked down. Use a bomb to destroy them completely or use a weapon with the **Crusader** enchantment.
 
-## 下到100层的策略
+## Strategy for Reaching Floor 100
 
-### 准备工作
+### Preparation
 
-| 物品 | 数量 | 说明 |
-|------|------|------|
-| 楼梯 | 50-100个 | 快速下楼必备 |
-| 炸弹 | 50-100个 | 炸开矿石找梯子 |
-| 食物 | 大量 | 恢复生命值和体力 |
-| 咖啡/三倍浓缩咖啡 | 10-20杯 | 加速移动 |
-| 香辣鳗鱼 | 10-20份 | 速度+运气加成 |
-| 幸运兔脚 | 1个 | 增加运气 |
-| 银河剑/无限之刃 | 1把 | 最强武器 |
-| 铱环 | 2个 | 增加攻击范围和伤害 |
+| Item | Quantity | Notes |
+|------|----------|-------|
+| Staircases | 50-100 | Essential for quickly descending |
+| Bombs | 50-100 | Blast open ore to find ladders |
+| Food | Large amount | Restore health and energy |
+| Coffee / Triple Shot Espresso | 10-20 cups | Speed boost |
+| Spicy Eel | 10-20 servings | Speed + Luck boost |
+| Lucky Rabbit's Foot | 1 | Increases luck |
+| Galaxy Sword / Infinity Blade | 1 | Strongest weapon |
+| Iridium Band | 2 | Increases attack range and damage |
 
-### 下楼技巧
+### Descending Tips
 
-1. **选择高幸运日**：看电视查看运势，选择"精灵们今天非常开心"的日子
-2. **快速找梯子**：用炸弹炸开大片石头，优先找梯子而不是矿石
-3. **使用楼梯**：在怪物层或找不到梯子时直接使用楼梯
-4. **忽略矿石**：目标是下楼，不是采矿，不要浪费时间挖矿
-5. **保持速度**：喝咖啡保持加速状态，快速移动
+1. **Choose a high-luck day**: Check the TV for the daily fortune and choose a day when "The spirits are very happy."
+2. **Quickly find ladders**: Use bombs to blast open large areas of rocks, prioritizing finding ladders over mining ore.
+3. **Use staircases**: Use staircases directly on monster floors or when you can't find a ladder.
+4. **Ignore ore**: The goal is to descend, not mine. Don't waste time mining.
+5. **Maintain speed**: Drink coffee to maintain a speed boost and move quickly.
 
-### 齐先生的挑战
+### Mr. Qi's Challenge
 
-进入骷髅洞穴后，齐先生会发布挑战：
-- **到达第25层**：奖励 **10,000金**
+After entering the Skull Cavern, Mr. Qi will issue a challenge:
+- **Reach floor 25**: Reward of **10,000g**.
 
-## 第100层奖励
+## Floor 100 Reward
 
-阅读秘密纸条#10后，到达骷髅洞穴第100层会触发齐先生过场动画：
+After reading Secret Note #10, reaching floor 100 of the Skull Cavern will trigger a cutscene with Mr. Qi:
 
-- **使用不到10个楼梯**：齐先生赞美你的实力
-- **使用10个以上楼梯**：齐先生表示"聪明但不太光荣"
-- **无论哪种情况**：都获得 **铱蛇牛奶**（永久+25生命值上限）
+- **Using fewer than 10 staircases**: Mr. Qi praises your strength.
+- **Using more than 10 staircases**: Mr. Qi says "Clever, but not very honorable."
+- **Regardless**: You receive **Iridium Snake Milk** (permanent +25 max health).
 
-## 宝藏房间
+## Treasure Rooms
 
-骷髅洞穴中有概率出现宝藏房间，包含：
+There is a chance for treasure rooms to appear in the Skull Cavern, containing:
 
-| 宝藏 | 说明 |
-|------|------|
-| 五彩碎片 | 最稀有物品 |
-| 铱矿石 | 大量铱矿 |
-| 自动采集器 | 自动收集农场产物 |
-| 五彩碎片 | 用于银河武器升级 |
-| 彩虹贝壳 | 用于任务和配方 |
+| Treasure | Notes |
+|----------|-------|
+| Prismatic Shard | Rarest item |
+| Iridium Ore | Large amount of Iridium Ore |
+| Auto-Grabber | Automatically collects farm products |
+| Prismatic Shard | Used for upgrading Galaxy weapons |
+| Rainbow Shell | Used for quests and recipes |
 
-## 实用技巧
+## Useful Tips
 
-### 铱矿 farming
-- 到达150层以上后大量出现铱矿节点
-- 使用炸弹炸开铱矿节点，一次可获得多个铱矿石
-- 铱蟹和紫色史莱姆也会掉落铱矿石
+### Iridium Ore Farming
+- Iridium nodes appear in large numbers after reaching floor 150+.
+- Use bombs to blast open Iridium nodes, obtaining multiple Iridium Ores at once.
+- Iridium Crabs and Purple Slimes also drop Iridium Ore.
 
-### 最佳配置
-- **武器**：无限之刃（最强）或银河剑
-- **戒指**：铱环 + 吸血戒指（或幸运戒指）
-- **鞋子**：太空靴（最高防御）
-- **食物**：香辣鳗鱼 + 三倍浓缩咖啡
+### Best Setup
+- **Weapon**: Infinity Blade (strongest) or Galaxy Sword
+- **Rings**: Iridium Band + Vampire Ring (or Lucky Ring)
+- **Boots**: Space Boots (highest defense)
+- **Food**: Spicy Eel + Triple Shot Espresso
 
-### 时间规划
-- 建议早上6:00就进入骷髅洞穴
-- 带好传送图腾：农场，方便快速回家
-- 如果体力不足，可以回家睡觉后第二天再来
+### Time Planning
+- It is recommended to enter the Skull Cavern at 6:00 AM.
+- Bring a Farm Warp Totem for quick travel back home.
+- If energy is insufficient, you can go home to sleep and return the next day.
 
-## 1.6更新变化
+## 1.6 Update Changes
 
-- 新增齐先生的骷髅洞穴入侵任务
-- 新增更深层的怪物和宝藏
-- 铱矿石分布有所调整
+- Added Mr. Qi's Skull Cavern Invasion quest.
+- Added deeper monsters and treasures.
+- Iridium Ore distribution has been adjusted.
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 骷髅洞穴有电梯吗？**
-A: 没有，每次进入都从第1层开始。这是与矿井最大的区别。
+**Q: Is there an elevator in the Skull Cavern?**
+A: No, you start from floor 1 every time you enter. This is the biggest difference from the Mines.
 
-**Q: 如何快速获得大量铱矿石？**
-A: 1) 大量制作楼梯快速下到150层以上；2) 在铱矿节点密集层用炸弹炸开；3) 击杀紫色史莱姆和铱蟹。
+**Q: How can I quickly obtain a large amount of Iridium Ore?**
+A: 1) Craft a large number of staircases to quickly descend to floor 150+; 2) Use bombs on floors dense with Iridium nodes; 3) Kill Purple Slimes and Iridium Crabs.
 
-**Q: 骷髅洞穴里能建造楼梯吗？**
-A: 可以，99个石头可以制作1个楼梯，是快速下楼的最佳方式。
+**Q: Can I craft staircases in the Skull Cavern?**
+A: Yes, 99 stones can craft 1 staircase, which is the best way to quickly descend.
 
-**Q: 木乃伊怎么打？**
-A: 先用武器击倒，然后用**炸弹炸碎**或使用**十字军（Crusader）附魔武器**直接消灭，否则木乃伊会复活。
-
+**Q: How do I defeat Mummies?**
+A: First knock them down with a weapon, then use a **bomb to destroy them** or use a weapon with the **Crusader** enchantment to eliminate them directly, otherwise the Mummy will revive.

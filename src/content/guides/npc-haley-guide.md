@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Haley Guide - Marriage Candidate"
 description: "Complete guide to Haley in Stardew Valley. Learn about her schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,159 +9,159 @@ featured: false
 tags: ["npc", "marriage", "haley"]
 ---
 
-# Stardew Valley Haley 攻略 - 可结婚 NPC
+# Stardew Valley Haley Guide - Marriage Candidate
 
-## 基本信息
+## Basic Information
 
-| 属性 | 内容 |
-|------|------|
-| 姓名 | Haley (海莉) |
-| 生日 | 春季 14 日 (Spring 14) |
-| 住址 | 2 Willow Lane (柳树巷 2 号) |
-| 家庭 | 姐妹 Emily (艾米丽) |
-| 可结婚 | 是 |
-| 职业 | 无固定职业，喜欢摄影和时尚 |
+| Attribute | Details |
+|-----------|---------|
+| Name | Haley |
+| Birthday | Spring 14 |
+| Address | 2 Willow Lane |
+| Family | Sister Emily |
+| Marriage | Yes |
+| Occupation | No fixed occupation, likes photography and fashion |
 
-## 日常行程
+## Daily Schedule
 
-### 春季
-- **周一/二/三/四/五**
-  - 10:00 AM - 起床站在厨房
-  - 12:00 PM - 离开家前往小镇广场
-  - 12:30 PM - 到达小镇广场站在喷泉旁
-  - 4:30 PM - 返回家中
-  - 5:30 PM - 站在厨房
-  - 8:00 PM - 回到自己房间
-  - 11:00 PM - 上床睡觉
+### Spring
+- **Monday/Tuesday/Wednesday/Thursday/Friday**
+  - 10:00 AM - Wakes up, stands in kitchen
+  - 12:00 PM - Leaves home for Town Square
+  - 12:30 PM - Arrives at Town Square, stands by fountain
+  - 4:30 PM - Returns home
+  - 5:30 PM - Stands in kitchen
+  - 8:00 PM - Back to her room
+  - 11:00 PM - Goes to bed
 
-- **周六**
-  - 11:00 AM - 离开家前往海滩
-  - 12:00 PM - 到达海滩
-  - 5:00 PM - 离开海滩返回家中
-  - 7:00 PM - 回到家中站在厨房
-  - 10:00 PM - 回到房间
+- **Saturday**
+  - 11:00 AM - Leaves home for beach
+  - 12:00 PM - Arrives at beach
+  - 5:00 PM - Leaves beach to return home
+  - 7:00 PM - Arrives home, stands in kitchen
+  - 10:00 PM - Back to room
 
-- **周日**
-  - 10:30 AM - 起床
-  - 11:00 AM - 站在客厅
-  - 2:00 PM - 站在自己房间
-  - 5:00 PM - 站在厨房
-  - 8:00 PM - 回到房间
+- **Sunday**
+  - 10:30 AM - Wakes up
+  - 11:00 AM - Stands in living room
+  - 2:00 PM - Stands in her room
+  - 5:00 PM - Stands in kitchen
+  - 8:00 PM - Back to room
 
-### 夏季
-- 常去海滩晒太阳
-- 下午经常在河边或湖边
+### Summer
+- Often visits beach to sunbathe
+- Afternoons often by river or lake
 
-### 秋季
-- 行程与春季类似
-- 生日当天会在家中
+### Fall
+- Schedule similar to Spring
+- At home on birthday
 
-### 冬季
-- 常待在家中
-- 雨天会待在室内
+### Winter
+- Often stays home
+- Stays indoors on rainy days
 
-## 礼物喜好
+## Gift Preferences
 
-### 最爱的礼物 (Loved Gifts) - +80 好感度
-- Coconut (椰子)
-- Sunflower (向日葵)
-- Pink Cake (粉红蛋糕)
-- Fruit Salad (水果沙拉)
+### Loved Gifts (+80 friendship)
+- Coconut
+- Sunflower
+- Pink Cake
+- Fruit Salad
 
-### 喜欢的礼物 (Liked Gifts) - +45 好感度
-- Daffodil (黄水仙)
-- All Cooking (大部分烹饪食物)
-- All Flowers (大部分花)
-- All Fruits (大部分水果)
+### Liked Gifts (+45 friendship)
+- Daffodil
+- All Cooking (most cooked dishes)
+- All Flowers (most flowers)
+- All Fruits (most fruit)
 
-### 中立的礼物 (Neutral Gifts) - +20 好感度
-- Milk (牛奶)
-- Chanterelle (鸡油菌)
-- Common Mushroom (普通蘑菇)
-- Dandelion (蒲公英)
-- Hazelnut (榛子)
-- Leek (韭葱)
-- Morel (羊肚菌)
-- Purple Mushroom (紫蘑菇)
-- Snow Yam (雪山药)
-- Winter Root (冬根)
+### Neutral Gifts (+20 friendship)
+- Milk
+- Chanterelle
+- Common Mushroom
+- Dandelion
+- Hazelnut
+- Leek
+- Morel
+- Purple Mushroom
+- Snow Yam
+- Winter Root
 
-### 不喜欢的礼物 (Disliked Gifts) - -20 好感度
-- Clay (粘土)
-- All Fish (大部分鱼类)
-- All Vegetables (大部分蔬菜)
-- All Eggs (鸡蛋)
-- All Milk (牛奶)
-- Wild Horseradish (野生辣根)
+### Disliked Gifts (-20 friendship)
+- Clay
+- All Fish (most fish)
+- All Vegetables (most vegetables)
+- All Eggs (eggs)
+- All Milk (milk)
+- Wild Horseradish
 
-### 讨厌的礼物 (Hated Gifts) - -40 好感度
-- Prismatic Shard (五彩碎片) - 所有人讨厌
-- Quartz (石英)
-- All Gems (所有宝石)
-- Mayonnaise (蛋黄酱)
-- Pickles (腌菜)
-- Jelly (果酱)
-- Beer (啤酒)
-- Wine (葡萄酒)
+### Hated Gifts (-40 friendship)
+- Prismatic Shard - everyone hates
+- Quartz
+- All Gems (all gems)
+- Mayonnaise
+- Pickles
+- Jelly
+- Beer
+- Wine
 
-## 爱心事件
+## Heart Events
 
-### 2 心事件
-- **触发条件**: 进入 Haley 和 Emily 的家时触发
-- **剧情**: Haley 和 Emily 在争论关于衣服的事情。Haley 不小心弄坏了 Emily 的衣服。
-- **选择影响**: 帮助解决争端会增加好感度。
+### 2 Heart Event
+- **Trigger**: Enter Haley and Emily's house
+- **Plot**: Haley and Emily are arguing about clothes. Haley accidentally ruins Emily's clothes.
+- **Choice Effect**: Helping resolve the dispute increases friendship.
 
-### 4 心事件
-- **触发条件**: 在 Haley 在家时进入她家
-- **剧情**: Haley 打不开一个罐子，你帮助她打开。她对你的帮助表示感谢。
-- **选择影响**: 友好地帮助她会增加好感度。
+### 4 Heart Event
+- **Trigger**: Enter her house when Haley is home
+- **Plot**: Haley can't open a jar, you help her open it. She thanks you for your help.
+- **Choice Effect**: Helping her kindly increases friendship.
 
-### 6 心事件
-- **触发条件**: 在晴天中午 12 点后进入海滩
-- **剧情**: Haley 丢失了祖母的手镯，你帮她找到。她在海滩上寻找丢失的物品。
-- **选择影响**: 帮助她找到手镯会大幅增加好感度。
+### 6 Heart Event
+- **Trigger**: Enter beach on a sunny day after 12 PM
+- **Plot**: Haley lost her grandmother's bracelet, you help her find it. She is searching for the lost item on the beach.
+- **Choice Effect**: Helping her find the bracelet greatly increases friendship.
 
-### 8 心事件
-- **触发条件**: 收到 Haley 的信后，在晴天上午 10 点到下午 4 点之间进入小镇
-- **剧情**: Haley 在拍照，她邀请你当她的模特。你们一起拍照。
-- **选择影响**: 配合她的拍照会增加好感度。
+### 8 Heart Event
+- **Trigger**: After receiving Haley's letter, enter town on a sunny day between 10:00 AM and 4:00 PM
+- **Plot**: Haley is taking photos, she invites you to be her model. You take photos together.
+- **Choice Effect**: Cooperating with her photoshoot increases friendship.
 
-### 10 心事件
-- **触发条件**: 收到 Haley 的信后，在晴天上午 10 点到下午 4 点之间进入沙滩
-- **剧情**: Haley 向你展示她拍的你的照片，并表达了她对你的感情。
-- **选择影响**: 接受她的感情会增加好感度。
-- **注意**: 需要购买美人鱼吊坠 (Mermaid's Pendant) 才能求婚
+### 10 Heart Event
+- **Trigger**: After receiving Haley's letter, enter the beach on a sunny day between 10:00 AM and 4:00 PM
+- **Plot**: Haley shows you the photos she took of you and expresses her feelings for you.
+- **Choice Effect**: Accepting her feelings increases friendship.
+- **Note**: Need to purchase Mermaid's Pendant to propose
 
-### 14 心事件 (婚后)
-- **触发条件**: 婚后，进入农舍
-- **剧情**: Haley 想要学习烹饪，她尝试为你做一顿饭。
-- **选择影响**: 鼓励她的努力会增加好感度。
+### 14 Heart Event (Post-Marriage)
+- **Trigger**: After marriage, enter the farmhouse
+- **Plot**: Haley wants to learn cooking, she tries to make a meal for you.
+- **Choice Effect**: Encouraging her efforts increases friendship.
 
-## 结婚信息
+## Marriage Information
 
-### 求婚条件
-1. 与 Haley 达到 10 心好感度
-2. 完成 10 心事件
-3. 拥有至少 1 级农舍升级
-4. 购买美人鱼吊坠 (Mermaid's Pendant) 从老水手处 (3000g)
+### Proposal Requirements
+1. Reach 10 hearts friendship with Haley
+2. Complete 10 heart event
+3. Have at least 1 farmhouse upgrade
+4. Purchase Mermaid's Pendant from the Old Mariner (3000g)
 
-### 婚后生活
-- **房间**: 会在农舍右侧添加一个时尚主题的房间，有摄影设备
-- **帮忙**: 偶尔会 watering crops (浇水)、feeding animals (喂动物)
-- **礼物**: 有时会送你食物、花或其他物品
-- **孩子**: 可以生育或领养最多两个孩子
+### Married Life
+- **Room**: Adds a fashion-themed room on the right side of the farmhouse, with photography equipment
+- **Help**: Occasionally waters crops, feeds animals
+- **Gifts**: Sometimes gives you food, flowers, or other items
+- **Children**: Can have or adopt up to two children
 
-### 婚后行程
-- 大部分时间待在农舍内
-- 周三有时会去小镇广场
-- 晴天有时会去海滩
+### Post-Marriage Schedule
+- Spends most time inside the farmhouse
+- Sometimes visits Town Square on Wednesday
+- Sometimes goes to beach on sunny days
 
-## 趣闻
-- Haley 一开始可能显得有点傲慢，但随着好感度提升会变得非常友善
-- 她热爱摄影和时尚
-- 她和妹妹 Emily 住在一起
-- 她最喜欢的颜色是粉色和黄色
+## Trivia
+- Haley may seem a bit arrogant at first, but becomes very friendly as friendship increases
+- She loves photography and fashion
+- She lives with her sister Emily
+- Her favorite colors are pink and yellow
 
 ---
 
-*数据来源于 Stardew Valley Wiki，适用于游戏版本 1.6*
+*Data sourced from Stardew Valley Wiki, applicable to game version 1.6*

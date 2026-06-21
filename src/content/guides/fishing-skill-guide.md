@@ -1,50 +1,55 @@
-﻿---
-title: "Stardew Valley 钓鱼技能攻略"
-description: "钓鱼技能等级奖励、职业选择策略及钓鱼效率优化"
+---
+title: "Stardew Valley Fishing Skill Guide"
+description: "Fishing skill level rewards, profession choice strategies, and fishing efficiency optimization"
 category: skills
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["钓鱼", "技能", "职业", "捕鱼手", "捕蟹者"]
+tags: ["Fishing", "Skill", "Profession", "Angler", "Trapper"]
 ---
 
-# 钓鱼技能攻略
+# Fishing Skill Guide
 
-钓鱼技能影响钓鱼难度、捕获物品质和蟹笼效率。
+Fishing skill affects fishing difficulty, catch quality, and Crab Pot efficiency.
 
-## 如何提升
+## How to Level Up
 
-- **成功钓鱼**：+1-5钓鱼经验
-- **完美钓鱼**：额外经验加成
-- **使用蟹笼**：+5钓鱼经验
+- **Successful fishing**: +1-5 Fishing XP
+- **Perfect catch**: Extra XP bonus
+- **Use Crab Pots**: +5 Fishing XP
 
-## 等级奖励
+## Level Rewards
 
-| 等级 | 奖励 |
-|------|------|
-| 1 | 解锁玻璃纤维竿 |
-| 2 | 解锁鱼饵配方 |
-| 3 | 解锁蟹笼配方 |
-| 4 | 解锁鱼饵杆配方 |
-| 5 | 职业选择 |
-| 6 | 解锁铱竿配方 |
-| 7 | 解锁高级鱼饵配方 |
-| 9 | 解锁魔法鱼饵配方 |
-| 10 | 职业选择 |
+| Level | Reward |
+|-------|--------|
+| 1 | Unlocks Fiberglass Rod |
+| 2 | Unlocks Bait recipe |
+| 3 | Unlocks Crab Pot recipe |
+| 4 | Unlocks Recycling Machine recipe |
+| 5 | Profession choice |
+| 6 | Unlocks Iridium Rod |
+| 7 | Unlocks Cork Bobber recipe |
+| 8 | Unlocks Treasure Hunter recipe |
+| 9 | Unlocks Barbed Hook recipe |
+| 10 | Profession choice |
 
-## 5级职业选择
+## Level 5 Profession Choice
 
-### 捕鱼手（Fisher）- 鱼价值+25%
-### 捕蟹者（Trapper）- 蟹笼制作材料减半
+### Fisher - Fish value +25%
+### Trapper - Crab Pot crafting materials halved
 
-## 10级职业选择
+## Level 10 Profession Choice
 
-### 水手（Mariner）- 蟹笼不捕获垃圾（需捕蟹者）
-### 诱饵大师（Luremaster）- 蟹笼不需要鱼饵（需捕蟹者）
+### Angler - Fish value +50% (requires Fisher)
+### Pirate - Chance to find treasure doubled (requires Fisher)
 
-> **推荐水手**，不捕获垃圾比免饵料更实用。
+### Mariner - Crab Pots no longer catch trash (requires Trapper)
+### Luremaster - Crab Pots no longer need Bait (requires Trapper)
 
-## 常见问题
+> **Recommended Angler** for fishing-focused players, +50% fish value is very powerful.
 
-**Q: 水手和诱饵大师哪个好？** A: 水手更实用。
+## Frequently Asked Questions
+
+**Q: Which is better, Fisher or Trapper?** A: Fisher for fishing-focused players, Trapper for Crab Pot-focused players.
+**Q: Which is better, Angler or Pirate?** A: Angler is more practical for stable income.

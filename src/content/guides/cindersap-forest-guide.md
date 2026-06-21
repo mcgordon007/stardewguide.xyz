@@ -1,141 +1,140 @@
-﻿---
-title: "Stardew Valley 煤矿森林攻略"
-description: "煤矿森林全攻略，包括NPC建筑、采集物、钓鱼、季节事件及任务"
+---
+title: "Stardew Valley Cindersap Forest Guide"
+description: "Complete guide to Cindersap Forest, including NPC buildings, forageables, fishing, seasonal events, and quests"
 category: locations
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["煤矿森林", "玛妮牧场", "莉亚小屋", "采集", "钓鱼", "花舞节"]
+tags: ["Cindersap Forest", "Marnie's Ranch", "Leah's Cottage", "Foraging", "Fishing", "Flower Dance"]
 ---
 
-# 煤矿森林攻略
+# Cindersap Forest Guide
 
-煤矿森林（Cindersap Forest）是星露谷物语中最核心的户外区域之一，连接着鹈鹕镇多个重要地点。
+Cindersap Forest is one of the most core outdoor areas in Stardew Valley, connecting multiple important locations in Pelican Town.
 
-## 基本信息
+## Basic Information
 
-- **位置**：鹈鹕镇南部，农场出口右转
-- **面积**：大型户外区域
-- **功能**：采集、钓鱼、NPC互动、节庆举办
+- **Location**: South of Pelican Town, right turn from farm exit
+- **Area**: Large outdoor area
+- **Functions**: Foraging, fishing, NPC interaction, festival hosting
 
-## 区域布局
+## Area Layout
 
-### 北部（通往鹈鹕镇）
-- 连接鹈鹕镇广场
-- 有通往秘密树林的入口（需钢斧砍树桩）
-- 花舞节举办地
+### North (Leading to Pelican Town)
+- Connects to Pelican Town Square
+- Entrance to Secret Woods (needs Steel Axe to chop stump)
+- Flower Dance festival location
 
-### 东部
-- **玛妮牧场（Marnie's Ranch）**：购买动物和动物饲料
-- **莉亚小屋（Leah's Cottage）**：莉亚的住所
-- 通往海滩的小路
+### East
+- **Marnie's Ranch**: Purchase animals and animal feed
+- **Leah's Cottage**: Leah's residence
+- Path leading to the Beach
 
-### 南部
-- **湖泊**：可钓鱼的重要水域
-- 通往煤矿森林南部入口
-- 月光水母节举办地
+### South
+- **Lake**: Important fishing water area
+- Leads to Cindersap Forest south entrance
+- Moonlight Jellies festival location
 
-### 西部
-- 通往农场
-- 通往巴士站（修复后可前往沙漠）
+### West
+- Leads to Farm
+- Leads to Bus Stop (can go to Desert after repair)
 
-## NPC建筑
+## NPC Buildings
 
-### 玛妮牧场
+### Marnie's Ranch
 
-- **NPC**：玛妮（Marnie）
-- **功能**：购买动物（鸡、牛、羊、猪等）
-- **营业时间**：上午9:00 - 下午4:00（周一、周二关门）
-- **动物饲料**：每份50g
+- **NPC**: Marnie
+- **Function**: Purchase animals (chickens, cows, sheep, pigs, etc.)
+- **Business Hours**: 9:00 AM - 4:00 PM (Closed Monday and Tuesday)
+- **Animal Feed**: 50g each
 
-### 莉亚小屋
+### Leah's Cottage
 
-- **NPC**：莉亚（Leah）
-- **位置**：煤矿森林东部
-- **特点**：莉亚的雕塑和画作
+- **NPC**: Leah
+- **Location**: East of Cindersap Forest
+- **Features**: Leah's sculptures and paintings
 
-## 采集物
+## Forageables
 
-### 春季
+### Spring
 
-| 采集物 | 售价 | 出现条件 |
-|--------|------|----------|
-| 野山葵 | 50g | 地面采集 |
-| 黄水仙 | 30g | 地面采集 |
-| 莲藕 | 100g | 湖边采集 |
+| Forageable | Sell Price | Condition |
+|------------|------------|-----------|
+| Wild Horseradish | 50g | Ground foraging |
+| Daffodil | 30g | Ground foraging |
+| Spring Onion | 8g | Ground foraging |
 
-### 夏季
+### Summer
 
-| 采集物 | 售价 | 出现条件 |
-|--------|------|----------|
-| 葡萄 | 80g | 地面采集 |
-| 香甜薯 | 120g | 地面采集 |
-| 蓝莓 | 50g | 灌木丛采集 |
+| Forageable | Sell Price | Condition |
+|------------|------------|-----------|
+| Grape | 80g | Ground foraging |
+| Spice Berry | 120g | Ground foraging |
+| Sweet Pea | 50g | Ground foraging |
 
-### 秋季
+### Fall
 
-| 采集物 | 售价 | 出现条件 |
-|--------|------|----------|
-| 普通蘑菇 | 40g | 地面采集 |
-| 野山葵 | 50g | 地面采集 |
-| 黑莓 | 20g | 灌木丛采集（秋季第15-18天） |
+| Forageable | Sell Price | Condition |
+|------------|------------|-----------|
+| Common Mushroom | 40g | Ground foraging |
+| Wild Plum | 80g | Ground foraging |
+| Blackberry | 20g | Bush foraging (Fall 15-18) |
 
-### 冬季
+### Winter
 
-| 采集物 | 售价 | 出现条件 |
-|--------|------|----------|
-| 冬青 | 80g | 地面采集 |
-| 雪山药 | 100g | 地面采集 |
-| 冰果 | 150g | 地面采集 |
+| Forageable | Sell Price | Condition |
+|------------|------------|-----------|
+| Holly | 80g | Ground foraging |
+| Snow Yam | 100g | Ground foraging |
+| Crystal Fruit | 150g | Ground foraging |
 
-## 钓鱼
+## Fishing
 
-煤矿森林湖泊可钓到以下鱼类：
+The following fish can be caught in Cindersap Forest lake:
 
-| 鱼类 | 季节 | 难度 | 售价 |
-|------|------|------|------|
-| 木古鱼 | 冬 | 困难 | 75g |
-| 鳗鱼 | 春/秋 | 中等 | 85g |
-| 河鲈 | 夏 | 简单 | 55g |
-| 狗鱼 | 夏/冬 | 困难 | 85g |
-| 木古鱼 | 冬 | 困难 | 75g |
-| 鲶鱼 | 春/秋（仅雨天）| 困难 | 200g |
+| Fish | Season | Difficulty | Sell Price |
+|------|--------|------------|------------|
+| Carp | All | Easy | 30g |
+| Catfish | Spring/Fall (Rain only) | Difficult | 200g |
+| Perch | Winter | Easy | 55g |
+| Pike | Summer/Winter | Difficult | 100g |
+| Walleye | Fall (Rain only) | Medium | 105g |
+| Woodskip | Secret Woods | Medium | 75g |
 
-## 节庆活动
+## Festivals
 
-### 花舞节（Flower Dance）
-- **日期**：春季第24天
-- **地点**：煤矿森林北部
-- **内容**：与NPC跳舞
+### Flower Dance
+- **Date**: Spring 24
+- **Location**: North of Cindersap Forest
+- **Content**: Dance with NPCs
 
-### 月光水母节（Moonlight Jellies）
-- **日期**：夏季第28天
-- **地点**：海滩（The Beach）
-- **内容**：观赏月光水母
+### Moonlight Jellies
+- **Date**: Summer 28
+- **Location**: The Beach
+- **Content**: Watch Moonlight Jellies
 
-## 任务相关
+## Quest Related
 
-- **朱尔的特殊需求**：在煤矿森林找到朱尔
-- **莉亚的雕塑**：帮助莉亚完成雕塑任务
-- **黑berry篮**：秋季黑莓采集相关
+- **Jas's Special Request**: Find Jas in Cindersap Forest
+- **Leah's Sculpture**: Help Leah complete sculpture quest
+- **Blackberry Basket**: Fall blackberry foraging related
 
-## 实用技巧
+## Practical Tips
 
-- 春季尽早采集野山葵和黄水仙，完成社区中心收集包
-- 秋季第15-18天大量采集黑莓（220g，高价值）
-- 湖泊是钓鱼的好地方，尤其是鲶鱼（200g）
-- 玛妮牧场周三和周五关门，注意安排时间
-- 用钢斧砍开树桩进入秘密树林
+- Collect Wild Horseradish and Daffodil early in Spring to complete Community Center bundles
+- Mass collect Blackberries on Fall 15-18 (high value)
+- Lake is a good fishing spot, especially Catfish (200g)
+- Marnie's Ranch is closed on Monday and Tuesday, plan accordingly
+- Use Steel Axe to chop stump to enter Secret Woods
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 煤矿森林在哪里？**
-A: 从农场出口右转即可到达，位于鹈鹕镇南部。
+**Q: Where is Cindersap Forest?**
+A: Right turn from farm exit, located south of Pelican Town.
 
-**Q: 秘密树林怎么进入？**
-A: 需要钢斧（或更好）砍开煤矿森林北部的树桩。
+**Q: How to enter Secret Woods?**
+A: Need Steel Axe (or better) to chop the stump in north Cindersap Forest.
 
-**Q: 黑莓什么时候采集？**
-A: 秋季第15-18天，煤矿森林的灌木丛会产出黑莓（220g）。
-
+**Q: When to collect Blackberries?**
+A: Fall 15-18, bushes in Cindersap Forest produce Blackberries.

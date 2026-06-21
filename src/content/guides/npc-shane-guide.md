@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Shane Guide - Marriage Candidate"
 description: "Complete guide to Shane in Stardew Valley. Learn about his schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,125 +9,125 @@ featured: false
 tags: ["npc", "marriage", "shane"]
 ---
 
-# Shane 完全指南
+# Shane Complete Guide
 
-Shane 是 Stardew Valley 中一位可结婚的男性 NPC，住在 Cindersap Forest 的 Marnie's Ranch。他是一个重度饮酒者，患有抑郁症，最初对玩家态度粗鲁，但随着友谊的增加会变得更加友好。
+Shane is a marriageable male NPC in Stardew Valley who lives at Marnie's Ranch in Cindersap Forest. He is a heavy drinker who suffers from depression and is initially rude to the player, but becomes friendlier as your friendship increases.
 
-## 基本信息
+## Basic Information
 
-- **生日**: 春季 20 日 (Spring 20)
-- **住址**: Marnie's Ranch（Cindersap Forest）
-- **家庭**: Marnie（阿姨）、Jas（教女）
-- **可结婚**: 是
-- **诊所检查日**: 无固定检查日
+- **Birthday**: Spring 20
+- **Address**: Marnie's Ranch (Cindersap Forest)
+- **Family**: Marnie (aunt), Jas (goddaughter)
+- **Marriageable**: Yes
+- **Clinic Checkup Day**: No fixed checkup day
 
-## 日程安排
+## Schedule
 
-### 春季
-- **周一至周五（社区中心未修复）**: 7:10 AM 离开 Marnie's Ranch 去 JojaMart 上班；5:00 PM 离开 JojaMart 去星之果实酒吧；11:10 PM 离开酒吧回 Marnie's Ranch。
-- **周一至周五（社区中心已修复）**: 9:00 AM 离开房间站在 Marnie's Ranch 厨房；11:00 AM 离开厨房回房间；12:00 PM 离开房间站在壁炉旁；2:00 PM 离开 Marnie's Ranch 去星之果实酒吧；11:00 PM 离开酒吧回 Marnie's Ranch。
-- **周六**: 9:00 AM 离开房间站在厨房；12:00 PM 离开 Marnie's Ranch 去 Pierre's General Store；5:00 PM 离开商店去星之果实酒吧；11:00 PM 离开酒吧回家。
-- **周日**: 12:30 PM 在 Marnie's Ranch 厨房；6:00 PM 离开去星之果实酒吧；12:00 AM 离开酒吧回家。
-- **雨天（社区中心未修复）**: 7:10 AM 离开家去 JojaMart；5:00 PM 离开 JojaMart 去星之果实酒吧；11:10 PM 离开酒吧回家。
-- **雨天（社区中心已修复）**: 9:00 AM 离开房间站在厨房；11:00 AM 离开厨房回房间；12:00 PM 离开房间站在壁炉旁；2:00 PM 离开家去星之果实酒吧；11:00 PM 离开酒吧回家。
+### Spring
+- **Monday to Friday (Community Center not restored)**: 7:10 AM leaves Marnie's Ranch to work at JojaMart; 5:00 PM leaves JojaMart to go to The Stardrop Saloon; 11:10 PM leaves the saloon and returns to Marnie's Ranch.
+- **Monday to Friday (Community Center restored)**: 9:00 AM leaves his room and stands in the kitchen at Marnie's Ranch; 11:00 AM leaves the kitchen and returns to his room; 12:00 PM leaves his room and stands by the fireplace; 2:00 PM leaves Marnie's Ranch to go to The Stardrop Saloon; 11:00 PM leaves the saloon and returns to Marnie's Ranch.
+- **Saturday**: 9:00 AM leaves his room and stands in the kitchen; 12:00 PM leaves Marnie's Ranch to go to Pierre's General Store; 5:00 PM leaves the store to go to The Stardrop Saloon; 11:00 PM leaves the saloon and returns home.
+- **Sunday**: 12:30 PM in the kitchen at Marnie's Ranch; 6:00 PM leaves to go to The Stardrop Saloon; 12:00 AM leaves the saloon and returns home.
+- **Rainy Day (Community Center not restored)**: 7:10 AM leaves home to go to JojaMart; 5:00 PM leaves JojaMart to go to The Stardrop Saloon; 11:10 PM leaves the saloon and returns home.
+- **Rainy Day (Community Center restored)**: 9:00 AM leaves his room and stands in the kitchen; 11:00 AM leaves the kitchen and returns to his room; 12:00 PM leaves his room and stands by the fireplace; 2:00 PM leaves home to go to The Stardrop Saloon; 11:00 PM leaves the saloon and returns home.
 
-### 夏季
-- 日程与春季基本相同。
+### Summer
+- Schedule is basically the same as Spring.
 
-### 秋季
-- 日程与春季基本相同。
+### Fall
+- Schedule is basically the same as Spring.
 
-### 冬季
-- **冬季 15 日（夜市）**: 7:00 AM 在 Marnie's Ranch；11:00 AM 离开厨房去房间；3:00 PM 离开 Marnie's Ranch 去海滩参加夜市；11:00 PM 离开夜市回家。
-- 其他日程与春季基本相同。
+### Winter
+- **Winter 15 (Night Market)**: 7:00 AM at Marnie's Ranch; 11:00 AM leaves the kitchen to go to his room; 3:00 PM leaves Marnie's Ranch to go to the beach for the Night Market; 11:00 PM leaves the Night Market and returns home.
+- Other schedules are basically the same as Spring.
 
-### 婚后日程
-- Shane 婚后除了周一和周五外不会离开农场。
-- **周一**: 6:00 AM 在家；9:30 AM 离开家；10:30 AM 到达 Marnie's Ranch；11:30 AM 离开 Marnie's Ranch；11:50 AM 站在 Cindersap Forest 北边大树下；5:00 PM 离开大树回家；7:30 PM 到家；10:00 PM 睡觉。
-- **周五**: 6:00 AM 在家；8:30 AM 离开家去鹈鹕镇河边；10:00 AM 站在河边；1:00 PM 离开河边去 Pierre's General Store；5:00 PM 离开商店去星之果实酒吧；10:00 PM 离开酒吧回家。
-- **周六早上**: 在农舍后面的鸡舍旁度过。
+### Post-Marriage Schedule
+- After marriage, Shane will not leave the farm except on Mondays and Fridays.
+- **Monday**: 6:00 AM at home; 9:30 AM leaves home; 10:30 AM arrives at Marnie's Ranch; 11:30 AM leaves Marnie's Ranch; 11:50 AM stands under the big tree in the northern part of Cindersap Forest; 5:00 PM leaves the tree and returns home; 7:30 PM arrives home; 10:00 PM goes to sleep.
+- **Friday**: 6:00 AM at home; 8:30 AM leaves home to go to the river in Pelican Town; 10:00 AM stands by the river; 1:00 PM leaves the river to go to Pierre's General Store; 5:00 PM leaves the store to go to The Stardrop Saloon; 10:00 PM leaves the saloon and returns home.
+- **Saturday Morning**: Spends time by the chicken coop behind the farmhouse.
 
-## 礼物指南
+## Gift Guide
 
-### 最爱的礼物 (Love)
-- Beer（啤酒）
-- Hot Pepper（辣椒）
-- Pepper Poppers（辣椒爆弹）
-- Pizza（披萨）
-- 所有 Universal Loves（通用最爱）
+### Loved Gifts (Love)
+- Beer
+- Hot Pepper
+- Pepper Poppers
+- Pizza
+- All Universal Loves
 
-### 喜欢的礼物 (Like)
-- 所有 Universal Likes（通用喜欢，除了 Pickles）
-- 所有 Eggs（除了 Void Egg）
-- 所有 Fruit（除了 Hot Pepper）
+### Liked Gifts (Like)
+- All Universal Likes (except Pickles)
+- All Eggs (except Void Egg)
+- All Fruit (except Hot Pepper)
 
-### 中立的礼物 (Neutral)
-- 所有 Universal Neutrals
-- Strange Bun（奇怪的面包）
+### Neutral Gifts (Neutral)
+- All Universal Neutrals
+- Strange Bun
 
-### 不喜欢的礼物 (Dislike)
-- 所有 Universal Dislikes
-- 所有 Vegetables（除了 Hops、Tea Leaves、Wheat）
-- 所有 Mushrooms（除了 Red Mushroom）
-- Quartz（石英）
-- Clay（粘土）
+### Disliked Gifts (Dislike)
+- All Universal Dislikes
+- All Vegetables (except Hops, Tea Leaves, Wheat)
+- All Mushrooms (except Red Mushroom)
+- Quartz
+- Clay
 
-### 讨厌的礼物 (Hate)
-- 所有 Universal Hates
-- Pickles（腌菜）
-- Holly（冬青）
-- Quartz（石英）
+### Hated Gifts (Hate)
+- All Universal Hates
+- Pickles
+- Holly
+- Quartz
 
-## 爱心事件
+## Heart Events
 
-### 任意时间事件
-当玩家与 Shane 达到 2 心好感时，会触发一个事件，Shane 会向玩家倾诉他的内心痛苦。
+### Any Time Event
+When the player reaches 2 hearts with Shane, an event will trigger where Shane opens up to the player about his inner pain.
 
-### 2 心事件
-进入 Marnie's Ranch，你会看到 Shane 在厨房里。他会向你展示他对鸡的热爱，并谈论他想成为一名养鸡场主的梦想。
+### 2 Heart Event
+Enter Marnie's Ranch, and you will see Shane in the kitchen. He will show you his love for chickens and talk about his dream of becoming a chicken farmer.
 
-### 3 心事件
-Shane 会寄给你一份礼物——Pepper Poppers（辣椒爆弹）的烹饪配方。
+### 3 Heart Event
+Shane will send you a gift — the cooking recipe for Pepper Poppers.
 
-### 4 心事件
-在下午 6:00 至 11:00 之间进入星之果实酒吧，你会看到 Shane 在酒吧里喝醉了。你会帮助他，并了解到他酗酒的原因。
+### 4 Heart Event
+Between 6:00 PM and 11:00 PM, enter The Stardrop Saloon, and you will see Shane drunk in the saloon. You will help him and learn the reasons for his alcoholism.
 
-### 6 心事件
-进入 Marnie's Ranch，你会看到 Shane 在照顾他的鸡。他会向你展示他新孵出的小鸡，并谈论他对未来的希望。
+### 6 Heart Event
+Enter Marnie's Ranch, and you will see Shane taking care of his chickens. He will show you his newly hatched chicks and talk about his hopes for the future.
 
-### 7 心事件（第一部分）
-Shane 会寄给你一封信，邀请你去他的房间。
+### 7 Heart Event (Part 1)
+Shane will send you a letter inviting you to his room.
 
-### 7 心事件（第二部分）
-进入 Shane 的房间，你会看到他在和 Jas 一起。他会向你展示他对 Jas 的关心，以及他想成为一个更好的人的愿望。
+### 7 Heart Event (Part 2)
+Enter Shane's room, and you will see him with Jas. He will show you his care for Jas and his desire to become a better person.
 
-### 7 心事件（第三部分）
-Shane 会寄给你一份礼物——Blue Chicken（蓝色小鸡）的解锁通知（如果你和 Shane 结婚，你的鸡有概率生下蓝色小鸡）。
+### 7 Heart Event (Part 3)
+Shane will send you a gift — a notification unlocking Blue Chickens (if you marry Shane, your chickens have a chance of laying blue eggs).
 
-### 8 心事件
-在上午 9:00 至下午 5:00 之间进入 Marnie's Ranch，你会看到 Shane 在照顾他的鸡。他会向你敞开心扉，谈论他的抑郁症以及他如何努力克服它。
+### 8 Heart Event
+Between 9:00 AM and 5:00 PM, enter Marnie's Ranch, and you will see Shane taking care of his chickens. He will open up to you, talking about his depression and how he is working to overcome it.
 
-### 10 心事件
-在晚间（8:00 PM 至午夜）前往山区，Shane 会邀请你一起观看夜景。他会向你表白，并谈论他对未来的希望。
+### 10 Heart Event
+In the evening (8:00 PM to midnight), go to the Mountains, and Shane will invite you to watch the night view together. He will confess his feelings to you and talk about his hopes for the future.
 
-### 14 心事件
-婚后事件。Shane 会邀请你一起参加一个特别的活动，展示他对你们关系的重视。
+### 14 Heart Event
+Post-marriage event. Shane will invite you to a special event, showing how much he values your relationship.
 
-## 婚姻
+## Marriage
 
-与 Shane 结婚后，他会搬入你的农舍。他会在农舍后面建造一个鸡舍，并养几只鸡。他不再在 JojaMart 工作（即使 JojaMart 仍然营业）。他还会偶尔给你送礼物，如 Beer（啤酒）或 Pepper Poppers（辣椒爆弹）。
+After marrying Shane, he will move into your farmhouse. He will build a chicken coop behind the farmhouse and raise a few chickens. He will no longer work at JojaMart (even if JojaMart is still open). He will also occasionally give you gifts such as Beer or Pepper Poppers.
 
-## 家庭关系
+## Family Relationships
 
-- **Marnie（阿姨）**: Shane 住在她的农场，Marnie 很关心他。
-- **Jas（教女）**: Shane 非常疼爱 Jas，把她当作自己的女儿一样照顾。
-- **Morris**: JojaMart 的经理，Shane 在他手下工作。
+- **Marnie (Aunt)**: Shane lives on her farm, and Marnie cares about him very much.
+- **Jas (Goddaughter)**: Shane loves Jas very much and takes care of her like his own daughter.
+- **Morris**: The manager of JojaMart, under whom Shane works.
 
-## 小贴士
+## Tips
 
-- Shane 最喜欢的礼物中，Beer 可以从星之果实酒吧购买或用 Keg 酿造。
-- Hot Pepper 可以在夏季种植，是最容易获得的 Shane 喜爱礼物之一。
-- Pepper Poppers 需要学会烹饪配方（从 Shane 处以 3 心好感获得）。
-- Pizza 可以从星之果实酒吧购买或自己烹饪。
-- 他的生日是春季 20 日，这天送礼物效果翻倍（8 倍好感度）。
-- 与 Shane 结婚后，你的鸡有概率生下蓝色小鸡。
+- Among Shane's favorite gifts, Beer can be purchased from The Stardrop Saloon or brewed using a Keg.
+- Hot Pepper can be grown in Summer and is one of the easiest loved gifts to obtain for Shane.
+- Pepper Poppers requires learning the cooking recipe (obtained from Shane at 3 hearts).
+- Pizza can be purchased from The Stardrop Saloon or cooked.
+- His birthday is Spring 20. Giving gifts on this day doubles the friendship effect (8x friendship points).
+- After marrying Shane, your chickens have a chance of hatching Blue Chickens.

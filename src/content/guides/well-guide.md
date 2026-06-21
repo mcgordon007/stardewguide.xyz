@@ -1,68 +1,67 @@
-﻿---
-title: "Stardew Valley 水井指南"
-description: "水井（Well）是星露谷物语中的农场建筑，提供稳定的水源用于给作物浇水。"
+---
+title: "Stardew Valley Well Guide"
+description: "The Well is a farm building in Stardew Valley that provides a stable water source for watering crops."
 category: farming
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["水井", "Well", "水源", "浇水", "农场建筑"]
+tags: ["Well", "water source", "watering", "farm building"]
 ---
 
-# 水井（Well）指南
+# Well Guide
 
-水井是《星露谷物语》中一种**农场建筑**，提供稳定的水源，玩家可以在此为**喷壶（Watering Can）**装水。
+The Well is a **farm building** in Stardew Valley that provides a stable water source where players can refill their **Watering Can**.
 
-## 解锁条件
+## Unlock Requirements
 
-- 无需特定技能等级，游戏开始后即可在罗宾（Robin）的**木匠商店（Carpenter's Shop）**建造
+- No specific skill level is required. It can be built at Robin's **Carpenter's Shop** from the start of the game.
 
-## 建造材料
+## Building Materials
 
-| 材料 | 数量 |
-|------|------|
-| 石头（Stone） | 75 |
-| 金币（Gold） | 1,000g |
+| Material | Quantity |
+|----------|----------|
+| Stone | 75 |
+| Gold | 1,000g |
 
-## 功能
+## Function
 
-### 提供水源
-- 玩家可以在水井处为**喷壶**装水
-- 装水速度与其他水源相同
-- 水井是**永久性水源**，不受季节影响
+### Provides Water
+- Players can refill their **Watering Can** at the Well.
+- Refill speed is the same as other water sources.
+- The Well is a **permanent water source** and is not affected by seasons.
 
-### 与其他水源对比
+### Comparison with Other Water Sources
 
-| 水源 | 优点 | 缺点 |
-|------|------|------|
-| 水井（Well） | 可在农场任意位置建造，永久可用 | 需要建造费用和材料 |
-| 池塘/湖泊 | 免费，无需建造 | 位置固定，可能距离作物较远 |
-| 厨房水槽（升级后农舍） | 在室内，方便 | 需要升级农舍 |
+| Water Source | Advantages | Disadvantages |
+|--------------|------------|---------------|
+| Well | Can be built anywhere on the farm, permanently available | Requires building costs and materials |
+| Pond / Lake | Free, no building required | Fixed location, may be far from crops |
+| Kitchen Sink (upgraded farmhouse) | Indoors, convenient | Requires upgrading the farmhouse |
 
-## 用途
+## Uses
 
-### 1. 作物浇水
-- 为喷壶装水后，可以浇灌农场上的作物
-- 在**温室（Greenhouse）**附近建造水井，方便浇灌温室作物
+### 1. Watering Crops
+- After refilling the Watering Can with water, you can water crops on the farm.
+- Building a Well near the **Greenhouse** makes it convenient to water Greenhouse crops.
 
-### 2. 配合洒水器
-- 虽然**洒水器（Sprinkler）**可以自动浇水，但游戏早期玩家仍需手动浇水
-- 水井可以减少往返池塘的时间
+### 2. Combined with Sprinklers
+- Although **Sprinklers** can water automatically, early-game players still need to water manually.
+- The Well can reduce travel time to and from the pond.
 
-### 3. 装饰用途
-- 水井可以作为农场装饰的一部分
-- 搭配围栏、路灯等营造田园氛围
+### 3. Decoration
+- The Well can be part of the farm decoration.
+- Combined with fences, lamps, etc., to create a pastoral atmosphere.
 
-## 小贴士
+## Tips
 
-- 水井是游戏早期非常实用的建筑，建议尽早建造
-- 将水井建造在**作物种植区中心**，减少行走距离
-- 随着游戏进展，**优质洒水器（Quality Sprinkler）**和**铱制洒水器（Iridium Sprinkler）**会逐渐取代手动浇水，但水井仍有其价值
-- 在**姜岛（Ginger Island）**农场也可以建造水井
+- The Well is a very practical building in the early game; it is recommended to build it as early as possible.
+- Build the Well in the **center of the crop planting area** to reduce walking distance.
+- As the game progresses, **Quality Sprinklers** and **Iridium Sprinklers** will gradually replace manual watering, but the Well still has its value.
+- A Well can also be built on the **Ginger Island** farm.
 
-## 相关建筑
+## Related Buildings
 
-- [筒仓（Silo）](./silo-guide.md) — 存储干草
-- [小屋（Shed）](./shed-guide.md) — 扩展存储空间
-- [磨坊（Mill）](./mill-guide.md) — 加工作物
-
+- [Silo](./silo-guide.md) — Stores hay
+- [Shed](./shed-guide.md) — Expands storage and workspace
+- [Mill](./mill-guide.md) — Processes crops

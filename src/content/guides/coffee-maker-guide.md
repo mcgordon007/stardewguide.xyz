@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Coffee Maker Guide"
 description: "Complete guide to the Coffee Maker in Stardew Valley - how to unlock it through Evelyn's Special Order and daily coffee production."
 category: items
@@ -9,45 +9,45 @@ featured: false
 tags: ["coffee-maker", "special-order", "coffee", "evelyn"]
 ---
 
-# Coffee Maker 指南
+# Coffee Maker Guide
 
-## 解锁条件
+## Unlock Condition
 
-Coffee Maker（咖啡机）通过完成 **Evelyn 的特殊订单（Special Order）** 解锁。
+Coffee Maker is unlocked by completing **Evelyn's Special Order**.
 
-- 特殊订单名称："Gifts for George"
-- 要求：在限定时间内收集并提交指定物品给 Evelyn
-- 完成后 Evelyn 会将 Coffee Maker 作为奖励邮寄给你
+- Special Order name: "Gifts for George"
+- Requirement: Collect and submit specified items to Evelyn within the time limit
+- After completion, Evelyn will mail the Coffee Maker as a reward
 
-## 制作材料
+## Crafting Materials
 
-Coffee Maker **无法通过 crafting 制作**，只能通过完成上述特殊订单获得。
+Coffee Maker **cannot be crafted**, can only be obtained by completing the above Special Order.
 
-## 功能说明
+## Function
 
-Coffee Maker 每天自动生产一杯 Coffee（咖啡）：
+Coffee Maker automatically produces one cup of Coffee every day:
 
-- **产出**：每天清晨自动在机器内生成 1 杯 Coffee
-- Coffee 效果：
-  - 恢复 3 点能量和 1 点生命值
-  - 提供 **+1 Speed（速度+1）**  buff，持续约 1分23秒
-  - 速度 buff 可与其他食物效果叠加
+- **Output**: Automatically generates 1 cup of Coffee in the machine every morning
+- Coffee Effects:
+  - Restores 3 Energy and 1 Health
+  - Provides **+1 Speed** buff, lasting about 1 minute 23 seconds
+  - Speed buff can stack with other food effects
 
-## 使用技巧
+## Usage Tips
 
-- 放置在农舍或农场的任意位置，每天自动收取即可
-- Coffee 的速度加成非常适合：
-  - 快速完成农场工作
-  - 赶时间在商店关门前到达
-  - Mines 探索时提高移动速度
-- 可与 Keg 酿造的 Coffee 叠加使用（但效果不叠加，仅恢复更多能量）
-- 是游戏中少数全自动生产的物品之一，零维护成本
+- Place in Farmhouse or anywhere on the farm, collect automatically every day
+- Coffee speed buff is very suitable for:
+  - Quickly completing farm work
+  - Rushing to reach shops before closing time
+  - Increasing movement speed during Mines exploration
+- Can stack with Coffee brewed in Kegs (but effects do not stack, only restores more energy)
+- One of the few fully automatic production items in the game, zero maintenance cost
 
-## 获取 Coffee 的其他方式
+## Other Ways to Get Coffee
 
-| 方式 | 说明 |
-|------|------|
-| Coffee Maker | 每天自动产出 1 杯，免费 |
-| Keg 酿造 | 需要 5 Coffee Beans，产出更高品质 |
-| 购买 | Saloon 处 300g/杯 |
-| 种植 | 夏季种植 Coffee Bean，可多次收获 |
+| Method | Notes |
+|--------|-------|
+| Coffee Maker | Automatically produces 1 cup daily, free |
+| Keg Brewing | Needs 5 Coffee Beans, produces higher quality |
+| Purchase | Saloon at 300g per cup |
+| Planting | Plant Coffee Bean in Summer, can harvest multiple times |

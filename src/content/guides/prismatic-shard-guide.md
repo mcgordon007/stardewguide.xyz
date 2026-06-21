@@ -1,169 +1,168 @@
-﻿---
-title: "Stardew Valley 五彩碎片攻略"
-description: "五彩碎片获取方式、用途及最佳使用策略全攻略"
+---
+title: "Stardew Valley Prismatic Shard Guide"
+description: "Complete guide to obtaining Prismatic Shards, their uses, and the best strategies for using them."
 category: items
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["五彩碎片", "银河剑", "稀有物品", "附魔", "博物馆"]
+tags: ["Prismatic Shard", "Galaxy Sword", "rare items", "enchanting", "museum"]
 ---
 
-# 五彩碎片攻略
+# Prismatic Shard Guide
 
-五彩碎片（Prismatic Shard）是星露谷物语中最稀有、最珍贵的物品之一。它有着多种重要用途，是游戏后期发展的关键道具。
+The Prismatic Shard is one of the rarest and most valuable items in Stardew Valley. It has several important uses and is a key item for late-game progression.
 
-## 获取方式
+## How to Obtain
 
-五彩碎片的获取概率极低，以下是所有获取途径：
+The chance of obtaining a Prismatic Shard is extremely low. Here are all the ways to get one:
 
-### 采矿获取
+### Mining
 
-| 来源 | 概率 | 说明 |
-|------|------|------|
-| 铱矿节点 | 3.5% | 骷髅洞穴150层以上 |
-| 神秘矿石 | 25% | 矿井任意层数随机出现 |
-| 采石场铱矿 | 4% | 采石场中的铱矿节点 |
-| 宝石矿 | 极低 | 矿井中的宝石矿节点 |
+| Source | Chance | Notes |
+|--------|--------|-------|
+| Iridium Nodes | 3.5% | Skull Cavern floor 150+ |
+| Mystic Stones | 25% | Randomly appear on any mine floor |
+| Quarry Iridium Nodes | 4% | Iridium nodes in the Quarry |
+| Gem Nodes | Extremely low | Gem nodes in the Mines |
 
-### 怪物掉落
+### Monster Drops
 
-| 怪物 | 掉落概率 | 出现地点 |
-|------|----------|----------|
-| 暗影狂徒 | 0.05% | 矿井80-120层 |
-| 暗影萨满 | 0.05% | 矿井80-120层 |
-| 木乃伊 | 0.1% | 骷髅洞穴 |
-| 紫色史莱姆 | 0.05% | 骷髅洞穴 |
-| 铱蝙蝠 | 0.05% | 骷髅洞穴 |
+| Monster | Drop Chance | Location |
+|---------|-------------|----------|
+| Shadow Brute | 0.05% | Mines floors 80-120 |
+| Shadow Shaman | 0.05% | Mines floors 80-120 |
+| Mummy | 0.1% | Skull Cavern |
+| Purple Slime | 0.05% | Skull Cavern |
+| Iridium Bat | 0.05% | Skull Cavern |
 
-### 其他获取方式
+### Other Methods
 
-| 方式 | 概率 | 说明 |
-|------|------|------|
-| 钓鱼宝箱 | 极低 | 钓鱼时出现的宝箱 |
-| Omni Geode | 0.4% | 万象晶球 |
-|  淘盘 | 极低 | 河流中使用淘盘 |
-|  骷髅洞穴宝藏房 | 中等 | 骷髅洞穴中的宝藏房间 |
-|  沙漠矿车 | 极低 | 卡利科沙漠矿车奖励 |
+| Method | Chance | Notes |
+|--------|--------|-------|
+| Fishing Treasure Chests | Extremely low | Treasure chests while fishing |
+| Omni Geode | 0.4% | Omni Geodes |
+| Panning | Extremely low | Using the Copper Pan in rivers |
+| Skull Cavern Treasure Rooms | Medium | Treasure rooms in the Skull Cavern |
+| Desert Mine Cart | Extremely low | Calico Desert mine cart rewards |
 
-> 获取五彩碎片最可靠的方式是在骷髅洞穴150层以上大量开采铱矿节点。
+> The most reliable way to obtain Prismatic Shards is to mine a large number of Iridium Nodes in the Skull Cavern below floor 150.
 
-## 主要用途
+## Main Uses
 
-### 1. 获取银河剑（最重要）
+### 1. Obtaining the Galaxy Sword (Most Important)
 
-将五彩碎片带到卡利科沙漠的三根柱子中央：
-- 获得 **银河剑**（游戏最强武器之一）
-- 同时解锁银河匕首和银河锤的购买权限
-- 在探险家公会购买
+Take a Prismatic Shard to the center of the three pillars in the Calico Desert:
+- Obtain the **Galaxy Sword** (one of the strongest weapons in the game).
+- Also unlocks the ability to purchase the Galaxy Dagger and Galaxy Hammer.
+- Available for purchase at the Adventurer's Guild.
 
-> 这是五彩碎片最重要的用途，强烈建议第一个五彩碎片用于获取银河剑。
+> This is the most important use of the Prismatic Shard. It is strongly recommended to use your first Prismatic Shard to obtain the Galaxy Sword.
 
-### 2. 武器/工具附魔
+### 2. Weapon/Tool Enchanting
 
-在火山地牢第10层的锻造台：
-- 消耗 **1个五彩碎片 + 20个火山晶石**
-- 为武器或工具添加附魔效果
-- 每个工具只能有一个附魔，但可以用新的五彩碎片替换
+At the Forge on floor 10 of the Volcano Dungeon:
+- Consumes **1 Prismatic Shard + 20 Cinder Shards**.
+- Adds an enchantment effect to a weapon or tool.
+- Each tool can only have one enchantment, but it can be replaced with a new Prismatic Shard.
 
-**武器附魔效果：**
-| 附魔 | 效果 |
-|------|------|
-| 巧妙 | 攻击速度提升 |
-| 虫子杀手 | 对虫类怪物伤害翻倍 |
-| 十字军 | 对暗影怪物伤害翻倍 |
-| 吸血鬼 | 击杀怪物时恢复生命值 |
-| 干草 | 击杀史莱姆时掉落干草 |
+**Weapon Enchantments:**
+| Enchantment | Effect |
+|-------------|--------|
+| Artful | Increased attack speed |
+| Bug Killer | Double damage to bug-type monsters |
+| Crusader | Double damage to undead monsters |
+| Vampiric | Restore health when killing monsters |
+| Haymaker | Slimes drop hay when killed |
 
-**工具附魔效果：**
-| 工具 | 推荐附魔 | 效果 |
-|------|----------|------|
-| 锄头 | 范围 | 增加耕作范围 |
-| 水壶 | 省力 | 减少蓄力时间 |
-| 斧头 | 丰富 | 增加木材产量 |
-| 镐 | 迅捷 | 增加采矿速度 |
-| 鱼竿 | 自动上钩 | 自动钓鱼 |
-| 喷壶 | 无底洞 | 无限水量 |
+**Tool Enchantments:**
+| Tool | Recommended Enchantment | Effect |
+|------|------------------------|--------|
+| Hoe | Reaching | Increased tilling range |
+| Watering Can | Efficient | Reduced charge time |
+| Axe | Shaving | Increased wood yield |
+| Pickaxe | Swift | Increased mining speed |
+| Fishing Rod | Auto-Hook | Automatic fishing |
+| Watering Can | Bottomless | Unlimited water capacity |
 
-### 3. 捐赠博物馆
+### 3. Museum Donation
 
-- 可以捐赠给博物馆（Gunther）
-- 但不是必须捐赠的物品
-- 建议优先用于其他用途
+- Can be donated to the Museum (Gunther).
+- Not a required donation item.
+- It is recommended to prioritize other uses.
 
-### 4. 礼物
+### 4. Gifts
 
-- 五彩碎片是**几乎所有村民的"最爱"礼物**（例外：Haley讨厌五彩碎片）
-- 送给任何NPC都能获得最高好感度
-- 但鉴于其稀有性，不建议作为普通礼物使用
+- The Prismatic Shard is a **"loved" gift for almost all villagers** (exception: Haley hates Prismatic Shards).
+- Giving it to any NPC will grant the maximum friendship increase.
+- However, due to its rarity, it is not recommended to use it as a regular gift.
 
-### 5. 制作结婚戒指
+### 5. Crafting the Wedding Ring
 
-- 在旅行商人处购买配方
-- 需要 1个五彩碎片 + 5个铱锭
-- 用于多人游戏中向其他玩家求婚
+- Purchase the recipe from the Traveling Cart.
+- Requires 1 Prismatic Shard + 5 Iridium Bars.
+- Used to propose to other players in multiplayer.
 
-### 6. 裁缝
+### 6. Tailoring
 
-- 在缝纫机中使用五彩碎片可以制作特殊服装
-- 可以染出独特的彩虹色
+- Using a Prismatic Shard in the Sewing Machine can create special clothing.
+- Can be dyed with a unique rainbow color.
 
-### 7. 任务
+### 7. Quests
 
-- 齐先生的"四颗宝石"特别任务需要收集4个五彩碎片
-- 任务期间新收集的才算数
+- Mr. Qi's "Four Gems" special order requires collecting 4 Prismatic Shards.
+- Only newly collected shards during the quest period count.
 
-## 最佳使用策略
+## Best Usage Strategy
 
-### 第一个五彩碎片
-**强烈推荐用于获取银河剑**。银河剑是游戏最强武器，大幅提升战斗能力。
+### First Prismatic Shard
+**Strongly recommended to use it to obtain the Galaxy Sword.** The Galaxy Sword is the strongest weapon in the game and greatly enhances combat ability.
 
-### 第二个及以后的五彩碎片
-1. **优先附魔工具**：推荐先附魔镐（迅捷）和水壶（省力）
-2. **附魔武器**：推荐"巧妙"（攻速）或"吸血鬼"（回血）
-3. **备用**：留1-2个备用，用于任务或紧急情况
+### Second and Subsequent Prismatic Shards
+1. **Prioritize enchanting tools**: It is recommended to enchant the Pickaxe (Swift) and Watering Can (Efficient) first.
+2. **Enchant weapons**: Recommended enchantments are "Artful" (attack speed) or "Vampiric" (health regeneration).
+3. **Keep in reserve**: Keep 1-2 in reserve for quests or emergencies.
 
-### 不建议的用途
-- 捐赠博物馆（不是必须的）
-- 作为普通礼物（太浪费了）
-- 出售（售价2,000g，但价值远高于售价）
+### Not Recommended Uses
+- Donating to the Museum (not required).
+- As a regular gift (too wasteful).
+- Selling (sells for 2,000g, but its value far exceeds the selling price).
 
-## 刷五彩碎片技巧
+## Farming Prismatic Shards
 
-### 最佳地点：骷髅洞穴
-1. 大量制作楼梯，快速下到150层以上
-2. 使用炸弹炸开铱矿节点
-3. 击杀紫色史莱姆和木乃伊
-4. 寻找宝藏房间
+### Best Location: Skull Cavern
+1. Craft a large number of Staircases to quickly descend to floor 150+.
+2. Use bombs to blast open Iridium Nodes.
+3. Kill Purple Slimes and Mummies.
+4. Look for treasure rooms.
 
-### 幸运加成
-- 选择高幸运日进入骷髅洞穴
-- 吃香辣鳗鱼（+1运气）
-- 佩戴幸运戒指
-- 携带幸运兔脚
+### Luck Boosts
+- Enter the Skull Cavern on high-luck days.
+- Eat Spicy Eel (+1 luck).
+- Wear a Lucky Ring.
+- Carry a Rabbit's Foot.
 
-### 效率提升
-- 使用无限之刃或银河剑快速击杀怪物
-- 带足炸弹和楼梯
-- 忽略普通矿石，专注找铱矿节点
+### Efficiency Improvements
+- Use the Infinity Blade or Galaxy Sword to quickly kill monsters.
+- Bring plenty of bombs and staircases.
+- Ignore regular ore and focus on finding Iridium Nodes.
 
-## 1.6更新变化
+## 1.6 Update Changes
 
-- 新增更多附魔选项
-- 龙牙附魔可以与武器附魔叠加
-- 齐先生的"四颗宝石"任务需要五彩碎片
+- Added more enchantment options.
+- Dragon Tooth enchantments can now stack with weapon enchantments.
+- Mr. Qi's "Four Gems" quest requires Prismatic Shards.
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 五彩碎片能卖多少钱？**
-A: 售价2,000g，但强烈不建议出售，用途远比售价有价值。
+**Q: How much can a Prismatic Shard be sold for?**
+A: It sells for 2,000g, but it is strongly recommended not to sell it, as its uses are far more valuable than the selling price.
 
-**Q: 一个存档能获得多少个五彩碎片？**
-A: 理论上无限，但获取概率极低。普通玩家一个存档可能获得5-20个。
+**Q: How many Prismatic Shards can be obtained in one save file?**
+A: Theoretically infinite, but the drop rate is extremely low. An average player might obtain 5-20 in one save file.
 
-**Q: 五彩碎片能放进种子机吗？**
-A: 不能，五彩碎片不是作物种子。
+**Q: Can a Prismatic Shard be put in a Seed Maker?**
+A: No, the Prismatic Shard is not a crop seed.
 
-**Q: 博物馆需要五彩碎片吗？**
-A: 可以捐赠但不是必须的，不影响博物馆完成度。
-
+**Q: Does the Museum need a Prismatic Shard?**
+A: It can be donated but is not required, and it does not affect Museum completion.

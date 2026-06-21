@@ -1,82 +1,81 @@
-﻿---
-title: "Stardew Valley 小屋指南"
-description: "小屋（Shed）是星露谷物语中的农场建筑，提供额外的室内空间用于存储和放置工匠设备。"
+---
+title: "Stardew Valley Shed Guide"
+description: "The Shed is a farm building in Stardew Valley that provides additional indoor space for storage and artisan equipment."
 category: farming
 season: all
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["小屋", "Shed", "大小屋", "Big Shed", "存储", "农场建筑"]
+tags: ["Shed", "Big Shed", "storage", "farm building"]
 ---
 
-# 小屋（Shed）指南
+# Shed Guide
 
-小屋是《星露谷物语》中一种**农场建筑**，提供额外的室内空间，可用于存储物品或放置工匠设备（Artisan Equipment）。
+The Shed is a **farm building** in Stardew Valley that provides additional indoor space, which can be used for storing items or placing artisan equipment.
 
-## 解锁条件
+## Unlock Requirements
 
-- 无需特定技能等级，游戏开始后即可在罗宾（Robin）的**木匠商店（Carpenter's Shop）**建造
+- No specific skill level is required. It can be built at Robin's **Carpenter's Shop** from the start of the game.
 
-## 普通小屋（Shed）
+## Regular Shed
 
-### 建造材料
+### Building Materials
 
-| 材料 | 数量 |
-|------|------|
-| 木材（Wood） | 300 |
-| 石头（Stone） | 150 |
-| 金币（Gold） | 15,000g |
+| Material | Quantity |
+|----------|----------|
+| Wood | 300 |
+| Stone | 150 |
+| Gold | 15,000g |
 
-### 空间
-- 室内尺寸：**11 × 9** 格
-- 总可用空间：**99 格**
+### Space
+- Indoor dimensions: **11 x 9** tiles
+- Total usable space: **99** tiles
 
-## 大小屋（Big Shed）
+## Big Shed
 
-大小屋是普通小屋的升级版本，提供更大的室内空间。
+The Big Shed is an upgraded version of the regular Shed, providing larger indoor space.
 
-### 升级材料
+### Upgrade Materials
 
-| 材料 | 数量 |
-|------|------|
-| 木材（Wood） | 450 |
-| 石头（Stone） | 200 |
-| 金币（Gold） | 20,000g |
+| Material | Quantity |
+|----------|----------|
+| Wood | 450 |
+| Stone | 200 |
+| Gold | 20,000g |
 
-### 空间
-- 室内尺寸：**17 × 12** 格
-- 总可用空间：**204 格**
-- 相比普通小屋，空间提升了约 **106%**
+### Space
+- Indoor dimensions: **17 x 12** tiles
+- Total usable space: **204** tiles
+- Compared to the regular Shed, the space increases by approximately **106%**.
 
-## 用途
+## Uses
 
-### 1. 存储空间
-- 放置**箱子（Chest）**来存放大量物品
-- 大箱子（Big Chest）可存放 **70 格** 物品
-- 一个小屋内可以放置多个箱子，实现分类存储
+### 1. Storage Space
+- Place **Chests** to store large quantities of items.
+- Big Chests can hold **70** items.
+- Multiple chests can be placed inside a Shed for organized storage.
 
-### 2. 工匠设备工坊
-- 放置**小桶（Keg）**酿造酒类和果汁
-- 放置**罐头瓶（Preserves Jar）**制作果酱和腌菜
-- 放置**织布机（Loom）**、**蛋黄酱机（Mayonnaise Machine）**等设备
-- 大小屋可容纳大量设备，形成高效的**工匠商品生产线**
+### 2. Artisan Equipment Workshop
+- Place **Kegs** to brew wine and juice.
+- Place **Preserves Jars** to make jam and pickles.
+- Place **Looms**, **Mayonnaise Machines**, and other equipment.
+- The Big Shed can accommodate a large amount of equipment, forming an efficient **artisan goods production line**.
 
-### 3. 装饰与布局
-- 可铺设地板（Flooring）
-- 可放置家具和装饰品
-- 可安装窗户和门
+### 3. Decoration and Layout
+- Can lay down Flooring.
+- Can place furniture and decorations.
+- Can install windows and doors.
 
-## 小贴士
+## Tips
 
-- 小屋是游戏中最具性价比的扩展空间方式之一
-- 建议优先建造普通小屋，后期资金充裕时再升级为大小屋
-- 将工匠设备集中放置在小屋内，便于管理和收集成品
-- 小屋内部不受季节和天气影响，设备全年可运行
-- 合理规划布局，留出行走通道以提高效率
+- The Shed is one of the most cost-effective ways to expand space in the game.
+- It is recommended to build a regular Shed first and upgrade to a Big Shed later when funds are more abundant.
+- Concentrating artisan equipment inside a Shed makes management and collection of finished products easier.
+- The interior of a Shed is not affected by seasons or weather, so equipment can operate year-round.
+- Plan the layout reasonably, leaving walking paths to improve efficiency.
 
-## 相关建筑
+## Related Buildings
 
-- [磨坊（Mill）](./mill-guide.md) — 加工作物
-- [筒仓（Silo）](./silo-guide.md) — 存储干草
-- [大箱子（Big Chest）](./big-chest-guide.md) — 扩展存储容量
-
+- [Mill](./mill-guide.md) — Processes crops
+- [Silo](./silo-guide.md) — Stores hay
+- [Big Chest](./big-chest-guide.md) — Expands storage capacity

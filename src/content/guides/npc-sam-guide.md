@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Sam Guide - Marriage Candidate"
 description: "Complete guide to Sam in Stardew Valley. Learn about his schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,114 +9,114 @@ featured: false
 tags: ["npc", "marriage", "sam"]
 ---
 
-# Sam 完全指南
+# Sam Complete Guide
 
-Sam 是 Stardew Valley 中一位可结婚的男性 NPC，住在鹈鹕镇南部的 1 Willow Lane。他是一个外向、充满活力的年轻人，热爱音乐和滑板。
+Sam is a marriageable male NPC in Stardew Valley who lives at 1 Willow Lane in the southern part of Pelican Town. He is an outgoing, energetic young man who loves music and skateboarding.
 
-## 基本信息
+## Basic Information
 
-- **生日**: 夏季 17 日 (Summer 17)
-- **住址**: 1 Willow Lane（鹈鹕镇南部，河边以北）
-- **家庭**: Kent（父亲）、Jodi（母亲）、Vincent（弟弟）
-- **可结婚**: 是
-- **诊所检查日**: 秋季 11 日
+- **Birthday**: Summer 17
+- **Address**: 1 Willow Lane (southern Pelican Town, north of the river)
+- **Family**: Kent (father), Jodi (mother), Vincent (younger brother)
+- **Marriageable**: Yes
+- **Clinic Checkup Day**: Fall 11
 
-## 日程安排
+## Schedule
 
-### 春季
-- **常规日程**: 10:00 AM 醒来在房间里走动；10:40 AM 在卧室弹吉他；1:40 PM 离开卧室去镇上，站在 Lewis 家附近的河边；6:30 PM 回家；9:00 PM 回卧室睡觉。
-- **雨天（选项 1）**: 10:00 AM 醒来站在梳妆台前；11:00 AM 在房间弹吉他；3:00 PM 在厨房玩掌上游戏机；5:00 PM 回卧室站在梳妆台前；6:30 PM 在书桌旁；8:00 PM 睡觉。
-- **雨天（选项 2）**: 10:00 AM 醒来在房间走动；11:00 AM 在家里走动；2:00 PM 离开卧室去星之果实酒吧；7:40 PM 离开酒吧回卧室睡觉。
-- **周一和周三**: 10:00 AM 醒来站在卧室中间；11:00 AM 离开卧室去 JojaMart（如果社区中心已修复则去博物馆）；12:50 PM 到达工作地点开始工作；4:00 PM 下班回家；6:00 PM 在卧室站在书架前；9:30 PM 睡觉。
-- **周五**: 10:00 AM 醒来在卧室弹吉他；11:00 AM 离开卧室在屋外玩滑板；3:00 PM 去星之果实酒吧；4:00 PM 在酒吧街机旁打台球；9:20 PM 离开酒吧回家；10:20 PM 到家。
-- **周六**: 8:00 AM 醒来离开卧室去 Haley 和 Emily 家门前的河边；11:00 AM 去附近的灌木丛玩掌上游戏机；12:30 PM 和 Sebastian 一起回卧室练习吉他；3:00 PM 和 Sebastian 在房间里；6:00 PM 和 Sebastian 离开家去河边；7:40 PM 回卧室睡觉。
+### Spring
+- **Regular Schedule**: 10:00 AM wakes up and walks around his room; 10:40 AM plays guitar in his bedroom; 1:40 PM leaves his bedroom and goes to town, standing by the river near Mayor Lewis's house; 6:30 PM returns home; 9:00 PM goes to his bedroom to sleep.
+- **Rainy Day (Option 1)**: 10:00 AM wakes up and stands in front of his dresser; 11:00 AM plays guitar in his room; 3:00 PM plays a handheld game console in the kitchen; 5:00 PM returns to his bedroom and stands in front of his dresser; 6:30 PM stands by his desk; 8:00 PM goes to sleep.
+- **Rainy Day (Option 2)**: 10:00 AM wakes up and walks around his room; 11:00 AM walks around the house; 2:00 PM leaves his bedroom and goes to The Stardrop Saloon; 7:40 PM leaves the saloon and returns to his bedroom to sleep.
+- **Monday and Wednesday**: 10:00 AM wakes up and stands in the middle of his bedroom; 11:00 AM leaves his bedroom and goes to JojaMart (goes to the Museum if the Community Center has been restored); 12:50 PM arrives at his workplace and starts working; 4:00 PM leaves work and returns home; 6:00 PM stands in front of the bookshelf in his bedroom; 9:30 PM goes to sleep.
+- **Friday**: 10:00 AM wakes up and plays guitar in his bedroom; 11:00 AM leaves his bedroom and plays skateboard outside; 3:00 PM goes to The Stardrop Saloon; 4:00 PM plays pool by the arcade machine in the saloon; 9:20 PM leaves the saloon and returns home; 10:20 PM arrives home.
+- **Saturday**: 8:00 AM wakes up and leaves his bedroom to go to the river in front of Haley and Emily's house; 11:00 AM goes to a nearby bush to play a handheld game console; 12:30 PM returns to his bedroom with Sebastian to practice guitar; 3:00 PM stays in his room with Sebastian; 6:00 PM leaves the house with Sebastian to go to the river; 7:40 PM returns to his bedroom to sleep.
 
-### 夏季
-- **常规日程**: 10:00 AM 醒来在房间走动；11:00 AM 在卧室弹吉他；1:40 PM 离开卧室和弟弟 Vincent 一起去海滩篝火旁；7:00 PM 回家；9:00 PM 回卧室睡觉。
-- **其他日程**: 与春季类似，雨天和周末安排相同。
+### Summer
+- **Regular Schedule**: 10:00 AM wakes up and walks around his room; 11:00 AM plays guitar in his bedroom; 1:40 PM leaves his bedroom and goes to the beach bonfire with his younger brother Vincent; 7:00 PM returns home; 9:00 PM goes to his bedroom to sleep.
+- **Other Schedules**: Similar to Spring, with the same rainy day and weekend schedules.
 
-### 秋季
-- **常规日程**: 与春季常规日程相同。
-- **秋季 11 日（诊所检查）**: 10:00 AM 醒来在卧室；11:30 AM 去诊所做年度检查，在候诊室玩掌上游戏机；1:30 PM 接受体检；4:00 PM 离开诊所去镇上；9:00 PM 回卧室睡觉。
+### Fall
+- **Regular Schedule**: Same as the Spring regular schedule.
+- **Fall 11 (Clinic Checkup)**: 10:00 AM wakes up in his bedroom; 11:30 AM goes to the clinic for his annual checkup, playing a handheld game console in the waiting room; 1:30 PM receives a physical examination; 4:00 PM leaves the clinic and goes to town; 9:00 PM returns to his bedroom to sleep.
 
-### 冬季
-- **常规日程**: 与春季类似。
+### Winter
+- **Regular Schedule**: Similar to Spring.
 
-## 礼物指南
+## Gift Guide
 
-### 最爱的礼物 (Love)
-- Cactus Fruit（仙人掌果）
-- Maple Bar（枫糖棒）
-- Pizza（披萨）
-- Tigerseye（虎眼石）
-- 所有 Universal Loves（通用最爱）
+### Loved Gifts (Love)
+- Cactus Fruit
+- Maple Bar
+- Pizza
+- Tigerseye
+- All Universal Loves
 
-### 喜欢的礼物 (Like)
-- 所有 Universal Likes（通用喜欢）
-- Joja Cola（Joja 可乐）
-- Beer（啤酒）
+### Liked Gifts (Like)
+- All Universal Likes
+- Joja Cola
+- Beer
 
-### 中立的礼物 (Neutral)
-- 所有 Universal Neutrals
-- 所有 Eggs（除了 Void Egg）
-- 所有 Fruit（除了 Fruit Tree Fruit、Salmonberry）
-- Milk（牛奶）
+### Neutral Gifts (Neutral)
+- All Universal Neutrals
+- All Eggs (except Void Egg)
+- All Fruit (except Fruit Tree Fruit, Salmonberry)
+- Milk
 
-### 不喜欢的礼物 (Dislike)
-- 所有 Universal Dislikes
-- 所有 Vegetables（除了 Hops、Tea Leaves、Wheat）
-- 所有 Mushrooms（除了 Red Mushroom）
-- Quartz（石英）
-- Clay（粘土）
+### Disliked Gifts (Dislike)
+- All Universal Dislikes
+- All Vegetables (except Hops, Tea Leaves, Wheat)
+- All Mushrooms (except Red Mushroom)
+- Quartz
+- Clay
 
-### 讨厌的礼物 (Hate)
-- 所有 Universal Hates
-- Coal（煤炭）
-- Copper Ore（铜矿石）
-- Gold Ore（金矿石）
-- Iridium Ore（铱矿石）
-- Iron Ore（铁矿石）
-- Mayonnaise（蛋黄酱）
-- Pickles（腌菜）
-- Refined Quartz（精炼石英）
+### Hated Gifts (Hate)
+- All Universal Hates
+- Coal
+- Copper Ore
+- Gold Ore
+- Iridium Ore
+- Iron Ore
+- Mayonnaise
+- Pickles
+- Refined Quartz
 
-## 爱心事件
+## Heart Events
 
-### 2 心事件
-进入 Sam 的家，你会看到他在卧室弹吉他。他会和你谈论他的音乐梦想以及他想和 Sebastian 组建乐队的愿望。
+### 2 Heart Event
+Enter Sam's house, and you will see him playing guitar in his bedroom. He will talk to you about his music dreams and his desire to form a band with Sebastian.
 
-### 3 心事件
-Sam 会寄给你一份礼物——Hashbrowns（薯饼）的烹饪配方。
+### 3 Heart Event
+Sam will send you a gift — the cooking recipe for Hashbrowns.
 
-### 4 心事件
-在上午 11:00 至下午 4:00 之间进入鹈鹕镇，你会看到 Sam 和 Sebastian 在 Haley 和 Emily 家门前。Sam 会表演滑板特技，结果摔倒了，你会帮助他。
+### 4 Heart Event
+Between 11:00 AM and 4:00 PM, enter Pelican Town, and you will see Sam and Sebastian in front of Haley and Emily's house. Sam will perform a skateboard trick, fall, and you will help him.
 
-### 6 心事件
-进入 Sam 的卧室，他正在和 Sebastian 一起练习音乐。他们会邀请你加入，之后 Sam 会谈论他对音乐的热情。
+### 6 Heart Event
+Enter Sam's bedroom, where he is practicing music with Sebastian. They will invite you to join, and afterward, Sam will talk about his passion for music.
 
-### 8 心事件
-在上午 6:00 至下午 4:00 之间进入镇上，你会看到 Sam 在桥上。他会和你谈论他的家庭以及他对父亲 Kent 从军队归来的复杂感受。
+### 8 Heart Event
+Between 6:00 AM and 4:00 PM, enter town, and you will see Sam on the bridge. He will talk to you about his family and his complex feelings about his father Kent returning from the military.
 
-### 10 心事件
-在晚间（8:00 PM 至午夜）前往镇上，Sam 会邀请你去看他的乐队演出。演出结束后，他会向你表白。
+### 10 Heart Event
+In the evening (8:00 PM to midnight), go to town, and Sam will invite you to watch his band perform. After the performance, he will confess his feelings to you.
 
-### 14 心事件
-婚后事件。Sam 会邀请你一起参加一个特别的活动，展示他对你们关系的重视。
+### 14 Heart Event
+Post-marriage event. Sam will invite you to a special event, showing how much he values your relationship.
 
-## 婚姻
+## Marriage
 
-与 Sam 结婚后，他会搬入你的农舍。他会在农舍里设置一个音乐工作站，有时会帮忙给宠物碗加水。他还会偶尔给你送礼物，如 Pizza（披萨）或 Cactus Fruit（仙人掌果）。
+After marrying Sam, he will move into your farmhouse. He will set up a music workstation in the farmhouse, sometimes help refill the pet bowl with water, and occasionally give you gifts such as Pizza or Cactus Fruit.
 
-## 家庭关系
+## Family Relationships
 
-- **Kent（父亲）**: 军人，长期在外服役，Sam 对他的归来感到既期待又紧张。
-- **Jodi（母亲）**: 家庭主妇，Sam 和她关系很好。
-- **Vincent（弟弟）**: Sam 很疼爱他的弟弟，经常和他一起玩耍。
+- **Kent (Father)**: A soldier who has been serving away for a long time. Sam feels both excited and nervous about his return.
+- **Jodi (Mother)**: A housewife. Sam has a very good relationship with her.
+- **Vincent (Younger Brother)**: Sam loves his younger brother very much and often plays with him.
 
-## 小贴士
+## Tips
 
-- Sam 最喜欢的礼物中，Cactus Fruit 可以在沙漠中获得（需要修复巴士）。
-- Maple Bar 可以从星之果实酒吧购买或自己烹饪（需要学会配方）。
-- Pizza 可以从星之果实酒吧购买或自己烹饪（需要学会配方）。
-- Tigerseye 可以在矿洞中找到。
-- 他的生日是夏季 17 日，这天送礼物效果翻倍（8 倍好感度）。
+- Among Sam's favorite gifts, Cactus Fruit can be obtained in the Desert (requires repairing the bus).
+- Maple Bar can be purchased from The Stardrop Saloon or cooked (requires learning the recipe).
+- Pizza can be purchased from The Stardrop Saloon or cooked (requires learning the recipe).
+- Tigerseye can be found in the Mines.
+- His birthday is Summer 17. Giving gifts on this day doubles the friendship effect (8x friendship points).

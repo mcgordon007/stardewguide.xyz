@@ -1,160 +1,159 @@
-﻿---
-title: "Stardew Valley 星露谷展览会攻略"
-description: "秋季展览会全攻略，包括转盘技巧、Grange Display评比、小游戏及星币获取"
+---
+title: "Stardew Valley Fair Guide"
+description: "Complete guide to the Stardew Valley Fair, including Spinning Wheel tips, Grange Display judging, mini-games, and Star Token acquisition."
 category: seasons
 season: fall
 difficulty: beginner
 date: 2026-06-15
 featured: false
-tags: ["展览会", "秋季", "星币", "转盘", "Grange Display", "星之果实"]
+tags: ["Fair", "Fall", "Star Tokens", "Spinning Wheel", "Grange Display", "Stardrop"]
 ---
 
-# 星露谷展览会攻略
+# Stardew Valley Fair Guide
 
-星露谷展览会（Stardew Valley Fair）是秋季第16天举行的重要节日。这是游戏中唯一可以购买**星之果实**（永久增加体力上限）的节日。
+The Stardew Valley Fair is an important festival held on Fall 16. It is the only festival in the game where you can purchase a **Stardrop** (permanently increases max energy).
 
-## 基本信息
+## Basic Information
 
-- **日期**：秋季第16天
-- **时间**：上午9:00 - 下午3:00
-- **地点**：鹈鹕镇广场
-- **特点**：农场当天自动浇水，可以安心参加节日
+- **Date**: Fall 16
+- **Time**: 9:00 AM - 3:00 PM
+- **Location**: Pelican Town Square
+- **Feature**: Crops on the farm are automatically watered, so you can attend the festival with peace of mind.
 
-## 节日活动
+## Festival Activities
 
-### 1. Grange Display 评比
+### 1. Grange Display Judging
 
-将9件物品展示在展台上，由州长和刘易斯镇长评分。评分标准：
+Display 9 items on the booth, which will be scored by Governor and Mayor Lewis. Scoring criteria:
 
-| 评分项 | 分数 |
-|--------|------|
-| 物品多样性（8个类别） | 每个类别+1分 |
-| 物品总价值 | 高价值物品加分 |
-| 物品品质 | 铱星/金星加分 |
-| 镇长刘易斯的偏好 | 特定物品额外加分 |
+| Scoring Item | Points |
+|--------------|--------|
+| Item diversity (8 categories) | +1 point per category |
+| Total item value | High-value items get bonus points |
+| Item quality | Iridium/Gold quality gets bonus points |
+| Mayor Lewis's preference | Specific items get extra points |
 
-**8个类别：** 动物产品、工匠物品、烹饪、鱼、采集、水果、矿物、蔬菜
+**8 Categories:** Animal Products, Artisan Goods, Cooking, Fish, Foraging, Fruit, Minerals, Vegetables
 
-**高分技巧：**
-- 展示8个不同类别的物品
-- 优先选择铱星品质物品
-- 高价值物品：钻石、铱锭、上古水果酒、五彩碎片
-- 刘易斯偏好的物品：刘易斯的短裤（彩蛋，放入可获750星币）
+**High-Score Tips:**
+- Display items from 8 different categories.
+- Prioritize Iridium quality items.
+- High-value items: Diamond, Iridium Bar, Ancient Fruit Wine, Prismatic Shard.
+- Lewis's preferred item: Mayor Lewis's Purple Shorts (easter egg, placing it grants 750 Star Tokens).
 
-**评分结果：**
-| 排名 | 奖励 |
-|------|------|
-| 第一名 | 1,000星币 |
-| 第二名 | 500星币 |
-| 其他 | 参与奖 |
+**Judging Results:**
+| Rank | Reward |
+|------|--------|
+| 1st Place | 1,000 Star Tokens |
+| 2nd Place | 500 Star Tokens |
+| Other | Participation Award |
 
-### 2. 转盘游戏（Spinning Wheel）
+### 2. Spinning Wheel
 
-展览会最受欢迎的赚钱方式：
+The most popular way to earn money at the fair:
 
-| 投注 | 赔率 | 概率 |
-|------|------|------|
-| 绿色 | 2:1 | 约75% |
-| 橙色 | 2:1 | 约25% |
+| Bet | Odds | Probability |
+|-----|------|-------------|
+| Green | 2:1 | ~75% |
+| Orange | 2:1 | ~25% |
 
-**技巧：**
-- 绿色出现概率约73.3%，橙色约26.6%
-- 建议每次押注绿色，稳步积累星币
-- 可以将所有星币押在绿色上，快速积累
+**Tips:**
+- Green has approximately a 73.3% chance of appearing, Orange approximately 26.6%.
+- It is recommended to bet on Green each time, steadily accumulating Star Tokens.
+- You can bet all your Star Tokens on Green to quickly accumulate them.
 
-### 3. 小游戏
+### 3. Mini-Games
 
-| 游戏 | 玩法 | 星币奖励 |
-|------|------|----------|
-| 钓鱼小游戏 | 在规定时间内钓鱼 | 根据钓鱼数量 |
-| 弹弓小游戏 | 射击移动目标 | 根据命中数量 |
-| 迷宫 | 找到出口 | 完成奖励 |
+| Game | How to Play | Star Token Reward |
+|------|-------------|-------------------|
+| Fishing Mini-Game | Catch fish within the time limit | Based on the number of fish caught |
+| Slingshot Mini-Game | Shoot moving targets | Based on the number of hits |
+| Maze | Find the exit | Completion reward |
 
-## 星币商店
+## Star Token Shop
 
-用星币兑换各种奖励：
+Exchange Star Tokens for various rewards:
 
-| 商品 | 星币价格 | 说明 |
-|------|----------|------|
-| **星之果实** | **2,000** | **永久+34体力上限（必买）** |
-| 珍奇乌鸦 #1 | 800 | 稀有稻草人 |
-| 稻草人 | 500 | 普通稻草人 |
-| 星币帽 | 1,000 | 帽子 |
-| 蓝色小鸡 | 1,000 | 解锁蓝色小鸡购买 |
-| 各种家具 | 各种价格 | 装饰用 |
+| Item | Star Token Price | Notes |
+|------|------------------|-------|
+| **Stardrop** | **2,000** | **Permanently +34 max energy (must buy)** |
+| Rarecrow #1 | 800 | Rare scarecrow |
+| Scarecrow | 500 | Regular scarecrow |
+| Star Token Hat | 1,000 | Hat |
+| Blue Chicken | 1,000 | Unlocks Blue Chicken purchase |
+| Various Furniture | Various prices | For decoration |
 
-> **星之果实是必买物品**，每年只能购买一次，错过等一年。
+> **The Stardrop is a must-buy item**, available only once per year; if you miss it, you have to wait another year.
 
-## 赚钱策略
+## Money-Making Strategy
 
-### 最佳赚钱流程
+### Best Money-Making Process
 
-1. **准备阶段**：
-   - 带100g进入节日（最低入场费）
-   - 准备好Grange Display的9件物品
+1. **Preparation Phase**:
+   - Bring 100g to enter the festival (minimum entrance fee).
+   - Prepare 9 items for the Grange Display.
 
-2. **参加Grange Display**：
-   - 展示9件高价值物品
-   - 争取第一名（1,000星币）
+2. **Participate in Grange Display**:
+   - Display 9 high-value items.
+   - Aim for 1st place (1,000 Star Tokens).
 
-3. **转盘赚钱**：
-   - 将所有星币押在绿色上
-   - 绿色概率约75%，稳步翻倍
-   - 重复几次即可积累大量星币
+3. **Spinning Wheel Money-Making**:
+   - Bet all Star Tokens on Green.
+   - Green has approximately a 75% chance, steadily doubling.
+   - Repeat a few times to accumulate a large number of Star Tokens.
 
-4. **购买星之果实**：
-   - 攒够2,000星币
-   - 购买星之果实（永久+34体力）
+4. **Purchase Stardrop**:
+   - Save up 2,000 Star Tokens.
+   - Purchase the Stardrop (permanent +34 energy).
 
-### 星币计算示例
+### Star Token Calculation Example
 
-| 步骤 | 星币变化 |
-|------|----------|
-| 初始 | 0 |
-| Grange Display第一名 | +1,000 |
-| 押1,000绿色（赢） | +2,000 |
-| 押2,000绿色（赢） | +4,000 |
-| 购买星之果实 | -2,000 |
-| 剩余 | 2,000+ |
+| Step | Star Token Change |
+|------|-------------------|
+| Initial | 0 |
+| Grange Display 1st Place | +1,000 |
+| Bet 1,000 on Green (Win) | +2,000 |
+| Bet 2,000 on Green (Win) | +4,000 |
+| Purchase Stardrop | -2,000 |
+| Remaining | 2,000+ |
 
-## 实用技巧
+## Useful Tips
 
-### Grange Display 推荐物品
+### Grange Display Recommended Items
 
-| 类别 | 推荐物品 | 品质 |
-|------|----------|------|
-| 动物产品 | 大瓶羊奶/大鸡蛋 | 铱星 |
-| 工匠物品 | 上古水果酒/钻石 | 铱星 |
-| 烹饪 | 幸运午餐/香辣鳗鱼 | — |
-| 鱼 | 传说鱼/岩浆鳗鱼 | — |
-| 采集 | 紫蘑菇/鸡油菌 | 铱星 |
-| 水果 | 上古水果/杨桃 | 铱星 |
-| 矿物 | 五彩碎片/钻石 | — |
-| 蔬菜 | 南瓜/红叶卷心菜 | 铱星 |
+| Category | Recommended Item | Quality |
+|----------|------------------|---------|
+| Animal Products | Large Goat Milk / Large Egg | Iridium |
+| Artisan Goods | Ancient Fruit Wine / Diamond | Iridium |
+| Cooking | Lucky Lunch / Spicy Eel | — |
+| Fish | Legendary Fish / Lava Eel | — |
+| Foraging | Purple Mushroom / Chanterelle | Iridium |
+| Fruit | Ancient Fruit / Starfruit | Iridium |
+| Minerals | Prismatic Shard / Diamond | — |
+| Vegetables | Pumpkin / Red Cabbage | Iridium |
 
-### 注意事项
-- 节日结束后未使用的星币**不会**保留到明年（每年清零）
-- 星之果实每年只能购买一次
-- 珍奇乌鸦每年都可以购买
-- 节日当天农场自动浇水，不用担心作物
+### Notes
+- Unused Star Tokens after the festival **will not** be carried over to the next year (reset annually).
+- The Stardrop can only be purchased once per year.
+- Rarecrows can be purchased every year.
+- Crops on the farm are automatically watered on the festival day, so you don't have to worry about them.
 
-## 1.6更新变化
+## 1.6 Update Changes
 
-- 新增更多节日装饰和家具
-- 转盘机制未改变
-- 星之果实价格未改变
+- Added more festival decorations and furniture.
+- Spinning Wheel mechanics remain unchanged.
+- Stardrop price remains unchanged.
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 星之果实每年都能买吗？**
-A: 是的，每年秋季展览会都可以购买一次星之果实。
+**Q: Can I buy the Stardrop every year?**
+A: Yes, you can purchase one Stardrop every year at the Stardew Valley Fair.
 
-**Q: 转盘绿色真的概率更高吗？**
-A: 是的，绿色概率约75%，橙色约25%。
+**Q: Is the Green probability on the Spinning Wheel really higher?**
+A: Yes, Green has approximately a 75% chance, Orange approximately 25%.
 
-**Q: Grange Display可以放刘易斯的短裤吗？**
-A: 可以！这是一个彩蛋，放入后会获得额外750星币，刘易斯会很尴尬。
+**Q: Can I place Mayor Lewis's Purple Shorts in the Grange Display?**
+A: Yes! This is an easter egg. Placing it will grant an extra 750 Star Tokens, and Lewis will be very embarrassed.
 
-**Q: 展览会结束后星币会消失吗？**
-A: 不会，未使用的星币会保留到明年。
-
+**Q: Do Star Tokens disappear after the fair ends?**
+A: No, unused Star Tokens are carried over to the next year.

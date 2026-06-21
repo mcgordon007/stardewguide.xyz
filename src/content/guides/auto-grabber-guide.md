@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Auto-Grabber Guide - Automatically Collects Animal Products"
 description: "Complete guide to the Auto-Grabber in Stardew Valley, a farming tool that automatically collects animal products from barns and coops."
 category: farming
@@ -9,73 +9,73 @@ featured: false
 tags: ["auto-grabber", "automation", "farming", "animals", "barn", "coop"]
 ---
 
-# Stardew Valley Auto-Grabber 指南
+# Stardew Valley Auto-Grabber Guide
 
-## 简介
+## Introduction
 
-**Auto-Grabber（自动采集器）** 是《星露谷物语》中一种非常实用的自动化工具。放置在畜棚（Barn）或鸡舍（Coop）内后，它会自动收集动物产出的物品，如牛奶、鸡蛋、羊毛等。
+**Auto-Grabber** is a very practical automation tool in Stardew Valley. When placed inside a Barn or Coop, it automatically collects animal products such as milk, eggs, wool, etc.
 
-## 获取方式
+## Acquisition
 
-- **购买**：在达到 Farming 等级 10 后，可从 Pierre General Store 以 25,000g 购买
-- **解锁条件**：需要 Farming 技能达到 10 级
+- **Purchase**: Available at Pierre's General Store for 25,000g after reaching Farming Level 10
+- **Unlock Condition**: Requires Farming skill Level 10
 
-## 使用方法
+## Usage
 
-1. 将 Auto-Grabber 放置在畜棚或鸡舍内部
-2. 每个建筑内只需放置一个 Auto-Grabber
-3. 第二天早晨，动物产出的所有物品会自动被收集到 Auto-Grabber 中
-4. 与 Auto-Grabber 互动即可取出收集到的物品
+1. Place the Auto-Grabber inside a Barn or Coop
+2. Only one Auto-Grabber is needed per building
+3. The next morning, all animal products will be automatically collected into the Auto-Grabber
+4. Interact with the Auto-Grabber to retrieve collected items
 
-## 可收集物品
+## Collectible Items
 
-Auto-Grabber 可以自动收集以下动物产品：
+Auto-Grabber can automatically collect the following animal products:
 
-### 鸡舍（Coop）
-- 鸡蛋（Egg）
-- 大鸡蛋（Large Egg）
-- 棕色鸡蛋（Brown Egg）
-- 大棕色鸡蛋（Large Brown Egg）
-- 鸭蛋（Duck Egg）
-- 鸭毛（Duck Feather）
-- 兔子的脚（Rabbit Foot）
-- 恐龙蛋（Dinosaur Egg）
+### Coop
+- Egg
+- Large Egg
+- Brown Egg
+- Large Brown Egg
+- Duck Egg
+- Duck Feather
+- Rabbit's Foot
+- Dinosaur Egg
 
-### 畜棚（Barn）
-- 牛奶（Milk）
-- 大壶牛奶（Large Milk）
-- 羊奶（Goat Milk）
-- 大壶羊奶（Large Goat Milk）
-- 羊毛（Wool）
-- 松露（Truffle） - 由猪在户外发现
-- 鸵鸟蛋（Ostrich Egg）
+### Barn
+- Milk
+- Large Milk
+- Goat Milk
+- Large Goat Milk
+- Wool
+- Truffle - discovered by pigs outdoors
+- Ostrich Egg
 
-## 注意事项
+## Notes
 
-- 每个畜棚/鸡舍只需要一个 Auto-Grabber
-- 不会收集需要手动获取的物品（如抚摸动物获得的好感度）
-- 不会影响动物的好感度（与手动收集相同）
-- 收集的物品会保留在 Auto-Grabber 中，直到玩家取出
-- 容量没有上限
+- Only one Auto-Grabber is needed per Barn/Coop
+- Does not collect items that require manual interaction (such as petting animals for friendship)
+- Does not affect animal friendship (same as manual collection)
+- Collected items remain in the Auto-Grabber until player retrieves them
+- No capacity limit
 
-## 策略建议
+## Strategy Tips
 
-- 在拥有多个畜棚/鸡舍的大型农场中，Auto-Grabber 可以节省大量时间
-- 配合 Auto-Petter（自动抚摸器）使用，可以实现完全自动化的动物养殖
-- 建议在每个畜棚和鸡舍中都放置一个
-- 对于松露农场（大量养猪），Auto-Grabber 尤为重要
+- In large farms with multiple barns/coops, Auto-Grabber can save a lot of time
+- Combined with Auto-Petter, fully automated animal farming can be achieved
+- Recommended to place one in every Barn and Coop
+- Especially important for truffle farms (large number of pigs)
 
-## 与 Auto-Petter 的区别
+## Difference from Auto-Petter
 
-- **Auto-Grabber**：收集动物产品
-- **Auto-Petter**：每天自动抚摸动物，维持好感度
+- **Auto-Grabber**: Collects animal products
+- **Auto-Petter**: Automatically pets animals daily, maintaining friendship
 
-两者配合使用可以实现动物养殖的完全自动化。
+Both used together can achieve fully automated animal farming.
 
-## 版本历史
+## Version History
 
-- **1.5 版本**：新增物品
+- **Version 1.5**: Added item
 
 ---
 
-*本指南基于 Stardew Valley 1.6 版本编写。游戏内容可能随更新而变化，建议参考官方 Wiki 获取最新信息。*
+*This guide is based on Stardew Valley 1.6. Game content may change with updates; refer to the official Wiki for latest information.*

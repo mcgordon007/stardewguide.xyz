@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Bait Maker Guide - Crafting Station for Making Bait"
 description: "Crafting station for making bait"
 category: items
@@ -9,39 +9,37 @@ featured: false
 tags: ["bait", "fishing", "crafting"]
 ---
 
-# Stardew Valley Bait Maker 指南
+# Stardew Valley Bait Maker Guide
 
-## 简介
+## Introduction
 
-**Bait Maker（鱼饵制造机）** 是 Stardew Valley 1.6 版本新增的一种可制作设备，用于将鱼类转化为特定类型的鱼饵。
+**Bait Maker** is a craftable device added in Stardew Valley 1.6, used to convert fish into specific types of bait.
 
-## 解锁条件
+## Unlock Condition
 
-- 达到 **钓鱼等级 6 级** 后解锁配方
+- Recipe unlocked after reaching **Fishing Level 6**
 
-## 制作材料
+## Crafting Materials
 
-- 铁锭 (Iron Bar) x3
-- 珊瑚 (Coral) x3
-- 海胆 (Sea Urchin) x1
+- Iron Bar x3
+- Coral x3
+- Sea Urchin x1
 
-## 功能说明
+## Function
 
-将任意鱼类放入 Bait Maker，经过一定时间后会产出与该鱼类对应的**针对性鱼饵 (Targeted Bait)**。
+Put any fish into the Bait Maker, and after a certain time it will produce **Targeted Bait** corresponding to that fish type.
 
-- 针对性鱼饵在钓鱼时，能**大幅提高钓到该类鱼的几率**
-- 不同鱼类产出的鱼饵颜色和效果不同
-- 制作时间约为 **10 分钟**（游戏时间）
+- Targeted Bait **greatly increases the chance** of catching that type of fish when fishing
+- Different fish produce different colors and effects of bait
+- Production time is about **10 minutes** (game time)
 
-## 使用技巧
+## Usage Tips
 
-1. 使用常见鱼类（如鲤鱼、鲱鱼）批量制作针对性鱼饵
-2. 在挑战传说鱼类或特定季节鱼类时，提前准备对应鱼饵
-3. 配合优质钓竿和鱼饵槽升级，提升钓鱼效率
+1. Use common fish (such as Carp, Herring) to mass-produce Targeted Bait
+2. Prepare corresponding bait in advance when challenging Legendary Fish or seasonal fish
+3. Combined with high-quality rods and bait slot upgrades to improve fishing efficiency
 
-## 相关设备
+## Related Equipment
 
-- [Worm Bin（蠕虫箱）](./worm-bin-guide.md) - 每日产出普通鱼饵
-- [Deluxe Worm Bin（豪华蠕虫箱）](./deluxe-worm-bin-guide.md) - 每日产出更多鱼饵
-
-
+- [Worm Bin](./worm-bin-guide.md) - Daily produces regular bait
+- [Deluxe Worm Bin](./deluxe-worm-bin-guide.md) - Daily produces more bait

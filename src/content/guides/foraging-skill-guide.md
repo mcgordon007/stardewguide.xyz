@@ -1,51 +1,51 @@
-﻿---
-title: "Stardew Valley 觅食技能攻略"
-description: "觅食技能等级奖励、职业选择策略及采集效率优化"
+---
+title: "Stardew Valley Foraging Skill Guide"
+description: "Foraging skill level rewards, profession choice strategies, and foraging efficiency optimization"
 category: skills
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["觅食", "技能", "职业", "追踪者", "植物学家"]
+tags: ["foraging", "skill", "profession", "tracker", "botanist"]
 ---
 
-# 觅食技能攻略
+# Foraging Skill Guide
 
-觅食技能影响采集物品质、树液采集器效率和觅食范围。
+The Foraging skill affects foraged item quality, tapper efficiency, and foraging range.
 
-## 如何提升
+## How to Level Up
 
-- **采集野外物品**：+3觅食经验
-- **砍树**：+1觅食经验
-- **使用树液采集器**：+1觅食经验
-- **挖远古斑点**：+2觅食经验
+- **Forage wild items**: +3 foraging XP
+- **Chop trees**: +1 foraging XP
+- **Use tappers**: +1 foraging XP
+- **Dig artifact spots**: +2 foraging XP
 
-## 等级奖励
+## Level Rewards
 
-| 等级 | 奖励 |
-|------|------|
-| 1 | 解锁野外采集物品质提升 |
-| 2 | 解锁树液采集器配方 |
-| 4 | 解锁野生种子配方 |
-| 5 | 职业选择 |
-| 7 | 解锁松露油配方 |
-| 8 | 解锁雨量读取器 |
-| 10 | 职业选择 |
+| Level | Reward |
+|-------|--------|
+| 1 | Unlock wild foraged item quality increase |
+| 2 | Unlock Tapper recipe |
+| 4 | Unlock Wild Seeds recipe |
+| 5 | Profession choice |
+| 7 | Unlock Truffle Oil recipe |
+| 8 | Unlock Rain Totem |
+| 10 | Profession choice |
 
-## 5级职业选择
+## Level 5 Profession Choice
 
-### 追踪者（Tracker）- 可采集物品在小地图上显示
-### 植物学家（Botanist）- 采集物品总是铱星品质
+### Tracker - Forageable items appear on the mini-map
+### Botanist - Foraged items are always iridium quality
 
-> **推荐植物学家**，铱星品质采集物售价大幅提升。
+> **Recommended: Botanist**, as iridium quality foraged items sell for significantly more.
 
-## 10级职业选择
+## Level 10 Profession Choice
 
-### 栖息地（Ecologist）- 觅食物品+30%售价（需植物学家）
-### 灰烬领主（Tapper）- 树液采集器2倍速（需追踪者）
+### Ecologist - Foraged items sell for +30% more (requires Botanist)
+### Tapper - Tappers work at 2x speed (requires Tracker)
 
-> **推荐栖息地**，铱星品质+30%售价非常可观。
+> **Recommended: Ecologist**, iridium quality + 30% sell price is very profitable.
 
-## 常见问题
+## FAQ
 
-**Q: 追踪者和植物学家哪个好？** A: 植物学家更好。
+**Q: Which is better, Tracker or Botanist?** A: Botanist is better.

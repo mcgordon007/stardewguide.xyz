@@ -1,73 +1,73 @@
-﻿---
-title: "Stardew Valley 耕种技能攻略"
-description: "耕种技能等级奖励、职业选择策略及最佳搭配推荐"
+---
+title: "Stardew Valley Farming Skill Guide"
+description: "Farming skill level rewards, profession choice strategies, and best combinations"
 category: skills
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["耕种", "技能", "职业", "工匠", "采摘者"]
+tags: ["Farming", "Skill", "Profession", "Artisan", "Tiller"]
 ---
 
-# 耕种技能攻略
+# Farming Skill Guide
 
-耕种技能是星露谷物语中最核心的技能之一，影响作物产量、品质和利润。
+Farming skill is one of the most core skills in Stardew Valley, affecting crop yield, quality, and profit.
 
-## 如何提升
+## How to Level Up
 
-- **收割作物**：+3耕种经验
-- **采集**：+1耕种经验
-- **使用锄头耕地**：+1耕种经验
-- **浇水**：+1耕种经验
-- **收获果树**：+7耕种经验
+- **Harvest crops**: +3 Farming XP
+- **Forage**: +1 Farming XP
+- **Use Hoe to till**: +1 Farming XP
+- **Water crops**: +1 Farming XP
+- **Harvest fruit trees**: +7 Farming XP
 
-## 等级奖励
+## Level Rewards
 
-| 等级 | 奖励 |
-|------|------|
-| 1 | 解锁高级肥料配方 |
-| 2 | 解锁保留土壤配方 |
-| 3 | 解锁优质土壤配方 |
-| 4 | 解锁生长激素配方 |
-| 5 | 职业选择 |
-| 6 | 解锁高级生长激素配方 |
-| 7 | 解锁铱级肥料配方 |
-| 8 | 解锁高级保湿土壤配方 |
-| 9 | 解锁顶级生长激素配方 |
-| 10 | 职业选择 |
+| Level | Reward |
+|-------|--------|
+| 1 | Unlocks Quality Fertilizer recipe |
+| 2 | Unlocks Retaining Soil recipe |
+| 3 | Unlocks Basic Fertilizer recipe |
+| 4 | Unlocks Speed-Gro recipe |
+| 5 | Profession choice |
+| 6 | Unlocks Deluxe Speed-Gro recipe |
+| 7 | Unlocks Deluxe Fertilizer recipe |
+| 8 | Unlocks Quality Retaining Soil recipe |
+| 9 | Unlocks Hyper Speed-Gro recipe |
+| 10 | Profession choice |
 
-## 5级职业选择
+## Level 5 Profession Choice
 
-### 采摘者（Tiller）
-- **效果**：作物基础售价+10%
-- **适合**：直接出售作物的玩家
+### Tiller
+- **Effect**: Crop base sell price +10%
+- **Suitable for**: Players who sell crops directly
 
-### 农艺师（Agriculturist）
-- **效果**：作物生长速度+10%
-- **适合**：多收型作物玩家
+### Agriculturist
+- **Effect**: Crop growth speed +10%
+- **Suitable for**: Multi-harvest crop players
 
-> **推荐采摘者**，因为10级工匠职业的+40%加成是基于售价的。
+> **Recommended Tiller**, because Level 10 Artisan profession's +40% bonus is based on sell price.
 
-## 10级职业选择
+## Level 10 Profession Choice
 
-### 工匠（Artisan）
-- **效果**：工匠物品（酒、奶酪、果酱等）售价+40%
-- **适合**：大量使用酒桶、小桶的玩家
+### Artisan
+- **Effect**: Artisan items (wine, cheese, jam, etc.) sell price +40%
+- **Suitable for**: Players who heavily use Kegs and Casks
 
-### 牧场主（Rancher）
-- **效果**：动物产品售价+20%
-- **适合**：大量养殖动物的玩家
+### Rancher
+- **Effect**: Animal product sell price +20%
+- **Suitable for**: Players who heavily raise animals
 
-> **强烈推荐工匠**，工匠物品利润远高于动物产品。
+> **Strongly recommended Artisan**, artisan item profits far exceed animal products.
 
-## 最佳搭配
+## Best Combinations
 
-| 搭配 | 效果 |
-|------|------|
-| 采摘者 + 工匠 | 作物售价+10%，工匠物品+40% |
-| 农艺师 + 工匠 | 生长速度+10%，工匠物品+40% |
+| Combination | Effect |
+|-------------|--------|
+| Tiller + Artisan | Crop sell price +10%, artisan items +40% |
+| Agriculturist + Artisan | Growth speed +10%, artisan items +40% |
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 采摘者和农艺师哪个好？** A: 采摘者更好，因为10级工匠职业的+40%加成是基于售价的。
-**Q: 工匠和牧场主哪个好？** A: 工匠远好于牧场主。
+**Q: Which is better, Tiller or Agriculturist?** A: Tiller is better, because Level 10 Artisan profession's +40% bonus is based on sell price.
+**Q: Which is better, Artisan or Rancher?** A: Artisan is far better than Rancher.

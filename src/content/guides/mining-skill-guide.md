@@ -1,60 +1,60 @@
-﻿---
-title: "Stardew Valley 采矿技能攻略"
-description: "采矿技能等级奖励、职业选择策略及矿石获取效率优化"
+---
+title: "Stardew Valley Mining Skill Guide"
+description: "Mining skill level rewards, profession choice strategies, and ore acquisition efficiency optimization"
 category: skills
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["采矿", "技能", "职业", "矿工", "地质学家"]
+tags: ["mining", "skill", "profession", "miner", "geologist"]
 ---
 
-# 采矿技能攻略
+# Mining Skill Guide
 
-采矿技能影响矿石获取效率和矿井战斗能力。
+The Mining skill affects ore acquisition efficiency and combat ability in the Mines.
 
-## 如何提升
+## How to Level Up
 
-- **砸碎石头**：+1采矿经验
-- **击杀矿井怪物**：+2采矿经验
-- **打开晶洞**：+5采矿经验
+- **Break rocks**: +1 mining XP
+- **Kill mine monsters**: +2 mining XP
+- **Open geodes**: +5 mining XP
 
-## 等级奖励
+## Level Rewards
 
-| 等级 | 奖励 |
-|------|------|
-| 1 | 解锁铜锭配方 |
-| 2 | 解锁火把配方 |
-| 3 | 解锁楼梯配方 |
-| 4 | 解锁铁锭配方 |
-| 5 | 职业选择 |
-| 6 | 解锁金锭配方 |
-| 7 | 解锁炸弹配方 |
-| 8 | 解锁铱锭配方 |
-| 9 | 解锁超级炸弹配方 |
-| 10 | 职业选择 |
+| Level | Reward |
+|-------|--------|
+| 1 | Unlock Copper Bar recipe |
+| 2 | Unlock Torch recipe |
+| 3 | Unlock Staircase recipe |
+| 4 | Unlock Iron Bar recipe |
+| 5 | Profession choice |
+| 6 | Unlock Gold Bar recipe |
+| 7 | Unlock Bomb recipe |
+| 8 | Unlock Iridium Bar recipe |
+| 9 | Unlock Mega Bomb recipe |
+| 10 | Profession choice |
 
-## 5级职业选择
+## Level 5 Profession Choice
 
-### 矿工（Miner）
-- **效果**：每砸碎一个石头额外获得1个矿石
+### Miner
+- **Effect**: +1 ore per rock broken
 
-### 地质学家（Geologist）
-- **效果**：晶洞有概率产出双倍宝石
+### Geologist
+- **Effect**: Geodes have a chance to produce double gems
 
-> **推荐矿工**，矿石是游戏中最常用的资源。
+> **Recommended: Miner**, as ore is the most commonly used resource in the game.
 
-## 10级职业选择
+## Level 10 Profession Choice
 
-### 黑领（Blacksmith）
-- **效果**：金属锭价值+50%
+### Blacksmith
+- **Effect**: Metal bars sell for +50% more
 
-### 探矿者（Prospector）
-- **效果**：矿石节点出现概率翻倍
+### Prospector
+- **Effect**: Ore node spawn rate doubled
 
-> **推荐探矿者**，更多矿石节点意味着更多矿石。
+> **Recommended: Prospector**, more ore nodes means more ore.
 
-## 常见问题
+## FAQ
 
-**Q: 矿工和地质学家哪个好？** A: 矿工更实用。
-**Q: 黑领和探矿者哪个好？** A: 探矿者更好。
+**Q: Which is better, Miner or Geologist?** A: Miner is more practical.
+**Q: Which is better, Blacksmith or Prospector?** A: Prospector is better.

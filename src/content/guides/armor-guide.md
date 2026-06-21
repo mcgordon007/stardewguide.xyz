@@ -1,152 +1,152 @@
-﻿---
-title: "Stardew Valley 护甲攻略"
-description: "护甲获取方式、防御属性、最佳搭配及战斗装备推荐"
+---
+title: "Stardew Valley Armor Guide"
+description: "Armor acquisition methods, defense stats, best combinations, and combat equipment recommendations"
 category: combat
 season: all
 difficulty: intermediate
 date: 2026-06-15
 featured: false
-tags: ["护甲", "防御", "战斗", "装备", "银河之魂", "靴子"]
+tags: ["Armor", "Defense", "Combat", "Equipment", "Galaxy Soul", "Boots"]
 ---
 
-# 护甲攻略
+# Armor Guide
 
-护甲是星露谷物语战斗系统的重要组成部分，可以有效减少受到的伤害。本攻略涵盖所有可获取的护甲及其推荐搭配。
+Armor is an important part of the combat system in Stardew Valley, effectively reducing damage taken. This guide covers all obtainable armor and recommended combinations.
 
-## 护甲系统说明
+## Armor System Explanation
 
-- 护甲提供**防御**属性，每点防御减少1点受到的伤害
-- 护甲分为**衬衫（Shirt）**和**裤子（Pants）**两个部位
-- 部分特殊护甲提供额外效果
-- 可以在缝纫机中自定义外观
+- Armor provides **Defense** stats, each point reduces damage taken by 1
+- Armor is divided into **Shirt** and **Pants** slots
+- Some special armor provides additional effects
+- Can customize appearance at the Sewing Machine
 
-## 基础护甲
+## Basic Armor
 
-### 衬衫（Shirts）
+### Shirts
 
-| 护甲 | 防御 | 获取方式 |
-|------|------|----------|
-| 条纹衬衫 | 1 | 游戏开始自带 |
-| 普通衬衫 | 0 | 皮埃尔商店购买 |
-| 派对衬衫 | 0 | 特殊事件获得 |
+| Armor | Defense | Acquisition |
+|-------|---------|-------------|
+| Striped Shirt | 1 | Default at game start |
+| Plain Shirt | 0 | Pierre's General Store |
+| Party Shirt | 0 | Special events |
 
-> 大部分衬衫不提供防御，主要用于外观定制。
+> Most shirts do not provide defense, mainly for appearance customization.
 
-### 裤子（Pants）
+### Pants
 
-| 护甲 | 防御 | 获取方式 |
-|------|------|----------|
-| 普通裤子 | 0 | 游戏开始自带 |
-| 染色裤子 | 0 | 皮埃尔商店购买 |
+| Armor | Defense | Acquisition |
+|-------|---------|-------------|
+| Plain Pants | 0 | Default at game start |
+| Dyed Pants | 0 | Pierre's General Store |
 
-> 基础裤子不提供防御，防御主要来自靴子。
+> Basic pants do not provide defense; defense mainly comes from boots.
 
-## 靴子（主要防御来源）
+## Boots (Main Defense Source)
 
-靴子是战斗中防御的主要来源：
+Boots are the main source of defense in combat:
 
-| 靴子 | 防御 | 获取方式 |
-|------|------|----------|
-| 皮靴 | 3 | 矿井10层宝箱 |
-| 钢靴 | 5 | 矿井40层宝箱 |
-| 水晶鞋 | 4 | 矿井50层宝箱 |
-| 影子靴 | 6 | 矿井60层宝箱 |
-| 太空靴 | 7 | 矿井70层宝箱 |
-| 火焰靴 | 7 | 矿井80层宝箱 |
-| 冰霜靴 | 7 | 矿井90层宝箱 |
-| 运动鞋 | 3 | 矿井100层宝箱 |
-| 灰烬小丑鞋 | 7 | 火山地牢矮人商店（100火山晶石） |
-| 骑士靴 | 5 | 稀有怪物掉落 |
-| 银河之魂靴 | 7 | 银河之魂 + 铱锭锻造 |
+| Boots | Defense | Acquisition |
+|-------|---------|-------------|
+| Leather Boots | 3 | Mines Level 10 chest |
+| Steel-Toed Boots | 5 | Mines Level 40 chest |
+| Crystal Shoes | 4 | Mines Level 50 chest |
+| Shadow Boots | 6 | Mines Level 60 chest |
+| Space Boots | 7 | Mines Level 70 chest |
+| Firewalker Boots | 7 | Mines Level 80 chest |
+| Genie Shoes | 7 | Mines Level 90 chest |
+| Sneakers | 3 | Mines Level 100 chest |
+| Cinderclown Shoes | 7 | Volcano Dungeon Dwarf Shop (100 Cinder Shards) |
+| Knight's Boots | 5 | Rare monster drops |
+| Galaxy Soul Boots | 7 | Galaxy Soul + Iridium Bar forging |
 
-> 太空靴和银河之魂靴是游戏中最强的靴子。
+> Space Boots and Galaxy Soul Boots are the strongest boots in the game.
 
-## 特殊护甲
+## Special Armor
 
-### 银河之魂护甲（Galaxy Soul Armor）
+### Galaxy Soul Armor
 
-1.6版本新增的终极护甲：
+Ultimate armor added in version 1.6:
 
-| 部位 | 防御 | 制作材料 |
-|------|------|----------|
-| 银河之魂衬衫 | 7 | 1银河之魂 + 5铱锭 |
-| 银河之魂裤子 | 7 | 1银河之魂 + 5铱锭 |
+| Slot | Defense | Crafting Materials |
+|------|---------|--------------------|
+| Galaxy Soul Shirt | 7 | 1 Galaxy Soul + 5 Iridium Bars |
+| Galaxy Soul Pants | 7 | 1 Galaxy Soul + 5 Iridium Bars |
 
-> 银河之魂护甲是游戏中防御最高的护甲，需要收集银河之魂制作。
+> Galaxy Soul Armor has the highest defense in the game, requires collecting Galaxy Souls to craft.
 
-### 银河之魂获取方式
+### Galaxy Soul Acquisition Methods
 
-- 骷髅洞穴100层以上怪物掉落（极低概率）
-- 齐先生核桃房用40齐钻购买
-- 完成齐先生特别任务
+- Monster drops in Skull Cavern above Level 100 (very low chance)
+- Purchase with 40 Qi Gems at Mr. Qi's Walnut Room
+- Complete Mr. Qi's Special Orders
 
-## 防御机制
+## Defense Mechanics
 
-### 伤害计算
+### Damage Calculation
 
-实际受到的伤害 = 怪物伤害 - 总防御值（最低为1）
+Actual damage taken = Monster damage - Total defense value (minimum 1)
 
-| 怪物伤害 | 0防御 | 7防御 | 14防御 |
-|----------|--------|--------|---------|
+| Monster Damage | 0 Defense | 7 Defense | 14 Defense |
+|----------------|-----------|-----------|------------|
 | 10 | 10 | 3 | 1 |
 | 20 | 20 | 13 | 6 |
 | 30 | 30 | 23 | 16 |
 
-> 防御不会使伤害降为0，最低受到1点伤害。
+> Defense cannot reduce damage to 0; minimum damage taken is 1.
 
-### 最佳防御配置
+### Best Defense Configuration
 
-| 配置 | 总防御 |
-|------|--------|
-| 太空靴 + 银河之魂衬衫 + 银河之魂裤子 | 21 |
-| 灰烬小丑鞋 + 银河之魂衬衫 + 银河之魂裤子 | 21 |
-| 太空靴 + 普通衬衫 + 普通裤子 | 7 |
+| Configuration | Total Defense |
+|---------------|---------------|
+| Space Boots + Galaxy Soul Shirt + Galaxy Soul Pants | 21 |
+| Cinderclown Shoes + Galaxy Soul Shirt + Galaxy Soul Pants | 21 |
+| Space Boots + Plain Shirt + Plain Pants | 7 |
 
-## 推荐装备搭配
+## Recommended Equipment Combinations
 
-### 前期（矿井）
-- **武器**：钢制小剑
-- **靴子**：皮靴（矿井10层）
-- **戒指**：蛙声戒指
+### Early Game (Mines)
+- **Weapon**: Steel Smallsword
+- **Boots**: Leather Boots (Mines Level 10)
+- **Rings**: Slime Charmer Ring
 
-### 中期（骷髅洞穴）
-- **武器**：银河剑
-- **靴子**：太空靴（矿井70层）
-- **戒指**：吸血戒指 + 铱环
+### Mid Game (Skull Cavern)
+- **Weapon**: Galaxy Sword
+- **Boots**: Space Boots (Mines Level 70)
+- **Rings**: Vampire Ring + Iridium Band
 
-### 后期（火山地牢）
-- **武器**：无限之刃
-- **靴子**：银河之魂靴
-- **衬衫**：银河之魂衬衫
-- **裤子**：银河之魂裤子
-- **戒指**：铱环 x 2（或组合戒指）
+### Late Game (Volcano Dungeon)
+- **Weapon**: Infinity Blade
+- **Boots**: Galaxy Soul Boots
+- **Shirt**: Galaxy Soul Shirt
+- **Pants**: Galaxy Soul Pants
+- **Rings**: Iridium Band x 2 (or combined rings)
 
-## 实用技巧
+## Practical Tips
 
-### 防御 vs 攻击
-- 前期优先提升攻击（更好的武器）
-- 后期补充防御（银河之魂护甲）
-- 食物buff可以同时提升攻击和防御
+### Defense vs Attack
+- Early game prioritize attack (better weapons)
+- Late game supplement defense (Galaxy Soul Armor)
+- Food buffs can boost both attack and defense
 
-### 食物Buff
-- **战士餐（Warrior's Feast）**：+5攻击
-- **生命花药水（Life Elixir）**：+3防御
-- **辣椒鳗鱼（Spicy Eel）**：+1速度+1防御
+### Food Buffs
+- **Warrior's Feast**: +5 Attack
+- **Life Elixir**: +3 Defense
+- **Spicy Eel**: +1 Speed +1 Defense
 
-### 缝纫机定制
-- 在缝纫机中可以用布料+染料自定义衬衫和裤子外观
-- 外观不影响属性
+### Sewing Machine Customization
+- Use cloth + dye at the Sewing Machine to customize shirt and pants appearance
+- Appearance does not affect stats
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q: 护甲上限是多少？**
-A: 靴子最高7防御，银河之魂衬衫和裤子各7防御，总计21防御。
+**Q: What is the armor cap?**
+A: Boots max at 7 defense, Galaxy Soul Shirt and Pants each 7 defense, totaling 21 defense.
 
-**Q: 银河之魂护甲怎么制作？**
-A: 需要银河之魂和铱锭，在缝纫机中制作。
+**Q: How do I craft Galaxy Soul Armor?**
+A: Requires Galaxy Souls and Iridium Bars, crafted at the Sewing Machine.
 
-**Q: 防御能减到0伤害吗？**
-A: 不能，最低受到1点伤害。
+**Q: Can defense reduce damage to 0?**
+A: No, minimum damage taken is 1.
 
-**Q: 靴子在哪里获得？**
-A: 主要通过矿井宝箱获取（10-100层），灰烬小丑鞋在火山地牢矮人商店购买。
+**Q: Where do I get boots?**
+A: Mainly from Mines chests (Levels 10-100), Cinderclown Shoes purchased at Volcano Dungeon Dwarf Shop.

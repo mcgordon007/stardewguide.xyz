@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stardew Valley Penny Guide - Marriage Candidate"
 description: "Complete guide to Penny in Stardew Valley. Learn about her schedule, loved gifts, heart events, and marriage."
 category: social
@@ -9,165 +9,165 @@ featured: false
 tags: ["npc", "marriage", "penny"]
 ---
 
-# Stardew Valley Penny 攻略 - 可结婚 NPC
+# Stardew Valley Penny Guide - Marriage Candidate
 
-## 基本信息
+## Basic Information
 
-| 属性 | 内容 |
-|------|------|
-| 姓名 | Penny (潘妮) |
-| 生日 | 秋季 2 日 (Fall 2) |
-| 住址 | Trailer (拖车) - 小镇东部 |
-| 家庭 | 母亲 Pam (帕姆) |
-| 可结婚 | 是 |
-| 职业 | 无固定职业，喜欢阅读和教学 |
+| Attribute | Details |
+|-----------|---------|
+| Name | Penny |
+| Birthday | Fall 2 |
+| Address | Trailer - east of town |
+| Family | Mother Pam |
+| Marriage | Yes |
+| Occupation | No fixed occupation, likes reading and teaching |
 
-## 日常行程
+## Daily Schedule
 
-### 春季
-- **周一/二/三/四/五**
-  - 8:00 AM - 起床站在拖车中
-  - 9:00 AM - 前往博物馆
-  - 9:30 AM - 到达博物馆
-  - 2:00 PM - 离开博物馆前往小镇广场
-  - 2:30 PM - 到达小镇广场站在喷泉旁
-  - 5:00 PM - 返回家中
-  - 6:00 PM - 在拖车中
-  - 9:00 PM - 上床睡觉
+### Spring
+- **Monday/Tuesday/Wednesday/Thursday/Friday**
+  - 8:00 AM - Wakes up, stands in trailer
+  - 9:00 AM - Heads to Museum
+  - 9:30 AM - Arrives at Museum
+  - 2:00 PM - Leaves Museum for Town Square
+  - 2:30 PM - Arrives at Town Square, stands by fountain
+  - 5:00 PM - Returns home
+  - 6:00 PM - In trailer
+  - 9:00 PM - Goes to bed
 
-- **周六**
-  - 8:00 AM - 起床
-  - 9:00 AM - 前往博物馆
-  - 9:30 AM - 到达博物馆
-  - 2:00 PM - 离开博物馆前往小镇广场
-  - 2:30 PM - 到达小镇广场
-  - 5:00 PM - 返回家中
-  - 9:00 PM - 睡觉
+- **Saturday**
+  - 8:00 AM - Wakes up
+  - 9:00 AM - Heads to Museum
+  - 9:30 AM - Arrives at Museum
+  - 2:00 PM - Leaves Museum for Town Square
+  - 2:30 PM - Arrives at Town Square
+  - 5:00 PM - Returns home
+  - 9:00 PM - Sleeps
 
-- **周日**
-  - 8:00 AM - 起床
-  - 9:00 AM - 前往博物馆
-  - 9:30 AM - 到达博物馆
-  - 2:00 PM - 返回家中
-  - 3:00 PM - 在拖车中
-  - 9:00 PM - 睡觉
+- **Sunday**
+  - 8:00 AM - Wakes up
+  - 9:00 AM - Heads to Museum
+  - 9:30 AM - Arrives at Museum
+  - 2:00 PM - Returns home
+  - 3:00 PM - In trailer
+  - 9:00 PM - Sleeps
 
-### 夏季
-- 常去河边或湖边
-- 下午常在小镇广场
+### Summer
+- Often visits river or lake
+- Afternoons often at Town Square
 
-### 秋季
-- 行程与春季类似
-- 生日当天会在家中
+### Fall
+- Schedule similar to Spring
+- At home on birthday
 
-### 冬季
-- 常待在家中
-- 雨天会待在室内
+### Winter
+- Often stays home
+- Stays indoors on rainy days
 
-## 礼物喜好
+## Gift Preferences
 
-### 最爱的礼物 (Loved Gifts) - +80 好感度
-- Diamond (钻石)
-- Emerald (翡翠)
-- Melon (甜瓜)
-- Poppy (罂粟花)
-- Red Plate (红之盘)
-- Roots Platter (根茎拼盘)
-- Sandfish (沙鱼)
-- Tom Kha Soup (冬阴功汤)
+### Loved Gifts (+80 friendship)
+- Diamond
+- Emerald
+- Melon
+- Poppy
+- Red Plate
+- Roots Platter
+- Sandfish
+- Tom Kha Soup
 
-### 喜欢的礼物 (Liked Gifts) - +45 好感度
-- All Fruits (大部分水果)
-- All Flowers (大部分花)
-- All Milk (牛奶)
-- All Vegetables (大部分蔬菜)
-- Daffodil (黄水仙)
-- Dandelion (蒲公英)
-- Leek (韭葱)
-- Hazelnut (榛子)
-- Snow Yam (雪山药)
-- Winter Root (冬根)
+### Liked Gifts (+45 friendship)
+- All Fruits (most fruit)
+- All Flowers (most flowers)
+- All Milk (milk)
+- All Vegetables (most vegetables)
+- Daffodil
+- Dandelion
+- Leek
+- Hazelnut
+- Snow Yam
+- Winter Root
 
-### 中立的礼物 (Neutral Gifts) - +20 好感度
-- Chanterelle (鸡油菌)
-- Common Mushroom (普通蘑菇)
-- Purple Mushroom (紫蘑菇)
-- Morel (羊肚菌)
+### Neutral Gifts (+20 friendship)
+- Chanterelle
+- Common Mushroom
+- Purple Mushroom
+- Morel
 
-### 不喜欢的礼物 (Disliked Gifts) - -20 好感度
-- Clay (粘土)
-- All Fish (大部分鱼类)
-- All Eggs (鸡蛋)
-- Seaweed (海藻)
-- Wild Horseradish (野生辣根)
-- Holly (冬青)
+### Disliked Gifts (-20 friendship)
+- Clay
+- All Fish (most fish)
+- All Eggs (eggs)
+- Seaweed
+- Wild Horseradish
+- Holly
 
-### 讨厌的礼物 (Hated Gifts) - -40 好感度
-- Beer (啤酒)
-- Wine (葡萄酒)
-- Mead (蜂蜜酒)
-- Pale Ale (淡啤酒)
-- Rabbit's Foot (兔子的脚)
-- All Alcohol (所有酒精饮料)
+### Hated Gifts (-40 friendship)
+- Beer
+- Wine
+- Mead
+- Pale Ale
+- Rabbit's Foot
+- All Alcohol
 
-## 爱心事件
+## Heart Events
 
-### 2 心事件
-- **触发条件**: 进入博物馆时触发
-- **剧情**: Penny 在博物馆教书，她邀请你旁听她的课程。
-- **选择影响**: 认真听课会增加好感度。
+### 2 Heart Event
+- **Trigger**: Enter Museum
+- **Plot**: Penny is teaching at the Museum, she invites you to sit in on her class.
+- **Choice Effect**: Listening attentively increases friendship.
 
-### 4 心事件
-- **触发条件**: 进入 Penny 的拖车时触发
-- **剧情**: Penny 因为母亲 Pam 的行为感到尴尬，她向你道歉。
-- **选择影响**: 理解她的处境会增加好感度。
+### 4 Heart Event
+- **Trigger**: Enter Penny's trailer
+- **Plot**: Penny feels embarrassed because of her mother Pam's behavior, she apologizes to you.
+- **Choice Effect**: Understanding her situation increases friendship.
 
-### 6 心事件
-- **触发条件**: 进入 Penny 的拖车时触发
-- **剧情**: Penny 邀请你一起吃晚饭，她亲自下厨。
-- **选择影响**: 赞美她的厨艺会增加好感度。
+### 6 Heart Event
+- **Trigger**: Enter Penny's trailer
+- **Plot**: Penny invites you to dinner, she cooks personally.
+- **Choice Effect**: Praising her cooking increases friendship.
 
-### 8 心事件
-- **触发条件**: 收到 Penny 的信后，在晚上进入小镇
-- **剧情**: Penny 在小镇广场等你，她向你表达了她的梦想和愿望。
-- **选择影响**: 支持她的梦想会增加好感度。
+### 8 Heart Event
+- **Trigger**: After receiving Penny's letter, enter town in the evening
+- **Plot**: Penny is waiting for you at Town Square, she expresses her dreams and wishes to you.
+- **Choice Effect**: Supporting her dream increases friendship.
 
-### 10 心事件
-- **触发条件**: 收到 Penny 的信后，在晚上进入山区
-- **剧情**: Penny 在山区观星，她向你表达了她的感情。
-- **选择影响**: 接受她的感情会增加好感度。
-- **注意**: 需要购买美人鱼吊坠 (Mermaid's Pendant) 才能求婚
+### 10 Heart Event
+- **Trigger**: After receiving Penny's letter, enter the Mountain in the evening
+- **Plot**: Penny is stargazing in the mountain, she expresses her feelings for you.
+- **Choice Effect**: Accepting her feelings increases friendship.
+- **Note**: Need to purchase Mermaid's Pendant to propose
 
-### 14 心事件 (婚后)
-- **触发条件**: 婚后，进入农舍
-- **剧情**: Penny 想要在农场建立一个图书馆，她询问你的意见。
-- **选择影响**: 支持她的教育事业会增加好感度。
+### 14 Heart Event (Post-Marriage)
+- **Trigger**: After marriage, enter the farmhouse
+- **Plot**: Penny wants to establish a library on the farm, she asks for your opinion.
+- **Choice Effect**: Supporting her education career increases friendship.
 
-## 结婚信息
+## Marriage Information
 
-### 求婚条件
-1. 与 Penny 达到 10 心好感度
-2. 完成 10 心事件
-3. 拥有至少 1 级农舍升级
-4. 购买美人鱼吊坠 (Mermaid's Pendant) 从老水手处 (3000g)
+### Proposal Requirements
+1. Reach 10 hearts friendship with Penny
+2. Complete 10 heart event
+3. Have at least 1 farmhouse upgrade
+4. Purchase Mermaid's Pendant from the Old Mariner (3000g)
 
-### 婚后生活
-- **房间**: 会在农舍右侧添加一个温馨的房间，有书架
-- **帮忙**: 偶尔会 watering crops (浇水)、feeding animals (喂动物)、repairing fences (修栅栏)
-- **礼物**: 有时会送你食物、书或其他物品
-- **孩子**: 可以生育或领养最多两个孩子
+### Married Life
+- **Room**: Adds a cozy room on the right side of the farmhouse, with bookshelves
+- **Help**: Occasionally waters crops, feeds animals, repairs fences
+- **Gifts**: Sometimes gives you food, books, or other items
+- **Children**: Can have or adopt up to two children
 
-### 婚后行程
-- 大部分时间待在农舍内
-- 周三有时会去博物馆教书
-- 有时会去小镇广场
+### Post-Marriage Schedule
+- Spends most time inside the farmhouse
+- Sometimes goes to the Museum to teach on Wednesday
+- Sometimes visits Town Square
 
-## 趣闻
-- Penny 是一位善良温柔的女孩，热爱教育和阅读
-- 她和母亲 Pam 住在拖车中，生活条件比较艰苦
-- 她经常帮助镇上的孩子们学习
-- 她最喜欢的颜色是橙色和黄色
+## Trivia
+- Penny is a kind and gentle girl who loves education and reading
+- She and her mother Pam live in a trailer, living conditions are quite hard
+- She often helps the town's children with their studies
+- Her favorite colors are orange and yellow
 
 ---
 
-*数据来源于 Stardew Valley Wiki，适用于游戏版本 1.6*
+*Data sourced from Stardew Valley Wiki, applicable to game version 1.6*
