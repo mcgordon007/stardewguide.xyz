@@ -173,7 +173,7 @@ The sixth Stardrop is given to you by your spouse when you reach 12.5 hearts of 
 
 ### Important Notes
 
-- **One Per Marriage**: You can only receive one Stardrop per spouse. If you divorce and remarry, you can get another Stardrop from the new spouse.
+- **One Per Save File**: You can only receive one spouse/roommate Stardrop per save file, regardless of divorce or remarriage. Choose your spouse carefully!
 - **Krobus Roommate**: If Krobus is your roommate, the same mechanic applies. Reach 12.5 hearts with Krobus to receive the Stardrop.
 - **Daily Gifting Required**: You must give a gift every day to progress from 10 to 12.5 hearts.
 

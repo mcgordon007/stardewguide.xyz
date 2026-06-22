@@ -21,30 +21,36 @@ The chance of obtaining a Prismatic Shard is extremely low. Here are all the way
 
 | Source | Chance | Notes |
 |--------|--------|-------|
-| Iridium Nodes | 3.5% | Skull Cavern floor 150+ |
-| Mystic Stones | 25% | Randomly appear on any mine floor |
-| Quarry Iridium Nodes | 4% | Iridium nodes in the Quarry |
-| Gem Nodes | Extremely low | Gem nodes in the Mines |
+| Iridium Nodes | 3.5% | Skull Cavern, Quarry, Volcano Dungeon |
+| Mystic Stones | 25% | Mines floor 100+, Skull Cavern, Quarry, Volcano Dungeon |
+| Skull Cavern Treasure Rooms | ~3.8% (1/26) | Treasure rooms in the Skull Cavern |
+| Omni Geode | 0.4% | Omni Geodes |
+| Volcano Dungeon (first time) | 100% | Chest at the top of the Volcano Dungeon (first visit only) |
 
 ### Monster Drops
 
 | Monster | Drop Chance | Location |
 |---------|-------------|----------|
+| Serpent | 0.1% | Skull Cavern |
+| Mummy | 0.1% | Skull Cavern |
 | Shadow Brute | 0.05% | Mines floors 80-120 |
 | Shadow Shaman | 0.05% | Mines floors 80-120 |
-| Mummy | 0.1% | Skull Cavern |
-| Purple Slime | 0.05% | Skull Cavern |
-| Iridium Bat | 0.05% | Skull Cavern |
+| Wilderness Golem | 0.1% | Any (after reaching bottom of Mines, Combat Level 10) |
+| Iridium Golem | 0.1% | Any (after reaching bottom of Mines, Combat Level 10) |
+| Any Monster | 0.05% | Any (after reaching bottom of the Mines) |
 
 ### Other Methods
 
 | Method | Chance | Notes |
 |--------|--------|-------|
-| Fishing Treasure Chests | Extremely low | Treasure chests while fishing |
-| Omni Geode | 0.4% | Omni Geodes |
-| Panning | Extremely low | Using the Copper Pan in rivers |
-| Skull Cavern Treasure Rooms | Medium | Treasure rooms in the Skull Cavern |
-| Desert Mine Cart | Extremely low | Calico Desert mine cart rewards |
+| Fishing Treasure Chests | ~0.012% | After reaching Fishing Level 6 |
+| Meteorite | 25% | Random meteorite event on the farm |
+| Mystery Box | 0.4% | Mystery Boxes |
+| Golden Mystery Box | 0.79% | Golden Mystery Boxes |
+| Rainbow Trout Fish Pond | 0.09% daily | Population of at least 9 |
+| Statue Of True Perfection | 1/day | After achieving 100% Perfection |
+| Blessing of the Butterfly | Up to 17.5% | Statue of Blessings random blessing |
+| Emily's Shop (Desert Festival) | 500 Calico Eggs | During Desert Festival on Thursdays |
 
 > The most reliable way to obtain Prismatic Shards is to mine a large number of Iridium Nodes in the Skull Cavern below floor 150.
 
