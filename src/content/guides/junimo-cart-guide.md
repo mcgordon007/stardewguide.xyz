@@ -1,386 +1,276 @@
 ---
 title: "Stardew Valley Junimo Kart Guide - Arcade Minigame"
-description: "Complete guide to Junimo Kart, the arcade minigame in Stardew Valley. Learn controls, tracks, strategies, and how to unlock the Junimo Kart arcade machine."
+description: "Complete guide to Junimo Kart, the arcade minigame in Stardew Valley. Learn how to unlock, controls, all tracks, strategies, and Mr. Qi's Special Order."
 category: basics
 difficulty: intermediate
 season: all
 date: 2026-06-21
 featured: false
-tags: ["junimo-kart", "minigame", "arcade", "stardrop-saloon", "achievement"]
+tags: ["junimo-kart", "minigame", "arcade", "stardrop-saloon", "skull-key", "achievement"]
 ---
 
 # Stardew Valley Junimo Kart Guide - Arcade Minigame
 
-Junimo Kart is an arcade-style racing minigame available in Stardew Valley. Inspired by classic platformer racers, Junimo Kart challenges players to navigate a small Junimo character through obstacle-filled tracks. This guide covers how to unlock the game, all available tracks, controls, strategies, and achievements.
+Junimo Kart is an arcade minigame playable on the arcade machine in The Stardrop Saloon. It was completely redone in version 1.4 and is now one of the most challenging minigames in Stardew Valley.
 
 ## What Is Junimo Kart?
 
-Junimo Kart is a single-player arcade minigame where you control a Junimo (the forest spirits from the Community Center) in a kart-style vehicle. The goal is to reach the end of each track while avoiding obstacles, collecting coins, and managing your limited lives.
+In Junimo Kart, you play as a Junimo in a cart moving to the right side of the screen. The only control you have is jumping. You must avoid gaps, obstacles, and hazards to reach the end of each track.
 
-### Game Modes
+## How to Unlock
 
-Junimo Kart features two distinct game modes:
+Junimo Kart is initially locked and requires the **Skull Key** to play.
 
-| Mode | Description | Unlock Requirement |
-|------|-------------|-------------------|
-| **Progress Mode** | Complete tracks in order, unlocking the next track upon success | Default |
-| **Endless Mode** | Play an infinite randomly generated course for high scores | Complete all 6 tracks in Progress Mode |
+### Getting the Skull Key
 
-## How to Unlock Junimo Kart
+- Reach level 120 in The Mines
+- Open the chest on floor 120 to receive the Skull Key
+- The Skull Key unlocks both the Skull Cavern and Junimo Kart
 
-The Junimo Kart arcade machine can be unlocked through two different methods depending on your chosen game path.
-
-### Community Center Route
-
-1. Complete the **Vault bundles** in the Community Center
-2. The Vault requires four gold donations: 2,500g, 5,000g, 10,000g, and 25,000g (42,500g total)
-3. Once completed, the bus to the Calico Desert is repaired
-4. The Junimo Kart arcade machine appears in the **Stardrop Saloon**
-
-### Joja Mart Route
-
-1. Purchase the **Bus Repair** from the Joja Community Development Form
-2. Cost: 40,000g
-3. The bus is repaired immediately
-4. The Junimo Kart arcade machine appears in the **Stardrop Saloon**
-
-### Alternative Unlock Methods
-
-In addition to the main unlock path, Junimo Kart arcade machines can also be found in:
-
-| Location | How to Access | Notes |
-|----------|---------------|-------|
-| **Stardrop Saloon** | Unlock via Vault bundle or Joja Bus Repair | Main location, always accessible |
-| **Bus Stop** | Random chance after unlocking the bus | Occasionally appears at the Bus Stop |
-| **Traveling Cart** | Rare appearance in the cart's inventory | Can be purchased and placed on your farm |
+Once you have the Skull Key, the Junimo Kart arcade machine becomes playable in The Stardrop Saloon.
 
 ## Arcade Machine Locations
 
-### Stardrop Saloon (Primary Location)
+### The Stardrop Saloon (Primary)
 
-The main Junimo Kart machine is located in the **Stardrop Saloon** in Pelican Town, near the other arcade game (Journey of the Prairie King).
+The main Junimo Kart machine is located in The Stardrop Saloon in Pelican Town, near the Journey of the Prairie King machine.
 
 - **Access:** Walk up to the machine and interact with it
 - **Hours:** Available whenever the Saloon is open (12:00 PM - 12:00 AM)
 - **Cost:** Free to play
 
-### Bus Stop
+### Junimo Kart Arcade System (Home)
 
-Occasionally, a Junimo Kart arcade machine may appear at the Bus Stop area. This is a random event that happens after the bus has been repaired.
-
-### Traveling Cart
-
-The Traveling Cart, which appears in Cindersap Forest on Fridays and Sundays, may rarely sell a Junimo Kart arcade machine as a furniture item. If purchased, it can be placed inside your farmhouse, allowing you to play at home.
+The day after beating all six levels in Progress Mode, a **Junimo Kart Arcade System** will be sent in the mail. This furniture item can be placed inside your farmhouse, allowing you to play at home.
 
 ## Controls
 
-Junimo Kart uses simple controls that are easy to learn but difficult to master.
+Junimo Kart uses simple controls:
 
-### Basic Controls
+| Action | PC (Keyboard/Mouse) | Controller |
+|--------|---------------------|------------|
+| **Jump** | Left mouse button, Space bar, or X key | X Button |
+| **Pause** | P key | - |
 
-| Action | PC (Keyboard) | PC (Mouse) | Controller |
-|--------|---------------|------------|------------|
-| **Accelerate** | Up Arrow / W | Hold Left Click | A Button / D-Pad Up |
-| **Brake/Reverse** | Down Arrow / S | N/A | B Button / D-Pad Down |
-| **Jump** | Space / C | Right Click | X Button |
-| **Move Left** | Left Arrow / A | N/A | Left Trigger / D-Pad Left |
-| **Move Right** | Right Arrow / D | N/A | Right Trigger / D-Pad Right |
+- **Quick tap:** Small jump for minor obstacles
+- **Hold down:** Higher jump for large gaps
 
-### Advanced Controls
+**Note:** There is no accelerate, brake, or left/right movement control. The cart moves automatically to the right.
 
-| Technique | Input | Effect |
-|-----------|-------|--------|
-| **Hop** | Quick tap Jump | Small bounce for minor obstacles |
-| **High Jump** | Hold Jump | Greater height for large gaps |
-| **Air Control** | Left/Right while airborne | Adjust landing position |
-| **Drop Fast** | Down while airborne | Fall quickly to avoid overhead obstacles |
+## Game Modes
 
-### Control Tips
+### Progress Mode
 
-- **Jump timing is everything:** Most deaths come from mistimed jumps
-- **Maintain momentum:** Letting go of accelerate on flat ground slows you down
-- **Practice air control:** You can steer slightly while in the air to land safely
-- **Do not over-jump:** Sometimes a small hop is better than a full jump
+In Progress Mode, you start with **3 extra lives**. When all lives are lost, the run ends.
 
-## All 6 Tracks
+- After completing a stage, lives are replenished up to a minimum of 3
+- Collecting **100 coins** grants an extra life
+- Each level has three pieces of fruit: Cherries, Orange, and Grapes
+- Each fruit is worth 10 coins
+- Collecting all three fruits in a level grants another extra life
+- After finishing 6 levels, the game ends
 
-Junimo Kart features 6 unique tracks in Progress Mode, each with increasing difficulty and unique obstacles.
-
-### Track 1: The Greenhorn
-
-| Attribute | Details |
-|-----------|---------|
-| **Difficulty** | Very Easy |
-| **Theme** | Grassland / Forest |
-| **Obstacles** | Small gaps, gentle slopes |
-| **Lives** | 3 |
-| **Key Challenge** | Learning basic jumps |
-
-The first track serves as a tutorial. It features wide platforms, small gaps, and minimal hazards. New players should use this track to practice the feel of acceleration and jump timing.
-
-### Track 2: The Sluice
-
-| Attribute | Details |
-|-----------|---------|
-| **Difficulty** | Easy |
-| **Theme** | Underground / Cave |
-| **Obstacles** | Water hazards, narrow platforms |
-| **Lives** | 3 |
-| **Key Challenge** | Avoiding water pits |
-
-This underground track introduces water hazards. Falling into water costs a life. The platforms become narrower, requiring more precise movement.
-
-### Track 3: Sandy Speedway
-
-| Attribute | Details |
-|-----------|---------|
-| **Difficulty** | Medium |
-| **Theme** | Desert |
-| **Obstacles** | Quicksand, cacti, rolling boulders |
-| **Lives** | 3 |
-| **Key Challenge** | Timing jumps over rolling obstacles |
-
-The desert track introduces moving hazards in the form of rolling boulders. Players must time their movements to avoid being knocked off platforms.
-
-### Track 4: Crimson Badlands
-
-| Attribute | Details |
-|-----------|---------|
-| **Difficulty** | Hard |
-| **Theme** | Volcanic / Lava |
-| **Obstacles** | Lava pits, fireballs, collapsing platforms |
-| **Lives** | 3 |
-| **Key Challenge** | Navigating fireball patterns |
-
-This volcanic track significantly increases the difficulty with fireballs that travel across the screen in patterns. Collapsing platforms add pressure to keep moving forward.
-
-### Track 5: Glowshroom Grotto
-
-| Attribute | Details |
-|-----------|---------|
-| **Difficulty** | Very Hard |
-| **Theme** | Mushroom Cave |
-| **Obstacles** | Bouncing mushrooms, tight corridors, darkness |
-| **Lives** | 3 |
-| **Key Challenge** | Predicting mushroom bounce physics |
-
-The mushroom cave features bouncy mushroom platforms that launch your kart unpredictably. Mastering the bounce physics is essential to completing this track.
-
-### Track 6: Red Hot Rollercoaster
-
-| Attribute | Details |
-|-----------|---------|
-| **Difficulty** | Extreme |
-| **Theme** | Factory / Mechanical |
-| **Obstacles** | Conveyor belts, crushers, lasers, precise jumps |
-| **Lives** | 3 |
-| **Key Challenge** | Everything - this is the ultimate test |
-
-The final track combines all previous obstacle types with new mechanical hazards. Conveyor belts push you in unexpected directions, crushers require perfect timing, and laser beams demand precise positioning.
-
-### Track Summary
-
-| Track | Name | Difficulty | Theme | New Mechanic |
-|-------|------|------------|-------|--------------|
-| 1 | The Greenhorn | Very Easy | Grassland | Basic movement |
-| 2 | The Sluice | Easy | Cave | Water hazards |
-| 3 | Sandy Speedway | Medium | Desert | Rolling obstacles |
-| 4 | Crimson Badlands | Hard | Volcanic | Fireballs, collapsing platforms |
-| 5 | Glowshroom Grotto | Very Hard | Mushroom Cave | Bounce physics |
-| 6 | Red Hot Rollercoaster | Extreme | Factory | Conveyor belts, crushers, lasers |
-
-## Progress Mode
-
-Progress Mode is the standard way to play Junimo Kart. Tracks must be completed in order, and each track must be beaten to unlock the next.
-
-### How Progress Mode Works
-
-1. Start at Track 1 (The Greenhorn)
-2. Complete the track by reaching the finish line
-3. Track 2 unlocks
-4. Continue until all 6 tracks are completed
-5. Completing all tracks unlocks Endless Mode
-
-### Lives System
-
-Each track gives you **3 lives**. Losing all 3 lives forces you to restart the current track from the beginning.
-
-**Ways to Lose a Life:**
-- Falling into pits or water
-- Getting hit by obstacles (boulders, fireballs, lasers)
-- Getting crushed by moving platforms
-- Falling off the bottom of the screen
-
-### Checkpoint System
-
-Some tracks feature checkpoints that save your progress partway through. If you lose a life after passing a checkpoint, you respawn at the checkpoint rather than the start.
-
-## Endless Mode
+### Endless Mode
 
 Endless Mode is unlocked after completing all 6 tracks in Progress Mode.
 
-### How Endless Mode Works
+- You only have **one life**
+- A numerical score is tracked
+- Every tile traveled adds 10 points
+- Each coin collected gives 40 points
+- Each fruit gives 1,000 points
+- Finishing a level gives 5,000 points
+- Bonus 5,000 points for collecting all three fruits in a level
+- All 8 levels are played in order (except "???")
 
-- The track generates infinitely in front of you
-- Obstacles appear in random combinations
-- Speed gradually increases over time
-- Your goal is to survive as long as possible and achieve the highest score
+## All Tracks
 
-### Scoring in Endless Mode
+Junimo Kart features multiple unique tracks with increasing difficulty.
 
-| Action | Points |
-|--------|--------|
-| Surviving distance | +1 per unit traveled |
-| Collecting coins | +10 per coin |
-| Near-miss obstacles | Bonus points |
-| Reaching milestones | Large bonus |
+### Crumble Cavern
 
-### Endless Mode Tips
+| Attribute | Details |
+|-----------|---------|
+| **Order** | 1st (Progress Mode), 1st (Endless Mode) |
+| **Theme** | Cave with falling boulders |
+| **Obstacles** | Falling boulders, gaps |
+| **Music** | Mines (Crystal Bells), Mines (A Flicker In The Deep), or Mines (Star Lumpy) |
 
-- Focus on survival over coin collection
-- As speed increases, jump earlier than you think you need to
-- Look ahead to plan your route
-- Do not take unnecessary risks for coins
+The first level is relatively straightforward. Focus on jumping and grabbing coins/fruit. Landing on top of an obstacle destroys it.
+
+### Slippery Slopes
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | 2nd (Progress Mode), 2nd (Endless Mode) |
+| **Theme** | Icy slopes |
+| **Obstacles** | Slippery downward slopes, upward slopes |
+| **Music** | Mines (Icicles), Mines (Marimba Of Frozen Bones), or Mines (Cloth) |
+
+Downward slopes are slippery and give extra speed. Upward slopes require precise jumping between them.
+
+**Secret shortcut:** Finishing this level in under 60 seconds skips The Gem Sea Giant and Slomp's Stomp, going straight to Ghastly Galleon.
+
+### ??? (Hidden Level)
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | Alternate 2nd (Progress Mode) |
+| **Theme** | Dark cave with stalagmites |
+| **Obstacles** | Water floor, stalagmites |
+| **Music** | Wind ambience only |
+
+To reach this hidden level: Clear Crumble Cavern without losing any lives AND collecting all coins and fruit. This level contains a huge amount of coins but does not appear in Endless Mode.
+
+### The Gem Sea Giant
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | 3rd (Progress Mode), 3rd (Endless Mode) |
+| **Theme** | Underwater with a giant whale |
+| **Obstacles** | Whale bubbles, slower falls |
+| **Music** | Junimo Kart (The Gem Sea Giant) |
+
+Takes place underwater with slower falls. A large whale on the right periodically spews bubbles. Landing on top of bubbles causes you to bounce high into the air.
+
+### Slomp's Stomp
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | Alternate 3rd (Progress Mode), 5th (Endless Mode) |
+| **Theme** | Slime chase |
+| **Obstacles** | Sticky upward slopes, giant bouncing slime |
+| **Music** | Junimo Kart (Slomp's Stomp) |
+
+A giant bouncing slime chases you from behind. Upward slopes are sticky and slow you down. This level is chosen at random as an alternate to The Gem Sea Giant.
+
+### Ghastly Galleon
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | 4th (Progress Mode), 4th (Endless Mode) |
+| **Theme** | Ghost ship |
+| **Obstacles** | Faster movement, ghosts, large gaps |
+| **Music** | Junimo Kart (Ghastly Galleon) |
+
+You move faster on this level. Ghosts move in circular patterns and are fatal on contact (cannot be landed on). After completing this level, Glowshroom Grotto and Red Hot Rollercoaster each have a 50% chance to be next.
+
+### Glowshroom Grotto
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | 5th (Progress Mode), 6th (Endless Mode) |
+| **Theme** | Mushroom cave |
+| **Obstacles** | Giant purple mushrooms, spore clouds, bouncy mushrooms |
+| **Music** | Junimo Kart (Glowshroom Grotto) |
+
+Pairs of giant purple mushrooms raise and lower each other. Red mushrooms shoot slow-moving spore clouds upward. Smaller purple mushrooms can be bounced off of.
+
+### Red Hot Rollercoaster
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | Alternate 5th (Progress Mode), 7th (Endless Mode) |
+| **Theme** | Volcanic rollercoaster |
+| **Obstacles** | Diagonal ramps, falling boulders, empty spaces |
+| **Music** | Mines (Danger!) |
+
+Lots of adjacent diagonal ramps and randomly generated falling boulders. Requires constant jumping across stretches of mostly empty space.
+
+### Sunset Speedway
+
+| Attribute | Details |
+|-----------|---------|
+| **Order** | 6th (Progress Mode), 8th (Endless Mode) |
+| **Theme** | Nighttime speedway |
+| **Obstacles** | Short rails at scattered heights |
+| **Music** | Nighttime sound effects only |
+
+The final level is full of short rails at widely scattered heights, making it very easy to slip off. After completing this in Endless Mode, it loops back to Crumble Cavern.
+
+## Track Summary
+
+| # | Track Name | Progress Mode | Endless Mode | Difficulty |
+|---|-----------|---------------|--------------|------------|
+| 1 | Crumble Cavern | Yes | Yes | Easy |
+| 2 | Slippery Slopes | Yes | Yes | Easy-Medium |
+| 3 | ??? | Yes (hidden) | No | Easy |
+| 4 | The Gem Sea Giant | Yes | Yes | Medium |
+| 5 | Slomp's Stomp | Yes (random) | Yes | Medium-Hard |
+| 6 | Ghastly Galleon | Yes | Yes | Medium-Hard |
+| 7 | Glowshroom Grotto | Yes (random) | Yes | Hard |
+| 8 | Red Hot Rollercoaster | Yes (random) | Yes | Hard |
+| 9 | Sunset Speedway | Yes | Yes | Very Hard |
+
+## Mr. Qi's Special Order
+
+Endless Mode is used in Mr. Qi's **"Let's Play A Game"** Special Order.
+
+- **Requirement:** Score 50,000 points in Endless Mode within 7 days
+- **Reward:** 20 Qi Gems
+- **Tip:** Focus on distance traveled, coin collection, and fruit collection for maximum points
 
 ## Strategies and Tips
 
 ### General Tips
 
-1. **Practice Track 1 repeatedly** until movement feels natural
-2. **Watch the entire screen**, not just your character
-3. **Memorize obstacle patterns** - they are consistent in Progress Mode
-4. **Stay calm** - panicking leads to mistimed jumps
-5. **Take breaks** - frustration makes the game harder
+1. **Jump timing is everything** - Most deaths come from mistimed jumps
+2. **Hold jump for height** - Longer holds mean higher jumps for large gaps
+3. **Tap jump for small gaps** - Quick taps give you more control
+4. **Land on obstacles** - Landing on top of boulders, bubbles, or mushrooms destroys/bounces them
+5. **Collect all fruit** - Each level's three fruits grant an extra life
 
-### Track-Specific Strategies
+### Track-Specific Tips
 
-**The Greenhorn:**
-- Use this track to practice jump distances
-- Learn how long to hold jump for different gap sizes
-- No need to rush - there are no time limits
+**Crumble Cavern:**
+- Practice basic jump distances
+- Destroy boulders by landing on them
 
-**The Sluice:**
-- Water pits are wider than they look
-- Jump early rather than late
-- Use small hops for narrow water gaps
+**Slippery Slopes:**
+- Use slope momentum for longer jumps
+- Go for the under-60-second shortcut to skip levels
 
-**Sandy Speedway:**
-- Watch boulder spawn points
-- Boulders follow predictable paths once you learn them
-- Stay near the top of platforms when possible
+**The Gem Sea Giant:**
+- Use whale bubbles to reach high coins and fruit
+- Underwater physics mean slower falls
 
-**Crimson Badlands:**
-- Fireball patterns repeat - memorize the timing
-- Collapsing platforms give you about 2 seconds before falling
-- Do not hesitate on collapsing sections
+**Slomp's Stomp:**
+- Never slow down - the slime is always chasing
+- Maintain momentum on sticky slopes
+
+**Ghastly Galleon:**
+- Ghosts cannot be landed on - avoid them completely
+- Faster speed means less reaction time
 
 **Glowshroom Grotto:**
-- Mushroom bounces have consistent physics
-- Hold directional inputs during bounces to control trajectory
-- Some mushrooms are traps - avoid bouncing on certain ones
+- Time your mushroom platforming carefully
+- Jump through gaps in spore cloud patterns
 
 **Red Hot Rollercoaster:**
-- Conveyor belts affect your jump arc
-- Jump against conveyor direction for more control
-- Crushers have a 3-second cycle - count the rhythm
+- Constant jumping is required
+- Falling boulders have predictable spawn patterns
 
-### Common Mistakes to Avoid
-
-| Mistake | Why It Happens | Solution |
-|---------|---------------|----------|
-| Over-jumping | Holding jump too long | Tap jump for small gaps |
-| Under-jumping | Releasing jump too early | Hold jump slightly longer |
-| Panic braking | Fear of falling | Maintain speed, trust your jumps |
-| Not looking ahead | Focusing on character | Scan the upcoming track |
-| Ignoring checkpoints | Rushing | Use checkpoints to break tracks into sections |
+**Sunset Speedway:**
+- The hardest track - requires precise small jumps
+- Short rails mean less room for error
 
 ## Achievements
 
-Junimo Kart is tied to Steam/achievement systems in Stardew Valley.
-
-### Junimo Kart Achievements
-
-| Achievement | Requirement | Platform |
-|-------------|-------------|----------|
-| **Junimo Kart** | Complete all 6 tracks in Progress Mode | Steam, Console, Mobile |
-| **Junimo Kart Pro** | Reach a high score in Endless Mode | Steam, Console |
-
-### Related Achievements
-
-While not specifically for Junimo Kart, the following achievements may involve the minigame:
-
 | Achievement | Requirement |
 |-------------|-------------|
-| **Master of the Five Ways** | Complete all achievements |
-| **Local Legend** | Complete various town activities |
+| **Junimo Kart** | Complete all 6 levels in Progress Mode |
+| **Legend** | Achieve a high score in Endless Mode |
 
-### Achievement Tips
+## Trivia
 
-- The base Junimo Kart achievement requires patience and practice
-- Track 6 (Red Hot Rollercoaster) is the biggest hurdle
-- If stuck on a track, take a break and return with fresh focus
-- Endless Mode high scores come with practice and pattern recognition
+- On the Endless Mode title screen, there is a leaderboard with scores from villagers. Mayor Lewis has the highest score.
+- When idle at the title screen, the Junimo will start dancing.
+- Version 1.6 added "grace jumps" - players who run off the track can still jump for a short time to recover.
 
-## Comparison to Journey of the Prairie King
+## History
 
-Stardew Valley features two arcade minigames. Here is how they compare:
-
-| Feature | Junimo Kart | Journey of the Prairie King |
-|---------|-------------|----------------------------|
-| **Genre** | Platform Racer | Top-Down Shooter |
-| **Controls** | Jump/Accelerate | Move/Shoot |
-| **Difficulty** | High (precise platforming) | Medium (bullet hell) |
-| **Unlock** | Vault bundle / Joja Bus | Complete Community Center |
-| **Reward** | Achievement, bragging rights | Prairie King furniture, achievement |
-| **Endless Mode** | Yes | Yes (after completion) |
-
-## Junimo Kart in Multiplayer
-
-In multiplayer games, Junimo Kart is a single-player experience. However, players can:
-
-- Take turns attempting tracks
-- Compare high scores in Endless Mode
-- Race to see who completes Progress Mode first
-- The arcade machine is shared - only one player can play at a time
-
-## Frequently Asked Questions
-
-### Is Junimo Kart required for 100% completion?
-
-No. Junimo Kart achievements are not required for the in-game Perfection Tracker or 100% save file completion. However, they are required for full Steam achievement completion.
-
-### Can I play Junimo Kart on mobile?
-
-Yes, Junimo Kart is available on all platforms including mobile devices. Touch controls replace keyboard/controller inputs.
-
-### What happens if I lose all my lives?
-
-You restart the current track from the beginning (or the last checkpoint if you reached one). There is no penalty for failing other than having to retry.
-
-### Is there a reward for beating all tracks?
-
-The primary rewards are the sense of accomplishment, the Junimo Kart achievement, and unlocking Endless Mode. There are no in-game item rewards.
-
-### How hard is Junimo Kart compared to other games?
-
-Junimo Kart is considered quite difficult, especially Tracks 5 and 6. It requires precise platforming skills similar to games like Super Meat Boy or Celeste, though less demanding than those titles.
-
-### Can I pause during a race?
-
-Yes, you can pause the game at any time during play. This is useful for taking breaks during difficult sections.
-
-## Summary
-
-Junimo Kart is one of the most challenging minigames in Stardew Valley, offering a rewarding test of skill for players who enjoy precise platforming. While not required for game completion, mastering all 6 tracks and unlocking Endless Mode provides a satisfying achievement and bragging rights.
-
-| Game Aspect | Details |
-|-------------|---------|
-| **Unlock Method** | Complete Vault bundle or Joja Bus Repair |
-| **Location** | Stardrop Saloon (primary) |
-| **Game Modes** | Progress Mode, Endless Mode |
-| **Total Tracks** | 6 |
-| **Lives Per Track** | 3 |
-| **Hardest Track** | Red Hot Rollercoaster (Track 6) |
-| **Main Achievement** | Complete all 6 tracks |
-| **Skill Required** | Precise timing, pattern memorization |
-
+- **1.0:** Introduced
+- **1.1:** Lives reduced from six to three
+- **1.4:** Entire minigame completely redone
+- **1.6:** Added grace jumps, score saving for forced exits, reduced bubble spawn rate on whale level
+- **1.6.3:** Increased "Let's Play A Game" reward from 10 to 20 Qi Gems

@@ -159,10 +159,16 @@ Powdermelon is a new winter crop added in Stardew Valley 1.6.
 
 ### Powdermelon Seeds
 
-Powdermelon Seeds are found by:
-- Digging artifact spots in winter
-- Digging in snow with the Hoe
-- Found in various winter locations
+Powdermelon Seeds can be obtained through various methods (available from Fall 21 to Winter 20):
+- Digging up Seed Spots
+- Completing Raccoon requests at the Giant Stump
+- Trading 2 Pine Cones at the Raccoon Wife's Shop
+- Catching Golden Fishing Treasure Chests (7% chance)
+- Using the Seed Maker
+- Prize Machine at Mayor's Manor
+- Opening Mystery Boxes or Golden Mystery Boxes
+- Breaking crates/barrels in the Mines, Skull Cavern, or Volcano Dungeon (2% chance)
+- Slaying Iridium Golems (50% chance)
 
 ## Winter Farming Strategies
 

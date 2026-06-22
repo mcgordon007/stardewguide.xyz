@@ -1,6 +1,6 @@
 ---
 title: "Stardew Valley Volcano Dungeon Guide"
-description: "Volcano Dungeon monsters, Forge, weapon enchantments, and通关攻略详解"
+description: "Volcano Dungeon monsters, Forge, weapon enchantments, and complete walkthrough guide"
 category: combat
 season: all
 difficulty: advanced
