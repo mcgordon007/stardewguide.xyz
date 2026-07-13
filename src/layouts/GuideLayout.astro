@@ -243,13 +243,13 @@ if (category) {
         )}
         {date && (
           <span class="guide-meta-date">
-            <span class="meta-date-icon">馃搮</span>
+            <span class="meta-date-icon">📅</span>
             Published: {date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
           </span>
         )}
         {updated && (
           <span class="guide-meta-date">
-            <span class="meta-date-icon">馃攧</span>
+            <span class="meta-date-icon">🔄</span>
             Updated: {updated.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
           </span>
         )}
@@ -275,17 +275,150 @@ if (category) {
       </div>
     )}
 
-    <!-- Content Area -->
-    <div class="guide-content">
-      <slot />
+    <!-- Content Area with TOC -->
+    <div class="guide-layout">
+      <aside class="guide-sidebar">
+        <nav class="toc-nav" aria-label="Table of contents">
+          <h3 class="toc-title">Contents</h3>
+          <ul class="toc-list" id="toc-list"></ul>
+        </nav>
+      </aside>
+      <div class="guide-content">
+        <slot />
+      </div>
     </div>
   </article>
 </BaseLayout>
+
+<script>
+  // Auto-generate TOC from headings
+  (function() {
+    const content = document.querySelector('.guide-content');
+    const tocList = document.getElementById('toc-list');
+    if (!content || !tocList) return;
+
+    const headings = content.querySelectorAll('h2, h3');
+    if (headings.length < 2) {
+      const sidebar = document.querySelector('.guide-sidebar');
+      if (sidebar) sidebar.style.display = 'none';
+      return;
+    }
+
+    headings.forEach((heading, i) => {
+      const id = heading.id || 'section-' + i;
+      heading.id = id;
+      const li = document.createElement('li');
+      li.className = 'toc-item toc-' + heading.tagName.toLowerCase();
+      const a = document.createElement('a');
+      a.href = '#' + id;
+      a.textContent = heading.textContent;
+      a.addEventListener('click', (e) => {
+        e.preventDefault();
+        heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        history.pushState(null, '', '#' + id);
+      });
+      li.appendChild(a);
+      tocList.appendChild(li);
+    });
+
+    // Highlight active section on scroll
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.id;
+          tocList.querySelectorAll('a').forEach(a => a.classList.remove('toc-active'));
+          const active = tocList.querySelector('a[href="#' + id + '"]');
+          if (active) active.classList.add('toc-active');
+        }
+      });
+    }, { rootMargin: '-80px 0px -60% 0px', threshold: 0 });
+
+    headings.forEach(h => observer.observe(h));
+  })();
+</script>
 
 <style>
   .guide-article {
     padding-top: var(--space-8);
     padding-bottom: var(--space-16);
+  }
+
+  .guide-layout {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .guide-sidebar {
+    position: sticky;
+    top: calc(var(--header-height) + 2rem);
+    max-height: calc(100vh - var(--header-height) - 4rem);
+    overflow-y: auto;
+  }
+
+  .toc-nav {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: 1rem;
+  }
+
+  .toc-title {
+    font-family: var(--font-pixel);
+    font-size: 0.9rem;
+    color: var(--color-accent);
+    margin: 0 0 0.75rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0.85rem;
+  }
+
+  .toc-item {
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc-item a {
+    display: block;
+    padding: 0.35rem 0.5rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    border-radius: var(--radius-sm);
+    transition: all 0.15s;
+    border-left: 2px solid transparent;
+  }
+
+  .toc-item a:hover {
+    color: var(--color-primary);
+    background: rgba(90, 125, 90, 0.08);
+  }
+
+  .toc-item a.toc-active {
+    color: var(--color-primary);
+    border-left-color: var(--color-primary);
+    background: rgba(90, 125, 90, 0.1);
+    font-weight: 600;
+  }
+
+  .toc-h3 {
+    padding-left: 1rem;
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 900px) {
+    .guide-layout {
+      grid-template-columns: 1fr;
+    }
+    .guide-sidebar {
+      display: none;
+    }
   }
 
   /* Breadcrumb */

@@ -14,6 +14,18 @@ export async function getStaticPaths() {
 const { guide } = Astro.props;
 const { Content } = await render(guide);
 const slug = guide.id.replace(/\.md$/, "");
+
+// Prev/Next navigation
+const allGuides = await getCollection('guides');
+const categoryGuides = allGuides
+  .filter(g => g.data.category === guide.data.category)
+  .sort((a, b) => (a.data.date?.getTime() || 0) - (b.data.date?.getTime() || 0));
+const currentIndex = categoryGuides.findIndex(g => g.id === guide.id);
+const prevGuide = currentIndex > 0 ? categoryGuides[currentIndex - 1] : null;
+const nextGuide = currentIndex < categoryGuides.length - 1 ? categoryGuides[currentIndex + 1] : null;
+
+const shareUrl = `https://stardewguide.xyz/guides/${slug}/`;
+const shareText = encodeURIComponent(`${guide.data.title} - Stardew Valley Guide`);
 ---
 
 <GuideLayout
@@ -28,10 +40,154 @@ const slug = guide.id.replace(/\.md$/, "");
   slug={slug}
 >
   <Content />
-  
+
+  <!-- Social Share -->
+  <div class="social-share">
+    <span class="share-label">Share this guide:</span>
+    <div class="share-buttons">
+      <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(shareUrl)}&text=${shareText}`} target="_blank" rel="noopener noreferrer" class="share-btn share-x" aria-label="Share on X">X</a>
+      <a href={`https://www.reddit.com/submit?url=${encodeURIComponent(shareUrl)}&title=${shareText}`} target="_blank" rel="noopener noreferrer" class="share-btn share-reddit" aria-label="Share on Reddit">Reddit</a>
+      <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`} target="_blank" rel="noopener noreferrer" class="share-btn share-fb" aria-label="Share on Facebook">Facebook</a>
+      <button class="share-btn share-copy" onclick="navigator.clipboard.writeText(window.location.href);this.textContent='Copied!';setTimeout(()=>this.textContent='Copy Link',2000)" aria-label="Copy link">Copy Link</button>
+    </div>
+  </div>
+
+  <!-- Prev/Next Navigation -->
+  {(prevGuide || nextGuide) && (
+    <nav class="guide-nav" aria-label="Guide navigation">
+      {prevGuide ? (
+        <a href={`/guides/${prevGuide.id.replace(/\.md$/, '')}/`} class="guide-nav-link guide-nav-prev">
+          <span class="guide-nav-label">← Previous</span>
+          <span class="guide-nav-title">{prevGuide.data.title}</span>
+        </a>
+      ) : <div />}
+      {nextGuide ? (
+        <a href={`/guides/${nextGuide.id.replace(/\.md$/, '')}/`} class="guide-nav-link guide-nav-next">
+          <span class="guide-nav-label">Next →</span>
+          <span class="guide-nav-title">{nextGuide.data.title}</span>
+        </a>
+      ) : <div />}
+    </nav>
+  )}
+
   <RelatedGuides
     currentSlug={slug}
     category={guide.data.category}
     tags={guide.data.tags}
   />
 </GuideLayout>
+
+<style>
+  .social-share {
+    margin: 2rem 0;
+    padding: 1rem;
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .share-label {
+    font-weight: 600;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  .share-buttons {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .share-btn {
+    padding: 0.4rem 0.9rem;
+    border-radius: var(--radius-md);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+  }
+
+  .share-x {
+    background: #1a1a1a;
+    color: #fff;
+  }
+
+  .share-reddit {
+    background: #FF4500;
+    color: #fff;
+  }
+
+  .share-fb {
+    background: #1877F2;
+    color: #fff;
+  }
+
+  .share-copy {
+    background: var(--color-primary);
+    color: var(--color-text-light);
+  }
+
+  .share-btn:hover {
+    opacity: 0.85;
+    transform: translateY(-1px);
+  }
+
+  .guide-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+
+  .guide-nav-link {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 1rem;
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .guide-nav-link:hover {
+    border-color: var(--color-primary);
+    background: rgba(90, 125, 90, 0.05);
+  }
+
+  .guide-nav-next {
+    text-align: right;
+    align-items: flex-end;
+  }
+
+  .guide-nav-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+
+  .guide-nav-title {
+    font-weight: 600;
+    color: var(--color-primary);
+    font-size: 0.95rem;
+  }
+
+  @media (max-width: 600px) {
+    .guide-nav {
+      grid-template-columns: 1fr;
+    }
+    .guide-nav-next {
+      text-align: left;
+      align-items: flex-start;
+    }
+  }
+</style>

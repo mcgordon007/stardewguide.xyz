@@ -71,7 +71,7 @@ const seasonTips = [
     color: '#5A7D5A',
     icon: '🌸',
     description: 'Plant parsnips on day 1. Forage for wild leeks. Start fishing for income. Visit Egg Festival on Spring 13.',
-    link: '/guides/spring-crops',
+    link: '/guides/spring-crops-guide',
   },
   {
     season: 'summer',
@@ -79,7 +79,7 @@ const seasonTips = [
     color: '#E8C547',
     icon: '☀️',
     description: 'Blueberries and melons are profitable. Catch rare fish like octopus. Attend Luau and Moonlight Jellies.',
-    link: '/guides/summer-crops',
+    link: '/guides/summer-crops-guide',
   },
   {
     season: 'fall',
@@ -87,7 +87,7 @@ const seasonTips = [
     color: '#D4845E',
     icon: '🍂',
     description: 'Cranberries provide excellent returns. Pumpkins sell high. Win prizes at Stardew Valley Fair.',
-    link: '/guides/fall-crops',
+    link: '/guides/fall-crops-guide',
   },
   {
     season: 'winter',
@@ -99,9 +99,13 @@ const seasonTips = [
   },
 ];
 
+// Dynamic stats from actual content
+const uniqueCategories = new Set(allGuides.map(g => g.data.category)).size;
+const totalGuides = allGuides.length;
+
 const stats = [
-  { value: '100+', label: 'Guides', icon: '📖' },
-  { value: '12', label: 'Categories', icon: '📂' },
+  { value: `${totalGuides}+`, label: 'Guides', icon: '📖' },
+  { value: `${uniqueCategories}`, label: 'Categories', icon: '📂' },
   { value: '50+', label: 'NPCs', icon: '👥' },
   { value: '∞', label: 'Fun', icon: '🎮' },
 ];

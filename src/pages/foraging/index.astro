@@ -1,0 +1,228 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const foragingGuides = (await getCollection('guides')).filter(g => g.data.category === 'foraging');
+
+const featuredGuides = [
+  'foraging-guide',
+  'secret-woods-guide',
+  'mushroom-trees-guide',
+  'moss-guide',
+  'mystic-tree-guide'
+];
+
+const featuredForagingGuides = featuredGuides
+  .map(slug => foragingGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Foraging Guide" description="Complete foraging guide for Stardew Valley - wild plants, mushrooms, secret woods, beach items, and the new moss mechanic.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Foraging</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/foraging-banner.jpg" alt="Foraging Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Foraging Guide</h1>
+        <p class="hub-desc">
+          Foraging is a vital skill in Stardew Valley that lets you gather wild resources
+          from the valley's forests, beaches, and secret areas. Learn where to find the best
+          wild plants, mushrooms, and seasonal items to boost your income and complete bundles.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Sub-Categories</h2>
+      <div class="grid-3">
+        <a href="/guides/foraging-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F33F;</span>
+          <h3>Wild Plants</h3>
+          <p>Spring onions, dandelions, leeks, and all seasonal forage items across the valley.</p>
+        </a>
+        <a href="/guides/secret-woods-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F332;</span>
+          <h3>Secret Woods</h3>
+          <p>The hidden forest area with hardwood stumps, ferns, and rare forage.</p>
+        </a>
+        <a href="/guides/mushroom-trees-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F344;</span>
+          <h3>Mushroom Trees</h3>
+          <p>How mushroom trees spawn, tapping, and converting regular trees to mushrooms.</p>
+        </a>
+        <a href="/guides/beach-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F3D6;&#xFE0F;</span>
+          <h3>Beach Foraging</h3>
+          <p>Beach items, coral, sea urchins, and tide pool resources by season.</p>
+        </a>
+        <a href="/guides/moss-guide" class="card sub-card">
+          <span class="sub-icon">&#x1FAB8;</span>
+          <h3>Moss (1.6)</h3>
+          <p>The new moss resource introduced in 1.6 - gathering, uses, and recipes.</p>
+        </a>
+        <a href="/guides/mystic-tree-guide" class="card sub-card">
+          <span class="sub-icon">&#x2728;</span>
+          <h3>Mystic Trees</h3>
+          <p>Rare mystic trees, mystic syrup, and tree seed mechanics.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Quick Stats -->
+    <section class="section">
+      <h2 class="section-title">Foraging Quick Stats</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Season</th>
+            <th>Wild Plants</th>
+            <th>Beach Items</th>
+            <th>Best Profit Strategy</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Spring</td>
+            <td>Wild Leek, Dandelion, Daffodil, Spring Onion</td>
+            <td>Oyster, Clam, Cockle, Mussel</td>
+            <td>Forage daily, sell raw or turn into Spring Seeds</td>
+          </tr>
+          <tr>
+            <td>Summer</td>
+            <td>Grape, Spice Berry, Sweet Pea</td>
+            <td>Coral, Sea Urchin, Rainbow Shell</td>
+            <td>Grapes for wine, beach items for crafting</td>
+          </tr>
+          <tr>
+            <td>Fall</td>
+            <td>Common Mushroom, Wild Plum, Hazelnut, Blackberry</td>
+            <td>Nautilus Shell, Coral</td>
+            <td>Blackberry season (16-17), mushrooms for life elixir</td>
+          </tr>
+          <tr>
+            <td>Winter</td>
+            <td>Crocus, Crystal Fruit, Holly, Snow Yam</td>
+            <td>Nautilus Shell</td>
+            <td>Root Platter recipes, Winter Seeds</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Foraging Guides</h2>
+      <div class="grid-3">
+        {featuredForagingGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- All Foraging Guides -->
+    <section class="section">
+      <h2 class="section-title">All Foraging Guides</h2>
+      <div class="grid-3">
+        {foragingGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+</style>

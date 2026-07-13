@@ -5,6 +5,17 @@ import { getCollection } from 'astro:content';
 
 const allGuides = await getCollection('guides');
 
+// Search filtering
+const searchQuery = Astro.url.searchParams.get('q')?.toLowerCase().trim() || '';
+const filteredGuides = searchQuery
+  ? allGuides.filter(g =>
+      g.data.title.toLowerCase().includes(searchQuery) ||
+      g.data.description.toLowerCase().includes(searchQuery) ||
+      g.data.tags?.some((t: string) => t.toLowerCase().includes(searchQuery)) ||
+      g.data.category.toLowerCase().includes(searchQuery)
+    )
+  : allGuides;
+
 const categories = [
   { id: 'all', label: 'All' },
   { id: 'basics', label: 'Basics' },
@@ -39,9 +50,27 @@ for (const guide of allGuides) {
 <BaseLayout title="All Guides" description="Browse all Stardew Valley guides organized by category and season.">
   <div class="container">
     <div class="page-header">
-      <h1 class="page-title">All Guides</h1>
-      <p class="page-desc">Browse our complete collection of Stardew Valley guides, organized by category and season.</p>
+      <h1 class="page-title">{searchQuery ? `Search: "${searchQuery}"` : 'All Guides'}</h1>
+      <p class="page-desc">
+        {searchQuery
+          ? `Found ${filteredGuides.length} guide${filteredGuides.length !== 1 ? 's' : ''} matching your search.`
+          : 'Browse our complete collection of Stardew Valley guides, organized by category and season.'}
+      </p>
     </div>
+
+    <!-- Search Bar (mobile + prominent) -->
+    <form class="guides-search" action="/guides/" method="GET">
+      <input
+        type="search"
+        name="q"
+        value={searchQuery}
+        placeholder="Search all guides..."
+        class="guides-search-input"
+        aria-label="Search guides"
+      />
+      <button type="submit" class="guides-search-btn">Search</button>
+      {searchQuery && <a href="/guides/" class="guides-search-clear">Clear</a>}
+    </form>
 
     <!-- Filter Bar -->
     <div class="filter-bar">
@@ -63,33 +92,37 @@ for (const guide of allGuides) {
       </div>
     </div>
 
-    <!-- All Guides -->
-    <section id="all" class="guide-section">
-      <h2 class="section-title">All Guides ({allGuides.length})</h2>
-      <div class="grid-3">
-        {allGuides.map(guide => (
-          <GuideCard
-            title={guide.data.title}
-            description={guide.data.description}
-            slug={guide.id.replace(/\.md$/, '')}
-            category={guide.data.category}
-            season={guide.data.season}
-            difficulty={guide.data.difficulty}
-            featured={guide.data.featured}
-          />
-        ))}
-      </div>
-    </section>
-
-    <!-- Guides grouped by category -->
-    {categories.filter(c => c.id !== 'all').map(cat => {
-      const guides = guidesByCategory[cat.id];
-      if (!guides || guides.length === 0) return null;
-      return (
-        <section id={cat.id} class="guide-section">
-          <h2 class="section-title">{cat.label} ({guides.length})</h2>
+    <!-- Search Results or All Guides -->
+    {searchQuery ? (
+      <section class="guide-section">
+        <h2 class="section-title">Results ({filteredGuides.length})</h2>
+        {filteredGuides.length === 0 ? (
+          <div class="no-results">
+            <p>No guides found matching "<strong>{searchQuery}</strong>". Try a different keyword.</p>
+          </div>
+        ) : (
           <div class="grid-3">
-            {guides.map(guide => (
+            {filteredGuides.map(guide => (
+              <GuideCard
+                title={guide.data.title}
+                description={guide.data.description}
+                slug={guide.id.replace(/\.md$/, '')}
+                category={guide.data.category}
+                season={guide.data.season}
+                difficulty={guide.data.difficulty}
+                featured={guide.data.featured}
+              />
+            ))}
+          </div>
+        )}
+      </section>
+    ) : (
+      <>
+        <!-- All Guides -->
+        <section id="all" class="guide-section">
+          <h2 class="section-title">All Guides ({allGuides.length})</h2>
+          <div class="grid-3">
+            {allGuides.map(guide => (
               <GuideCard
                 title={guide.data.title}
                 description={guide.data.description}
@@ -102,8 +135,32 @@ for (const guide of allGuides) {
             ))}
           </div>
         </section>
-      );
-    })}
+
+        <!-- Guides grouped by category -->
+        {categories.filter(c => c.id !== 'all').map(cat => {
+          const guides = guidesByCategory[cat.id];
+          if (!guides || guides.length === 0) return null;
+          return (
+            <section id={cat.id} class="guide-section">
+              <h2 class="section-title">{cat.label} ({guides.length})</h2>
+              <div class="grid-3">
+                {guides.map(guide => (
+                  <GuideCard
+                    title={guide.data.title}
+                    description={guide.data.description}
+                    slug={guide.id.replace(/\.md$/, '')}
+                    category={guide.data.category}
+                    season={guide.data.season}
+                    difficulty={guide.data.difficulty}
+                    featured={guide.data.featured}
+                  />
+                ))}
+              </div>
+            </section>
+          );
+        })}
+      </>
+    )}
   </div>
 </BaseLayout>
 
@@ -173,5 +230,54 @@ for (const guide of allGuides) {
   .guide-section {
     padding: 2rem 0;
     scroll-margin-top: 80px;
+  }
+
+  .guides-search {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    max-width: 500px;
+  }
+
+  .guides-search-input {
+    flex: 1;
+    padding: 0.6rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-card);
+    color: var(--color-text);
+    font-size: 1rem;
+  }
+
+  .guides-search-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+  }
+
+  .guides-search-btn {
+    padding: 0.6rem 1.2rem;
+    background: var(--color-primary);
+    color: var(--color-text-light);
+    border: none;
+    border-radius: var(--radius-md);
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .guides-search-clear {
+    color: var(--color-text-muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+
+  .guides-search-clear:hover {
+    color: var(--color-primary);
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--color-text-muted);
   }
 </style>

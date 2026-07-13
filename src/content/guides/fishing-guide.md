@@ -46,9 +46,10 @@ There are four fishing rods in the game, each unlocked at different milestones:
 | Rod | How to Unlock | Bait | Tackle | Notes |
 |-----|--------------|------|--------|-------|
 | Bamboo Pole | Given by Willy on Spring 2 (visit beach) | No | No | Basic rod, no attachments |
-| Fiberglass Rod | Buy from Willy for 1,800g (Fishing Level 2) | Yes | No | First rod with bait slot |
-| Iridium Rod | Buy from Willy for 7,500g (Fishing Level 6) | Yes | Yes | Best rod, has tackle slot |
 | Training Rod | Buy from Willy for 75g | No | No | Easier fishing, limited to basic fish |
+| Fiberglass Rod | Buy from Willy for 1,800g (Fishing Level 2) | Yes | No | First rod with bait slot |
+| Iridium Rod | Buy from Willy for 7,500g (Fishing Level 6) | Yes | 1 slot | Best standard rod |
+| Advanced Iridium Rod | Buy from Willy for 25,000g (Fishing Level 10) | Yes | **2 slots** | Ultimate rod (added in 1.6.9) |
 
 ## What Bait Types Are Available?
 

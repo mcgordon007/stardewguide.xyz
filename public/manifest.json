@@ -1,0 +1,20 @@
+{
+  "name": "Stardew Valley Guide",
+  "short_name": "StardewGuide",
+  "description": "The Ultimate Stardew Valley Guide - Comprehensive guides for farming, fishing, mining, combat, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF8F3",
+  "theme_color": "#5A7D5A",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

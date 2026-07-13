@@ -1,0 +1,229 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import GuideCard from '../../components/GuideCard.astro';
+import { getCollection } from 'astro:content';
+
+const combatGuides = (await getCollection('guides')).filter(g => g.data.category === 'combat');
+
+const featuredGuides = [
+  'combat-guide',
+  'volcano-dungeon-guide',
+  'trinkets-guide',
+  'weapons-guide',
+  'meowmere-guide',
+  'monster-drops-guide'
+];
+
+const featuredCombatGuides = featuredGuides
+  .map(slug => combatGuides.find(g => g.id.replace(/\.md$/, '') === slug))
+  .filter(Boolean);
+---
+
+<BaseLayout title="Combat Guide" description="Complete combat guide for Stardew Valley - weapons, armor, enchantments, the Volcano Dungeon, trinkets, and monster drops.">
+  <div class="container">
+    <div class="breadcrumbs">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>Combat</span>
+    </div>
+
+    <div class="hub-banner">
+      <img src="/images/combat-banner.jpg" alt="Combat Guide Banner" />
+      <div class="hub-banner-overlay">
+        <h1>Combat Guide</h1>
+        <p class="hub-desc">
+          Combat in Stardew Valley takes you deep into the Mines, Skull Cavern, and the dangerous
+          Volcano Dungeon. Master weapons, armor, enchantments, and trinkets to survive the valley's
+          most challenging areas and claim legendary treasures.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sub-categories -->
+    <section class="section">
+      <h2 class="section-title">Sub-Categories</h2>
+      <div class="grid-3">
+        <a href="/guides/weapons-guide" class="card sub-card">
+          <span class="sub-icon">&#x2694;&#xFE0F;</span>
+          <h3>Weapons</h3>
+          <p>Swords, daggers, clubs, slingshots - stats, sources, and best choices for every stage.</p>
+        </a>
+        <a href="/guides/armor-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F6E1;</span>
+          <h3>Armor</h3>
+          <p>Boots, rings, and defensive gear to survive the deepest dungeon floors.</p>
+        </a>
+        <a href="/guides/enchantments-guide" class="card sub-card">
+          <span class="sub-icon">&#x2728;</span>
+          <h3>Enchantments</h3>
+          <p>Volcano Dungeon forge - weapon and tool enchantments explained.</p>
+        </a>
+        <a href="/guides/volcano-dungeon-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F30B;</span>
+          <h3>Volcano Dungeon</h3>
+          <p>Navigate the fiery dungeon, find the forge, and claim Dragontooth weapons.</p>
+        </a>
+        <a href="/guides/trinkets-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F9FF;</span>
+          <h3>Trinkets (1.6)</h3>
+          <p>New accessory slot with unique abilities - Fairy Box, Parrot Egg, and more.</p>
+        </a>
+        <a href="/guides/monster-drops-guide" class="card sub-card">
+          <span class="sub-icon">&#x1F9CC;</span>
+          <h3>Monster Drops</h3>
+          <p>Complete loot table for every monster in the Mines and Skull Cavern.</p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Quick Stats -->
+    <section class="section">
+      <h2 class="section-title">Combat Quick Stats</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Location</th>
+            <th>Floors</th>
+            <th>Difficulty</th>
+            <th>Best Rewards</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>The Mines</td>
+            <td>1-120</td>
+            <td>Beginner - Intermediate</td>
+            <td>Ores, gems, geodes, weapons</td>
+          </tr>
+          <tr>
+            <td>Skull Cavern</td>
+            <td>Infinite (difficulty scales)</td>
+            <td>Advanced</td>
+            <td>Prismatic Shards, Iridium, Radioactive Ore</td>
+          </tr>
+          <tr>
+            <td>Volcano Dungeon</td>
+            <td>1-10</td>
+            <td>Advanced</td>
+            <td>Dragontooth weapons, Cinder Shards, enchantments</td>
+          </tr>
+          <tr>
+            <td>Dangerous Mines</td>
+            <td>1-120 (Qi's Challenge)</td>
+            <td>Very Hard</td>
+            <td>Radioactive Ore, monster loot</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="section">
+      <h2 class="section-title">Featured Combat Guides</h2>
+      <div class="grid-3">
+        {featuredCombatGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+
+    <!-- All Combat Guides -->
+    <section class="section">
+      <h2 class="section-title">All Combat Guides</h2>
+      <div class="grid-3">
+        {combatGuides.map(guide => (
+          <GuideCard
+            title={guide.data.title}
+            description={guide.data.description}
+            slug={guide.id.replace(/\.md$/, '')}
+            category={guide.data.category}
+            season={guide.data.season}
+            difficulty={guide.data.difficulty}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-banner {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+
+  .hub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hub-banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.2) 0%, rgba(26, 26, 46, 0.9) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .hub-banner-overlay h1 {
+    font-family: var(--font-pixel);
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .hub-banner-overlay .hub-desc {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .sub-card {
+    text-align: center;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .sub-card:hover {
+    color: var(--color-text);
+    border-color: var(--color-secondary);
+  }
+
+  .sub-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .sub-card h3 {
+    font-family: var(--font-pixel);
+    color: var(--color-accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .sub-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+</style>
